@@ -105,7 +105,8 @@ November 2026. Nobody acted on the advice, so this says nothing about real outco
 ## License and citation
 
 Code: MIT (`LICENSE`). Text, transcripts and scores: CC BY 4.0.
-Cite as: [author], *What AI assistants tell job candidates about their offers* (2026). [Zenodo DOI]
+Cite as: Zach Tomashosky, *What AI assistants tell job candidates about their offers* (2026).
+https://github.com/Ztomashosky/ai-offer-advice
 
 The author is a recruiter. The views here are their own. The candidate is invented and every number
 comes from public sources. The author has no affiliation with OpenAI, Anthropic or Google.
