@@ -6,7 +6,7 @@ invented candidate, a Meta product manager recruited by Google, and the same que
 good offer, and should I accept, negotiate or walk away? The offer changed from a 12.9% pay cut to
 a 23% raise. In all there were 352 conversations, each one fresh.
 
-Article: [Substack link]
+Article: https://zachtomashosky.substack.com/p/i-asked-chatgpt-claude-and-gemini
 
 ## Short version
 
