@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptionally strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate. You should not accept outright yet, and you should definitely not walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 60000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Pushes your equity to round numbers ($300k/yr) without triggering executive pushback."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "places you near the top tier (90th+ percentile) of the market"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "up_level",
+   "quote": "You are getting a level jump"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "you should definitely not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Professional negotiation at established public companies does not cause offer rescission.",
+    "quote": "polite, professional compensation negotiation does not cause offers to be rescinded."
+   },
+   {
+    "claim": "The original offer almost always remains available if negotiation fails.",
+    "quote": "but the original offer stands."
+   },
+   {
+    "claim": "A $1.2 million equity request would not trigger executive pushback.",
+    "quote": "round numbers ($300k/yr) without triggering executive pushback."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and whether it is backloaded",
+   "Typical Senior PM refresh grant size for meeting expectations",
+   "Refresh program track record"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "your main opportunities are **Base Salary**, **Sign-on Bonus** (currently $0), and a modest **RSU bump**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Annualized Equity ($270,000/year / $1.08M over 4 years):** Significantly above market averages"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-on Bonus:** A one-time sign-on bonus of **$50,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "to help offset unvested equity and performance bonus timing I\u2019d be leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:37:23+00:00"
+}

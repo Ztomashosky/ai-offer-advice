@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts your Year 1 package well above the 90th percentile for an L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the compensation is now unequivocally in Google\u2019s favor for at least the next 2\u20133 years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Verdict: Accept the offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google sign-on bonuses above $100,000 are rare and generally reserved for directors or unusual equity matches.",
+    "quote": "Sign-on bonuses above $100k are rare at Google and typically reserved for Director-level hires or extreme unvested equity matches."
+   },
+   {
+    "claim": "Google uses a standard 33%/33%/22%/12% front-loaded equity vesting schedule.",
+    "quote": "Assuming standard Google front-loaded equity (33% / 33% / 22% / 12%):"
+   },
+   {
+    "claim": "Approval of this sign-on likely exhausted standard compensation-band exceptions.",
+    "quote": "Compensation committees rarely approve cash sign-ons of this magnitude for IC roles without exhausting the rest of their standard band exceptions."
+   },
+   {
+    "claim": "Further negotiation risks souring the candidate's relationship with Google.",
+    "quote": "Pushing further on comp is unlikely to yield more and risks souring the relationship before you start."
+   },
+   {
+    "claim": "Google sign-on clawbacks are typically 12 months prorated and sometimes 24 months.",
+    "quote": "confirm the clawback period (typically 12 months pro-rated, occasionally 24 months)."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout timing and whether it is split",
+   "sign-on clawback period and terms",
+   "whether an imminent Meta RSU vest can be captured before the start date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Verdict: Accept the offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "You extracted maximum value from the negotiation."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming standard Google front-loaded equity (33% / 33% / 22% / 12%):"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus | $0 | $200,000 | $0 | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k cash sign-on completely neutralizes the risk of walking away from your upcoming Meta cliff."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 17,
+ "turn": 2,
+ "at": "2026-11-03T00:35:59+00:00"
+}

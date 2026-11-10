@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is therefore offering approximately **$684K more over four years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, then probably accept even if Google does not improve it."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 270000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1550000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "directly protects you from uncertain refresh grants"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current reported compensation for Google L6 Senior PMs in the Bay Area averages approximately **$581K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Ignoring refresh grants and stock-price movement"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You discover the role or manager is materially less attractive than represented"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has most room",
+    "quote": "Equity likely has the most room and directly protects you from uncertain refresh grants."
+   },
+   {
+    "claim": "sign-on large to address make-whole",
+    "quote": "Google has already addressed your most obvious make-whole argument. That is probably why the sign-on is as large as it is."
+   }
+  ],
+  "missing_info_requested": [
+   "exact equity vesting schedule",
+   "share conversion date",
+   "refresh eligibility timing",
+   "sign-on clawback terms",
+   "bonus proration",
+   "start date vs Meta vest",
+   "nonbinding L6 refresh context"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "my priorities would be the equity grant first and base salary second"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "You do not need another offer, and you should not imply that you have one."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial RSUs \u00f7 4 | $335,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year average, including sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on almost exactly replaces the $200K of Meta equity you expect to vest over the next 12 months."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the equity I would be leaving at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:52:24+00:00"
+}

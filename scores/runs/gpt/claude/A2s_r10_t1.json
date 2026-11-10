@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It's only slightly better than what you have now"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate. Don't accept this offer as it stands."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 240000,
+  "base_expected_high": 240000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "A 4-year average of about $640k+, a real raise over Meta"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The recruiter told you refreshes aren't guaranteed. Meta also gives refreshes, so neither side gets an edge there."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "if the 4-year average doesn't beat Meta by at least 10\u201315%, plus a sign-on that covers what you'd forfeit, you should stay"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta provides equity refresh grants.",
+    "quote": "Meta also gives refreshes, so neither side gets an edge there."
+   },
+   {
+    "claim": "Google's target bonus depends on the candidate's first-year performance rating.",
+    "quote": "The $47k depends on your performance rating in your first year, when you're new and still getting up to speed."
+   },
+   {
+    "claim": "Equity and sign-on generally have the most negotiating flexibility.",
+    "quote": "Equity and sign-on usually have the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "The vesting schedule that applies to the Google new-hire RSUs",
+   "Written confirmation of the Google vesting schedule",
+   "The candidate's Meta vesting schedule or proof"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three and expect to land somewhere in between."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "the 4-year average is $552k, about 5% above your current $526k."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you get all of it, the 4-year average is roughly $640k+ (about 20%+ above Meta), plus the sign-on in Year 1."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd lose your unvested Meta RSUs and possibly part of a Meta bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-04T16:36:10+00:00"
+}

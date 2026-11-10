@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but not a strong one."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Once you count what you'd give up at Meta, it's only a small raise."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept it as written."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "it's below the L6 median. A realistic outcome is $1.25M\u2013$1.35M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, median total compensation at L6 is $605,720 per year for Google PMs in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "That $250K/yr in RSUs already includes stacked refreshes."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "at least ~$600K/yr averaged over four years, not counting refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get close to that, staying at Meta is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses usually have a one-year clawback",
+    "quote": "Sign-on bonuses usually have a one-year clawback, so read the terms."
+   },
+   {
+    "claim": "Base salary usually moves the least in negotiations",
+    "quote": "Base usually moves the least, so expect something like $245K\u2013$255K."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule split across 4 years"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260K base, $1.4M in RSUs, and a $100K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google over 4 years, before refreshes: $282K \u00d7 4 + $1.08M = about $2.21M, or roughly $552K/yr on average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "as written this offer mostly moves money into year 1 rather than adding much overall."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd also forfeit your unvested Meta RSUs: $200K in the next 12 months and whatever vests after that. Nothing in the offer replaces it."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-04T16:46:04+00:00"
+}

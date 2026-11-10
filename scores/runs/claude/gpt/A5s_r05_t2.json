@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "your $758K first year is strong"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s first-year package approximately $282,000 higher"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My recommendation: **take it**, assuming you like the role and manager"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM median compensation around $606K, but that includes existing employees"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that includes existing employees whose annual refresh grants have accumulated"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Future Google refreshes create upside**, although you should still value them conservatively"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "Google\u2019s L6 role is effectively a scope reduction relative to your Meta IC6 position"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "staying could still be better if:"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on adds $50K per year over four years",
+    "quote": "Spread over four years, it adds $50K per year"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment timing",
+   "clawback period",
+   "proration of repayment",
+   "gross vs net repayment",
+   "involuntary termination waiver",
+   "RSU first vest date",
+   "bonus proration",
+   "refresh eligibility cycle"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "**Accept if all three are true:**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Do not reopen the entire package."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08M equity + $200K sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "the guaranteed/target premium is only about **$32K per year**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on is replacing something you are forfeiting"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on protects you against the immediate forfeiture"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T22:02:35+00:00"
+}

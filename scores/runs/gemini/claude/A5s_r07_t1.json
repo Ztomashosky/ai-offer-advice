@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is in market range."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It beats your current pay even before counting refresh grants."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Equity is your biggest lever. It's also the only guaranteed long-term part of the package"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median yearly total compensation reported at Google for the Product Manager role in United States at $520K, across all levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "It beats your current pay even before counting refresh grants."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google settles near $530K a year, about the same as Meta."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If Google's refreshes match the recruiter's illustration, you'd be about $500K+ ahead."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "accept if year-1 guaranteed pay reaches about $600K or more, with your Meta losses covered. Otherwise, staying at Meta is a perfectly good outcome."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vesting schedule in writing",
+   "Share conversion formula",
+   "First-year bonus proration rules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push mainly on equity and a sign-on bonus, and let your willingness to stay at Meta be your leverage."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make this a clear yes, I'd need about $1.4M in new-hire equity, a $75K sign-on to cover what I'd forfeit, and base at $255K."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100K of grant adds $25K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "accept if year-1 guaranteed pay reaches about $600K or more, with your Meta losses covered."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Justify the sign-on with your forfeited bonus and vest timing. That's a concrete, documented loss"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T17:02:40+00:00"
+}

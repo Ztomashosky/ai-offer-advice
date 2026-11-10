@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an above-market initial offer for a Google L6 PM in the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Meta\u2019s refresher grants and individual performance multipliers"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Recommendation: Negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "A typical initial equity grant for Google L6 PM sits around $700k\u2013$900k over four years."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "A typical initial equity grant for Google L6 PM sits around $700k\u2013$900k over four years."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "unless stacked refreshers make up the difference"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 = Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away yet"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads equity 33/33/22/12",
+    "quote": "Google typically vests new-hire equity over 4 years as **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "sign-on doesn't need committee exception",
+    "quote": "without needing compensation committee exception"
+   },
+   {
+    "claim": "Meta refreshers are larger and more aggressive",
+    "quote": "Meta\u2019s refresher grants and individual performance multipliers"
+   },
+   {
+    "claim": "L6 PM initial grant typical range",
+    "quote": "A typical initial equity grant for Google L6 PM sits around $700k\u2013$900k over four years"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "What to Ask For & Exact Targets"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "$255,000 \u2013 $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Flat Average TC:** **~$552,000/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1 Total Compensation:** **~$638,400**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $0 sign-on bonus leaves significant money behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:46:03+00:00"
+}

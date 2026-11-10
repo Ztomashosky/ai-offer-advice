@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "A senior PM offer at about $458K is below where it should be."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "This offer is a pay cut for a move to the same level"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as it stands, and don't walk away yet. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Over four years you'd average about $68K/yr less than your current Meta pay"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "One Levels.fyi page puts Google's Senior PM figure for San Francisco at $530,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "That's a ~15% raise over Meta, which is a normal premium for leaving a job you're happy in."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google's aren't guaranteed, and your first one probably wouldn't start vesting until after year 1. Judge the offer on the guaranteed part."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 is roughly equal to Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Decline if Google won't move the guaranteed pay to at least what you make at Meta now"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The first Google refresh probably would not begin vesting until after year one.",
+    "quote": "your first one probably wouldn't start vesting until after year 1"
+   },
+   {
+    "claim": "Equity and sign-on bonuses usually have more negotiating flexibility than base.",
+    "quote": "Equity and sign-on bonuses usually have more room to move than base"
+   }
+  ],
+  "missing_info_requested": [
+   "Which vesting schedule applies to the Google grant",
+   "Whether leaving before the Meta annual bonus payout forfeits the bonus"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need around $255K base, $1.2M in RSUs and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$800K \u00f7 4 = $200K/yr average"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At the minimums, you'd get about $528K/yr plus a sign-on, roughly a lateral move."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Meta (stay) | Google offer"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $100K sign-on to cover the bonus and equity I'd leave behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:09:35+00:00"
+}

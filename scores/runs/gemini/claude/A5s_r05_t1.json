@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is good but not exceptional once you compare it fairly."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "If Google refreshes come through, you'd make about $120\u2013130K/year more for 4 years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation is to negotiate, not accept as offered."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Your refresh stack restarts from zero, so this grant has to bridge years 1\u20133."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If Google refreshes come through, you'd make about $120\u2013130K/year more for 4 years."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes vesting, the two jobs pay about the same (~$532K vs. ~$526K)."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google (if refreshes happen)"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't add a meaningful sign-on bonus or more equity, staying is a perfectly reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google often has flexibility on sign-on bonuses.",
+    "quote": "Google often has flexibility here."
+   },
+   {
+    "claim": "Equity and sign-on usually move more easily than base salary at Google.",
+    "quote": "Equity and sign-on usually move more easily than base."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule",
+   "how the grant is converted to shares",
+   "whether first-year bonus is prorated"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A realistic negotiated package (about $250K base, $1.3M RSUs, $60\u201375K sign-on)"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Every +$200K adds $50K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "roughly $690\u2013700K in year 1 and $2.9M+ over 4 years with refreshes"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "A fairer number is about $476K ($240K base + $36K bonus + $200K vesting)."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It covers the Meta bonus and unvested equity you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:58:42+00:00"
+}

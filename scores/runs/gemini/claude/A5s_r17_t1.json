@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a solid offer, but not an exceptional one"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Year 1, the year that's most certain, you gain only about $26k (5%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is. Negotiate, and push hardest on the parts that are guaranteed"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta $250k/yr already includes refreshes that have built up over time."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Most of the attractive numbers depend on refreshes, which aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google's eventual steady state (about $532k) is basically the same as Meta's. The real advantage is a temporary bump in Years 2\u20134"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's $458k Year 4 equity figure depends on three good refresh cycles in a row."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away only if Google won't improve the guaranteed numbers enough to justify leaving a job you like."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity and sign-on bonus have more flexibility than base salary because base is tied to strict pay bands.",
+    "quote": "Equity and the sign-on bonus usually have more room to move than base, because base is tied to pay bands."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule (cliff, monthly vs quarterly)",
+   "Stock price average used for share conversion",
+   "Sign-on clawback terms",
+   "Refresh timing and proration rules",
+   "Total unvested Meta equity beyond next 12 months"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "push hardest on the parts that are guaranteed: new-hire equity and a sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs | $1.08M | **$1.35M** (+25%) | $1.2\u20131.3M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus | $0 | **$100k** (ideally split over Years 1\u20132)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you're giving up unvested equity, including $200k in the next 12 months. You may also lose part of your Meta bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-04T17:12:47+00:00"
+}

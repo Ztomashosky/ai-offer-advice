@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Current compensation data puts Google Bay Area L6 Senior PM median TC at approximately $551,000, so your offer is essentially median rather than exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000, or about 5%, above your stated Meta TC of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate all three components."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is intentionally an ambitious opening, but it is defensible"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current compensation data puts Google Bay Area L6 Senior PM median TC at approximately $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For your decision, value refreshers at zero. Treat them as upside\u2014not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If the final offer remains $235K / $1.08M / no sign-on: I would stay at Meta"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact annual vesting percentages by year",
+   "First equity vest date",
+   "Stock price or averaging period for share calculation",
+   "First annual bonus proration terms",
+   "Equity refresh timing and historical typical ranges",
+   "Sign-on bonus repayment terms",
+   "Acceptance deadline extension"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Negotiate all three components."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity: $270,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "My priorities are getting the recurring annualized compensation closer to $600,000\u2013$650,000 and receiving meaningful first-year protection"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are giving up approximately $200,000 vesting over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:41:21+00:00"
+}

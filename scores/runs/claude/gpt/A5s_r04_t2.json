@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "almost exactly the currently reported Bay Area median for Google L6 PM compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "about **16% above** your normalized Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "take it\u2014if you like the role and manager reasonably well"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "almost exactly the currently reported Bay Area median for Google L6 PM compensation"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "self-reported market data mixes new hires and existing employees with accumulated refresh grants"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should not value the recruiter\u2019s $250K refresh illustration as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "you would face a major equity cliff after the initial grant finishes"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If refreshes are approximately half that level, Google still looks good"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You are materially less excited about the Google product or manager."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on commonly carries clawback with changing CA rules",
+    "quote": "California rules concerning repayment provisions have changed recently"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule",
+   "RSU valuation mechanics",
+   "Sign-on payment timing",
+   "Sign-on repayment terms",
+   "First-year bonus eligibility",
+   "Any retained Meta compensation"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Accept, provided the role and manager clear your bar and the written sign-on terms are reasonable."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would **not reopen compensation negotiations** after they labeled this their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270K RSUs + $200K sign-on = **$758K**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The permanent recurring advantage is modest."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Fully offsets the stated $200K of near-term Meta RSUs with cash"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-02T22:01:06+00:00"
+}

@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Google responded with a top-of-market concession."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "significantly outperforming your current baseline at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Accept the offer. You took a passive outreach"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard GSU vesting is often front-loaded.",
+    "quote": "Google standard GSU vesting is often front-loaded (33% Y1 / 33% Y2 / 22% Y3 / 12% Y4)."
+   },
+   {
+    "claim": "A $200,000 sign-on is at the extreme high end of Google L6 committee approvals.",
+    "quote": "A $200,000 sign-on bonus is at the extreme high end of what Google compensation committees approve for L6."
+   },
+   {
+    "claim": "Pushing further risks friction with hiring managers.",
+    "quote": "Pushing further on base or equity at this stage carries diminishing returns and risks friction with hiring managers."
+   },
+   {
+    "claim": "The standard clawback period is typically 12 months for first-year payouts.",
+    "quote": "Standard is typically 12 months for Year 1 payouts"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout timing and whether it is split across years",
+   "sign-on clawback period",
+   "equity vesting schedule",
+   "team mandate and role scope"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Accept the offer. You took a passive outreach"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "confirm the payout details, and sign"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**New Equity (Y1)** | ~$200,000\u2013$250,000 | $270,000 (flat) *or* ~$356,000 (front-loaded)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus** | $0 | **$200,000** | **+$200,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you fully neutralize your lost Meta RSUs in Year 1"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-03T00:52:21+00:00"
+}

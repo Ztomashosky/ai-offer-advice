@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about **16% more** than your $526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as the role itself appeals to you."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 36000,
+  "signon_ask_high": 36000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Average per year, with no refreshes:"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Front-loaded vesting has a drop-off."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you'd be leaving mainly for the money, staying at Meta is still a perfectly reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs typically vest quarterly on specified dates.",
+    "quote": "Meta RSUs typically vest quarterly, around the 15th of Feb/May/Aug/Nov, but check your own schedule."
+   },
+   {
+    "claim": "Requesting a later start date is routine and will not threaten the offer.",
+    "quote": "Asking for a later start date is a routine request and won't threaten the offer."
+   },
+   {
+    "claim": "A polite final sign-on request almost never costs a candidate the offer.",
+    "quote": "Asked once and politely, with a ready-to-sign answer attached, this almost never costs you the offer."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule and any cliff",
+   "candidate's exact Meta RSU vesting schedule",
+   "Meta bonus payout date",
+   "whether the Google role, team, scope, and manager appeal to the candidate"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, I'd take it, as long as the role itself appeals to you."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "The one remaining gap is my Meta bonus, about $36K. Could you cover it with a sign-on?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240K base + $48K bonus (20%) + $320K stock ($1.28M \u00f7 4) = **$608K**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "No sign-on bonus. If you leave before Meta pays your bonus, the ~$36K you'd lose isn't covered."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "it's already counted in the Meta column. Meta year 1 is only ~$476K because only $200K of stock vests then."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-04T16:06:40+00:00"
+}

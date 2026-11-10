@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong, top-of-market offer** for an L6 Product Manager at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "This offer significantly beats your current compensation and typical L6 market benchmarks."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate lightly with a \"closing\" ask"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "round the initial equity grant to **$1,400,000**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Median L6 equity grant sizes are typically $600k\u2013$900k over 4 years."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Years 3 and 4 will be supplemented by annual equity refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's new-hire equity typically follows one of two specified front-loaded vesting schedules.",
+    "quote": "Google's new-hire equity typically uses a **front-loaded vesting schedule**"
+   },
+   {
+    "claim": "A $50,000\u2013$100,000 sign-on is the standard range for Google L6.",
+    "quote": "standard ranges are typically $50k\u2013$100k"
+   },
+   {
+    "claim": "Median L6 new-hire equity grants are typically $600,000\u2013$900,000.",
+    "quote": "Median L6 equity grant sizes are typically $600k\u2013$900k over 4 years."
+   },
+   {
+    "claim": "Making one targeted counteroffer carries very low risk in Big Tech.",
+    "quote": "making **one polite, targeted counter-ask tied to an immediate acceptance** is standard practice and carries very low risk."
+   },
+   {
+    "claim": "The sign-on clawback is typically prorated over 12 months.",
+    "quote": "clarify the clawback terms (typically pro-rated over 12 months)."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid in one lump sum or split across years",
+   "Sign-on clawback terms",
+   "Exact RSU vesting schedule",
+   "Whether RSUs vest monthly or quarterly"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for **$270,000** (rounding up to the top of the posted $271,000 band)."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$1,400,000** (a modest ~$60k increase on a $1.34M grant)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Google 4-Year Average (flat):** ~$697,000/yr (including sign-on)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-on Bonus** | $200,000 | \u2014 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It strongly compensates for any unvested equity or timing gap you leave behind at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:21:48+00:00"
+}

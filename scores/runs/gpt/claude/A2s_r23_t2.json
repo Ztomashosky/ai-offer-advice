@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Financially, this is a strong offer: about $330K more over 4 years"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The offer is now clearly better than staying, not roughly equal."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, provided the non-pay parts of the job appeal to you and the terms below check out."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "By years 3\u20134 you'd depend on Google refreshes, just as you'd depend on Meta refreshes if you stayed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's statement that this is its best offer is probably genuine after such a large improvement.",
+    "quote": "When they say \"best offer\" after a move that big, they usually mean it."
+   },
+   {
+    "claim": "Meta RSUs generally vest quarterly around specified dates.",
+    "quote": "Meta RSUs usually vest quarterly, on or around the 15th of Feb/May/Aug/Nov."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback period",
+   "whether the sign-on is paid in one lump sum or split",
+   "Google vesting schedule in writing",
+   "actual Meta RSU vesting dates",
+   "upcoming Meta bonus payout timing",
+   "role, team, and manager fit"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If so, accept once the clawback and vesting terms come back clean."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn't ask for more money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-year total: about $2.43M, or about $608K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Cash is now $288K a year: $240K base plus a $48K target bonus. The sign-on is assumed to be paid in year 1."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Even under the least favorable schedule, you'd fully replace the $200K of RSUs you'd give up and still come out well ahead."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you'd fully replace the $200K of RSUs you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-04T16:57:57+00:00"
+}

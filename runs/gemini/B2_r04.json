@@ -1,0 +1,44 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:02:43+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:03:14+00:00",
+   "reply": "### 1. Is This a Good Offer?\n\n**In isolation for Google L6:** **Yes, it is in the upper quartile of the L6 band.**\n* **Base Salary ($235k):** Solid mid-to-high placement within their posted range of $183k\u2013$271k.\n* **RSUs ($1.08M):** Strong for an L6 PM offer (standard L6 bands typically top out around $900k\u2013$1M without special approval).\n* **Sign-on ($0):** Weak. Google regularly uses sign-on bonuses to bridge unvested equity or close senior candidates.\n\n**Compared to your current role as a Meta IC6 PM:** **It is likely a lateral move or a slight step down in trajectory.**\n* **Leveling Mismatch:** Meta IC6 (Principal / Lead PM) typically maps to **Google L7** (Group PM / Principal PM). Google L6 (Senior PM) is generally the equivalent of Meta IC5. Google is effectively down-leveling you or bringing you in at the absolute ceiling of L6.\n* **The \"Google Vesting Cliff\":** Google standardly uses a front-loaded **33% / 33% / 22% / 12%** 4-year vesting schedule. \n  * **Years 1 & 2:** Base ($235k) + Bonus ($47k) + Equity ($356.4k) = **~$638k/year**.\n  * **Year 3:** Base ($235k) + Bonus ($47k) + Equity ($237.6k) = **~$520k** (before refreshes).\n  * **Year 4:** Base ($235k) + Bonus ($47k) + Equity ($129.6k) = **~$412k** (before refreshes).\n  While annual equity refreshes stack, they are tied to performance ratings (GRAD) and are not guaranteed to fully compensate for the Year 3/4 drop if you are leaving Meta's standard 25% quarterly vesting and strong refresher cycle.\n\n---\n\n### 2. Should You Accept, Negotiate, or Walk Away?\n\n**Negotiate.** \n\nYou have maximum leverage:\n1. Google reached out to you.\n2. You are happy at Meta and not actively looking.\n3. You are walking away from unvested Meta RSUs, strong internal capital, and an impending bonus cycle.\n\nYou should not accept as-is, but you shouldn't walk away without testing the ceiling first.\n\n---\n\n### 3. What Exactly to Ask For (and How Much)\n\nYour goal is to push the offer to top-of-band and secure a sign-on bonus to offset the unvested equity you leave behind at Meta.\n\n| Component | Current Offer | Negotiation Target | Justification |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$255,000 \u2013 $265,000** | Top of the posted $271k band; reflects your current IC6 base compensation. |\n| **New-Hire RSUs** | $1,080,000 | **$1,200,000 \u2013 $1,250,000** | Offsets the Year 3/4 front-load cliff and accounts for senior scope. |\n| **Sign-on Bonus** | $0 | **$75,000 \u2013 $100,000** | Standard tool for buying out unvested Meta equity and forfeited bonus. |\n\n---\n\n### 4. How to Frame the Negotiation (Strategy & Talking Points)\n\nWhen you counter, anchor your reasoning on **leveling scope**, **unvested equity forfeit**, and **total compensation parity**:\n\n1. **Address Leveling Tactfully:**\n   > *\"Given that my scope at Meta is IC6 (which typically aligns with L7 scope in the market), entering at L6 means I\u2019m taking on significant risk unless the compensation package reflects top-of-band execution from Day 1.\"*\n\n2. **Leverage Unvested Meta RSUs for a Sign-On:**\n   > *\"I have significant unvested equity and an upcoming performance bonus at Meta that I would forfeit by moving. Because of that, a $0 sign-on bonus makes the first-year transition financially difficult. A sign-on bonus in the $75k\u2013$100k range would bridge that gap.\"*\n\n3. **Target Base and Equity:**\n   > *\"To make this a compelling move from a team and role I genuinely enjoy, I\u2019d be excited to sign if we can get base closer to $260k and bring the equity grant to $1.2M over 4 years.\"*\n\nIf Google meets your targets\u2014bringing Year 1 total compensation close to **$720k\u2013$750k**\u2014the financial incentive justifies the switch. If they refuse to move on base, equity, or sign-on, you are better off staying at Meta where your IC6 momentum and equity refreshes will likely out-earn this package over a 3-to-4-year horizon.",
+   "searches": [
+    {
+     "query": "Google L6 PM compensation levels fyi Bay Area"
+    },
+    {
+     "query": "Meta IC6 PM compensation levels fyi Bay Area"
+    },
+    {
+     "query": "Google L6 PM equity vesting schedule 33 33 22 12"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2RAIJpThR1ovoUrWWrFLMmcr7YNdTo354yAXvgMt8D6pSDsFwegcnrOoenW-AdK0bDPdMy0k-GyU8kidJ4UAukVD-qeD2YU-utUG-_aLYbrgRk2lBpcfLXi8ysgnqWub9WAkLMYO2k-hRSyjasiYZ_37haUThZP0NdOy6e8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoOt_Jh5LSrugAXR_UBrUV1fjaw9LVVETzrxw3K4rcx-KuSd6rPofoIiquhusMPzpDnjiZGMFZMOyHqRwjDsiXGmBOP_veCt5KMOV1m2UTzVulHuNBaUZJo2LwqveEjOfFoJLh8MH3PWAiE7cAAR_PiQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1JHEPE-0BKqEz7nHNVY_AMu4-fuiMaMmnURVUNGnDVU9Gu1zdMe9XwUhBRLItKnR1ot-0FTiElGt9rvJWVb88KaAEw9EJyLJ3oHqJednq4egFvxw25vaVarIPpDVQYkGDrGfpBxki-ss9Dn_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0TyXOShnLF2MY2QST0M-JX5kz-XN7LYbw9mqq99a9N3XqzQAYKM8s7IBwp7BiCM74djxSAcW9drOfao5g6-OfMuvO2F0SSNVP0LK1-xYqv3PXB2K6zUMi3wNj2d1XSwU8s4e_aDZcXqOpvci_OPukxOgiVGf3emlbBPFyseBjoMpku5WvsjhUvefx8Zzfocdu6ypj3szFdH3pWWBAF6CfOO3uduJ2hBE="
+   ],
+   "usage": {
+    "input": 281,
+    "output": 2922
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:03:14+00:00"
+}

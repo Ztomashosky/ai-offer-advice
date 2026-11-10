@@ -1,0 +1,40 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 12,
+ "wave": 2,
+ "dry": false,
+ "started_at": "2026-11-02T23:03:57+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T23:04:24+00:00",
+   "reply": "### Executive Summary\n\n**This is an exceptional, top-of-market offer for an L6 Product Manager at Google.** \n\nIt represents a massive pay bump over your current Meta IC6 compensation, fully covers your unvested Meta RSUs in Year 1 alone, and sits in the upper decile of compensation for Google L6 PMs. \n\nYou should **not walk away**. Because Google is your first choice and you have no competing offers, you have two strong paths:\n1. **Accept the offer directly**, knowing you received top-tier terms.\n2. **Execute a single, low-risk, highly targeted negotiation** to round out the package before signing.\n\n---\n\n### Compensation Breakdown & Comparison\n\n#### 1. Your Current Meta IC6 Compensation\n* **Base:** $240,000\n* **Bonus:** ~$36,000 (15%)\n* **RSUs / yr:** ~$250,000\n* **Total Annual Comp:** **~$526,000**\n* *Unvested over next 12 months:* $200,000\n\n---\n\n#### 2. The Google L6 Offer\n* **Base Salary:** $260,000 *(Job posting cap: $271,000)*\n* **Target Bonus (20%):** $52,000\n* **Sign-on Bonus:** $200,000 *(Paid in Year 1)*\n* **Equity Grant (GSUs):** $1,340,000 over 4 years\n\n#### Understanding Google\u2019s Front-Loaded Vesting Schedule\nGoogle standardly vests new-hire equity on a **front-loaded schedule** (typically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**):\n\n| Year | Standard Vest % | Equity Delivered | Base + Bonus | Sign-On | Total Year Compensation |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Year 1** | 33% | $442,200 | $312,000 | $200,000 | **~$954,200** |\n| **Year 2** | 33% | $442,200 | $312,000 | \u2014 | **~$754,200** |\n| **Year 3** | 22% | $294,800 | $312,000 | \u2014 | **~$606,800** *(+ refreshers)* |\n| **Year 4** | 12% | $160,800 | $312,000 | \u2014 | **~$472,800** *(+ refreshers)* |\n\n* **4-Year Baseline Average (excluding sign-on):** **~$647,000 / year** (a **+$121,000/yr** recurring increase over Meta).\n* **Year 1 Cash Flow:** **~$954,000**, which exceeds your Meta annual compensation by over **+$425,000** and replaces your $200,000 unvested Meta RSUs right away.\n\n---\n\n### How This Compares to the Market (Google L6 PM)\n\n* **Base Salary ($260,000):** Sits at the **90th+ percentile** of the posted salary range ($183k\u2013$271k).\n* **Equity ($1,340,000):** Median 4-year L6 PM new-hire equity grants typically fall between $600,000 and $900,000. An equity grant of $1.34M is in the top tier.\n* **Sign-on Bonus ($200,000):** Standard L6 sign-on bonuses typically range from $50,000 to $100,000. Getting $200,000 is top-of-band.\n\nThe recruiter took your initial request for \"market competitive\" seriously and anchored near the upper limit of the level.\n\n---\n\n### Should You Negotiate?\n\nBecause you have **no competing offers** and the initial package is already near band maximums, you do not have strong leverage to demand a large leap (e.g., asking for an additional $200k\u2013$300k). Pushing too hard without leverage risks creating unnecessary friction with your hiring manager.\n\nHowever, a **polite, one-turn \"closing ask\"** carries very low risk of rescission, provided you anchor it to an immediate acceptance.\n\n---\n\n### If You Negotiate: Strategy and Script\n\n#### What to Ask For\n* **Do not touch the sign-on:** At $200,000, it is already top-of-market and matches your unvested Meta equity 1:1.\n* **Option A (Base Salary):** Ask for **$270,000** (bringing you to the top of the posted range).\n* **Option B (Equity Grant):** Ask for **$1,450,000** (a modest bump of ~$110k over 4 years).\n\n#### The Recommended Script (Phone or Email)\n> *\"Thank you again for putting this offer together. I\u2019m incredibly excited about the team and the problem space, and Google is unequivocally my top choice.*\n>\n> *I reviewed the details closely. The overall package is very strong, but to make this an immediate and easy decision without hesitation, is there any flexibility to increase the **equity grant to $1.45M** (or bring base salary to **$270,000**)?*\n>\n> *If we can close that gap, I am ready to sign the offer letter today.\"*\n\n---\n\n### Final Takeaway\n* If they agree, you secure an even stronger package.\n* If they say no or hold firm, thank them and sign immediately. You are already entering Google with an upper-decile L6 compensation package.",
+   "searches": [
+    {
+     "query": "Google PM L6 compensation levels fyi"
+    },
+    {
+     "query": "Google RSU vesting schedule 33 33 22 12"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8w26don8hYlXamQ42HnMyvCjqixH-72J3r8MEOuk3ftsNBK_w1uO6H3K5P-Jb1pONtWlKvmEVnwL3HM5IdJ4MjR6MKZ8y5JvBxW-63w3dbBpZ3doaz6lEfPSfwK3GZAQZBHr9iDRZ6ps09l6m-noBFWOwP0p-YOo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg6I9x-sci-BGsum4iFriucpgOfzg5h0qvuQlbl09F_VprijIOXVtDf3VejWxbpPMyfjnJ0SeP1INGRtNMwcx9nIO3EYIAJbrNp-IVsNYIhh-5bgovmwO7_YVqwG6bGUnL9cjFZaRoTnWeVkjiyboSTNLbxw8AF_I9c8oz2z04Lq1rHkZ35-snuxi6Uw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3dyVcool9LshsK6LrOWswooptfKcXa55Xoa4oyCGWaEbZOifqYGr012pvf6B3fiQS7yA2bn_lOAFAOgsaUlZ6kmv7ThDDTvrNWQr53XQALGHZKU5OLbB_zxOeO4T2AThQi-hTctwQjZO_1AilWyHm44aJNjgAfGvqvcJ4q_jUN24psSOhG3UUf7UMiaL7zaoiJjFKEViN2Y5fn3dAejjiuOfT6ZYqJw=="
+   ],
+   "usage": {
+    "input": 400,
+    "output": 3583
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T23:04:24+00:00"
+}

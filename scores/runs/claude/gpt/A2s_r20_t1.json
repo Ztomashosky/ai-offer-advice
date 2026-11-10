@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "the current offer is fair but not compelling"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26,000 more per year"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate aggressively but credibly."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an anchor, not necessarily the expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports roughly **$551,500 median annual compensation**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as **zero in your decision model until granted**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Stay at Meta if:**\n\n- Google barely moves"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "salary bands may make equity and sign-on easier levers",
+    "quote": "salary bands may make equity and sign-on easier levers for the recruiter"
+   },
+   {
+    "claim": "start-date negotiation easier to approve than cash",
+    "quote": "may be easier to approve than another $50,000 of cash"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact RSU vesting percentages by year",
+   "First refresh-review eligibility date",
+   "typical refresh range for L6 PM",
+   "whether first bonus is prorated",
+   "sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at **$260,000 base, $1.35 million equity and $200,000 sign-on**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are forfeiting approximately $200,000 of Meta equity over the next 12 months."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "adds $220,000 of four-year value, or $55,000 annually on a straight-line basis"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$625,000 normalized recurring TC**\n- Plus the one-time signing bonus"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a make-whole payment: $200,000 vesting at Meta over the next 12 months"
+  }
+ },
+ "bad_quotes": [
+  "year1_vs_recurring"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:56:55+00:00"
+}

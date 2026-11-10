@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "guaranteed pay clearly above Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you actually want the job."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "about $750K more if refreshes go as the recruiter described"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Around year 5, Google and Meta come out about even."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google + recruiter's refresh example"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If the main draw is the year-1 payout and you'd want to leave soon"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Asking for more money after the stated best offer would most likely cost goodwill.",
+    "quote": "asking for more money would most likely just cost goodwill"
+   },
+   {
+    "claim": "A start date is usually easy to obtain.",
+    "quote": "This is usually easy to get"
+   },
+   {
+    "claim": "Meta's usual quarterly vesting schedule likely places the next vest in mid-November.",
+    "quote": "the next one is likely in mid-November"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout timing",
+   "sign-on clawback terms",
+   "RSU vesting schedule",
+   "start date",
+   "exact next Meta vest date",
+   "Meta bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "They aren't another round of negotiating."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "equal 25% yearly vesting"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the extra money comes in year 1."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "| 1 | ~$476K | **$758K** | $758K |"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They made up for the RSUs you'd lose almost dollar for dollar, in cash."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 10,
+ "turn": 2,
+ "at": "2026-11-04T17:02:26+00:00"
+}

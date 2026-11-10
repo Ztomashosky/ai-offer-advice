@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On paper the offer is strong."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "without your current Varrowby pay, because staying is your real alternative."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Your reason is the refresh gap: you're leaving stacked grants behind, and Halvern's refreshes aren't guaranteed."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, LinkedIn's Senior PMs in the Bay Area have a median total of about $439K"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Compare it with Halvern's $552K minus whatever you'd forfeit."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Is Senior PM a step up from your current PM title?"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If it doesn't clear that, negotiate harder or stay."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Candidates can usually push base into the upper-middle of a posted range but rarely to its top.",
+    "quote": "Usually you can push base to the upper\u2011middle of a range, but rarely to the top."
+   },
+   {
+    "claim": "A sign-on bonus is the easiest compensation lever because it is a one-time cost.",
+    "quote": "This is the easiest yes because it's a one\u2011time cost."
+   },
+   {
+    "claim": "Asking for base, equity, and sign-on together is normal.",
+    "quote": "Asking for all three together is normal."
+   },
+   {
+    "claim": "Non-guaranteed refresh grants are normal.",
+    "quote": "\"Not guaranteed\" is normal, but you're asking about history."
+   }
+  ],
+  "missing_info_requested": [
+   "current base salary",
+   "current bonus",
+   "current equity vesting schedule",
+   "Halvern vesting schedule and any one-year cliff",
+   "method used to convert the RSU value into shares",
+   "historical bonus payouts and first-year proration",
+   "typical refresh sizes for strong performers",
+   "whether Senior PM is a step up from the current title"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To get me to yes, I'd need a sign\u2011on bonus of $[forfeited amount], the RSU grant at $1.3M, and base at $255K."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This is the easiest yes because it's a one\u2011time cost."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Unvested Varrowby equity, especially anything vesting in the next 6\u201312 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T17:07:19+00:00"
+}

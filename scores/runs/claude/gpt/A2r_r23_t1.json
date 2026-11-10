@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a **fair market offer**, but not a compelling"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26,000, or 5%, above** your stated Meta run rate of $526,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Roughly $668,000 is around the upper end\u2014but not beyond\u2014the observed L6 PM market."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median compensation around **$551,000**, meaning your offer is almost exactly median"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Broader recent L6 PM data shows a median around $514,000 and a 90th percentile around $671,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assign **zero guaranteed value** to refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google stays near $552,000 with no sign-on, I would remain at Meta unless the Google role is substantially better"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants use 38/32/20/10 schedule",
+    "quote": "Google new-hire grants are widely reported as using a **38% / 32% / 20% / 10%** schedule"
+   },
+   {
+    "claim": "initial equity is the largest negotiable lever",
+    "quote": "This is likely the largest negotiable lever."
+   }
+  ],
+  "missing_info_requested": [
+   "exact per-year vesting percentages",
+   "first vest date and frequency",
+   "stock price/date used",
+   "bonus proration",
+   "refresh cycle eligibility",
+   "refresh vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "This is likely the largest negotiable lever. Ask for **$1.4 million**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You would forfeit $200,000 of Meta equity scheduled to vest during the next 12 months."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.25 million grant, or $312,500/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A one-time payment should not distract from recurring four-year economics."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "That $200,000 is already included in your Meta next-12-month compensation. Use it as negotiation context, not as double-counting."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Compensation for leaving behind near-term Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T00:50:34+00:00"
+}

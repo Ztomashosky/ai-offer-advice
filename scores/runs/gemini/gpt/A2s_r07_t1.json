@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a solid market-level Google L6 offer, but not a compelling \u201cleave a job you like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your current run rate is approximately $526,000, meaning Google is offering only about a 5% average premium."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate, not accept as-is and not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Moving from $1.08 million to $1.3 million adds:\n\n- $220,000 over four years"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Google L6 PM median compensation around $514,000\u2013$551,000, depending on geography and methodology"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as zero when making the decision and as upside if they occur."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 to Google L6 can be a reasonable lateral mapping."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably stay at Meta if Google makes little or no movement and the role itself is not substantially more attractive."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting percentages and dates for the grant",
+   "How share count is determined",
+   "Eligibility and proration for the first annual refresh cycle",
+   "Target or typical refresh range for an L6 PM",
+   "Sign-on payment timing and clawback provisions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260,000 base, $1.3 million equity and $150,000 sign-on, aiming to land near $250,000, $1.2 million and $100,000."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "- $220,000 over four years\n- $55,000 per year on a simple average"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "- Four-year recurring average: **$600,000**\n- Four-year total including sign-on: **$2.5 million**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are walking away from roughly $200,000 of Meta equity scheduled to vest over the next 12 months. A sign-on bonus is the cleanest mechanism for addressing that transition cost."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:43:57+00:00"
+}

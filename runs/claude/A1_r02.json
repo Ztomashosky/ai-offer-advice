@@ -1,0 +1,52 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 2,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:08:27+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:09:33+00:00",
+   "reply": "**Short answer: Don't accept this offer as it stands, and don't walk away yet. Negotiate.** At face value, the offer is a pay cut compared with what you make at Meta, and it sits below the typical pay for Google L6 PMs. You're also in about the strongest position a candidate can have: they reached out to you, you weren't looking, and you're happy where you are.\n\n## The numbers\n\n**Google offer (before any refreshes):**\n- Base $215k + bonus $43k + RSUs $200k/yr ($800k \u00f7 4) = **about $458k/yr on average**\n- That's **about $68k/yr (13%) less** than your Meta run rate of $526k.\n\n**Year 1 depends on the vesting schedule. Ask the recruiter which one applies to you.** Levels.fyi lists several Google schedules: a four-year schedule that is front-loaded, with 38%, 32%, 20% and 10% as the headline, and it also records several other schedules, such as 33%, 33%, 22% and 12%, and an even 25% a year.\n\n| Schedule | Yr 1 | Yr 2 | Yr 3 | Yr 4 |\n|---|---|---|---|---|\n| Even 25% | $458k | $458k | $458k | $458k |\n| 38/32/20/10 | $562k | $514k | $418k | $338k |\n\nA front-loaded schedule makes year 1 look good, but the new-hire grant shrinks fast after that. In years 3 and 4 you'd depend on refreshes, which the recruiter said aren't guaranteed. Judge the offer by the 4-year average, about $458k.\n\n**Compared with the market:** Recent Levels.fyi data puts the US median for Google L6 PMs at $514,125 at L6, with a middle range of about $481,000 \u2013 $621,000. This offer comes in below the median. The base, $215k, is also below the middle of the posted $183k\u2013$271k range (about $227k).\n\n**One fair point for Google:** Your next 12 months at Meta are really about $476k ($240k + $36k + $200k of RSUs), not $526k. So the year-1 gap is smaller than it first looks. But Meta will likely keep stacking new refreshes on top of that, while Google's year 1 has no refreshes vesting yet. Switching also has costs: you lose your stacked unvested Meta equity, start over on performance ratings, and take on the risk of ramping up somewhere new.\n\n## What to ask for\n\n| Item | Offer | Ask | Realistic landing |\n|---|---|---|---|\n| Base | $215k | **$255k** | $240\u2013250k |\n| Bonus (20% of base) | $43k | $51k (follows base) | $48\u201350k |\n| New-hire RSUs | $800k | **$1.2M** | $1.0\u20131.1M |\n| Sign-on bonus | $0 | **$100k** | $50\u201375k |\n| **Avg annual (excl. sign-on)** | **$458k** | **$606k** | **~$540\u2013590k** |\n\n- **Base:** Base is the most dependable part of the package, and the bonus is a percentage of it, so every base dollar also raises your bonus. $255k is inside their posted range, so it's a reasonable ask.\n- **RSUs:** This is usually where Google has the most room. $1.2M works out to $300k/yr, which beats your current Meta equity.\n- **Sign-on:** Present it as covering what you'd lose by leaving: your next Meta bonus payout (check when it pays and whether you'd lose it by leaving) and the gap until Google refreshes start vesting.\n\n**Where I'd draw the line:** If they can't get you to an average of roughly **$550k+/yr**, plus a sign-on that covers any Meta bonus you'd lose, I'd decline. Since you're happy at Meta, a move that doesn't clearly pay more isn't worth the risk and disruption. If the job itself excites you (scope, team, career growth), you might lower that bar a bit. That's a judgment call only you can make.\n\n## How to say it\n\nShare your current pay. It's higher than their offer, so it works in your favor. California employers can't ask about your pay history, but you're free to volunteer it. Something like:\n\n> \"Thanks, I'm genuinely excited about the role and team. To be transparent, I wasn't looking and I'm happy at Meta, where I'm at about $526k a year, with about $200k vesting over the next 12 months that I'd give up. As it stands, this offer would be a meaningful cut. To make the move, I'd need a base of $255k, a new-hire grant of $1.2M, and a $100k sign-on to cover what I'd forfeit. If we can get close to that, I'm ready to sign.\"\n\n**Tips:**\n- Negotiate the total package, not one item at a time. If they say the base is maxed out, move the difference into RSUs or the sign-on.\n- Ask in writing:\n  - which vesting schedule applies to you\n  - how your share count is set (the grant value gets converted to shares at a reference price)\n  - the typical refresh size for L6s rated \"meets expectations\" or better\n- Ask the recruiter to take your counter to the compensation team. Their first offer is rarely their best.\n\nYou've got real leverage because you can walk away. Use it politely but firmly.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule new hire monthly 2025"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire monthly 2025"
+    },
+    {
+     "query": "Google new hire RSU vesting 38% 32% 20% 10%"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google PM Job Offer pay by level L6 aakashg"
+    },
+    {
+     "query": "Google L6 product manager salary San Francisco Bay Area levels.fyi"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 64708,
+    "output": 4948,
+    "web_searches": 7
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:09:33+00:00"
+}

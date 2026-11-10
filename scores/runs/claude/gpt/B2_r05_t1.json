@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it is about 59% through the range"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "it reinforces that Google\u2019s offer is not obviously a \u201cleave Meta\u201d premium"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Current Levels.fyi data for Google L6 PMs in the Bay Area reports approximately"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data for Google L6 PMs in the Bay Area reports approximately:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "That is self-reported employee data rather than a guarantee of what *you* receive"
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Zero refresh equity in your downside case"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "almost exactly at the reported Google L6 average"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google will not improve the package and your Meta TC is around or above its reported IC6 benchmark, I would decline"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly reported front-loaded vesting schedule",
+    "quote": "Google\u2019s commonly reported current new-hire schedule is **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "historical L6 PM refresh ranges and vesting schedules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000**\n- **New-hire RSUs: $1.35 million**\n- **Sign-on/make-whole: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "someone already operating at Meta IC6 has a reasonable argument for positioning higher in the band"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "roughly $48,000 over four years before raises"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A **$50,000 sign-on** adds $50,000 immediately but does not recur."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "prioritize a sign-on specifically sized to cover that forfeiture"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T22:15:13+00:00"
+}

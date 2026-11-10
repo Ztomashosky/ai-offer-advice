@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is decent but not exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The guaranteed gain is about $76K in year 1 (16%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi currently shows a median total pay of about $607K for Google L6 PMs. That figure includes long-tenured people with stacked refreshes"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently shows a median total pay of about $607K for Google L6 PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure includes long-tenured people with stacked refreshes, so it isn't directly comparable to a year-1 offer."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Most of its advantage over staying at Meta comes from refresh grants that the recruiter said aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once Google's new-hire grant runs out, you'd be at about $532K versus about $526K."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "That's how the recruiter's $270K for year 1 works out."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If Google won't move at all, the offer is still slightly better on paper. In that case, decide based on the role, team and manager rather than the money."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Google's vesting schedule split and refresh timing",
+   "Meta refresh grants expected in the next 12 months"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Put the most effort into equity, then a sign-on bonus, then base."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The Google figures use base plus target bonus, flat stock prices, and even 25%-per-year vesting."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If Google meets you in the realistic range, year 1 comes to roughly $600\u2013625K plus a sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The right comparison is your next 12 months at Meta, not the $526K average. About $200K of RSUs vests in that period, not $250K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on: you'd give up about $200K of Meta RSUs vesting in the next 12 months, plus all your other unvested equity and future Meta refreshes."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:57:03+00:00"
+}

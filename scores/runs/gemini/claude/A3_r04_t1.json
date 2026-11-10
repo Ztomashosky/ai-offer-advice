@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On money alone, Google pays a lot more than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Make one counteroffer like the one above. Then accept if the role and team look at least as good as what you have now."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1490000,
+  "equity_ask_high": 1540000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports the median total compensation package for a L6 at Google in United States is $446,727."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "My Google numbers include no refreshes, so they're conservative."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Even if Google doesn't move at all, the money clearly favors taking the offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Being within posted range makes base salary increase easy to approve",
+    "quote": "It's within the posted range, so it's easy to approve."
+   },
+   {
+    "claim": "Stock equity is where companies usually have the most room to negotiate",
+    "quote": "This is where companies usually have the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and frequency",
+   "Sign-on bonus repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring base to $271K and the equity grant to $1.5M, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can bring base to $271K and the equity grant to $1.5M, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer averages about $697K/yr over 4 years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "260 + 52 + 509 stock + 200 sign-on = ~$1.02M"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on equals the Meta stock you'd give up over the next 12 months. Google has priced in what leaving costs you."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:40:13+00:00"
+}

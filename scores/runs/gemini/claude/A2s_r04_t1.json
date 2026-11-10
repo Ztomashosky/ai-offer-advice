@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is below what people report for this role. Levels.fyi lists Google PM L6 total pay at about $607K"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The offer pays a bit more than staying, but not enough to justify leaving a job you like."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is, and don't walk away. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Gets your yearly pay near the reported L6 PM figure and protects years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists Google PM L6 total pay at about $607K, though that figure includes refreshes from people who've been there longer."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "though that figure includes refreshes from people who've been there longer."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes could make the offer better over time, but they're only a possibility, so don't count on them when you compare."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you'd be leaving a well-paid peer-level role"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't move much from about $552K, staying is probably the better call."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "which vesting schedule applies",
+   "how the share count is calculated",
+   "whether any sign-on bonus must be paid back if you leave early"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "to make the move I'd need base at $255K, equity at $1.35M, and a $75K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years it averages about $552K a year, before refreshes on either side."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That works out to about $720K in year 1 and $640K a year after that, with even vesting."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus you'd lose and the extra risk of a new role."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:28:09+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "materially exceeds your forward Meta compensation over the initial four years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, then probably accept even if Google does not improve it"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Equity increases by $160,000, or about 12%."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports approximately **$605,720 median compensation for an L6 Google PM in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "L6 PM median TC around $514,000 and the 90th percentile around $671,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "those figures mix new offers and existing employees"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshes are real, but neither their amount nor outcome is guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Walk away only if you require Meta-level compensation every individual year without relying on refreshes"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most productive lever",
+    "quote": "while equity is likely the most productive negotiation lever"
+   },
+   {
+    "claim": "base near max so modest room",
+    "quote": "Google probably has only modest room on base"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages",
+   "GSU share count determination",
+   "2027 refresh eligibility",
+   "sign-on clawback terms",
+   "bonus proration",
+   "unvested equity treatment on role elimination",
+   "precise level/location in docs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "If Google will improve only one component, prioritize **equity**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for:\n\n1. **$271,000 base**\n2. **$1.5 million new-hire RSUs**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs annualized over four years | $335,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Recurring annualized TC** | **$647,000** | | Sign-on | $200,000"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your actual next-12-month Meta compensation using the $200,000 forward vest: **$476,000**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the equity I would be leaving at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:55:07+00:00"
+}

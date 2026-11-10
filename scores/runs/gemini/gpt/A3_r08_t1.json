@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong L6 offer, and financially it is materially better than your current package based on the numbers provided."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "financially it is materially better than your current package based on the numbers provided."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, firmly but collaboratively, and then likely accept if the role, manager, and scope are attractive."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1650000,
+  "equity_ask_high": 1700000,
+  "equity_expected_low": 1500000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 300000,
+  "signon_ask_high": 300000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "asking for roughly $1.65\u2013$1.7 million creates room to settle around $1.5\u2013$1.6 million."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Levels.fyi data puts median Google L6 PM compensation in the Bay Area at approximately $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value refreshers conservatively\u2014perhaps at zero in your downside case."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's current new-hire vesting schedule is 38/32/20/10",
+    "quote": "Google\u2019s commonly reported current new-hire vesting schedule is 38% / 32% / 20% / 10%"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact GSU vesting schedule and first vest date",
+   "Grant conversion mechanics",
+   "Sign-on payment and clawback terms",
+   "Bonus eligibility and timing",
+   "Refresh timing and typical L6 amounts",
+   "Performance context and rating distribution"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would make one consolidated counter"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Given my current position, the interview feedback, and the published salary range, I\u2019d be comfortable signing if we could get the package closer to"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Excluding the one-time sign-on, the initial package averages $647,000 annually over four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, the initial package averages $647,000 annually over four years."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The existing $200,000 essentially matches the Meta RSUs scheduled to vest over your next 12 months. That makes it a reasonable make-whole"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:50:57+00:00"
+}

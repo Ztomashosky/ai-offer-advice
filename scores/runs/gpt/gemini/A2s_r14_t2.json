@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Getting a **$200,000 cash sign-on bonus** alongside a $1.08M equity grant at Google L6 is an exceptional outcome."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**~$844,400** | **+$318,400** *(+$368k vs next 12mo)*"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**4-Year Guaranteed Total:** **~$2.43M** (an average of **~$608,000/year** before any equity appreciation or annual refreshers)."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "while maintaining standard Senior PM (IC6/L6) scope."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a standard 33% / 33% / 22% / 12% front-loaded vesting schedule.",
+    "quote": "With Google's standard front-loaded vesting schedule (**33% / 33% / 22% / 12%**), your compensation profile looks like this:"
+   },
+   {
+    "claim": "$200,000 L6 sign-on bonuses are rare and reserved for competitive buyouts against top-tier peers.",
+    "quote": "$200k sign-on bonuses at L6 are rare and reserved for competitive buyouts against Tier-1 peers (Meta, Apple, Netflix)."
+   },
+   {
+    "claim": "There is virtually no remaining L6 compensation headroom without an L7 discussion.",
+    "quote": "There is virtually no remaining headroom at this level without an L7 down-level/up-level discussion."
+   },
+   {
+    "claim": "Google has a standard 12-to-24-month prorated sign-on clawback clause.",
+    "quote": "check the standard 12-to-24 month pro-rated clawback clause."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing and whether it is split across years",
+   "Sign-on clawback terms",
+   "Product area, manager, and organization charter alignment",
+   "Start-date timing around imminent Meta bonus or vesting events"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Guaranteed Total:** **~$2.43M** (an average of **~$608,000/year** before any equity appreciation or annual refreshers)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1** | $240,000 | $48,000 | $356,400 (33%) | $200,000 | **~$844,400**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They fully insured your unvested equity with guaranteed cash"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 2,
+ "at": "2026-11-02T23:26:45+00:00"
+}

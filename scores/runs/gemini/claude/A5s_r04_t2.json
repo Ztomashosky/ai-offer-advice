@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On money alone, this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays more than Meta in every year from 1 to 4."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you're happy with the role, team and manager."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, recruiter's refresh example"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta vests RSUs quarterly around the 15th of Feb, May, Aug, Nov",
+    "quote": "Meta has typically vested RSUs quarterly around the 15th of Feb, May, Aug and Nov."
+   }
+  ],
+  "missing_info_requested": [
+   "Next Meta RSU vesting date",
+   "Meta annual bonus payout date",
+   "Google sign-on repayment terms and payment schedule",
+   "Google equity vesting schedule and first refresh timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you're happy with the role, team and manager."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push again. They gave you twice the sign-on you asked for and called this their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "the RSUs are $270K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Plan for pay to drop after year 1. Without the sign-on, year 2 falls to about $558K."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "If your roughly $36K annual bonus pays out in the spring, leaving now forfeits it. The sign-on more than covers that"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-03T16:57:50+00:00"
+}

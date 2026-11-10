@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, it is in the upper quartile of the L6 band."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "It is likely a lateral move or a slight step down in trajectory."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 265000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Offsets the Year 3/4 front-load cliff and accounts for senior scope."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": "standard L6 bands typically top out around $900k\u2013$1M without special approval"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "standard L6 bands typically top out around $900k\u2013$1M without special approval"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they are tied to performance ratings (GRAD) and are not guaranteed to fully compensate for the Year 3/4 drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "entering at L6 means I\u2019m taking on significant risk unless the compensation package reflects top-of-band"
+  },
+  "level_claim": {
+   "value": "down_level",
+   "quote": "Google is effectively down-leveling you or bringing you in at the absolute ceiling of L6."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on base, equity, or sign-on, you are better off staying at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule",
+    "quote": "Google standardly uses a front-loaded **33% / 33% / 22% / 12%** 4-year vesting schedule."
+   },
+   {
+    "claim": "Google uses sign-on to bridge unvested equity",
+    "quote": "Google regularly uses sign-on bonuses to bridge unvested equity or close senior candidates."
+   },
+   {
+    "claim": "L6 bands top out around $900k-$1M",
+    "quote": "standard L6 bands typically top out around $900k\u2013$1M without special approval"
+   },
+   {
+    "claim": "Meta IC6 maps to Google L7",
+    "quote": "Meta IC6 (Principal / Lead PM) typically maps to **Google L7**"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "push the offer to top-of-band and secure a sign-on bonus to offset the unvested equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are walking away from unvested Meta RSUs"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity ($356.4k) = **~$638k/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "bringing Year 1 total compensation close to **$720k\u2013$750k**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Standard tool for buying out unvested Meta equity and forfeited bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:45:03+00:00"
+}

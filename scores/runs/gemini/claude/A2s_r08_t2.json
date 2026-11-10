@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "About $378K more over four years is roughly an 18% raise at the same level. That's a solid reason to move."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If the money is what decides this, take it. This offer meets the target I gave you last time"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "If you plan to stay 4 years or more, it's good, but it depends on refreshes that aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Confirmation of Google's vesting schedule (33/33/22/12 vs 25% equal)",
+   "Sign-on payout and repayment/clawback terms",
+   "Date range used to convert dollar grant to shares",
+   "Start date feasibility around Meta bonus"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "If the money is what decides this, take it. This offer meets the target I gave you last time"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push for more. They moved by $200K, which is double the sign-on you asked for, and they called it their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming Google's 33/33/22/12 vesting schedule and $288K a year in cash ($240K base plus a 20% bonus of $48K)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The extra money arrives early. About $490K of the $378K gain is in years 1\u20132. Years 3\u20134 come out even or slightly behind"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on matches the $200K of Meta stock you'd give up over the next year. You'd still get Google's own year-1 stock on top of that."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 8,
+ "turn": 2,
+ "at": "2026-11-03T16:36:03+00:00"
+}

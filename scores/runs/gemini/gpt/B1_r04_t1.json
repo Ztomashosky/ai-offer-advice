@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but I would negotiate rather than accept immediately."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, but I would negotiate rather than accept immediately."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "It is intentionally an opening position, not necessarily the package you expect them to approve in full."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports Bay Area Senior PM compensation at roughly **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Until you receive credible figures, assign refreshes **zero value in the acceptance decision**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "The improved offer fails your 15%\u201320% switching-premium test;"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "typical refresh grant history and percentiles for Senior PMs",
+   "refresh eligibility timing and vesting schedule",
+   "exact vesting cadence and cliff details",
+   "first-year bonus proration and company payout history"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Open at **$260,000 base, $1.4 million RSUs, and $100,000 sign-on**."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I\u2019d be comfortable signing at a package of $260,000 base, the 20% target bonus, $1.4 million in new-hire RSUs, and a $100,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That is about **$2.208 million over four years**, assuming the stock price stays flat, all shares vest, and bonuses pay at target."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That counter annualizes to approximately **$662,000**, before the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "if you are forfeiting a Varrowby bonus or near-term vest, the sign-on should move higher in priority and should at least cover the reasonably expected value you are leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T22:09:25+00:00"
+}

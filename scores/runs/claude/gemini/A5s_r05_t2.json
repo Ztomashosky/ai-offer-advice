@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a top-of-market package for L6 Product Management"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$232,000 to +$318,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "accepting is the rational financial choice"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "an average of **~$608,000/year**, not including future performance refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Holding Senior PM (L6 / IC6) titles at both Meta and Google"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "accepting is the rational financial choice"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "$200k is upper ceiling of Google sign-on exceptions at L6",
+    "quote": "That is at the absolute upper ceiling of what Google approves for sign-on exceptions at this level"
+   },
+   {
+    "claim": "they have exhausted compensation committee discretion",
+    "quote": "they have exhausted standard compensation committee discretion for L6"
+   },
+   {
+    "claim": "Google PM culture less intense than Meta",
+    "quote": "Google PM culture is generally less intense on performance stack-ranking and crunch than Meta"
+   },
+   {
+    "claim": "1 year clawback is standard",
+    "quote": "1 year is standard; if it is 2 years, clarify how it prorates"
+   },
+   {
+    "claim": "Google promotions slower and consensus-driven",
+    "quote": "where promotions tend to be slower and more consensus-driven"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms",
+   "vesting schedule flat or front-loaded"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "accepting is the rational financial choice, but consider these final trade-offs"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**No.** When Google comes back with a base match and a $200k lump-sum sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000 ($1.08M / 4 yrs)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 total cash + stock will exceed $840,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You replace your unvested $200k Meta RSUs with **$200,000 in immediate cash**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T21:31:41+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Compared with the market, the offer is reasonable."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Averaged over 4 years, it's only about 5% more than you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My bottom line: negotiate firmly."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Pays you for the Meta stock you'd give up and the refreshes you'd be restarting"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "The closest match is Google L6 Product Design Manager in the Bay Area, with a median total compensation of $485,400."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Even if it isn't guaranteed, the answer tells you something."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "On the 33/33/22/12 schedule your Google pay would fall to about $520K in year 3 and $412K in year 4"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "If they move very little, ask whether the role could be leveled at L7."
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "ask whether the role could be leveled at L7."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If the offer stays where it is, I'd stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has the most room to increase stock.",
+    "quote": "Raise the stock first, since that's where Google has the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "Which equity vesting schedule applies",
+   "How the grant dollar value is converted into shares",
+   "Typical refresh size for a strong L6 performer"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need the equity at $1.4M, a $100K sign-on, and a base of $255K."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock per year | ~$250K | $270K ($1.08M \u00f7 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The first year looks better because Google usually pays out more stock early."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Meta: $240K + $36K + $200K = **~$476K**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "I'd be giving up a good amount of unvested stock and my bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:26:24+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, it is a competitive baseline offer for Google L6 PM in San Francisco"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Your comp in Years 3 and 4 could dip close to or below your current Meta rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. You have the strongest possible profile for negotiation"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Protects against the Year 3/4 cliff and matches top-of-market L6 PM offers."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "matches top-of-market L6 PM offers."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "If your performance rating is average, your comp in Years 3 and 4 could dip close to or below your current Meta rate."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 4: $235k Base + $47k Bonus + $129.6k Equity = ~$411,600 (+ Refreshers 1 & 2)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "The compensation baseline and level calibration (Meta IC6 $\\rightarrow$ Google L6) are solid."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard initial new-hire grant uses a 33/33/22/12 vesting schedule.",
+    "quote": "Google\u2019s standard initial new-hire grant vests 33% in Year 1, 33% in Year 2, 22% in Year 3, and 12% in Year 4"
+   },
+   {
+    "claim": "Meta typically vests equity evenly.",
+    "quote": "Meta (which typically vests equity evenly at 25%/year or quarterly in equal tranches)"
+   },
+   {
+    "claim": "Google refresh grants typically vest 25% annually.",
+    "quote": "Google expects annual performance refreshers (which vest over 4 years, typically 25%/yr) to stack and fill this gap."
+   },
+   {
+    "claim": "Google expects refresh grants to fill the later-year initial-grant gap.",
+    "quote": "Google expects annual performance refreshers (which vest over 4 years, typically 25%/yr) to stack and fill this gap."
+   },
+   {
+    "claim": "Sign-on bonuses of $50,000 to $100,000 or more are standard at L6.",
+    "quote": "At L6, sign-on bonuses of $50,000\u2013$100,000+ are standard."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Aim to push the total package value to the top of Google's L6 band by targeting three specific levers"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google Offer ($1.08M RSUs @ 33 / 33 / 22 / 12)"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets your upcoming Meta vesting tranches and lost bonus cycle."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:18:49+00:00"
+}

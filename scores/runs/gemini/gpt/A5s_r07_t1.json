@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is **fair for Google L6, not exceptional**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**$76,000 above your specific next-12-month Meta compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the current offer immediately, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That is a much more appropriate premium for leaving Meta."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported Bay Area Google L6 PM median of approximately $551,500, although that benchmark is self-reported and mixes different employee situations."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "reported Bay Area Google L6 PM median of approximately $551,500, although that benchmark is self-reported and mixes different employee situations."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "For decision-making, I would value the refresh illustration at perhaps **50%\u201370% of face value**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "| 5 onward | $0 | approximately $250,000 | $282,000 | **$532,000** |"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s illustration\u2014one new $250,000 four-year grant each year"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "passive candidate already performing at a comparable level"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google makes no meaningful improvement;"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact new-hire RSU vesting schedule",
+   "Grant-date timing and first vest date",
+   "First annual bonus proration details",
+   "Refresh grant eligibility and proration rules",
+   "Performance rating distributions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for **$1.4 million**, aiming to land at **$1.25 million\u2013$1.35 million**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Moving from $1.08 million to $1.30 million adds $55,000/year for four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "practical threshold would be approximately **$610,000\u2013$625,000 of offer-defined annualized target compensation**, excluding speculative refreshes, plus a reasonable make-whole sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You may not get the full amount because the Google new-hire grant partly serves as replacement equity."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for **$150,000\u2013$200,000**, tied directly to the approximately $200,000 in Meta RSUs vesting during the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T22:04:49+00:00"
+}

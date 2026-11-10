@@ -1,0 +1,70 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 1,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:09:37+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:11:01+00:00",
+   "reply": "I'd negotiate. Don't take the offer as written, and don't walk away yet. It looks bigger than it is, and you're in about the strongest position a candidate can be in.\n\n## What the offer is worth per year\n\nGoogle's new-hire stock usually vests front-loaded: **33% in year 1, 33% in year 2, 22% in year 3 and 12% in year 4** (Levels.fyi and several RSU guides; Levels.fyi also lists other schedules). Ask the recruiter to confirm which one applies to you. Assuming the stock price stays flat and you get your target bonus:\n\n| | Year 1 | Year 2 | Year 3 | Year 4 |\n|---|---|---|---|---|\n| Base + target bonus | $282K | $282K | $282K | $282K |\n| New-hire stock | $356K | $356K | $238K | $130K |\n| **Total (no refreshes)** | **$638K** | **$638K** | **$520K** | **$412K** |\n\n- **The 4-year average is about $552K a year.** The $638K in years 1\u20132 is the high point, not your ongoing pay.\n- **Refreshes would partly fill the drop in years 3\u20134, but you can't count on them.** Anecdotes put a typical L6 refresh around $150\u2013200K, vesting over 4 years, and the first one often doesn't add much until year 2 or 3. Even with average refreshes, year 4 lands around $500\u2013550K.\n\n## Compared with the market and with Meta\n\n- Levels.fyi lists Google L6 PM median total pay at about **$607K**, and a median sign-on bonus of about **$60K** for Google PMs. Your offer averages below that median and has no sign-on bonus.\n- Meta IC6 PM median on Levels.fyi is about **$578K**. If you're a typical IC6, this offer may pay you *less* over 4 years than staying, before counting what you'd lose by leaving.\n- Your base of $235K is just above the middle of the posted range ($183K\u2013$271K), so there's some room there. Equity is usually where Google moves most.\n\n**What you'd lose by leaving Meta.** List these before you reply:\n1. Unvested Meta stock you'd give up over the next 12 months\n2. Any bonus you'd forfeit by leaving before it pays out\n3. Refreshes you've already been granted that would keep vesting if you stay\n4. The goodwill and promotion progress you'd be resetting at a new company\n\n## What to ask for\n\nYou weren't looking and you're happy where you are, so \"I'd need a compelling reason to leave\" is true, not a bluff.\n\n| Item | Current | Ask | Realistic result |\n|---|---|---|---|\n| New-hire stock | $1.08M | **$1.45\u20131.5M** | +$200\u2013350K |\n| Sign-on bonus | $0 | **$100K** (or split over 2 years) | $50\u2013100K |\n| Base | $235K | **$260K** | $245\u2013255K |\n\n- **Stock is your main ask.** Every extra $100K adds about $33K to each of years 1 and 2.\n- **Justify the sign-on bonus with what you'd forfeit:** Meta stock vesting soon and any bonus you'd lose. Use your actual numbers.\n- **Base:** the bonus is 20% of base, so each $10K of base is worth $12K a year.\n\n**Sample script:** *\"I'm excited about the role, but I'm not looking to leave Meta, and this offer is below what I'd earn by staying once you count what I'd give up. To make the move, I'd need the equity at around $1.5M and a $100K sign-on bonus to cover the Meta stock and bonus I'd forfeit. Base around $260K would round it out. If we can get close, I'm ready to sign.\"*\n\nYou can share your current Meta total pay if it's strong. It's your best leverage. Ask the recruiter to confirm the vesting schedule in writing.\n\n## When to walk away\n\nBefore you reply, decide your minimum: roughly **15\u201320% above what you'd earn by staying**, averaged over 4 years and after counting forfeited stock and bonus. That margin covers the switching cost and the risk around refreshes. If Google can't reach it, staying at a job you like is a perfectly good outcome.\n\nMy estimates assume a flat stock price and target bonus. Rerun them with your actual Meta numbers, which you can paste here, before you set your minimum.",
+   "searches": [
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google senior product manager San Francisco salary range 2026"
+    },
+    {
+     "query": "levels.fyi Google Product Manager L6 salary"
+    },
+    {
+     "query": "levels.fyi Meta Product Manager IC6 salary Bay Area"
+    },
+    {
+     "query": "Google GSU vesting front-loaded 33 33 22 12 change"
+    },
+    {
+     "query": "Google annual refresher grant L6 typical"
+    },
+    {
+     "query": "levels.fyi Google Product Manager salary by level L6 Senior PM"
+    },
+    {
+     "query": "Meta IC6 product manager total compensation median levels.fyi"
+    },
+    {
+     "query": "levels.fyi Google Product Manager salary by level L6 Senior PM"
+    },
+    {
+     "query": "levels.fyi Meta Product Manager salaries IC6 median total compensation"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 121051,
+    "output": 4688,
+    "web_searches": 13
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:11:01+00:00"
+}

@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, on compensation this is now a good offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "About $330K more over four years (~$608K/yr vs. ~$526K/yr), before any Google refreshes."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Accept it once you've confirmed two details"
+  },
+  "intensity": 2,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google numbers don't include refreshes. Year 1 includes the sign-on."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google equity refreshes are normal at L6.",
+    "quote": "Refreshes aren't guaranteed, but they're normal at L6."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Whether the sign-on is paid at once or over two years",
+   "Whether the sign-on clawback is prorated or full",
+   "Timing of the next Meta RSU vest and bonus payment"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, on compensation this is now a good offer. Accept it once you've confirmed two details"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "The only things worth asking for now are low-cost ones, like the start date or a prorated clawback."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.08M grant didn't grow, so Google's pay after the sign-on averages about $558K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google numbers don't include refreshes. Year 1 includes the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "comparing Google's total pay against Meta's total pay already accounts for the equity you'd forfeit."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on matches the $200K you'd forfeit, so you aren't paying to switch."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-04T16:46:31+00:00"
+}

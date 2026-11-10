@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you can only lose a small amount by asking."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even without any refresh grants, Google pays about $700k more over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate once, politely, and then accept unless something besides money is holding you back."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "leaving Meta means giving up substantial unvested equity and refreshes beyond year one."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median total compensation package for a L6 at Google in United States is $446,727."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Here's each year before taxes, leaving out refreshes at both companies."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they say this is their best offer, accept anyway."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google sign-on bonuses are typically capped at $50k or $90k.",
+    "quote": "One guide says Google sign-ons are typically capped at $50K, though based on the latest levels.fyi data, it can go up as high as $90K"
+   },
+   {
+    "claim": "Google pays sign-on bonus as a lump sum in the first 30 days and requires prorated repayment if leaving within 1 year.",
+    "quote": "Google will pay your sign-on bonus as a lump sum in the first 30 days of your employment, and if you leave within 1 year, you'll need to pay back a prorated portion."
+   }
+  ],
+  "missing_info_requested": [
+   "confirmation of Google equity vesting schedule",
+   "Meta annual bonus payout timing",
+   "Meta quarterly stock vest date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring the base to $271k and the equity to $1.5M, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can bring the base to $271k and the equity to $1.5M, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The new-hire stock averages $335k a year ($1.34M \u00f7 4)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Here's each year before taxes, leaving out refreshes at both companies."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving Meta means giving up substantial unvested equity and refreshes beyond year one."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:37:10+00:00"
+}

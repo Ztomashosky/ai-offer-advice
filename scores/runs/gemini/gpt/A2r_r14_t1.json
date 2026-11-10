@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a credible, roughly market-level L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "leaving comparable compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "makes the recurring four-year average more appropriate for a passive candidate leaving comparable compensation."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported data puts Bay Area Google L6 PM compensation around $551,000 median"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not assign material value to refreshers when deciding."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would walk away on compensation grounds if they leave the package essentially unchanged"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule and vesting cadence",
+   "eligibility and timing for first equity refresh",
+   "modeled L6 PM refresher range",
+   "bonus proration and payout date",
+   "share conversion formula and averaging period",
+   "actual forward Meta equity schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260K base / $1.35M equity / $150K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The current grant averages $270K a year nominally but is heavily front-loaded."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "I\u2019ve evaluated the Google offer over the full four-year period rather than focusing only on the front-loaded first two years."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "I would not argue that Google owes you the entire $200K of upcoming Meta vesting as a sign-on, because Google\u2019s front-loaded first-year equity already more than offsets it on paper."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:22:48+00:00"
+}

@@ -1,0 +1,39 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 12,
+ "wave": 2,
+ "dry": false,
+ "started_at": "2026-11-02T22:51:26+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T22:51:56+00:00",
+   "reply": "### The Verdict: Good Starting Offer, but Do Not Accept As-Is\n\nFor an initial offer from Google for an L6 Product Manager in the Bay Area, **this is a solid baseline (roughly 60th\u201370th percentile of typical L6 bands)**, but it has clear room for improvement. \n\nBecause you are an established **Meta IC6 PM who is happy and was not actively looking, you hold maximum leverage**. You should **negotiate aggressively** before making a decision.\n\n---\n\n### 1. Breakdown & Benchmarking of the Numbers\n\n#### Annualized Total Compensation (Flat Average)\n* **Base:** $235,000 (Midpoint of posted $183k\u2013$271k range)\n* **Target Bonus (20%):** $47,000\n* **Equity (4-yr flat average):** $270,000/yr ($1,080,000 total)\n* **Annualized Total Comp (TC):** **~$552,000/year**\n\n#### The Reality of Google\u2019s Vesting Schedule (Front-Loaded GSUs)\nGoogle typically uses a front-loaded vesting schedule for new-hire equity grants (historically **38% / 32% / 20% / 10%** or **33% / 33% / 22% / 12%**):\n* **Year 1:** ~$235k base + $47k bonus + ~$410k equity = **~$692k Year 1 TC**\n* **Year 2:** ~$235k base + $47k bonus + ~$345k equity = **~$627k Year 2 TC**\n* **Year 3:** ~$235k base + $47k bonus + ~$216k equity = **~$498k Year 3 TC** (+ refreshes)\n* **Year 4:** ~$235k base + $47k bonus + ~$108k equity = **~$390k Year 4 TC** (+ refreshes)\n\n*Note on Refreshes:* While refreshes stack over time, they are tied to performance and market conditions. By Year 3 and 4, your initial grant drops off sharply.\n\n---\n\n### 2. How This Compares to Meta IC6\n\nAt Meta, IC6 PMs typically average between **$550,000 and $700,000+ in annual TC** (assuming standard performance and grant valuations), with:\n* Flat **25% per year** quarterly vesting (no steep Year 4 cliff).\n* Highly competitive annual refresher grants.\n* Substantial upside from existing unvested RSUs.\n\nIf you leave Meta, you forfeit your unvested Meta shares, your upcoming bonus cycle, and your established internal capital. Google\u2019s current offer of ~$552k annualized TC (and $0 sign-on) does not offer a compelling enough financial premium to justify walking away from a role you already enjoy.\n\n---\n\n### 3. What to Negotiate (Target Counter-Proposal)\n\nGiven your leverage, ask for improvements across three areas:\n\n| Component | Current Offer | Target Counter | Rationale / Strategy |\n| :--- | :--- | :--- | :--- |\n| **Sign-On Bonus** | $0 | **$75,000 \u2013 $100,000** | Google uses sign-on bonuses to bridge unvested equity and bonus forfeiture from competitors. |\n| **RSU Grant** | $1,080,000 | **$1,200,000 \u2013 $1,250,000** | Moves annualized equity to ~$300k+/year, bringing top-of-band parity to Meta IC6. |\n| **Base Salary** | $235,000 | **$250,000 \u2013 $255,000** | Positions you in the upper quartile of their posted $183k\u2013$271k band. |\n\nIf accepted, this would push your annualized average TC to **~$615k\u2013$640k/year** (with a Year 1 cash flow of **~$780k+** including sign-on).\n\n---\n\n### 4. How to Frame the Negotiation (Script)\n\nCall your recruiter and use a collaborative, high-leverage tone:\n\n> *\"Thank you for the offer. I really enjoyed meeting the team, and I\u2019m genuinely excited about the scope of this L6 role. As I mentioned early on, I wasn\u2019t actively looking and have a strong trajectory and solid unvested equity at Meta.*\n>\n> *Because compensation is a top priority for me, making a move needs to be a clear step up financially to offset walking away from my current unvested equity and upcoming performance rewards.*\n>\n> *If we can get the base to **$250,000**, the RSU grant to **$1.25M**, and include an **$80,000 sign-on bonus** to help offset my unvested equity walkaway, I would be thrilled to sign and commit right away.\"*\n\n---\n\n### Summary\n* **Do not accept the first offer as-is.**\n* **Negotiate hard on a sign-on bonus and higher RSU grant.**\n* If Google refuses to move and your current Meta comp/equity trajectory beats an annualized ~$550k, **walk away**\u2014you are in a position of strength and can afford to be selective.",
+   "searches": [
+    {
+     "query": "google L6 product manager compensation levels fyi"
+    },
+    {
+     "query": "meta IC6 product manager compensation levels fyi"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkJ3O4iST0jPjb1prQCuQU1P7HMbcdiuzczHhpWHeyVd1SjEbnbqWgMlDNFwtllM_Drh4C2Qw7ymMcgRwr3tRvTj1s5Rk0iuhefPoL3PUiuVYkz_kDL-lhXjPafwQZ68-Bs7DHHpUJIsfzXclGt8H2uMrtfrczov-Q",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrlBPAhyaat3VGbOUiYuwQnKm1bXgPr9cv03q6gEy6n79F2kKR7eD2k056Rhm7B1UCrj809TX5xbUNpkiZgI-JIE5quENqUAVhbdieRkLN0Ll5fWo6qXZIRvXduO4eaazXGRPyYDGIbj9wzDht3OMS"
+   ],
+   "usage": {
+    "input": 282,
+    "output": 2917
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T22:51:56+00:00"
+}

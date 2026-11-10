@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good L6 offer. I would not walk away over compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is $121,000, or approximately 23%, above your stated $526,000 Meta run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would make one professional counteroffer, focused primarily on equity, and then likely accept even if Google does not improve it"
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1550000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "particularly because the new-hire grant declines substantially in the later years and refresh grants aren\u2019t guaranteed."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Levels.fyi data puts median Google L6 PM compensation in the Bay Area at approximately $606,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "while another recent US data cut put the median around $514,000 and the 90th percentile around $671,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "Those datasets mix new hires with existing employees whose refresh grants may already be stacking, so they are directional rather than precise offer bands."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as upside, not guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they say the offer is final: accept rather than walk, unless you have non-compensation concerns"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact RSU vesting percentages and cadence",
+   "How sign-on bonus is paid and timing",
+   "Sign-on clawback terms",
+   "First-year bonus proration rules",
+   "Refresh grant eligibility and vesting cycle timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "I would make one professional counteroffer, focused primarily on equity"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Would the compensation team be able to move the package to a $271,000 base and $1.55 million in new-hire equity, while keeping the $200,000 sign-on?"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$335,000 annualized RSUs"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, the annualized recurring offer is:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on also neatly offsets the approximately $200,000 of Meta RSUs you would forfeit over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:54:09+00:00"
+}

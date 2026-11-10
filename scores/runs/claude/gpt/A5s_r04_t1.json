@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "good in absolute terms but approximately market-median for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26K, or 5%, better than your stated normal Meta run rate**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the first offer, and don\u2019t walk away yet.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "The opening offer is around the public L6 median, not the top of the market."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data puts Bay Area Google L6 PM compensation around **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "At a 50% haircut to the refresh illustration, first-four-year expected TC is only about **$599K/year**."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "four overlapping $250K refresh grants produce only about **$250K of annual equity vesting**, not $458K"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s illustration, your compensation would approximately be"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes no meaningful improvement, I would probably **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-ons commonly carry a one-year clawback",
+    "quote": "sign-ons commonly carry a one-year clawback"
+   },
+   {
+    "claim": "equity is the biggest lever",
+    "quote": "This is the biggest lever and reduces your dependence on uncertain refreshes."
+   }
+  ],
+  "missing_info_requested": [
+   "Check the repayment provision on sign-on"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one clear, package-level counter"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the $1.08 million grant vests evenly"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google\u2019s guaranteed target compensation is approximately $552K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Lost or disrupted Meta vesting/bonus timing"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T22:00:12+00:00"
+}

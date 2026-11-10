@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is already an exceptionally strong offer for a Senior PM"
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Verdict: Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "A round number of $1.2M is an incremental ~11% ask on equity."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Typically $150k\u2013$250k/yr at Tier-1 tech"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "they either meet your target or you stay comfortably where you are."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses come from a separate recruiting pool and do not affect team parity.",
+    "quote": "Sign-ons come from a separate one-time recruiting pool, don't affect team parity"
+   },
+   {
+    "claim": "Sign-on bonuses are the easiest lever for recruiters to approve.",
+    "quote": "and are the easiest lever for recruiters to approve."
+   },
+   {
+    "claim": "A $250,000 base would remain within Halvern's approved band.",
+    "quote": "Moving from $235k to $250k stays well within their approved band"
+   },
+   {
+    "claim": "Recruiters often compensate through an additional $100,000\u2013$120,000 of stock when other levers cannot move.",
+    "quote": "recruiters often compromise by adding $100k\u2013$120k in stock over 4 years."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and whether it is standard or backloaded",
+   "How the number of shares is calculated and the equity valuation date",
+   "Typical Senior PM refresh-grant size",
+   "Refresh-grant distribution timeline"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "focusing on three distinct levers"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,080,000 / 4 yrs ($270k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-ons come from a separate one-time recruiting pool"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "include a $50,000 sign-on bonus to offset what I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:38:45+00:00"
+}

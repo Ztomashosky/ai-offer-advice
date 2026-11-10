@@ -1,0 +1,37 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 6,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T11:56:56+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T11:57:39+00:00",
+   "reply": "## Short answer\n\nOn paper this is a strong offer. Don't take it as is, and don't walk away. **Negotiate.** You weren't looking and you're happy where you are, which gives you about as much leverage as a candidate can have. Whether it's actually a good deal for *you* depends on one thing you haven't told me: your current compensation at Varrowby.\n\n## How the offer looks\n\n| Component | Per year |\n|---|---|\n| Base | $235,000 |\n| Target bonus (20%) | $47,000 |\n| RSUs ($1.08M \u00f7 4) | $270,000 |\n| **Target total** | **~$552,000** |\n\n**Compared with the market:** That's well above typical Senior PM pay at public software companies in the Bay Area. For example, Levels.fyi lists the median total compensation for a Senior Product Manager at LinkedIn in San Francisco Bay Area at about $439K, and C3.ai at $383,600. The equity piece is especially rich.\n\n**Compared with the posted range:** The midpoint of the $183K\u2013$271K range is $227K, so $235K is only a little above it. That leaves room to move up.\n\n## Three things that make it look better than it is\n\n1. **Year 1 has no refreshes, but your current job probably does.** At Varrowby you likely have several older grants vesting at once. At Halvern you'd have only the new-hire grant until refreshes start adding up, and those aren't guaranteed. So compare Halvern's ~$552K with your *actual* current yearly pay including all vesting grants, not with the offer letter you got when you joined Varrowby.\n2. **You'd lose money by leaving.** That means unvested Varrowby equity, plus any bonus you'd forfeit if you leave before it pays out. Yet this offer has no sign-on bonus to make up for it. That's the biggest gap in the offer.\n3. **Fine print you should check:**\n   - Is the vesting schedule even (25% a year) or back-loaded?\n   - Is there a 1-year cliff?\n   - How is $1.08M turned into a number of shares? Many companies use a 30\u201360 day average stock price.\n   - Is the first-year bonus prorated?\n   - What has Halvern's bonus actually paid out compared with target in recent years?\n   - What's a typical refresh for a strong performer at this level?\n\n## What to ask for\n\nAsk for all of these together, in one conversation:\n\n1. **Sign-on bonus to cover what you'd forfeit (most important).** Ask for the value of your Varrowby equity that would vest in the next 12 months, plus any bonus you'd lose. If you don't want to share exact numbers, **$75K\u2013$150K** is a reasonable range to ask for, and you can ask for it to be paid over two years. This request is the easiest to justify (\"I'm leaving money behind to join you\") and usually comes from a separate budget from base pay.\n2. **Base: ask for $255K\u2013$260K.** That's around the 75th\u201380th percentile of their posted range. The very top of a range is usually kept for people already in the role, so asking for $271K would mostly be spent leverage. Expect to land around $245K\u2013$255K. The 20% bonus is tied to base, so every $10K of base also adds $2K of target bonus.\n3. **RSUs: ask for $1.25M\u2013$1.3M (a 15\u201320% increase).** This is worth about $40K\u2013$55K a year and helps cover the years before refreshes add up.\n\nDon't spend leverage on the bonus percentage. It's usually fixed by level.\n\n## How to say it\n\n> \"I'm genuinely excited about Halvern, and I wasn't looking. I'm happy at Varrowby, so making a move needs to be clearly worth it. To leave, I'd be walking away from [$X in unvested equity / my upcoming bonus]. If you can get to a base of $258K, a new-hire grant of $1.28M, and a sign-on of $[X] to cover what I'm forfeiting, I'm ready to sign.\"\n\nSaying you're ready to sign helps the recruiter get approval internally. Be honest about your situation. If you say you have a competing offer, make sure it's real.\n\n## Deciding whether to accept\n\nBefore you negotiate, set your walk-away number. A rough test: accept if Halvern's **first two years** of pay (including any sign-on) beat what you'd realistically earn by staying at Varrowby by roughly **15\u201320% or more**. A new job carries real risks: a new manager, a vesting cliff, and refreshes that aren't guaranteed. If the final offer only matches what you have now, staying where you're happy is a perfectly good choice.\n\nIf you share your current base, bonus, and yearly equity vesting (including the timing of older grants), I can work out the exact sign-on number and a precise walk-away point.",
+   "searches": [
+    {
+     "query": "levels.fyi senior product manager San Francisco total compensation median"
+    },
+    {
+     "query": "levels.fyi senior product manager San Francisco total compensation median"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 22846,
+    "output": 3087,
+    "web_searches": 2
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T11:57:39+00:00"
+}

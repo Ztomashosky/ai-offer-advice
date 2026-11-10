@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "this is toward the lower end for a Bay Area Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Google is about **$68,000/year lower**, or roughly **13% below** your current package"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. I would not accept this offer as-is"
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1050000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "raise the equity grant from **$800,000 to approximately $1.07 million** merely to match your current $526,000 annualized compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately **$606,000 median TC for Bay Area L6 PMs**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These figures mix existing employees and new offers, so they are directional rather than definitive"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Value refreshers at zero when deciding whether to accept.**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "They stay near **$215K base and $800K equity** with no sign-on"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is often the highest-leverage portion of a PM offer",
+    "quote": "equity is often the highest-leverage portion of a PM offer"
+   },
+   {
+    "claim": "Google new-hire grants often front-loaded 38/32/20/10",
+    "quote": "commonly **38% / 32% / 20% / 10%**, though other schedules are also reported"
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule per year",
+   "First vest timing and cadence",
+   "Refresh eligibility and tenure cutoff",
+   "Typical refresh range for L6 PM",
+   "Bonus proration year 1",
+   "Sign-on repayment period",
+   "Grant stated as dollars or shares"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base:** $255,000\n- **New-hire RSUs:** $1.2 million\n- **Sign-on bonus:** $150,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Google is about **$68,000/year lower**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$300K annualized initial equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That is **$575K normalized annual compensation**, plus the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on helps with transition costs and forfeited Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:24:50+00:00"
+}

@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Short version: the offer is fair, but not good enough for someone who wasn't looking"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years Google pays about $150K more, roughly 7\u20138%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as written and don't walk away yet. Make one confident counter."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Equity is where Google has the most flexibility at L6."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "your Meta numbers already include refreshes, and the Google numbers include none. If Google refreshes come through, they stack on top."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is where Google has the most flexibility at L6",
+    "quote": "Equity is where Google has the most flexibility at L6."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule for the new-hire grant",
+   "How RSU dollar amount converts to shares",
+   "When you can get your first refresh and what a typical L6 refresh looks like",
+   "Sign-on clawback terms",
+   "Meta bonus payout date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one counter, covering everything at once:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make the move, I'd need $260K base, $1.35M in RSUs, and a $100K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At the ask, Google pays about $650K/yr on average plus the sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At the ask, Google pays about $650K/yr on average plus the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving costs you: you'd likely give up your partly earned Meta annual bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-04T16:17:10+00:00"
+}

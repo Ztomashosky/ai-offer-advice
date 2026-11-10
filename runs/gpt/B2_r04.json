@@ -1,0 +1,70 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:28:21+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:29:20+00:00",
+   "reply": "## Bottom line\n\n**Negotiate. Don\u2019t accept the offer as-is, but don\u2019t walk away yet.**\n\nThe offer is **market-reasonable, not exceptional** for a Bay Area Google L6 PM\u2014and it is probably not enough to induce a happy, passively recruited Meta IC6 to move unless your current forward compensation is materially below typical IC6 levels.\n\nYour offer\u2019s four-year target value is:\n\n- Base over four years: **$940,000**\n- Target bonus over four years: **$188,000**\n- RSUs: **$1,080,000**\n- **Total: $2,208,000**\n- **Average target TC: $552,000/year**\n\nCurrent reported compensation data puts Google L6 PM median compensation in the Bay Area at approximately **$551,000**, while a broader recent U.S. data set shows a $514,000 median and approximately $671,000 at the 90th percentile. In other words, your offer is around market median overall, despite being a solid-looking grant. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\nReported Meta IC6 PM compensation is around **$595,000**, although your actual forward vesting and refresh history matter much more than that benchmark. ([scoutify.com](https://scoutify.com/companies/meta/))\n\n## The biggest issue: equity front-loading\n\nConfirm the exact vesting schedule in writing. Google commonly uses a **38% / 32% / 20% / 10%** four-year schedule, although alternative schedules exist. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\nIf yours is 38/32/20/10, the offer looks like this, assuming target bonus and no stock-price movement:\n\n| Year | Base + target bonus | RSUs vesting | Target TC |\n|---|---:|---:|---:|\n| 1 | $282,000 | $410,400 | **$692,400** |\n| 2 | $282,000 | $345,600 | **$627,600** |\n| 3 | $282,000 | $216,000 | **$498,000** |\n| 4 | $282,000 | $108,000 | **$390,000** |\n\nThat means the headline offer is strong in years one and two but has a substantial cliff afterward.\n\nGoogle does have an annual compensation process that includes equity refresh recommendations, based partly on role, location and performance, with managerial discretion. That does **not** make any particular refresh amount guaranteed. ([services.google.com](https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf))\n\nFor decision purposes:\n\n- Treat promised compensation as the **floor**.\n- Model refreshes separately as an upside scenario.\n- Do not use hypothetical refreshes to justify accepting a weak guaranteed package.\n\n## How good are the individual components?\n\n### Base: acceptable, but negotiable\n\nYour $235,000 base is:\n\n- Slightly above the $227,000 midpoint of the posted range\n- About 59% of the way through the $183,000\u2013$271,000 range\n- Slightly below the approximately $240,000 recent reported L6 median base ([aakashg.com](https://www.aakashg.com/google-pm-job-offer/))\n\nFor an experienced Meta IC6 whom Google recruited, **$250,000\u2013$260,000** is a reasonable target.\n\n### Equity: solid, but not enough to make the package exceptional\n\nThe grant averages **$270,000/year** over four years. That is above the recent reported Google L6 median annual stock figure of roughly $230,000, but the value is heavily front-loaded if the standard schedule applies. ([aakashg.com](https://www.aakashg.com/google-pm-job-offer/))\n\nThe grant is good in isolation. It is not obviously good enough to overcome:\n\n- Meta equity you will forfeit\n- Your current Meta refresh trajectory\n- Switching risk\n- The compensation cliff in years three and four\n- The fact that you are already happy\n\n### No sign-on: clear negotiation opportunity\n\nA sign-on is particularly appropriate because you are leaving unvested Meta compensation and were not actively searching. Reported Google PM packages do include variable signing bonuses, so zero is not necessarily a hard policy. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\nThe sign-on should ideally be a **make-whole**, based on compensation you will actually forfeit during the first 12 months.\n\n## What I would ask for\n\nI would counter with:\n\n- **Base: $260,000**\n- **New-hire RSUs: $1,350,000**\n- **Sign-on: $100,000**\n\nThat produces:\n\n- $260,000 base\n- $52,000 target bonus\n- $337,500 average annual initial equity\n- **$649,500 average annual target TC**, excluding sign-on\n- Approximately **$674,500 annualized over four years** if you spread the sign-on across the period\n\nThis is intentionally an anchor, not necessarily the minimum you will accept. It puts the package around the upper end of reported L6 compensation rather than asking for something clearly outside level.\n\n### A good likely settlement\n\nI would view this as a credible improved package:\n\n- **Base: $250,000\u2013$260,000**\n- **RSUs: $1,250,000\u2013$1,350,000**\n- **Sign-on: $50,000\u2013$100,000**, or your documented first-year forfeiture if higher\n\nFor example, $250,000 base, $1.25 million equity and a $75,000 sign-on gives:\n\n- $250,000 base\n- $50,000 target bonus\n- $312,500 average annual initial equity\n- **$612,500 recurring four-year average**\n- About **$631,000 annualized including the sign-on**\n\nThat begins to look more compelling relative to staying at Meta.\n\n## What to say\n\nYou can send something close to this:\n\n> I\u2019m genuinely excited about the role and team. At the same time, I\u2019m happy at Meta and wasn\u2019t actively looking, so the economics need to clearly justify leaving my current IC6 position and forfeiting unvested compensation.\n>\n> After reviewing the offer, particularly the four-year equity profile and the absence of a sign-on, I\u2019d be comfortable moving forward at a package closer to a $260,000 base, $1.35 million in new-hire equity, and a $100,000 sign-on bonus.\n>\n> I understand there may be constraints across individual components, so I\u2019m open to how Google structures the package. My main objective is getting the guaranteed four-year value and first-year make-whole to a level that makes the move financially compelling.\n\nIf they ask which component matters most:\n\n> Equity is probably the most important lever, followed by a sign-on to offset compensation I\u2019m forfeiting at Meta. I\u2019d also like the base brought closer to $260,000 given my current level and experience.\n\nDo not bluff about other offers. Your truthful leverage is strong enough: **you are currently employed at Meta, happy, appropriately leveled, and willing to stay.**\n\n## Your acceptance threshold\n\nI would use the following framework.\n\n### Accept or strongly consider if:\n\n- The role is at least as attractive as your current one; and\n- The revised package reaches approximately **$610,000\u2013$650,000 in four-year average target compensation**; and\n- They provide a reasonable make-whole for near-term Meta compensation you lose.\n\nIf you are genuinely indifferent between the jobs, I would target the upper end\u2014around **$650,000**\u2014because changing companies has execution, culture, performance and reorganization risk.\n\n### Probably stay at Meta if:\n\n- Your current forward Meta TC is already **$600,000+**\n- Google remains near $552,000 average\n- The only argument closing the gap is \u201crefreshes will probably happen\u201d\n- You are forfeiting meaningful Meta equity without a sign-on\n- The Google opportunity is not a clear scope, manager or career improvement\n\n### The existing offer may be acceptable if:\n\n- Your current forward Meta TC is below roughly **$500,000\u2013$525,000**\n- You are not forfeiting much near-term equity\n- The Google role has better scope, manager, product area or promotion prospects\n- You are comfortable with the later-year compensation cliff\n\n## Before deciding, get these answers in writing\n\nAsk the recruiter:\n\n1. **What is the exact RSU vesting percentage by year and vesting cadence?**\n2. **When is the grant converted from dollars into shares?**\n3. **When would you first be eligible for an annual refresh grant?**\n4. **Could your start date cause you to miss or receive a prorated compensation cycle?**\n5. **Is your first-year bonus prorated?**\n6. **What compensation is forfeited if you leave before the first vest or bonus payment?**\n7. **What is the sign-on clawback period, if they add one?**\n\nAlso calculate your personal Meta walk-away cost:\n\n- RSUs vesting in the next 12 months\n- Expected bonus\n- Expected upcoming refresh\n- Any promotion-related compensation upside\n- Value of already-earned but not-yet-paid compensation\n\n## Recommendation\n\n**Negotiate toward $260,000 base, $1.35 million RSUs and $100,000 sign-on.**\n\nIf Google gets the package to around **$625,000\u2013$650,000 of sustainable four-year average target value**, plus a reasonable make-whole, it becomes a serious offer. If they make only a token improvement and your Meta forward compensation is around $600,000 or more, I would stay\u2014especially since you are happy and were not looking.",
+   "searches": [
+    {
+     "type": "search",
+     "query": "Levels.fyi Google L6 Senior Product Manager San Francisco compensation 2026",
+     "queries": [
+      "Levels.fyi Google L6 Senior Product Manager San Francisco compensation 2026",
+      "Google Senior Product Manager L6 compensation Bay Area equity offer 2025 2026",
+      "Google employee equity vesting schedule new hire RSU 38 32 20 10 official",
+      "Google careers Senior Product Manager San Francisco base salary range 183000 271000"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "Levels.fyi Meta IC6 Product Manager San Francisco Bay Area compensation 2026",
+     "queries": [
+      "Levels.fyi Meta IC6 Product Manager San Francisco Bay Area compensation 2026",
+      "Meta Product Manager E6 salary San Francisco Bay Area Levels.fyi 2026",
+      "Meta IC6 product manager compensation Bay Area 2025 2026 refresh equity",
+      "Meta Product Manager salary San Francisco Bay Area IC6 median total compensation"
+     ]
+    },
+    {
+     "type": "open_page",
+     "url": "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area"
+    },
+    {
+     "type": "open_page",
+     "url": "https://scoutify.com/companies/meta/"
+    },
+    {
+     "type": "search",
+     "query": "calculator: 235000+47000+1080000/4",
+     "queries": [
+      "calculator: 235000+47000+1080000/4"
+     ]
+    }
+   ],
+   "citations": [
+    "https://scoutify.com/companies/meta/",
+    "https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf",
+    "https://www.aakashg.com/google-pm-job-offer/",
+    "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area"
+   ],
+   "usage": {
+    "input": 37628,
+    "output": 4597
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:29:20+00:00"
+}

@@ -1,0 +1,55 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T21:18:54+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T21:19:33+00:00",
+   "reply": "## Bottom line\n\n**This is a strong offer, but I would negotiate rather than accept immediately. I would not walk away based on compensation alone.**\n\nThe package has approximately:\n\n| Component | Annualized value |\n|---|---:|\n| Base | $235,000 |\n| Target bonus | $47,000 |\n| Initial RSUs | $270,000 |\n| **Target annual compensation** | **$552,000** |\n\nThat is about **$2.208 million over four years**, assuming the stock price stays flat, all shares vest, and bonuses pay at target.\n\nAs a directional benchmark, Levels.fyi currently reports Bay Area Senior PM compensation at roughly **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**. Your $552,000 target therefore looks notably above the 75th percentile, although company level-mapping and equity methodology make such comparisons imperfect. ([levels.fyi](https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai))\n\nYour base is also respectable, but not extraordinary relative to Halvern\u2019s own range: it is **59% of the way from the posted minimum to maximum**. In other words, they have visible room above $235,000.\n\n## What I would ask for\n\nMake one clear, enthusiastic counter:\n\n- **Base:** $260,000\n- **Target bonus:** Keep at 20%\n- **New-hire RSUs:** $1.4 million over four years\n- **Sign-on bonus:** $100,000\n\nThat counter annualizes to approximately **$662,000**, before the sign-on bonus. It is intentionally an opening position, not necessarily the package you expect them to approve in full.\n\nA good settlement would be approximately:\n\n- **Base:** $250,000\u2013$255,000\n- **RSUs:** $1.25 million\u2013$1.35 million\n- **Sign-on:** $50,000\u2013$100,000\n\nFor example, $250,000 base, 20% bonus, and $1.25 million in RSUs equals **$612,500 in annualized target compensation**.\n\n### Priority order\n\nIf the company cannot move on everything, prioritize:\n\n1. **Additional new-hire RSUs**\n2. **Higher base**\n3. **Sign-on bonus**\n\nHowever, if you are forfeiting a Varrowby bonus or near-term vest, the sign-on should move higher in priority and should at least cover the reasonably expected value you are leaving behind.\n\n## Suggested wording\n\n> I\u2019m genuinely excited about the team and the role. I wasn\u2019t actively looking, and because I\u2019m happy at Varrowby, I need the package to clearly justify making a move.  \n>   \n> Based on the scope of the role, the posted salary range, and the compensation and equity I would be leaving behind, I\u2019d be comfortable signing at a package of $260,000 base, the 20% target bonus, $1.4 million in new-hire RSUs, and a $100,000 sign-on bonus.  \n>   \n> I understand there may be constraints across individual components, so I\u2019m open to discussing the mix, with the new-hire equity being particularly important to me.\n\nIf you can honestly say you will sign at those numbers, replace \u201cI\u2019d be comfortable signing\u201d with **\u201cI\u2019m prepared to sign.\u201d** That is stronger. Do not say it unless true.\n\n## Why this counter is reasonable\n\n- They recruited you; you did not apply out of dissatisfaction.\n- You have a credible alternative: remaining in a job you like.\n- The base offer is $36,000 below the published maximum.\n- There is currently no sign-on payment.\n- Refresh grants are explicitly discretionary, so they should **not** be used to discount the value you need in the initial grant.\n- A 20%\u201330% equity increase is a meaningful but defensible request at this package size.\n\nI would avoid arguing that you \u201cdeserve the top of the range.\u201d Instead, connect the request to role scope, your experience, demonstrated interview performance, and the compensation required to leave a good situation.\n\n## Do not value refresh grants yet\n\nThe recruiter\u2019s description is directionally attractive, but \u201crefreshes stack\u201d is not sufficient information. Before deciding, ask:\n\n1. What was the **typical refresh grant for Senior PMs** in the most recent cycle?\n2. What were the approximate 25th, median, and 75th-percentile grants?\n3. What percentage of eligible Senior PMs received one?\n4. When would a new hire first become eligible?\n5. Are refreshes based on performance, retention, promotion, or all three?\n6. What is their vesting schedule?\n7. Does an employee hired late in the year miss the first cycle?\n8. What happens to refresh policy during weak company performance?\n\nAsk for actual historical ranges, not merely \u201ccompetitive\u201d or \u201cmeaningful.\u201d Until you receive credible figures, assign refreshes **zero value in the acceptance decision**. Treat them as upside.\n\nAlso confirm:\n\n- Exact vesting cadence and whether there is a one-year cliff\n- How the number of RSUs is calculated and when the stock price is set\n- First-year bonus eligibility and whether it is prorated\n- Recent company-wide bonus payout percentages\n- Change-of-control treatment\n- Any post-termination exercise or vesting provisions that matter\n- Trading windows and blackout restrictions\n- Whether the role\u2019s level is truly Senior PM and what the next level requires\n\n## Accept versus walk away\n\nBecause you are happy where you are, I would use a personal **15%\u201320% switching premium** on risk-adjusted compensation.\n\nAt the current $552,000 target package:\n\n- It represents a 15% premium over approximately **$480,000**\n- It represents a 20% premium over approximately **$460,000**\n\nTherefore:\n\n- If your realistic forward compensation at Varrowby is **under about $460,000**, this is financially compelling even before negotiation.\n- If Varrowby is around **$460,000\u2013$480,000**, negotiate and compare the roles carefully.\n- If Varrowby is already **above $480,000**, especially with near-term vesting or promotion potential, the initial offer may not sufficiently compensate you for switching risk.\n- If Halvern materially improves the package into the low-$600,000s annualized, the financial case becomes considerably stronger.\n\nCompare **forward-looking value**, not last year\u2019s W-2. Include upcoming Varrowby vests, likely refreshes, bonus timing, promotion prospects, and the current value of unvested equity.\n\n## My recommendation\n\n**Negotiate once, firmly and collaboratively.** Open at **$260,000 base, $1.4 million RSUs, and $100,000 sign-on**.\n\nIf they land around **$250,000+, $1.25 million+, and at least some sign-on**, I would consider that an excellent compensation result. Then the decision should turn mainly on the role, manager, company outlook, commute, and what you are leaving at Varrowby\u2014not on whether Halvern is underpaying you.\n\nI would walk only if:\n\n- The improved offer fails your 15%\u201320% switching-premium test;\n- You would forfeit substantial near-term compensation that they refuse to replace;\n- The equity looks risky after examining Halvern\u2019s business and valuation;\n- Or the role itself is not meaningfully better than staying.",
+   "searches": [
+    {
+     "type": "search",
+     "query": "2026 Senior Product Manager San Francisco total compensation public software company Levels.fyi",
+     "queries": [
+      "2026 Senior Product Manager San Francisco total compensation public software company Levels.fyi",
+      "Senior Product Manager San Francisco salary total compensation 2026",
+      "Bay Area senior product manager compensation equity offer 2025 public software"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 235000+0.2*235000+1080000/4",
+     "queries": [
+      "calculator: 235000+0.2*235000+1080000/4"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 552000/1.15",
+     "queries": [
+      "calculator: 552000/1.15"
+     ]
+    }
+   ],
+   "citations": [
+    "https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai"
+   ],
+   "usage": {
+    "input": 14946,
+    "output": 3140
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T21:19:33+00:00"
+}

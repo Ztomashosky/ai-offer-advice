@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Recent self-reported Bay Area data puts Google L6 PM compensation around **$551,000**, almost exactly your offer. That makes it a market-level offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only **$26,000\u2014or about 5%\u2014above your current run rate**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept immediately, but don\u2019t automatically walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That is about **$74,000 per year above your current run rate**, before the sign-on. It provides a more appropriate 14% recurring premium for leaving a job you like."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Bay Area data puts Google L6 PM compensation around **$551,000**, almost exactly your offer."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "without assigning any value to possible refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Purely on compensation, I would probably stay at Meta if Google does not improve the offer"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact year-by-year GSU vesting percentages",
+   "First vest date and vesting frequency",
+   "Bonus proration",
+   "Refresh eligibility timing and cycles",
+   "Expected bonus payout at meets expectations",
+   "Available negotiation levers",
+   "Start date timing relative to Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for:\n\n- **Base: $260,000**\n- **New-hire RSUs: $1,350,000**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That package annualizes, excluding the sign-on, to:\n\n\\[\n\\$260K + \\$52K + \\$337.5K = \\$649.5K\n\\]"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on is useful, but one-time money should not disguise a weak recurring package."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are giving up a stable position and unvested Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:34:47+00:00"
+}

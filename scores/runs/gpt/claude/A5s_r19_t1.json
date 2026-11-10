@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a good offer, and you shouldn't walk away from it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "So in year 1, Google pays about **$76K more (+16%)**, not $26K more."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should also negotiate before accepting."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Tie them to what you'd give up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Google if the recruiter's example holds: ~$2.6M"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Each $250K refresh adds about $62.5K/yr of vesting"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's example checks out. Each $250K refresh adds about $62.5K/yr of vesting"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Make sure Google L6 is truly the same as or better than your Meta IC6 in scope."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has more flexibility on equity and sign-on bonuses than on base salary.",
+    "quote": "Google usually has more flexibility on equity and sign-on bonuses than on base salary."
+   },
+   {
+    "claim": "Meta would continue giving refresh grants that raise the candidate's compensation.",
+    "quote": "Meta would keep giving you refreshes too, so your Meta pay likely climbs back toward about $526K/yr."
+   },
+   {
+    "claim": "Meta has historically vested equity quarterly, including around mid-November.",
+    "quote": "Meta has historically vested quarterly, with one around mid-November"
+   },
+   {
+    "claim": "A Google sign-on bonus should be expected to have a 12\u201324 month clawback.",
+    "quote": "Expect a sign-on bonus to come with a clawback if you leave within 12\u201324 months."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus payment timing",
+   "value of any upcoming Meta bonus, vest, or refresh being forfeited",
+   "Meta RSU vesting schedule and next vest date",
+   "recent Google L6 PM offer data on Levels.fyi",
+   "whether Google L6 scope is equivalent to or better than Meta IC6"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three in one message"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity vesting | $200K | $270K ($1.08M \u00f7 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without any refreshes: about $552K/yr for 4 years."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $526K figure overstates what Meta will actually pay you next year."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Why the sign-on is easy to justify: leaving Meta costs you real money."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-04T17:15:33+00:00"
+}

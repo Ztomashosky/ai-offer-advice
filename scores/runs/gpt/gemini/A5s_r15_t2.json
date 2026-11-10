@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In either case, you are taking home **$230,000 to $318,000 more in Year 1** than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting, provided the team and product domain appeal to you."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "These figures exclude equity refreshers and stock appreciation at both companies."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard sign-on clawback is 12 months and prorated.",
+    "quote": "Standard Google clawback is 12 months (pro-rated)."
+   },
+   {
+    "claim": "Google has a standard front-loaded 33/33/22/12 equity vesting schedule.",
+    "quote": "Google grants this on their standard front-loaded schedule (33% / 33% / 22% / 12%)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment timing and whether it is split across years",
+   "sign-on clawback duration and terms",
+   "equity vesting schedule",
+   "team and product scope",
+   "headcount ownership and ownership boundaries"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, you should strongly consider accepting, provided the team and product domain appeal to you."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": ""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (4-Yr)** | ~$1,000,000 | $1,080,000 | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Depending on whether Google grants this on their standard front-loaded schedule"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It fully replaces the $200,000 in unvested Meta RSUs in **liquid cash**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 15,
+ "turn": 2,
+ "at": "2026-11-02T23:45:44+00:00"
+}

@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and I'd take it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It's well above what you make now"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Before you sign, make one polite, specific request for more."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the median total pay for a Senior PM at Google in San Francisco Bay Area is $540,985"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "don't count refreshes when you compare."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Whether the sign-on is paid at once or split",
+   "Sign-on repayment amount and period if leaving early",
+   "Exact RSU vesting schedule in writing",
+   "How the grant value is converted into shares",
+   "Meta RSU vesting and bonus payout dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask once for $271K base plus either about $1.5M in equity or $50K more in sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer averages about $647K a year before the sign-on bonus and any refreshes"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your offer averages about $647K a year before the sign-on bonus and any refreshes"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on bonus covers your lost Meta stock."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:45:24+00:00"
+}

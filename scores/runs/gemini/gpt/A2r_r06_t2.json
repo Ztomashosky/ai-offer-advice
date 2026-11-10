@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is now a good, market-competitive offer. I would stop negotiating compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "A **15.6% premium over your current Meta run rate**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "Recommendation: accept if you are at least moderately excited about the role; decline if you distinctly prefer staying at Meta."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median reported compensation for Google L6 PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that employee-reported benchmark can include accumulated refresh grants and is not perfectly comparable to a new-hire offer."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "without refreshes, year four falls significantly below your current compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "I like my Meta role much more and would only move for a financial offer I couldn\u2019t refuse"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule and first vest date",
+   "First refresh-eligibility cycle",
+   "Whether first bonus is prorated",
+   "Share count and grant-date price determination",
+   "Start-date flexibility"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "I would lean toward accepting if the Google role, manager, and product area are at least as attractive as your current situation."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would stop negotiating compensation."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Improvement: **$56,000/year**, or **$224,000 over the grant**"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You are not economically \u201closing $200,000\u201d **in addition to** giving up your Meta compensation."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-02T21:32:58+00:00"
+}

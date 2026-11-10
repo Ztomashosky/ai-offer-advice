@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "$235k is on the lower side for an experienced IC6 lateral"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "nearly identical to what I already make (~$526k vs. $552k)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "do not walk away either.** You should **negotiate aggressively**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1280000,
+  "equity_ask_high": 1280000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Equity Band:** $1.0M \u2013 $1.4M over 4 years ($250k \u2013 $350k/yr)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Market Calibration for Google L6 PM (SF / Bay Area)"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "relies heavily on hitting target refreshers every single year"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "once the initial $1.08M grant completes after Year 4, your equity drops back down to ~$250,000/year"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "projection of comp rising to ~$458k in equity by Year 4"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "essentially lateral compensation"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google refuses to move on base salary, offers no sign-on bonus, and leaves total Year 1 compensation below **~$600,000**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "$255k is within the approved range",
+    "quote": "Asking for $255k is within the approved range (up to $271k)"
+   },
+   {
+    "claim": "sign-on standard at L6",
+    "quote": "$50,000 \u2013 $100,000+ is standard at L6 when pulling a strong performer"
+   },
+   {
+    "claim": "top of band TC",
+    "quote": "Top-of-Band L6 Total Comp:** $600,000 \u2013 $650,000+"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary: Ask for $255,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "A $200k increase on the 4-year grant ($50k/yr annualized)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp** | **~$526,000** | **$552,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Bridges the gap for walking away from Meta's upcoming vesting cycle"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:35:19+00:00"
+}

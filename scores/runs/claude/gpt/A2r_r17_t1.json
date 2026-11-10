@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **respectable market offer for Google L6**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it improves your stated Meta compensation by only about **5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the current offer as-is, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Current market data shows L6 packages extending well above your current offer"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Bay Area data puts median Google L6 PM compensation at approximately **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not value ungranted refreshes as if they were contractual compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "Is the role definitively approved and documented as L6?"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they make little or no improvement, **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting 38/32/20/10",
+    "quote": "Google\u2019s standard recent new-hire schedule is commonly reported as **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "companies more constrained on base than equity",
+    "quote": "companies can be more constrained on base than equity"
+   },
+   {
+    "claim": "sign-on appropriate for forfeited near-term equity",
+    "quote": "A sign-on bonus is particularly appropriate for compensating forfeited near-term equity."
+   }
+  ],
+  "missing_info_requested": [
+   "exact GSU vesting schedule",
+   "first vest date and frequency",
+   "share count conversion",
+   "refresh eligibility by start date",
+   "bonus proration and multipliers",
+   "sign-on make-whole possibility and clawback",
+   "L6 level confirmation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **New-hire equity: $1.35 million** - **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are forfeiting approximately $200,000 of currently scheduled Meta vesting."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250,000 | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The second number is less important than the first. The recurring average"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus is particularly appropriate for compensating forfeited near-term equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-03T00:42:25+00:00"
+}

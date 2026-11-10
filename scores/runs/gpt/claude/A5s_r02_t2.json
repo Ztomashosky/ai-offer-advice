@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The money now clearly supports switching: about $380K more over 4 years in guaranteed pay"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "Yes, if you actually want the job."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If Google refreshes match the recruiter's example, your Google pay in years 2\u20134 would be about $60\u2013190K a year higher."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If Google refreshes match the recruiter's example, your Google pay in years 2\u20134 would be about $60\u2013190K a year higher."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you're unsure, an extra ~$32K a year after year 1 is not much reason to leave a job you like."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "sign-on repayment terms",
+   "whether the sign-on is paid in one lump sum or split",
+   "RSU vesting schedule and first vest date",
+   "Meta bonus timing",
+   "whether the first Google bonus will be prorated",
+   "whether the candidate prefers the Google role, team, and manager"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, if you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Asking for more money now would probably gain little and could hurt the relationship before you start."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "~$758K** (240 + 48 bonus + 270 RSUs + 200 sign-on)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the extra money comes in year 1 through the sign-on bonus, though, so the yearly gain after that is small."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The sign-on bonus fully covers the RSUs you'd leave behind, and cash carries no stock-price risk."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on bonus fully covers the RSUs you'd leave behind, and cash carries no stock-price risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 2,
+ "turn": 2,
+ "at": "2026-11-03T16:54:16+00:00"
+}

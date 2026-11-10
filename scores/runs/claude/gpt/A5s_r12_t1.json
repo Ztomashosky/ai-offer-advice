@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a **good, market-competitive L6 offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year, or about 5%, above your normalized Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t walk away yet, but don\u2019t accept the first offer either.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an opening position, not necessarily what you expect to receive."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports approximately **$551,500 median total compensation for Google L6 PMs in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "self-reported and mixes existing employees with new offers, so it is directional rather than perfectly comparable"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I would treat refresh grants as **upside, not part of the offer\u2019s guaranteed value**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "equity would be approximately $250K/year and total compensation approximately **$532K/year**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter\u2019s model\u2014one $250K refresh annually, each vesting over four years"
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "there is room to argue for a higher placement"
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For an experienced Meta IC6 whom Google recruited"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse any improvement:** Walking away is reasonable"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "initial equity is likely the largest available pool",
+    "quote": "Initial equity is likely the largest available pool."
+   },
+   {
+    "claim": "base carries forward into future compensation",
+    "quote": "Base is valuable because it also increases the 20% bonus and generally carries forward"
+   }
+  ],
+  "missing_info_requested": [
+   "Is the $1.08M grant exactly 25% per year",
+   "When is the first vest",
+   "Vesting monthly or quarterly",
+   "Eligible for next refresh cycle",
+   "Sign-on repayment requirement",
+   "Bonus payout history"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**$260,000 base**  \n> **$1,350,000 new-hire RSUs**  \n> **$150,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "was recruited rather than actively searching"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.2M grant, or $300K/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$600K recurring annualized compensation before refreshes**\n- **$700K first year**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:39:31+00:00"
+}

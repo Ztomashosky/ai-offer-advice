@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1: about $282k more (+59%). Even without the sign-on, Google pays about $82k more."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Since you said pay matters a lot to you, I'd accept once the terms above check out."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Four years: about $380\u2013455k more in guaranteed pay."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Plan ahead for year 5, when Google pay drops sharply unless refresh grants have stacked up."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If Google refreshes match the recruiter's illustration, the gap is about $750k."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs usually vest quarterly around specified dates.",
+    "quote": "Meta stock usually vests quarterly, around the 15th of February, May, August, and November."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on repayment terms",
+   "Sign-on payment timing and whether it is split across years",
+   "Exact RSU vesting schedule and any cliff",
+   "How the RSU grant is converted into shares",
+   "Candidate's next Meta vest date",
+   "Meta bonus payment date and employment eligibility requirement"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, after checking a few terms in the offer letter"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push for more money"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs vest at the recruiter's even 25% a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 | $476k | $240k + $48k + $270k + **$200k sign-on** = **$758k**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Even without the sign-on, Google pays about $82k more."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving your Meta stock behind is now fully paid for."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 8,
+ "turn": 2,
+ "at": "2026-11-03T17:04:52+00:00"
+}

@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On money alone, this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays more than Meta in every year from 1 to 4."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you're happy with the role, team and manager."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Over four years that's about $380K more in the worst case and about $750K more in the recruiter's example."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Now, even with no refreshes at all, Google pays more than Meta in every year from 1 to 4."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Over four years that's about $380K more in the worst case and about $750K more in the recruiter's example."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Most of your year-1 lead depends on the sign-on, so only accept if you expect to stay at least that long."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta typically vests RSUs quarterly around specified dates.",
+    "quote": "Meta has typically vested RSUs quarterly around the 15th of Feb, May, Aug and Nov."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the candidate likes the role, team, and manager",
+   "Exact timing of the next Meta RSU vest",
+   "When Meta pays the annual bonus",
+   "Whether Google will permit a later start date",
+   "Sign-on payment timing and repayment terms",
+   "Google RSU vesting schedule and first refresh timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you're happy with the role, team and manager."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push again. They gave you twice the sign-on you asked for and called this their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The base is $240K, the target bonus is $48K, the RSUs are $270K a year, and there's a $200K sign-on."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without the sign-on, year 2 falls to about $558K. Don't set your spending based on the year-1 number."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 is about $280K (59%) above staying."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "If your roughly $36K annual bonus pays out in the spring, leaving now forfeits it."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-03T16:57:40+00:00"
+}

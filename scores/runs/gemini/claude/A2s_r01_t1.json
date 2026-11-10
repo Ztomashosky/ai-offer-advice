@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should negotiate before accepting."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Years 1\u20132 are clearly better, by roughly $100\u2013200K a year."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, and you should negotiate before accepting."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Stock is usually where Google has the most room to move. This also softens the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over four years, the guaranteed pay is about $2.2M, before any refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether it's truly the same level as your current job (Google L6 for Meta IC6) and the same scope."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers follow a 38/32/20/10 vesting schedule as of 2026",
+    "quote": "As of 2026, almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   },
+   {
+    "claim": "Stock is usually where Google has the most room to move",
+    "quote": "Stock is usually where Google has the most room to move."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "share conversion mechanism and date",
+   "bonus proration and refresh eligibility timing",
+   "level and scope alignment"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Pick one clear set of asks rather than haggling over each item:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can get to a $50K sign-on, $1.3M in stock and $255K base, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming your grant does too, here's how it plays out, not counting any refresh grants"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A $50K sign-on bonus. This is the easiest thing to justify: it covers the Meta bonus you'd forfeit plus the Meta stock vesting between now and your start date."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it covers the Meta bonus you'd forfeit plus the Meta stock vesting between now and your start date."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:23:22+00:00"
+}

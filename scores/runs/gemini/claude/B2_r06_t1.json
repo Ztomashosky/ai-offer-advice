@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer that sits around the middle of the market."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "I can't tell you whether this is a good deal without your current numbers."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as is, and don't walk away yet. Negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "- **New-hire stock: $1.4M.** That puts your yearly stock near the 75th percentile."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data for Google Senior PMs in the Bay Area:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Accept if the final 4-year total (without counting refreshes) beats staying at Meta"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google's current offer is basically a sideways move with a decline after year 2."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Walk away if Google won't improve meaningfully and the offer only matches what you'd earn at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers follow the 38/32/20/10 GSU vesting schedule as of 2026",
+    "quote": "As of 2026, almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   },
+   {
+    "claim": "Meta has cut annual stock awards by 5% for two consecutive years",
+    "quote": "Meta has reduced annual stock awards for the majority of its workforce by approximately 5%, marking the second consecutive year of equity cuts"
+   }
+  ],
+  "missing_info_requested": [
+   "Candidate's exact current Meta numbers (base, bonus target, vesting schedule by year, last refresh)",
+   "Vesting schedule confirmation in the Google offer letter"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need about $265K base, $1.4M in stock, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "- **Base: $265K.** That's top quarter of the posted range, with room left before the $271K ceiling."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Average yearly pay: $235K base + $47K bonus + $270K stock ($1.08M \u00f7 4) = **about $552K per year**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "- **Sign-on bonus: $100K.** Frame it as covering the Meta stock and bonus you'd give up."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "- **Sign-on bonus: $100K.** Frame it as covering the Meta stock and bonus you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T17:17:03+00:00"
+}

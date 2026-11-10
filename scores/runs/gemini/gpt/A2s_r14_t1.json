@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is **good, particularly on equity**, but it is not obviously strong enough"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The four-year average is only modestly above your stated Meta run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "It is an intentionally ambitious opening, but every requested component is defensible"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Levels.fyi data puts Bay Area Google L6 PM median compensation around **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that mixes existing employees, refresh grants, different vesting schedules, and possibly sign-on payments"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google refreshers should be treated as upside\u2014not part of the offer\u2014because they are discretionary."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they leave the offer unchanged, I would remain at Meta unless you believe the Google role is materially better"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vest percentages",
+   "First vest date",
+   "Monthly versus quarterly vesting",
+   "First-year bonus eligibility and proration",
+   "When first eligible for an annual equity refresh"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for $265,000 base, $1.4 million in RSUs, and a $150,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| New-hire equity | $1,080,000 | $270,000 |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That package averages about **$668,000 annually over four years**, before the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There is no sign-on payment to offset forfeited Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:32:32+00:00"
+}

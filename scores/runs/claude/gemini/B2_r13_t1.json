@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, it is a strong offer on paper, but it is not a \"blowout\" offer for a Meta IC6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "may not fully offset the drop-off from Year 2 to Year 4 unless you receive top ratings"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**You should negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Top-of-band L6 grant (~$310k\u2013$325k/yr equivalent) to guarantee long-term comp parity with Meta IC6"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "This is above the median for Google L6 PMs (typically ~$800k\u2013$950k) and sits near the 75th percentile"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google refreshers are performance-dependent, typically do not begin significantly impacting your cash flow until Year 2/3"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "At Meta (IC6), annual refreshers stack uniformly over 4 years (25% per year)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "you hold maximum leverage. You have zero downside in pushing for top-of-band numbers"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base bands have strict ceilings, bonus fixed by level",
+    "quote": "base salary bands have strict ceilings, bonus percentages are fixed by level (20% for L6)"
+   },
+   {
+    "claim": "Google front-loaded vesting schedule",
+    "quote": "Google typically uses a **front-loaded vesting schedule** (commonly 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "Google frequently offers sign-on for L6 from Meta",
+    "quote": "Google frequently offers sign-on bonuses for L6 hires coming from Meta/Apple/Amazon"
+   },
+   {
+    "claim": "Google L6 PM equity median",
+    "quote": "This is above the median for Google L6 PMs (typically ~$800k\u2013$950k)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "the two main levers are **Equity** and **Sign-on Bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "**$255,000 \u2013 $260,000** | Pushes toward the upper boundary"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "~$310k\u2013$325k/yr equivalent"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1:** ~$235k (Base) + $47k (Bonus) + ~$356k (33% Stock) = **~$638k TC**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving behind your unvested Meta RSUs and upcoming Meta bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:50:47+00:00"
+}

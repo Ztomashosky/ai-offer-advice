@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair, low-risk move, with a large Year 1 gain and moderately better pay after that."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about 6% above your $526k run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "Your ongoing pay rises only modestly, so the decision now depends mostly on whether you want the job."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You'd need Google's refreshes to make up the difference, and those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Stay if you'd only go for the money and expect to be happier at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses usually require repayment if the employee leaves within roughly a year.",
+    "quote": "Sign-ons usually have to be repaid, at least in part, if you leave within a year or so."
+   },
+   {
+    "claim": "Recruiters usually permit start dates a few weeks out.",
+    "quote": "Recruiters usually agree to a start date a few weeks out."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Sign-on payment timing and clawback terms",
+   "Start date",
+   "Exact next Meta vesting date",
+   "Meta bonus payment date",
+   "Prospective manager, role scope, and layoff or reorganization history"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, if you actually want the role."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push for more money"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Ongoing pay, not counting the sign-on: about $558k/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Ongoing pay, not counting the sign-on: about $558k/yr."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on fully replaces the $200k you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 10,
+ "turn": 2,
+ "at": "2026-11-04T16:36:54+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is an average initial offer"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "this initial package doesn\u2019t quite create the financial incentive needed"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Pushes your equity to the top quartile of L6 bands."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM equity grants often reach **$1.2M to $1.4M+** for strong candidates."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Meta also gives annual stackable refreshes."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "unless refreshes compensate for it"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "unacceptable for a lateral hire at L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "it is not compelling enough to leave Meta as a happy IC6"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google frequently uses sign-on bonuses to bridge unvested equity",
+    "quote": "Google frequently uses sign-on bonuses to bridge unvested equity and performance bonus timing when poaching from Meta"
+   },
+   {
+    "claim": "Google new-hire grants follow front-loaded vesting",
+    "quote": "Google new-hire grants typically follow a **front-loaded vesting schedule**"
+   },
+   {
+    "claim": "Google rarely pulls offers for counters",
+    "quote": "Google will rarely pull an offer for making a reasonable, professional counter-proposal."
+   }
+  ],
+  "missing_info_requested": [
+   "Clarify whether the offer letter specifies front-loaded or even 25%/year vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary | $235,000 | **$255,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$1,350,000** (~$337k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your Year 1 total comp is actually **~$638k\u2013$692k**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "to offset unvested equity and bonus transition timing"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:52:38+00:00"
+}

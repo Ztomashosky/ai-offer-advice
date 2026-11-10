@@ -1,0 +1,52 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 1,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:33:21+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:33:59+00:00",
+   "reply": "## Bottom line\n\n**This is a strong offer, not an obvious lowball. I would negotiate rather than accept immediately or walk away.**\n\nAssuming equal four-year vesting, full target bonus, and a flat stock price:\n\n| Component | Annualized value |\n|---|---:|\n| Base | $235,000 |\n| Target bonus | $47,000 |\n| RSUs | $270,000 |\n| **Target annual compensation** | **$552,000** |\n\nThe base is about **59% of the way through the posted range**\u2014though that is not the same as being at the 59th percentile of employees. Current self-reported Levels.fyi data puts Bay Area Senior PM compensation around **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**. That makes your $552,000 package roughly 15% above its reported 75th percentile. Leveling differs substantially among companies, but directionally this is a high-end Senior PM offer. ([levels.fyi](https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai))\n\nYour $235,000 base also compares favorably with broader San Francisco Senior PM base data, although broad salary sites often underrepresent equity-heavy public-company packages. ([builtin.com](https://builtin.com/salaries/us/san-francisco-ca/senior-product-manager?utm_source=openai))\n\n## What I would ask for\n\nMake a specific package counter:\n\n- **Base: $255,000**\n- **New-hire RSUs: $1,350,000 over four years**\n- **Sign-on bonus: $100,000**\n\nThat counter would produce:\n\n- Ongoing target compensation of approximately **$643,500**\n- First-year target compensation of approximately **$743,500**, including sign-on\n\nThis is an ambitious but defensible opening: roughly an 8.5% base increase and a 25% equity increase. It anchors near the high end of the Bay Area Senior PM market without exceeding the posted base range.\n\n### A realistic landing zone\n\nI would view this as a good negotiated outcome:\n\n- **Base:** $250,000\u2013$255,000\n- **RSUs:** $1,200,000\u2013$1,300,000\n- **Sign-on:** $50,000\u2013$100,000\n\nIf they cannot move all three, prioritize them in this order:\n\n1. **Initial RSU grant**\n2. **Sign-on bonus**\n3. **Base**\n\nEquity generally has the greatest room and four-year economic impact, while a sign-on bonus is often easier to approve because it does not permanently alter salary-band positioning. ([igotanoffer.com](https://igotanoffer.com/en/advice/product-manager-salary-negotiation?utm_source=openai))\n\nIf joining would cause you to forfeit an upcoming bonus or near-term vesting at Varrowby, calculate that precisely. If it exceeds $100,000, ask for a **dollar-for-dollar make-whole payment** rather than limiting the request to $100,000.\n\n## Suggested wording\n\n> I\u2019m very excited about the role and the team. The offer is strong, and I appreciate the work that went into it. Because I wasn\u2019t actively looking and would be leaving a position where I\u2019m happy, I\u2019d need a somewhat stronger package to make the move compelling.  \n>  \n> Based on the scope of the role and the market for senior product leadership in San Francisco, I\u2019d like to see whether you can get to a $255,000 base salary, a $1.35 million new-hire equity grant, and a $100,000 sign-on bonus. If we can get the package close to that level, I\u2019d be very enthusiastic about moving forward.\n\nIf true, you can strengthen the last sentence to:\n\n> If you can get the package to that level, I\u2019d be prepared to sign.\n\nDo not say that unless you really will sign.\n\nIf the recruiter asks you to choose one priority:\n\n> The equity is my first priority, followed by a sign-on bonus to recognize the switching cost.\n\n## Do not count refresh grants yet\n\nFor decision-making, value refreshers at **zero in your guaranteed compensation calculation**. Treat them as potential upside until Halvern gives you actual historical information.\n\nAsk the recruiter:\n\n- When would you first become eligible for a refresh?\n- What were the **median and typical range** of refresh grants for this level in the last two compensation cycles?\n- How did those amounts differ by performance rating?\n- What percentage of eligible Senior PMs received one?\n- How many years does each refresh vest over?\n- Is vesting quarterly, annually, or subject to a cliff?\n- Does the first refresh overlap fully with the new-hire grant?\n- Can they provide an anonymized example of compensation progression for someone at this level?\n\nRefreshers can stack, but because they are discretionary and often performance-dependent, they should not be used to justify a below-target initial package. ([calibrd.com](https://www.calibrd.com/interview-prep/rsu-offer?utm_source=openai))\n\n## Verify these terms before deciding\n\nYou also need written answers to:\n\n1. **Exact vesting schedule:** Is the $1.08 million actually 25% each year, or front/back-loaded?\n2. **Share conversion:** What stock price and measurement period determine the number of RSUs?\n3. **Grant timing:** When is the grant formally approved, and when does vesting begin?\n4. **Bonus history:** What have actual bonus payouts been relative to target over the past three years?\n5. **First-year bonus:** Is it prorated?\n6. **Trading restrictions:** Are there blackout periods that materially delay selling vested shares?\n7. **Level and promotion path:** Is \u201cSenior PM\u201d the appropriate internal level, and what is the next level?\n8. **Severance/change-in-control treatment:** What happens to unvested equity after a layoff or acquisition?\n\n## Accept versus walk away\n\nBecause you are happy at Varrowby and did not initiate the search, Halvern should clear a higher hurdle than \u201cmarket competitive.\u201d\n\nI would generally accept after negotiating if:\n\n- Halvern\u2019s **two-year expected compensation** is at least roughly **15\u201320% above** your realistic two-year Varrowby compensation, including upcoming vests and bonuses;\n- You are comfortable with Halvern\u2019s stock risk;\n- The role improves\u2014or at least does not weaken\u2014your scope, manager quality, and future promotion prospects.\n\nI would walk away if:\n\n- $552,000 is not materially better than what you expect to earn at Varrowby;\n- You would surrender substantial near-term vesting that Halvern will not replace;\n- The recruiter relies heavily on unspecified refresh grants to make the economics work;\n- The role is a title increase without a meaningful scope increase;\n- You would not want the job if Halvern\u2019s share price fell 30%.\n\n**My recommendation: counter at $255,000 base, $1.35 million RSUs, and $100,000 sign-on. Be prepared to accept something around $250,000 base, $1.2\u2013$1.3 million RSUs, and $50,000\u2013$100,000 sign-on\u2014provided the role itself is attractive and the resulting package gives you a meaningful premium over staying.**",
+   "searches": [
+    {
+     "type": "search",
+     "query": "2026 Senior Product Manager San Francisco total compensation public software company Levels.fyi",
+     "queries": [
+      "2026 Senior Product Manager San Francisco total compensation public software company Levels.fyi",
+      "Senior Product Manager salary San Francisco 2026 base equity compensation",
+      "Bay Area senior product manager compensation public tech company RSU offer negotiation",
+      "product manager offer negotiation equity sign-on bonus recruiter annual refresh grants"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 235000+0.20*235000+1080000/4",
+     "queries": [
+      "calculator: 235000+0.20*235000+1080000/4"
+     ]
+    }
+   ],
+   "citations": [
+    "https://builtin.com/salaries/us/san-francisco-ca/senior-product-manager?utm_source=openai",
+    "https://igotanoffer.com/en/advice/product-manager-salary-negotiation?utm_source=openai",
+    "https://www.calibrd.com/interview-prep/rsu-offer?utm_source=openai",
+    "https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai"
+   ],
+   "usage": {
+    "input": 14419,
+    "output": 3451
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:33:59+00:00"
+}

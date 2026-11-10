@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "That $608,000 four-year average is approximately in line with the currently reported Bay Area Google L6 PM median of about $606,000"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The revised offer is now meaningfully better financially. It\u2019s no longer merely a small raise dressed up as a job change."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My call: I would take it\u2014assuming the role, manager, and scope are reasonably attractive."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported Bay Area Google L6 PM median of about $606,000, although that self-reported figure includes existing employees who may have accumulated refresh grants."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that self-reported figure includes existing employees who may have accumulated refresh grants."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Don\u2019t assign any value to refreshes in your acceptance calculation, but the timing matters for the Year 3\u20135 compensation trajectory."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Sign-on clawback terms",
+   "Exact RSU vesting schedule",
+   "First-year bonus proration/eligibility",
+   "Refresh eligibility timing",
+   "Start date relative to Meta vesting"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My call: I would take it\u2014assuming the role, manager, and scope are reasonably attractive."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": ""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized initial equity | $250,000 | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$32,000 per year ahead after the sign-on disappears"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200,000 of Meta RSUs you would leave behind should not be added on top of your Meta compensation as a separate loss if they are already the equity component"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 11,
+ "turn": 2,
+ "at": "2026-11-02T23:29:49+00:00"
+}

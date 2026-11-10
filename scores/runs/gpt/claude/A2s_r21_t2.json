@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong final offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You come out about $330K ahead over 4 years, and most of that gain comes in year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as the role itself appeals to you."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Your ~$608K/yr average is right at the L6 market median (~$606K), up from about $50K below it."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "future refresh grants at either company aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A recruiter saying this is the best offer after a large move usually means it is final.",
+    "quote": "When a recruiter says \"best offer\" after a move this large, they usually mean it."
+   },
+   {
+    "claim": "Pushing for more equity at this stage risks goodwill.",
+    "quote": "Pushing for more equity now risks goodwill for little gain."
+   },
+   {
+    "claim": "The sign-on commonly has a 12- or 24-month repayment requirement.",
+    "quote": "You'll usually have to repay some or all of it if you leave within 12 months, sometimes 24."
+   },
+   {
+    "claim": "A short start-date delay is a normal request and costs Google nothing.",
+    "quote": "Delaying your start by a few weeks to collect either one is a normal request and costs Google nothing."
+   }
+  ],
+  "missing_info_requested": [
+   "RSU vesting schedule",
+   "sign-on clawback terms",
+   "whether the sign-on is paid as a lump sum or split across two years",
+   "next Meta bonus payout date",
+   "next Meta RSU vest date",
+   "written confirmation of level, sign-on terms, and vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "You've said compensation matters a lot, and $330K over 4 years is a real gain, so I'd accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing for more equity now risks goodwill for little gain."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming even vesting ($270K/yr) and the full 20% bonus target ($48K on the new base)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "After year 1, Google pays you only about $30K/yr more than Meta"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "That forfeited $200K is already counted in Meta's lower ~$476K year-1 number, so the table compares the two fairly."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 2,
+ "at": "2026-11-04T16:54:37+00:00"
+}

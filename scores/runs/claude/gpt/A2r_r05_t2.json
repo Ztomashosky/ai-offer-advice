@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "it is a strong, market-level L6 package, though not an extraordinary top-of-band one"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "15.6% above your current run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "I would take it if you are at least neutral-to-positive on the role"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the currently reported Bay Area median of approximately **$606,000 for Google L6 PMs**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value them at **zero for purposes of deciding whether the guaranteed offer is acceptable**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You materially prefer your current work, manager, or work-life balance."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants vest 38/32/20/10",
+    "quote": "Google new-hire grants are commonly reported as vesting approximately **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "refreshes adjustable not contractual",
+    "quote": "the modeled amount can be adjusted rather than functioning as a contractual entitlement"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity percentages by year",
+   "First vest date and vesting frequency",
+   "How share count is calculated",
+   "Whether first bonus is prorated",
+   "First refresh cycle eligibility",
+   "Clawback provisions",
+   "Meta next vest date for start-date timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Financially, I would now lean yes."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would **not submit another monetary counter**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250,000 | $320,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "your first 12 months would be"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "It should be compared with the Google equity that vests during the same period\u2014not added on top"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": "Be careful not to double-count this."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T21:31:21+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a solid offer, but not one I'd accept as it stands."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "right now the offer is a sideways move once I account for what I'd give up at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "That's about as much leverage as a candidate gets. I'd negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Stock is usually Google's most flexible lever. This is the biggest gain."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "For context, levels.fyi lists Google's median Product Manager pay at about $449K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Both companies give refresh grants, so they cancel out. Compare the offer against Meta without them."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "It's a sideways move, not a promotion."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if Google won't reach about $590\u2013600K a year on average, plus a sign-on that covers what you lose in year 1, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new hires receive their equity grant on the first Wednesday after their first full month.",
+    "quote": "Google new employees receive their equity grant on the first Wednesday after their first full month of employment"
+   },
+   {
+    "claim": "Refresh grants usually do not help much in year one.",
+    "quote": "Refresh grants usually don't help much in year 1."
+   },
+   {
+    "claim": "Stock is usually Google's most flexible compensation lever.",
+    "quote": "Stock is usually Google's most flexible lever."
+   }
+  ],
+  "missing_info_requested": [
+   "The applicable Google RSU vesting schedule, confirmed in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three in one request. Don't negotiate one item at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock per year | ~$250K, but only $200K in the next 12 months | $270K (if it vests evenly)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That would put you at about $640K a year on average, plus the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus and vest you give up, and the slow start to Google vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-04T16:49:05+00:00"
+}

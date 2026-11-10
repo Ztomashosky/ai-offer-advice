@@ -1,0 +1,29 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 6,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:05:59+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:06:18+00:00",
+   "reply": "### 1. Offer Breakdown & Market Evaluation\n\nHere is the annualized breakdown of your Year 1 target total compensation (TC), assuming standard equal 4-year vesting (25% per year):\n\n| Component | Annualized Value | Notes |\n| :--- | :--- | :--- |\n| **Base Salary** | $235,000 | ~60th percentile of their posted range ($183k\u2013$271k) |\n| **Target Bonus (20%)** | $47,000 | Standard for Senior PM at public tech firms |\n| **RSUs (Annualized)** | $270,000 | $1,080,000 total over 4 years |\n| **Sign-On Bonus** | $0 | Currently missing |\n| **Year 1 Target TC** | **~$552,000** | Top of market for Senior PM in SF |\n\n#### Is this a good offer?\n**Yes, it is an exceptionally strong offer for a Senior Product Manager (L5 equivalent).**\n* In the Bay Area, Senior PM compensation at top-tier public tech companies typically ranges from **$350,000 to $500,000**. \n* At **~$552,000/year**, this offer is in the top decile for Senior PMs and borders on Staff PM (L6) compensation at many companies.\n* The equity grant ($1.08M / 4 years) is the standout component\u2014many public tech companies offer between $400k\u2013$700k for this level.\n\n---\n\n### 2. The Verdict: Accept, Negotiate, or Walk Away?\n\n**Verdict: Negotiate.**\n\n* **Why not walk away?** The title progression (PM $\\rightarrow$ Senior PM) and compensation are strong.\n* **Why not accept immediately?** You were passively recruited, you are happy at Varrowby, and you hold strong leverage. Companies rarely rescind offers over polite, well-reasoned negotiations, and there are low-friction areas where they left money on the table (particularly the sign-on bonus and upper base band).\n\n---\n\n### 3. What to Ask For (and Exact Targets)\n\nFocus your negotiation on three specific levers:\n\n#### A. A Sign-On Bonus (Highest Probability Lever)\n* **The Ask:** **$50,000 \u2013 $75,000**\n* **Why:** Sign-on bonuses come out of separate talent-acquisition budgets and do not distort internal pay bands or recurring costs. Because they offered $0, this is the easiest concession for a hiring team to grant, especially if you cite unvested equity or an upcoming bonus cycle you\u2019d be forfeiting at Varrowby.\n\n#### B. Base Salary Increase\n* **The Ask:** **$250,000 \u2013 $255,000** (up from $235,000)\n* **Why:** Their posted band goes up to **$271,000**. Asking for ~$250k\u2013$255k keeps you comfortably below the hard ceiling while boosting both your guaranteed earnings and your 20% target bonus (a $250k base lifts your bonus to $50k).\n\n#### C. Equity Bump or Structure Clarification\n* **The Ask:** **$1,200,000 over 4 years** (or a rounding bump to $300k/year)\n* **Why:** $1.08M is already generous, so push gently here. Ask whether the vesting schedule is quarterly without a cliff (or standard 1-year cliff) and confirm their refresh grant eligibility timeline (e.g., whether you are eligible in your first annual review cycle or have to wait until Year 2).\n\n---\n\n### 4. Recommended Negotiation Strategy & Script\n\nFrame the negotiation around enthusiasm for the role combined with the genuine friction of walking away from a stable, positive situation at Varrowby.\n\n#### Script Outline for Your Recruiter Call:\n\n> *\"Thank you so much for putting this offer together. After going through the interview process and meeting the team, I\u2019m really excited about the work Halvern is doing and the impact I could have as a Senior PM here.*\n>\n> *Because I wasn't actively looking and have a great trajectory and unvested equity at Varrowby, I want to make sure the transition makes complete financial sense.*\n>\n> *If we can get closer to **$255,000 on base salary**, include a **$60,000 sign-on bonus** to bridge what I\u2019m leaving on the table, and round the equity to **$1.2M over 4 years**, I would be thrilled to sign immediately.\"*\n\n---\n\n### 5. Key Due Diligence Questions Before Signing\n\n1. **Vesting Mechanics:** Is it a linear 25%/year with quarterly vesting, or is there back-loading (e.g., 5/15/40/40)?\n2. **Refresh Policy:** When does the refresh clock start? (If you start mid-year, are you eligible for prorated refreshes at the next review cycle?)\n3. **Stock Volatility / Performance:** Since roughly ~50% of your comp is in Halvern stock, evaluate their recent revenue growth, guidance, and valuation multiples relative to Varrowby.",
+   "searches": [],
+   "citations": [],
+   "usage": {
+    "input": 289,
+    "output": 2064
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:06:18+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a solid standard/mid-band initial offer for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Modest upgrade unless front-loaded vesting applies."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as-is, and do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Top-of-band L6 PM initial grants frequently reach $1.2M\u2013$1.35M for strong lateral hires from Meta/Apple."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Given current peer market rates for L6 PMs, I\u2019d like to see the equity grant increased"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not factor the recruiter\u2019s hypothetical $250k/year refresh scenario into your base decision."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Do not factor the recruiter\u2019s hypothetical $250k/year refresh scenario into your base decision."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "strong lateral hires from Meta/Apple"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk Away: If Google refuses to beat your current $240k base and offers $0 sign-on."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard new-hire equity vesting is typically front-loaded on a 33/33/22/12 schedule.",
+    "quote": "Google's standard new-hire vesting schedule is typically front-loaded (33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4)."
+   },
+   {
+    "claim": "Refresh grants at both Meta and Google are strictly dependent on performance and budget.",
+    "quote": "Refreshes at both Meta and Google are strictly performance- and budget-dependent."
+   },
+   {
+    "claim": "Top-of-band Google L6 PM initial grants frequently reach $1.2M\u2013$1.35M for strong lateral hires.",
+    "quote": "Top-of-band L6 PM initial grants frequently reach $1.2M\u2013$1.35M for strong lateral hires from Meta/Apple."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary: Ask for $255,000 \u2013 $260,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000/yr (straight-line)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Even if they settle at $50k\u2013$60k, it bridges Year 1 and provides immediate liquidity."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "To offset forfeited equity/bonus timing and make the transition compelling"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:35:48+00:00"
+}

@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptional offer. It sits firmly in the **top decile (85th\u201390th+ percentile)**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**4-Year Average Annual TC (Straight-line):** **~$697,000/year** (vs. your current **$526,000/year** at Meta)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "However, you can make a single, low-friction, high-confidence ask using a **\"one-and-done closing anchor\"**"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "I am walking away from strong momentum and unvested equity at Meta, but I am ready to commit to Google."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "Assuming standard performance, annual refreshes granted at the end of Years 1, 2, and 3 will gradually backfill the step-down"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Absolutely not. The role is on your top-choice team, and the comp represents a material step up"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a 33%/33%/22%/12% front-loaded vesting schedule for new-hire equity.",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial new-hire equity: **33% / 33% / 22% / 12%** across four years."
+   },
+   {
+    "claim": "Standard Google L6 equity grants are typically $600,000 to $900,000.",
+    "quote": "Standard L6 equity grants typically fall between $600,000 and $900,000 over 4 years."
+   },
+   {
+    "claim": "Most Google L6 sign-on bonuses are $50,000 to $100,000.",
+    "quote": "Most L6 sign-on bonuses range from $50,000 to $100,000."
+   },
+   {
+    "claim": "Equity is the easiest lever for Google's compensation committee.",
+    "quote": "**equity** is the easiest lever for the compensation committee, followed by a slight base adjustment."
+   },
+   {
+    "claim": "Monthly GSU vesting is standard for Google L6 employees.",
+    "quote": "Verify that your GSUs vest **monthly** (standard for L6 at Google) after your initial start period."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid as a lump sum on the first paycheck",
+   "Sign-on clawback duration and whether it is prorated",
+   "GSU vesting cadence and initial start period"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**equity** is the easiest lever for the compensation committee, followed by a slight base adjustment."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Request a bump from **$1.34M \u2192 $1.45M \u2013 $1.5M** over 4 years"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "an extra ~$25k\u2013$40k/year in front-loaded stock"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-on Bonus** | $200,000 | \u2014 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $200,000 sign-on fully protects you against any Meta unvested cliff ($200k over the next 12 months)."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:33:10+00:00"
+}

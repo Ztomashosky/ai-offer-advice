@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Getting a **$200,000 cash sign-on bonus** alongside a base match ($240,000) and $1.08M in RSUs without holding a competing written offer is an outstanding outcome."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1: You are netting **~$844,400**, representing an immediate **+$318,000 to +$368,000 premium** over your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google L6 PM sign-on is near the top of Google's discretionary range.",
+    "quote": "For an L6 PM at Google, a $200k sign-on is near the absolute top of their discretionary band."
+   },
+   {
+    "claim": "Google uses a 33% / 33% / 22% / 12% front-loaded vesting schedule.",
+    "quote": "Because Google uses a front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "The standard sign-on clawback is prorated repayment for voluntary departure within 12 months.",
+    "quote": "standard is a prorated repayment if you voluntarily leave within the first 12 months"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing and whether it is split across years",
+   "Sign-on clawback terms",
+   "Timing of the next Meta vest or bonus payout",
+   "Written confirmation of team, reporting line, and office location"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "### 2. Why You Should Not Push Further"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Because Google uses a front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "your compensation for the first two years is extraordinary"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You told them you were walking away from $200,000 in unvested RSUs, and they gave you precisely that in cash sign-on"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-03T00:38:46+00:00"
+}

@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "They covered your lost stock and are offering about $80K/yr more on average"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Unless something about the team or role worries you, accept once the vesting and sign-on terms are confirmed."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assumptions: $240K base, 20% target bonus ($48K), $1.08M RSUs, a $200K sign-on in year 1, a flat stock price and no Google refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Moving at the same level only makes sense if the work is at least as good as what you have."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta usually vests stock quarterly.",
+    "quote": "Meta usually vests stock quarterly."
+   },
+   {
+    "claim": "Leaving Meta before its bonus payout usually means losing the bonus.",
+    "quote": "leaving before then usually means you lose it."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "How the RSU dollar grant converts into shares",
+   "Sign-on repayment and payment terms",
+   "Next Meta vesting date",
+   "Meta bonus payout timing",
+   "Google team, role scope, and manager"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it. Your last message didn't mention whether Google has confirmed the vesting schedule."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push for more money. They said this is their best offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Don't push for more money."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year average is about $608K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "a $200K sign-on in year 1, a flat stock price and no Google refreshes."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on fully covers the Meta stock you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 2,
+ "at": "2026-11-04T16:44:57+00:00"
+}

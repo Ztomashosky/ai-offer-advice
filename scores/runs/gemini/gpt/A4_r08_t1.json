@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Levels.fyi currently reports median L6 PM compensation in the Bay Area at about **$606K**, so your $647K annualized offer is above that benchmark."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On an annualized basis, Google is offering:\n\n- **$121K more recurring TC**\n- Approximately a **23% increase**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, but I would not walk away solely over compensation if Google holds firm."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 270000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "would provide somewhat better protection against the later-year equity drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports median L6 PM compensation in the Bay Area at about **$606K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Treat refreshers as **probable upside**, not guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the most useful lever because base may be constrained by the published band",
+    "quote": "Equity is usually the most useful lever because base may be constrained by the published band."
+   }
+  ],
+  "missing_info_requested": [
+   "exact equity vesting schedule percentages by year",
+   "first vest date and subsequent vesting cadence",
+   "sign-on payment schedule and repayment terms",
+   "bonus proration terms",
+   "refresher eligibility timing and first compensation review date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Prioritize **additional equity first**, base second, and sign-on third."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for $271,000 base and $1.55M\u2013$1.60M in RSUs"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250K | $335K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring annualized TC | $526K | $647K"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "avoid double-counting your $200K of upcoming Meta vesting. It is part of the $476K you would earn by staying, not a separate $200K loss"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The Google sign-on effectively recognizes and offsets that forfeiture."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:56:04+00:00"
+}

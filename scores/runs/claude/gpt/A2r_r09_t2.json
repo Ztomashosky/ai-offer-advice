@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "your final package is essentially at that current median"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "15.6% above your current run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "This is now a financially strong, takeable offer."
+  },
+  "intensity": {
+   "value": 0,
+   "quote": "I would stop negotiating the package"
+  },
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": "I would stop negotiating the package"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median compensation at approximately $606K"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "The $240K base also matches the broader reported L6 median."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should not treat discretionary refreshes as guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You strongly prefer your Meta manager, product, culture, or trajectory: Stay."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses 38/32/20/10 new-hire vesting",
+    "quote": "Google's commonly reported **38% / 32% / 20% / 10%** new-hire schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "Meta vest dates before Google start date",
+   "Vesting schedule, first vest date, grant date, refresh eligibility",
+   "Bonus proration and payment timing",
+   "Hiring manager, scope, team stability, L7 prospects"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My lean, based only on the facts provided: accept, subject to confirming the vesting schedule"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would stop negotiating the package. Continuing to demand more is unlikely to help."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $320K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Google: **$774K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You should compare the two alternatives, not subtract $200K from Google and then also count the lower Meta compensation."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": "The $200K of Meta RSUs is not necessarily an additional $200K loss"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-02T23:16:58+00:00"
+}

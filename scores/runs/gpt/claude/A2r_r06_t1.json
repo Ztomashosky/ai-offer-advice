@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "My verdict: the offer is decent but not strong enough."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Over four years it's about the same."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, and be ready to turn it down if Google won't improve it."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "an even split of $1.08M is only $270K/yr against your $250K/yr at Meta"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Don't count on refresh grants in your planning. Treat them as upside."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Here's what you'd earn each year with no refresh grants, assuming the full target bonus"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get there, staying at Meta is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's target bonus is set by level and rarely negotiable.",
+    "quote": "The 20% bonus target is set by level and is rarely negotiable."
+   },
+   {
+    "claim": "Equity is usually Google's most flexible negotiation lever.",
+    "quote": "Equity is usually Google's most flexible lever."
+   },
+   {
+    "claim": "A sign-on bonus is the easiest item for Google to approve.",
+    "quote": "This is the easiest thing for them to agree to."
+   },
+   {
+    "claim": "Meta would continue providing refresh grants.",
+    "quote": "Meta would keep giving you refreshes too, so they don't count as an advantage for Google."
+   },
+   {
+    "claim": "Meta RSUs typically vest quarterly on specified dates.",
+    "quote": "Meta RSUs typically vest quarterly around the 15th of February, May, August and November."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "Meta vesting dates",
+   "Meta bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all of it at once, in a single written or spoken counter"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "an even split of $1.08M is only $270K/yr against your $250K/yr at Meta"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "that's roughly $640K/yr averaged over four years, before the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "plus a sign-on that covers what you'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:18:35+00:00"
+}

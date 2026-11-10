@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On paper this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": "Whether it's actually a good deal for *you* depends on one thing you haven't told me: your current compensation at Varrowby."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't take it as is, and don't walk away. **Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "This is worth about $40K\u2013$55K a year and helps cover the years before refreshes add up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists the median total compensation for a Senior Product Manager at LinkedIn in San Francisco Bay Area at about $439K, and C3.ai at $383,600."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "At Varrowby you likely have several older grants vesting at once. At Halvern you'd have only the new-hire grant until refreshes start adding up"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "At Halvern you'd have only the new-hire grant until refreshes start adding up, and those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "accept if Halvern's **first two years** of pay (including any sign-on) beat what you'd realistically earn by staying at Varrowby by roughly **15\u201320% or more**."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonus usually comes from a separate budget from base pay",
+    "quote": "usually comes from a separate budget from base pay."
+   },
+   {
+    "claim": "Top of posted range is reserved for internal employees already in role",
+    "quote": "The very top of a range is usually kept for people already in the role, so asking for $271K would mostly be spent leverage."
+   },
+   {
+    "claim": "Bonus percentage is fixed by level and cannot be negotiated",
+    "quote": "Don't spend leverage on the bonus percentage. It's usually fixed by level."
+   }
+  ],
+  "missing_info_requested": [
+   "Current base, bonus, and yearly equity vesting at Varrowby",
+   "Vesting schedule details (even vs back-loaded, 1-year cliff)",
+   "Share conversion mechanism",
+   "Bonus proration and historical payout rates",
+   "Typical refresh grant sizes for strong performers"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all of these together, in one conversation:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you don't want to share exact numbers, **$75K\u2013$150K** is a reasonable range to ask for"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| RSUs ($1.08M \u00f7 4) | $270,000 |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "accept if Halvern's **first two years** of pay (including any sign-on) beat what you'd realistically earn by staying at Varrowby by roughly **15\u201320% or more**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "1. **Sign-on bonus to cover what you'd forfeit (most important).** Ask for the value of your Varrowby equity that would vest in the next 12 months, plus any bonus you'd lose."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T17:10:26+00:00"
+}

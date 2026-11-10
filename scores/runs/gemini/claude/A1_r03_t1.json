@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "That's below your current pay and below what Google typically pays at L6"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Over the four-year grant the offer pays about $458K a year on average, which is less than the roughly $526K you make at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as written, and don't walk away yet. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That works out to about **$606K a year on average**, roughly the L6 median"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median total pay for a Google L6 PM in the Bay Area at about **$606K**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assuming that schedule, and leaving out refresh grants:"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Levels.fyi puts the median total pay for a Google L6 PM in the Bay Area at about **$606K**."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google won't get close to that, staying at Meta is the better financial choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google stock vests 38% in year 1, 32% in year 2, 20% in year 3 and 10% in year 4",
+    "quote": "Several sources say nearly all Google offers now vest 38% in year 1, 32% in year 2, 20% in year 3 and 10% in year 4"
+   },
+   {
+    "claim": "Google often asks for proof of current pay",
+    "quote": "Google will often ask for proof of your current pay"
+   },
+   {
+    "claim": "Stock is usually where Google has the most room to move",
+    "quote": "Stock is usually where Google has the most room to move."
+   },
+   {
+    "claim": "Google commonly offers a $100K sign-on bonus",
+    "quote": "Sign-on bonus: $100K, which Google commonly offers."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and payout frequency in writing",
+   "When Meta pays annual bonus",
+   "Meta stock vesting dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $255K, $1.2M in stock, and a $100K sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over the four-year grant the offer pays about $458K a year on average"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus helps with the early years, but it doesn't fix the low years later."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Justify it with the Meta bonus you'd lose by leaving before it pays out and with the unvested Meta stock you'd leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:05:19+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this represents the upper quartile of Google L6 PM offers."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financial outperformance: You lock in near-$900k compensation in your first 12 months"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "From a purely financial standpoint: Yes, accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Year 3 | ~$526k | **~$504k** + Refresher stack (~$100k+)"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 4 | ~$526k | **~$396k** + Refresher stack (~$200k+)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Year 4 | ~$526k | **~$396k** + Refresher stack (~$200k+)"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standardly front-loads new-hire equity on a 38/32/20/10 schedule with monthly vesting.",
+    "quote": "Google's new-hire grants standardly front-load equity (typically **38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4** with monthly vesting)."
+   },
+   {
+    "claim": "Moving to Google resets a Meta promotion timeline by at least 18\u201324 months.",
+    "quote": "moving to Google resets that timeline by at least 18\u201324 months."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment timing",
+   "sign-on clawback period and proration",
+   "equity vesting schedule and cadence",
+   "whether the equity has a cliff",
+   "start-date flexibility around imminent Meta compensation milestones"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "From a purely financial standpoint: Yes, accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "From a purely financial standpoint: Yes, accept."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google's new-hire grants standardly front-load equity (typically **38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4** with monthly vesting)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Massive Year 1 windfall: You will take home **$230k to $370k+ more** in Year 1 than you would staying at Meta."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on bonus replaces the $200,000 in Meta stock you would walk away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 2,
+ "at": "2026-11-02T21:28:44+00:00"
+}

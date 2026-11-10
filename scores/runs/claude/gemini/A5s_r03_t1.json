@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a solid baseline initial offer for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Total Compensation (TC) is virtually lateral"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Shifts annualized equity from ~$270k to ~$312k\u2013$325k/yr."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Google frequently uses sign-on bonuses ($50k\u2013$100k+) for L6 hires"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should not trade guaranteed day-one compensation for hypothetical future performance grants."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": "The \"Refresher\" math is hypothetical"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "scope of this L6 role"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Don't bluff about walking away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads new-hire GSU grants 38/32/20/10",
+    "quote": "Google typically front-loads new-hire GSU grants (**38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4**)"
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses for L6 hires",
+    "quote": "Google frequently uses sign-on bonuses ($50k\u2013$100k+) for L6 hires, especially when poaching from Meta"
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the new-hire grant is front-loaded (38/32/20/10) or straight-line 25%/yr"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary | $235,000 | **$255,000 \u2013 $260,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You have a direct, credible market alternative (staying at Meta for >$520k)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Shifts annualized equity from ~$270k to ~$312k\u2013$325k/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "your Year 1 cash flow would be roughly ~$692k"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A **sign-on bonus of $80,000** to offset the transition friction and unvested momentum"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:27:21+00:00"
+}

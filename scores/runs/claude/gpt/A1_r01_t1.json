@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "but your offer still looks below market"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "It is below your current run-rate compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as written. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That creates an actual switching premium over your current $526K run rate"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently shows roughly **$551K median TC for L6 PMs in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These data mix new offers and existing employees, so they are directional rather than definitive"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "you should not value them at 100 cents on the dollar"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the role is definitively approved as L6, not subject to later leveling changes"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they remain near **$215K / $800K / $0**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has the greatest room to move",
+    "quote": "Equity usually has the greatest room to move and has the largest effect on total compensation"
+   },
+   {
+    "claim": "Google grants front-loaded historically",
+    "quote": "Google new-hire grants have historically been front-loaded"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-equity vesting percentages by year",
+   "First vest date and vesting frequency",
+   "Bonus proration",
+   "Refresh eligibility and range",
+   "Level approval confirmation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000** - **New-hire equity: $1.2 million** - **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, ignoring raises, stock movement and refreshes"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$612K annualized**, plus the one-time $100K sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "I expect approximately $476,000 over the next 12 months based on currently scheduled vesting"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:20:17+00:00"
+}

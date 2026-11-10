@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "At L6 in the Bay Area, strong/competing offers typically push equity into the $300k\u2013$340k/yr range."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "this offer is essentially flat relative to my current total compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should counter with clear, data-backed asks."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "At L6 in the Bay Area, strong/competing offers typically push equity into the $300k\u2013$340k/yr range."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "At L6 in the Bay Area, strong/competing offers typically push equity into the $300k\u2013$340k/yr range."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "it drops off sharply in Years 3 and 4 unless refreshes are consistently high."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move significantly:** **Walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google frequently uses front-loaded vesting schedules.",
+    "quote": "Google frequently uses front-loaded vesting (e.g., 38%/32%/20%/10% or 33%/33%/22%/12%)."
+   },
+   {
+    "claim": "Google regularly uses sign-on bonuses at L6 to bridge transition gaps.",
+    "quote": "Google regularly uses sign-on bonuses at L6 to bridge transition gaps."
+   },
+   {
+    "claim": "A base of $255,000\u2013$260,000 is within Google's budget.",
+    "quote": "Since their posted band tops out at $271,000, $255k\u2013$260k is well within their budget."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base Salary:** $255,000*\n> - * **Equity:** $1.3M over 4 years*\n> - * **Sign-on Bonus:** $90,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (Annualized)** | ~$250,000/yr | $270,000/yr ($1.08M / 4 yrs)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Leaving money on the table without a sign-on bonus makes your Year 1 risk-adjusted cash flow essentially flat or negative."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are forfeiting upcoming Meta vestings ($200k in the next 12 months)"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:29:42+00:00"
+}

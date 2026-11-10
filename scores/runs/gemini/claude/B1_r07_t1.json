@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "the offer is strong by market standards, and you're in a very good position to negotiate."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate, not accept as-is."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 30000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Base this on what you'd give up, not on wanting more."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For comparison, reported pay for Senior PMs at public software companies in the Bay Area:"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "At Halvern you'd start with only the new-hire grant, and refreshes aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Does \"Senior PM\" here match or exceed the level you're at now?"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If it's only a little higher, or lower, once forfeitures and your existing refreshes are counted: negotiate hard, especially for the sign-on. Be ready to walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Asking for $260K base is easy for them to approve because it is under their posted maximum.",
+    "quote": "That's still under their posted maximum, so it's easy for them to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "Current base, bonus, unvested stock, and refresh history at Varrowby",
+   "Vesting schedule and share count conversion details at Halvern",
+   "Typical refresh grant amounts and timeline",
+   "Historical bonus payout percentage",
+   "Level and scope comparison",
+   "Benefits (401k match and ESPP)"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Lead with whichever item matters most for your situation. Asking for all three is fine as long as you tie it to what leaving costs you."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$235K base + $47K bonus + $270K stock ($1.08M \u00f7 4) = **about $552K per year.**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**First-year target pay:** $235K base + $47K bonus + $270K stock ($1.08M \u00f7 4) = **about $552K per year.**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Halvern offered no sign-on bonus, so nothing covers that loss right now."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T17:11:27+00:00"
+}

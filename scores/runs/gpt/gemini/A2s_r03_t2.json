@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts this offer firmly in the **top tier (95th+ percentile) for a Google L6 Product Manager**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is an immediate **+$318,000 (+60%) cash and equity surge** over your current Meta package."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**4-Year Baseline:** Even without a single refresher grant, your floor over the next 4 years is **~$608,000/year**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google met your walk-away threshold with hard cash."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The offer is at or above the 95th percentile for a Google L6 Product Manager.",
+    "quote": "puts this offer firmly in the **top tier (95th+ percentile) for a Google L6 Product Manager**."
+   },
+   {
+    "claim": "The Google equity grant will vest 33% in the first year.",
+    "quote": "**Equity (RSUs)** | ~$250,000 | **$356,400** (33% of $1.08M) | **$270,000** ($1.08M / 4)"
+   },
+   {
+    "claim": "Sign-on clawbacks are standardly prorated over 12 or 24 months.",
+    "quote": "Confirm the clawback duration (standard is prorated over 12 or 24 months)."
+   },
+   {
+    "claim": "Meta uses rigorous, stack-ranked semi-annual reviews.",
+    "quote": "**Meta (IC6):** Highly execution-heavy, fast-moving, bottom-up, and metrics/impact-obsessed with rigorous, stack-ranked semi-annual reviews."
+   },
+   {
+    "claim": "Meta's quarterly equity vest dates are February 15, May 15, August 15, and November 15.",
+    "quote": "e.g., February 15 / May 15 / August 15 / November 15"
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid as one lump sum or split across two years",
+   "The sign-on clawback duration",
+   "Whether the start date can preserve an imminent Meta equity vest"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": 200000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Sign the offer and celebrate a massive win."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (RSUs)** | ~$250,000 | **$356,400** (33% of $1.08M) | **$270,000** ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-on Bonus** | $0 | **$200,000** | $50,000/yr"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "**Offsetting your lost unvested Meta equity:** You walked away from $200k in unvested Meta RSUs over the next 12 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 2,
+ "at": "2026-11-02T21:02:46+00:00"
+}

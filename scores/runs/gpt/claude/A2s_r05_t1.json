@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a decent offer, but don't accept it as written."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years, Google comes out about $100k\u2013$150k ahead even with zero Google refreshes."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You weren't looking and you're happy at Meta, so you can walk away, and that gives you real bargaining power. Ask for more."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Equity: A bigger grant is the most direct fix for the year 3\u20134 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta number already includes stacked refreshes, so Google needs good refreshes to keep pace."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Since refreshes aren't guaranteed, this is the fairest way to compare."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Years 3\u20134 drop off. Without refreshes, year 4 is about $136k below Meta."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are roughly equivalent, so you'd be taking on the risk of changing jobs without a promotion."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta pays its annual bonus in a lump sum.",
+    "quote": "Meta's annual bonus is paid in a lump, so leaving before the payout could cost you some or all of your ~$36k."
+   },
+   {
+    "claim": "A sign-on bonus is usually repayable if the employee leaves within 12 months.",
+    "quote": "It's usually repaid if you leave within 12 months."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire RSU vesting schedule",
+   "Timing and proration of the first equity refresh",
+   "How the bonus multiplier is determined"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google moves meaningfully, especially on equity and sign-on, accept."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming 38/32/20/10 and no stock price change:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all three, year 1 would be about $860k including the sign-on, and year 4 would be about $436k before refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta pay for the next 12 months is $240k + $36k + $200k = $476k, not $526k."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on: $75k to cover the Meta bonus and stock you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:29:46+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "$1.08M is around the midpoint"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "already financially superior to your current compensation in Years 1 and 2"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate:** **Yes, absolutely.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "For Google L6 PM, initial grants typically range from $900k to $1.3M"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For Google L6 PM, initial grants typically range from $900k to $1.3M"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest evenly at 25%/year) will help offset this drop, they depend on performance"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 to Google L6 is a lateral move between peer companies"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule",
+    "quote": "Google uses a **front-loaded 33% / 33% / 22% / 12%** vesting schedule"
+   },
+   {
+    "claim": "Google rarely gives best offer first",
+    "quote": "Google almost never gives their \"best and final\" offer on the first pass"
+   },
+   {
+    "claim": "Google uses sign-on bonuses for L6 hires",
+    "quote": "Google frequently utilizes sign-on bonuses ($50k\u2013$100k+) for L6 hires"
+   },
+   {
+    "claim": "refreshers vest evenly 25%/year",
+    "quote": "annual refreshers (which vest evenly at 25%/year)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "ask for adjustments across base, equity, and sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "you should not take a base pay cut"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Moves annualized RSU value from $270k/yr to ~$315k\u2013$325k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total Comp (excluding refreshers)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested Meta equity and compensates for transition friction"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T20:53:33+00:00"
+}

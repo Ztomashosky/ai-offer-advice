@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good market offer, but not a compelling \u201cleave a job you like\u201d offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only a $26,000 annual premium\u2014roughly 5%"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as-is, but don\u2019t walk away before countering."
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": 255000,
+  "base_expected_high": 265000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an anchor, not necessarily your expected landing point."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Bay Area data puts Google L6 PM compensation around $581,000 on average, with an average base around $266,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For purposes of deciding whether to join, value refreshers at zero."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google holds at the current package: I would probably decline"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact initial-grant vesting schedule",
+   "grant pricing date and first vest date",
+   "refresh cycle eligibility and proration rules",
+   "how L6 PM refreshes are determined",
+   "historical bonus payout relative to target"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "bring the base to $270,000, increase the new-hire equity grant to $1.35 million, and include a $100,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "bring the base to $270,000, increase the new-hire equity grant to $1.35 million, and include a $100,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google\u2019s four-year normalized compensation is about $552,000/year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on is additional first-year compensation, not recurring compensation, so don\u2019t let Google use a sign-on to disguise a weak four-year package."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on compensates for forgone Meta compensation"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T01:01:51+00:00"
+}

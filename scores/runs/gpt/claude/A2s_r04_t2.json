@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this offer is roughly a $300\u2013400K gain spread over 4 years, mostly up front."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, this is worth taking, as long as you actually want the job and the written offer checks out."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The figures below assume the $200K sign-on is paid in year 1 and leave out refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you'd mainly be going for the money and you're lukewarm on the work, staying at Meta is a reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs usually vest quarterly.",
+    "quote": "Meta RSUs usually vest quarterly"
+   },
+   {
+    "claim": "A first-year rating decides Google refresh grants.",
+    "quote": "a first-year rating that decides your refreshes"
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Sign-on payment timing and clawback terms",
+   "Stock-price or averaging window used to determine share count",
+   "Next Meta RSU vest date",
+   "Meta bonus payment date",
+   "Preferred team and scope"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, this is worth taking, as long as you actually want the job and the written offer checks out."
+  },
+  "final_threshold": 600000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "pushing for more money is unlikely to work and could cost you goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "With even vesting, years 2\u20134 are about $558K a year, compared with about $526K at Meta now."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The weak spot: after year 1, the extra pay is small."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 compared with staying (about $476K): Google pays $280\u2013420K more, depending on the vesting schedule."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on covers the Meta RSUs you'd give up next year"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-03T16:28:40+00:00"
+}

@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "pushed the package into top-of-market territory for an L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You earn roughly $430k\u2013$450k more over the next 24 months"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "pushed the package into top-of-market territory for an L6 PM"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "you will need solid performance ratings to stack annual equity refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Take the offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google grants equity on a front-loaded schedule 33/33/22/12 or 38/32/20/10",
+    "quote": "Google grants equity on a front-loaded schedule (typically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**)"
+   },
+   {
+    "claim": "clawback period typically 12 months pro-rated",
+    "quote": "verify the clawback period (typically 12 months pro-rated or lump-sum repayment if you leave voluntarily within Year 1)"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment schedule and clawback terms",
+   "Vesting schedule breakdown (33/33/22/12 vs 38/32/20/10, monthly/quarterly)"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Can You Negotiate Further?**\n\n**No."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google (New Offer) | Difference"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200k \"walk-away\" unvested equity is replaced immediately in liquid cash"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k \"walk-away\" unvested equity is replaced immediately in liquid cash"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-03T00:39:38+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should accept it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the package already beats both your current pay and typical pay for this level at Google"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd make one polite request for a little more first, mostly in equity."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1400000,
+  "equity_expected_high": 1450000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Stock is the most flexible part of Google's offers and protects you in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median total pay at L6 at $606,937 per year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google's numbers don't include refresh grants, since those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is the most flexible component of Google's offers.",
+    "quote": "Stock is the most flexible part of Google's offers and protects you in years 3\u20134."
+   }
+  ],
+  "missing_info_requested": [
+   "The applicable RSU vesting schedule",
+   "Whether the sign-on must be repaid after an early departure",
+   "How long the sign-on repayment obligation lasts"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "This is your main ask. Stock is the most flexible part of Google's offers"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "But you have no competing offer, so ask for modest, specific amounts"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer averages about $647K a year over four years, before any refresh grants."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200K sign-on bonus fully covers the $200K of stock you'd give up in the next year."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Only $200K of your stock vests in the next 12 months, so staying at Meta pays about $476K next year"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on bonus fully covers the $200K of stock you'd give up in the next year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:50:48+00:00"
+}

@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer. You should seriously consider accepting it, provided you are open to the move."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the financial gap has been resolved in Google\u2019s favor for Year 1 and parity for Year 2+"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If you have any interest in working at Google, accept the offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Securing ~$750k+ in Year 1 is rare at L6 without an active bidding war."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you genuinely prefer Meta's culture and are on the verge of an IC7 promotion, you can walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 sign-on is at the top of Google's band for an L6 PM without a competing offer.",
+    "quote": "A $200k sign-on for an L6 PM without a competing offer letter in hand is at the top of Google's band."
+   },
+   {
+    "claim": "The recruiter has almost certainly reached Google's hiring committee or compensation approval ceiling.",
+    "quote": "they have almost certainly hit the ceiling of their hiring committee / compensation approval limits."
+   },
+   {
+    "claim": "Standard Google sign-on bonuses have a 12-month prorated clawback.",
+    "quote": "Standard Google sign-on bonuses have a 12-month clawback (you must repay a prorated portion if you leave before 1 year)."
+   },
+   {
+    "claim": "Google uses a front-loaded 33%/33%/22%/12% equity vesting schedule.",
+    "quote": "Google\u2019s front-loaded schedule (e.g., 33%/33%/22%/12%)."
+   },
+   {
+    "claim": "Meta's standard target bonus at IC6 is 15%.",
+    "quote": "Google\u2019s target bonus is 20% vs Meta\u2019s standard 15% at IC6"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on bonus clawback period and repayment structure",
+   "new-hire RSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If you have any interest in working at Google, accept the offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "If you have any interest in working at Google, accept the offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized RSU Vesting** | ~$250,000 (next 12mo: $200k) | **$270,000** ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total** | **~$476,000 \u2013 $526,000** | **~$758,000** *(or up to ~$844,000 if front-loaded)*"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Annualized RSU Vesting** | ~$250,000 (next 12mo: $200k) | **$270,000** ($1.08M / 4)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "That completely covers your unvested equity forfeit and gives you significant immediate liquidity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-02T23:47:12+00:00"
+}

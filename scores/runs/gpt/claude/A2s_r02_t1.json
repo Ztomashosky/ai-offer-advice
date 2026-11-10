@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't great given your situation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the four-year gain is small unless Google's refresh grants turn out to be generous."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Over four years, ignoring refresh grants at Google"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over four years, ignoring refresh grants at Google"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move at all."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on money is often the easiest compensation lever for Google to approve.",
+    "quote": "Sign-on money is often the easiest for them to approve."
+   },
+   {
+    "claim": "Google's bonus is usually multiplied by performance rating.",
+    "quote": "It usually is, so $47K is a target, not a promise."
+   },
+   {
+    "claim": "Meta refresh grants will continue building if the candidate stays.",
+    "quote": "Your Meta refresh grants keep building if you stay."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's vesting schedule in writing",
+   "Whether the bonus is multiplied by performance rating",
+   "Whether the equity grant is fixed in dollars or shares",
+   "Exact timing of upcoming Meta vesting and bonus payments"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three at once."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Leaving means giving up about $200K of stock vesting next year"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.35M (about $337K a year)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus | $100K, paid over years 1\u20132"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "$240K base + $36K bonus + $200K RSUs = about $476K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd lose stock that's about to vest and possibly a Meta bonus payout"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:24:47+00:00"
+}

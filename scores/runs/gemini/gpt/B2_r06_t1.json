@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Within the broad L6 market"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Roughly comparable to, or somewhat below, typical Meta IC6 compensation"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept or walk away immediately."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Recent self-reported data puts Google L6 PM compensation in the Bay Area around $606,000 median total compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported data puts Google L6 PM compensation in the Bay Area around $606,000 median total compensation"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "another recent U.S.-wide analysis puts L6 PM median TC closer to $514,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These datasets mix new offers and existing employees, and can include refresh grants and stock movement"
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "For comparison, reported Meta L6 PM compensation is roughly $578,000\u2013$595,000, again with the same crowdsourced-data caveats."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not value unspecified future refreshes as though they are guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "persuading a happy Meta IC6 to make a lateral-level move."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "stay at Meta if Google cannot close the gap with your actual forward compensation."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses a front-loaded vesting schedule of 38% / 32% / 20% / 10%",
+    "quote": "Google commonly uses a front-loaded schedule of 38% / 32% / 20% / 10%, though other schedules have been reported."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule percentages",
+   "current/forward-looking Meta compensation",
+   "unvested Meta equity and bonus forfeited"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for $260K / $1.4M / $150K, aim to land around $255K / $1.3M / $100K\u2013$150K"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a simple four-year annualized basis:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This should be your primary recurring-compensation ask."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on is especially important as a make-whole for compensation I would leave behind at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T22:16:04+00:00"
+}

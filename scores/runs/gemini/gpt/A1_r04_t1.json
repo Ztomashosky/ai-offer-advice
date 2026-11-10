@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Recent compensation data puts Google L6 PM median base around **$240,000**, annual stock around **$230,000**, and total compensation around **$514,000\u2013$551,000**, depending on the dataset and geographic filtering. Your $215,000 base is therefore notably light for L6"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "The Google offer starts roughly **$272,000 behind**, before considering the risk and inconvenience of moving."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept this offer as-is, but don\u2019t walk away before giving Google a chance to improve it."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Looking at the Google offer over the full four-year grant period\u2014and not assuming discretionary refresh grants\u2014the current package would represent a meaningful reduction in both base salary and average total compensation."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Google L6 PM median base around **$240,000**, annual stock around **$230,000**, and total compensation around **$514,000\u2013$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "They should not be treated as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether there is room for **L7 consideration**\u2014but only if your interview feedback and expected scope genuinely support L7."
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably decline if the final offer remains near:\n\n- $215,000\u2013$225,000 base\n- $800,000 equity\n- No sign-on"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule for the $800,000 grant",
+   "Grant valuation mechanics (stock price/date used)",
+   "First vest date and frequency (monthly or quarterly)",
+   "When you first become eligible for a refresh grant",
+   "Whether joining date affects first-year bonus or refresh eligibility",
+   "Whether the bonus is prorated in Year 1",
+   "Sign-on bonus clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Give the recruiter a clear, package-level counter:\n\n- **Base: $250,000**\n- **New-hire equity: $1.2 million**\n- **Sign-on bonus: $75,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.2 million equity, the guaranteed target package averages approximately:\n\n- $250,000 base\n- $50,000 bonus\n- $300,000 average annual initial equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$600,000 average annual TC over four years**\n- Plus the $75,000 one-time sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:23:03+00:00"
+}

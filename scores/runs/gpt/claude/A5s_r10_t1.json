@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Self-reported data is noisy, but your offer looks competitive, not exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is ahead by only about $26K/yr in years 2\u20134."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Short answer: negotiate.** This is a solid offer, so don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": null,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "The guaranteed gain over Meta is small, and you'd be giving up a known track record"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "A Google salary summary also lists Product Manager L6 $607K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If things go as the recruiter described, Google pays about $530K more over 4 years"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google's steady state (~$532K) is about the same as Meta's (~$526K)."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google + recruiter's refresh example"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, staying is a reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has changed its vesting schedule several times.",
+    "quote": "Google has changed its schedule several times."
+   },
+   {
+    "claim": "Google traditionally used equal four-year vesting and adopted a front-loaded schedule in summer 2021.",
+    "quote": "Traditionally, it vested equally over 4 years (25% each year), however in Summer of 2021, they decided on a new, front-loaded, vesting schedule."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly around mid-November.",
+    "quote": "Meta RSUs usually vest quarterly, typically around mid-November."
+   }
+  ],
+  "missing_info_requested": [
+   "Google new-hire RSU vesting schedule",
+   "Timing of the candidate's next Meta RSU vest",
+   "When the Meta bonus pays and whether it would be lost"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Send one counter covering all three items:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google's numbers use target bonus and equal vesting, which is what the recruiter's $270K figure implies."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This covers the Meta bonus and unvested RSUs you'd give up, plus the year-1 risk."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The fair comparison is what you'd earn **going forward** at each company, not your current $526K average. Meta assumes about $200K vests next year."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This covers the Meta bonus and unvested RSUs you'd give up, plus the year-1 risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-04T17:01:38+00:00"
+}

@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, not an obvious lowball."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Halvern\u2019s **two-year expected compensation** is at least roughly **15\u201320% above** your realistic two-year Varrowby compensation"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept immediately or walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Current self-reported Levels.fyi data puts Bay Area Senior PM compensation around **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Levels.fyi data puts Bay Area Senior PM compensation around **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value refreshers at **zero in your guaranteed compensation calculation**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "$552,000 is not materially better than what you expect to earn at Varrowby"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity generally has the greatest room and sign-on is easier to approve",
+    "quote": "Equity generally has the greatest room and four-year economic impact, while a sign-on bonus is often easier to approve"
+   }
+  ],
+  "missing_info_requested": [
+   "Current compensation at Varrowby",
+   "Exact vesting schedule",
+   "Historical refresh grant data and eligibility",
+   "Historical bonus payouts relative to target"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make a specific package counter:\n\n- **Base: $255,000**\n- **New-hire RSUs: $1,350,000 over four years**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Make a specific package counter:\n\n- **Base: $255,000**\n- **New-hire RSUs: $1,350,000 over four years**\n- **Sign-on bonus: $100,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming equal four-year vesting, full target bonus, and a flat stock price:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Ongoing target compensation of approximately **$643,500**\n- First-year target compensation of approximately **$743,500**, including sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for a **dollar-for-dollar make-whole payment** rather than limiting the request to $100,000."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T22:07:33+00:00"
+}

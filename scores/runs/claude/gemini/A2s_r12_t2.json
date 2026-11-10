@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "A **$200,000 sign-on bonus** at Google L6 is at the absolute top of their discretionary exception band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is a **~$440,000+ net gain** in your first 24 months."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, from a compensation standpoint, you should take this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Even if you received *zero* equity refreshers at Google, your 4-year total comp would be **~$2.43M**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Negotiation has reached its limit; pushing further risks goodwill."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on at top of discretionary exception band",
+    "quote": "at Google L6 is at the absolute top of their discretionary exception band"
+   },
+   {
+    "claim": "Google front-loads equity 33/33/22/12",
+    "quote": "Because Google front-loads equity grants (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "Google standard sign-on clawbacks typically 12 months",
+    "quote": "Google standard sign-on clawbacks are typically 12 months (pro-rated monthly if you leave before 1 year)"
+   },
+   {
+    "claim": "Meta often matches or issues retention refreshers",
+    "quote": "Meta often matches or issues retention refreshers to defend senior talent against Google."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on disbursement schedule",
+   "clawback terms",
+   "team/scope and manager alignment"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, from a compensation standpoint, you should take this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Negotiation has reached its limit; pushing further risks goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "GSU Equity | $356,400 (33%) | $356,400 (33%) | $237,600 (22%) | $129,600 (12%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Verify whether the $200k is paid out in a single lump sum in your first 1\u20132 paychecks or split across Year 1 and Year 2"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "effectively paid you cash upfront for your unvested Meta RSUs *on top* of Google\u2019s standard front-loaded equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 12,
+ "turn": 2,
+ "at": "2026-11-02T23:23:31+00:00"
+}

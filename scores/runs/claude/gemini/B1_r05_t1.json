@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptional offer."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "For a Senior PM, standard equity typically hovers between $150,000 and $220,000 per year."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "often matching or exceeding L5/IC5 packages at Tier-1 companies like Meta, Google, and Uber"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": "Confirm when you become eligible for the stacking annual refresh grants"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "You should not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on is easiest bucket to unlock without triggering approvals",
+    "quote": "This is the easiest bucket for recruiters to unlock without triggering internal equity/band approvals."
+   },
+   {
+    "claim": "even $300k/year is standard pushback for public tech RSU pools",
+    "quote": "An even $300k/year is standard pushback for public tech RSU pools."
+   },
+   {
+    "claim": "leaving out sign-on is standard for initial offer",
+    "quote": "Leaving this out is standard for an initial offer from public tech companies"
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule (cliff vs quarterly)",
+   "refresh grant eligibility timing and typical SPM grant size"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I am looking to close the gap in a couple of areas"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Your Target Counter"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,080,000 over 4 years = $270,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus ($0):** Leaving this out is standard for an initial offer"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It offsets any unvested equity or impending annual bonus you forfeit at Varrowby."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:39:51+00:00"
+}

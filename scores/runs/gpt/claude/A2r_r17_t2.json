@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "it's at or above the typical Google L6 PM level."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about $82K/yr more than your current ~$526K, a **raise of about 16%**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it.** This offer clears the bar I suggested last time."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Year by year, assuming the 38/32/20/10 vesting schedule and no refreshes:**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refreshes will probably make up the year-four compensation gap if the candidate performs well.",
+    "quote": "Because refreshes stack, they probably will if you perform well, but they aren't guaranteed."
+   },
+   {
+    "claim": "Meta has a November 15 stock vest worth about $50,000 to the candidate.",
+    "quote": "That's when about $50K of Meta stock vests."
+   },
+   {
+    "claim": "Leaving Meta would probably forfeit the second-half 2026 bonus.",
+    "quote": "You'd probably lose the second-half 2026 bonus, very roughly $18\u201336K."
+   },
+   {
+    "claim": "Recruiters can often obtain sign-on money even when base and stock are maxed.",
+    "quote": "Recruiters can often find sign-on money even when base and stock are maxed out."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "20% bonus target in the offer letter",
+   "stock grant amount and denomination in the offer letter",
+   "Google start date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it.** This offer clears the bar I suggested last time."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "**Make one short, polite ask for a sign-on bonus, and only one.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240K base + $48K bonus (20%) + $320K stock = **about $608K/yr**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The one thing missing is a sign-on bonus, and one small last ask for it is reasonable."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "So don't subtract the $200K again."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 2,
+ "at": "2026-11-04T16:21:08+00:00"
+}

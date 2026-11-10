@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this is a clearly better offer, mainly because of a large, guaranteed Year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. This offer clears the bar I suggested, and it beats the realistic outcome I predicted for Year 1."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Google, with illustrated refreshes"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Years 2\u20134 (per year) | ~$526k | $558k | $620k \u2192 $683k \u2192 $745k"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, with illustrated refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs typically vest quarterly on specified dates.",
+    "quote": "Meta RSUs typically vest quarterly around the 15th of Feb, May, Aug and Nov."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid at once or split over Years 1\u20132",
+   "Sign-on repayment and clawback terms",
+   "Meta RSU vest dates",
+   "Upcoming Meta bonus payout timing",
+   "Google RSU vesting cadence and any cliff",
+   "How the RSU dollar grant converts to shares",
+   "How the first refresh is prorated based on start date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If you're comfortable leaving a job you like, I'd accept after checking a few terms in writing."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing again would likely gain little and could cost goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Years 2\u20134 (per year) | ~$526k | $558k | $620k \u2192 $683k \u2192 $745k"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "After Year 1, your guaranteed edge is thin. It's only about $32k/yr in Years 2\u20134."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "only $200k of RSUs vest in the next 12 months, versus your ~$250k/yr average."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Your forfeited RSUs are fully replaced in cash, which is more certain than stock."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 17,
+ "turn": 2,
+ "at": "2026-11-04T17:13:15+00:00"
+}

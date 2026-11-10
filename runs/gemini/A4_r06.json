@@ -1,0 +1,39 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 6,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T19:58:54+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T19:59:23+00:00",
+   "reply": "### 1. Is This a Good Offer?\n\n**Yes, this is an exceptional, top-of-band offer for a Google L6 Senior Product Manager.**\n\nHere is how the numbers break down compared to your current compensation at Meta:\n\n| Component | Current (Meta IC6) | Google L6 (Year 1) | Google L6 (4-Yr Annual Avg) |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $260,000 | $260,000 |\n| **Target Bonus** | ~$36,000 (15%) | $52,000 (20%) | $52,000 |\n| **RSUs / Year** | ~$250,000 | ~$442,200 *(at 33% vest)* | $335,000 *(straight avg)* |\n| **Sign-on Bonus** | \u2014 | $200,000 | $50,000 *(amortized)* |\n| **Total Comp (TC)** | **~$526,000** | **~$954,200** | **~$697,000** |\n\n#### Why this offer stands out:\n* **Market Benchmark:** The median total compensation for Google L6 PMs in the Bay Area is typically **$520,000\u2013$580,000/year**. At an annualized average of **~$697,000/year** (and ~$950k in Year 1), this offer sits at the **90th+ percentile**.\n* **Base Salary ($260k):** The posted band is $183k\u2013$271k. Your offer is within 4% of the maximum limit.\n* **Sign-On Bonus ($200k):** Standard Google L6 sign-ons without a competing offer typically range from $50k to $100k. Google structured this $200k bonus specifically to buy out your upcoming $200k unvested Meta RSUs.\n* **Google's Front-Loaded Equity Schedule:** Google distributes new-hire GSUs on a front-loaded schedule (typically **33% / 33% / 22% / 12%** over 4 years). You will receive roughly **$442,000 in equity per year** in Years 1 and 2, resulting in massive upfront liquidity.\n\n---\n\n### 2. Should You Accept, Negotiate, or Walk Away?\n\n* **Walk Away?** **No.** Google is your first-choice company, you are excited about the team, and the financial upside is a 30%\u201380%+ jump over Meta.\n* **Hard/Aggressive Negotiation?** **No.** You do not have a competing offer, and this package already has top-tier exceptions built into it (namely the $200k sign-on and $1.34M equity). Pushing aggressively could risk goodwill before joining.\n* **Soft \"One-Shot\" Closing Negotiation?** **Yes, but only as a commitment to sign immediately.**\n\n---\n\n### 3. What to Ask For (If You Negotiate)\n\nBecause your offer is already near the top of the band, Google's compensation committee will not double the equity or bonus. However, you can make a single, low-friction request to maximize the package before signing.\n\n#### The Specific Asks:\n1. **Base Salary to the Band Max:** Ask to move base from **$260,000 to $270,000** (closing the gap to the posted $271,000 ceiling).\n2. **Round Up Equity:** Ask to round the GSU grant from **$1,340,000 to $1,400,000** (+$60,000 over 4 years).\n\nDo not touch the sign-on bonus ($200k is already at the extreme high end for L6) or the target bonus percentage (20% is fixed by level at Google).\n\n---\n\n### 4. Negotiation Script\n\nCall your recruiter and use a collaborative, closing-focused tone:\n\n> *\"Thank you so much for putting this package together. I'm genuinely thrilled about the team, the scope, and the impact I can have at Google, and this role is my top choice.*  \n>  \n> *I want to be completely transparent: if we can adjust the **base salary to $270,000** (near the top of the posted range) and round the **equity to $1.4M**, I am ready to sign the offer letter today without hesitation.*  \n>  \n> *Is this something you can take to the compensation committee for a quick sign-off?\"*\n\n### Bottom Line\nIf Google agrees to the adjustment, you gain an extra ~$25k/yr. If the recruiter responds that the offer is already at the maximum approved budget, **accept the offer happily**. It is a fantastic package that significantly outearns your current compensation at Meta.",
+   "searches": [
+    {
+     "query": "Google L6 Product manager levels fyi salary compensation"
+    },
+    {
+     "query": "Google L6 PM levels fyi Bay Area"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-H9f4VUFNQY1acYKhsY8tBajhi0T2BjMJ5MIDs2EvnvkkDmBi9TTrbczKIpJVC7B-P7o4Hb62CrXleH-utTyYVu1UAYXqDqvkcmKgjIfC6czfiL0u_Uj3SbKhZvwjUxiXiXTKEQXR5dvHrVb86igTPIrJEspEilJP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0C0iLrqyI1iqiP5UUx3Iy-mrQsgYQQROd-ng2fQvW-qmScxNaerPKCTwtBDaeOSHTEf78rq7sz4-2qsBMYXuTWhPiPBdTH7_brOAw3gQfvC02HkLtVGW5pGbqq4LdC6EFn5VrqHKrhY-YoH-fvvlQgik2M3eSS-IYA_7J5E0="
+   ],
+   "usage": {
+    "input": 399,
+    "output": 3105
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T19:59:23+00:00"
+}

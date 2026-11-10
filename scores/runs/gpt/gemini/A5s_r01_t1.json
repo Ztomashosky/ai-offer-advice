@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it is a standard baseline offer for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "it is virtually flat against your Meta comp."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Push on all three levers (Base to $255k+, RSUs to $1.3M+, Sign-on to $75k+)."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "make the ongoing equity meaningful relative to my Meta grants."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google almost never starts with its maximum L6 offer.",
+    "quote": "Google almost never leads with their top-of-band offer for L6, especially on equity and sign-on bonuses."
+   },
+   {
+    "claim": "Google expects candidates to counter.",
+    "quote": "They expect a counteroffer."
+   },
+   {
+    "claim": "Meta gives annual refresh grants that stack.",
+    "quote": "Meta also issues annual refreshers that stack over time."
+   },
+   {
+    "claim": "Google may use one of the stated front-loaded vesting schedules.",
+    "quote": "Google's front-loaded schedule (e.g., 33%/33%/22%/12% or 38%/32%/20%/10%)."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the $1.08M grant vests evenly or follows a front-loaded schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push on all three levers (Base to $255k+, RSUs to $1.3M+, Sign-on to $75k+)."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Averages **$325k \u2013 $350k/yr** in equity."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Includes sign-on; annualized run rate of ~$630k+."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "To offset the disruption to my unvested equity schedule and upcoming bonus cycle"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:24:33+00:00"
+}

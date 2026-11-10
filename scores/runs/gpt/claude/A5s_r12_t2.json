@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Google covered your biggest real cost of leaving, and this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "So Google comes out about **$380K ahead** even if it never gives you a refresh"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as you like the role and team."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "That's well above the ~$606K median for the level."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Over 4 years, assuming Google gives you no refreshes at all:**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google converts the dollar-denominated RSU grant into shares using its stock price around the candidate's start date.",
+    "quote": "The $1.08M becomes a number of shares based on Google's stock price around your start date."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms, including prorating and gross versus after-tax repayment",
+   "sign-on payment timing and whether it is split across years",
+   "RSU vesting schedule, front-loading, and any cliff",
+   "how the RSU share count is calculated",
+   "next Meta vesting date and bonus payout date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as you like the role and team."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn't push for more money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Google:** $240K + $48K + $270K RSUs + $200K sign-on = **about $758K**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "When the sign-on ends, your pay falls from about $758K to about $560K plus refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your forfeited Meta RSUs would have been taxed the same way, so the comparison is still fair."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on covers the full ~$200K of Meta stock you'd give up over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 2,
+ "at": "2026-11-04T17:05:42+00:00"
+}

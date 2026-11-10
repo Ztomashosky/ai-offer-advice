@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **solid baseline offer**, but it leaves substantial money on the table"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Years 1 and 2, your total compensation increases by **~$112,000/year (~21%)** compared to Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 80000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Anchor high and hold firm"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "targeting the upper quartile for an L6 PM in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they are performance-dependent and not contractually guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google L6 (Senior PM / Group PM) is an appropriate lateral match"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I am prepared to sign and begin planning my start date"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google typically uses a **front-loaded vesting schedule** for initial grants (33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4)"
+   },
+   {
+    "claim": "refreshes vest evenly at 25%/year",
+    "quote": "Annual refresh grants (which vest evenly at 25%/year over 4 years)"
+   },
+   {
+    "claim": "recruiters have wider discretion on sign-on and equity",
+    "quote": "a larger sign-on bonus and increased equity grant size, where recruiters typically have wider discretion"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm the vesting schedule in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Present a counter-offer targeting the upper quartile for an L6 PM"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You have roughly $200,000 in unvested Meta RSUs vesting over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Increases your 4-year average equity from $270k/yr to $312.5k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus:** At **$0**, it fails to account for the risk and unvested Meta equity"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving your near-term unvested Meta equity cliff and the transition risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:28:37+00:00"
+}

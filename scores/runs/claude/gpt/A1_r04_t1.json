@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your $215,000 base is therefore notably light for L6"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "The Google offer starts roughly **$272,000 behind**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Counter at $250,000 base, $1.2 million equity and $75,000 sign-on.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "annual stock around **$230,000**, and total compensation around **$514,000\u2013$551,000**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Google L6 PM median base around **$240,000**, annual stock around **$230,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "They should not be treated as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether there is room for **L7 consideration**"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether there is room for **L7 consideration**\u2014but only if your interview feedback"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably decline if the final offer remains near:"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads new-hire equity",
+    "quote": "Google commonly front-loads new-hire equity"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule for the grant",
+   "Grant valuation mechanics",
+   "First vest date and frequency",
+   "Refresh eligibility timing",
+   "Year 1 bonus proration",
+   "Clawback on sign-on"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base: $250,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Your $215,000 base is therefore notably light for L6"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$300,000 average annual initial equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Plus the $75,000 one-time sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Actual vesting during the next 12 months: approximately $200,000"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:22:40+00:00"
+}

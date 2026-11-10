@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "For a Google L6 PM, this is a solid offer that sits a bit above the middle of the market."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Meta's IC6 corresponds to Google's L6, so a typical IC6 PM at Meta already earns more than this offer averages."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you shouldn't accept it without negotiating. You weren't looking and you're happy where you are, so your fallback is staying put."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi data from October 2026 puts L5 at $410K, L6 at $612K for Meta PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, Google PM pay rises to $514,125 at L6. The middle half of L6 PMs earn roughly $419,700 to $671,136."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "If you've been at Meta a few years, those refreshes have stacked up, and your current pay probably won't drop off the way this offer does"
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "move only if Google's 4-year average (without counting refreshes) beats your Meta run-rate by about 15% or more."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta's IC6 corresponds to Google's L6"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Walk away if Google can't get to a 4-year average that clearly beats your Meta run-rate."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "99% of Google offers follow a 38/32/20/10 front-loaded vesting schedule",
+    "quote": "99% of Google's offers follow the 38/32/20/10 GSU vesting structure, and Google's GSUs vest monthly."
+   },
+   {
+    "claim": "Stock is usually the most flexible component in Google offers",
+    "quote": "Stock is usually the most flexible part of a Google offer."
+   }
+  ],
+  "missing_info_requested": [
+   "actual Meta pay for the next 12 months (base, bonus, stock vesting schedule)",
+   "Meta bonus payout date",
+   "forfeited unvested Meta stock value"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to [base / GSU / sign-on], I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "| Base | $235K | **$265K** (near the top of the posted range) | $250\u2013260K |"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At about $255K base, a $1.3M grant and a $75K sign-on, the offer works out to roughly **$875K in year 1 and a $650K average**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At about $255K base, a $1.3M grant and a $75K sign-on, the offer works out to roughly **$875K in year 1 and a $650K average**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The offer has no sign-on bonus, so nothing currently covers any of this."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T17:16:04+00:00"
+}

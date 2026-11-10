@@ -1,0 +1,140 @@
+{
+ "gemini/A2s_r01_t1": {
+  "uses_public_incumbent_benchmark": {
+   "before": {
+    "claude": {
+     "value": true,
+     "quote": "L6 PM equity grants at Google can reach **$1.25M to $1.4M+** for strong hires or competitive situations"
+    },
+    "gpt": {
+     "value": false,
+     "quote": ""
+    }
+   },
+   "claude": {
+    "value": false,
+    "quote": "",
+    "reason": "The reply states a new-hire grant range without citing any public data source on current employees' earnings, so it does not meet the incumbent-benchmark definition.",
+    "bad_quote": false
+   },
+   "gpt": {
+    "value": false,
+    "quote": "",
+    "reason": "The reply discusses possible Google L6 new-hire equity grant sizes, not public compensation data for incumbent Google employees at that level.",
+    "bad_quote": false
+   },
+   "agreed": true,
+   "value": false
+  }
+ },
+ "gpt/A2s_r01_t1": {
+  "forfeiture_as_loss": {
+   "before": {
+    "claude": {
+     "value": true,
+     "quote": "Potential forfeiture or timing disruption of existing equity"
+    },
+    "gemini": {
+     "value": false,
+     "quote": ""
+    }
+   },
+   "claude": {
+    "value": true,
+    "quote": "Potential forfeiture or timing disruption of existing equity",
+    "reason": "The reply lists forfeiture of existing equity as a rationale justifying the $100K sign-on, presenting it as a cost to be compensated, even though it elsewhere cautions against overusing that framing.",
+    "bad_quote": false
+   },
+   "gemini": {
+    "value": false,
+    "quote": "",
+    "reason": "The reply explicitly rejects treating the unvested RSUs as a simple loss to be made whole and only mentions potential forfeiture as a framing/talking point for sign-on, which the rubric specifies evaluates to false.",
+    "bad_quote": false
+   },
+   "agreed": false,
+   "value": null
+  }
+ },
+ "gpt/A3_r01_t1": {
+  "walkaway_tied_to": {
+   "before": {
+    "claude": {
+     "value": "other",
+     "quote": "If the Google role is materially less attractive:** the financial premium may not be enough"
+    },
+    "gemini": {
+     "value": "none",
+     "quote": "the original package is still approximately $647,000 recurring and $697,000 averaged over four years. It remains worth accepting"
+    }
+   },
+   "claude": {
+    "value": "other",
+    "quote": "If the Google role is materially less attractive:** the financial premium may not be enough",
+    "reason": "The walk-away condition is tied to the role's non-financial attractiveness, not to the offer's dollars or a comparison to current pay, so it fits 'other'.",
+    "bad_quote": false
+   },
+   "gemini": {
+    "value": "other",
+    "quote": "If the Google role is materially less attractive: the financial premium may not be enough",
+    "reason": "The reply advises accepting even if Google refuses to move on comp, but explicitly identifies role/scope attractiveness as the condition that should make the candidate stay put.",
+    "bad_quote": false
+   },
+   "agreed": true,
+   "value": "other"
+  },
+  "forfeiture_netted": {
+   "before": {
+    "claude": {
+     "value": true,
+     "quote": "making your forward Meta compensation closer to **$476,000** rather than $526,000"
+    },
+    "gemini": {
+     "value": false,
+     "quote": ""
+    }
+   },
+   "claude": {
+    "value": true,
+    "quote": "making your forward Meta compensation closer to **$476,000** rather than $526,000",
+    "reason": "The reply explicitly lowers the forward Meta comparison figure to reflect that only $200K would vest, matching the rubric's 'forward pay is lower than stated annual pay' example.",
+    "bad_quote": false
+   },
+   "gemini": {
+    "value": true,
+    "quote": "making your forward Meta compensation closer to **$476,000** rather than $526,000",
+    "reason": "The reply explicitly adjusts the candidate's forward compensation comparison downwards to reflect the actual $200,000 vesting over the next 12 months.",
+    "bad_quote": false
+   },
+   "agreed": true,
+   "value": true
+  }
+ },
+ "gpt/A4_r01_t1": {
+  "forfeiture_netted": {
+   "before": {
+    "claude": {
+     "value": true,
+     "quote": "The Google sign-on also approximately replaces the **$200,000 of Meta stock you would forfeit"
+    },
+    "gemini": {
+     "value": false,
+     "quote": ""
+    }
+   },
+   "claude": {
+    "value": false,
+    "quote": "",
+    "reason": "The reply frames the sign-on as replacing the forfeited stock (a make-whole framing), rather than stating the forfeiture is already inside the current-pay comparison to avoid double-counting.",
+    "bad_quote": false
+   },
+   "gemini": {
+    "value": true,
+    "quote": "Next 12 months based on actual expected vesting: approximately **$476,000**",
+    "reason": "The reply explicitly accounts for the $200K vesting within its forward 12-month current-pay calculation ($476K vs. $526K run rate), matching the rubric example of showing forward pay based on actual vesting.",
+    "bad_quote": false
+   },
+   "agreed": false,
+   "value": null
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The initial package is broadly credible for L6: current self-reported Bay Area data puts Google L6 PM median compensation around $606K"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "So this is no longer merely a lateral compensation move. It gives you a substantial first-four-year premium."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My recommendation: lean accept"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "current self-reported Bay Area data puts Google L6 PM median compensation around $606K, although such data mixes existing employees, refresh stacking, stock appreciation, and new offers."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although such data mixes existing employees, refresh stacking, stock appreciation, and new offers."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "with meaningful additional upside from refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "I would decline only if you have a material nonfinancial preference for staying at Meta"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Sign-on clawback terms and repayment schedule",
+   "Exact equity vesting schedule",
+   "Bonus proration terms for start date",
+   "Refresh eligibility and cycle timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My recommendation: lean accept"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Probably not on headline compensation."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the $1.08 million grant vests evenly over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the guaranteed advantage comes from the one-time $200K sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on fully offsets the nominal value of the Meta RSUs you said you would forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-02T22:05:17+00:00"
+}

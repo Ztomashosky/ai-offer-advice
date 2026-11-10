@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a strong first-two-year offer but only a market-level four-year offer for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "reinforces that Google\u2019s offer is not obviously a \u201cleave Meta\u201d premium"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an ambitious but defensible opening\u2014not necessarily your minimum."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data for Google L6 PMs in the Bay Area reports approximately: - $551,000 average annual TC"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Zero refresh equity in your downside case"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Accept only if the revised guaranteed package clearly beats your actual Meta stay scenario or the Google role is materially better."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "candidate's actual Meta stay scenario compensation over next 24 months",
+   "historical Google L6 PM refresh ranges and vesting schedules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity is my highest priority, followed by base and sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for: - Base: $260,000 - New-hire RSUs: $1.35 million - Sign-on/make-whole: $100,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An extra $100,000 RSU grant adds $100,000 of nominal four-year compensation."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A $50,000 sign-on adds $50,000 immediately but does not recur."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "prioritize a sign-on specifically sized to cover that forfeiture. Don\u2019t simply ask for a generic $50,000 if you can document that leaving costs you $120,000"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T22:15:30+00:00"
+}

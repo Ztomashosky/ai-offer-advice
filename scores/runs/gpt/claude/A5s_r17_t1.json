@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a solid offer, but not an exceptional one"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Year 1, the year that's most certain, you gain only about $26k (5%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is. Negotiate, and push hardest on the parts that are guaranteed"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "leaving means giving up significant unvested Meta equity and bonus."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta $250k/yr already includes refreshes that have built up over time."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The refresh illustration was helpful, but since it isn't guaranteed, I can't count it."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google's eventual steady state (about $532k) is basically the same as Meta's."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's $458k Year 4 equity figure depends on three good refresh cycles in a row."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move and you're left with a 5% gain in Year 1, plus a risky Year 5 if refreshes don't come through, staying where you're happy is reasonable."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The first refresh may be prorated based on start date.",
+    "quote": "Your first refresh may also be prorated, depending on your start date."
+   },
+   {
+    "claim": "Equity and sign-on generally have more negotiating flexibility than base because base is constrained by pay bands.",
+    "quote": "Equity and the sign-on bonus usually have more room to move than base, because base is tied to pay bands."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule, cliff, and monthly versus quarterly vesting",
+   "Method and stock-price average used to convert the grant into shares",
+   "Sign-on bonus clawback terms",
+   "Refresh timing and start-date proration",
+   "Total unvested Meta equity beyond the next 12 months"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "push hardest on the parts that are guaranteed: new-hire equity and a sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At a realistic outcome ($250k base, $1.25M RSUs, $50k sign-on): Year 1 comes to about $660k."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The real advantage is a temporary bump in Years 2\u20134, while the new-hire grant overlaps with new refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 | ~$526k (only ~$476k is already granted) | $552k | $552k"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving means giving up significant unvested Meta equity and bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-04T17:12:34+00:00"
+}

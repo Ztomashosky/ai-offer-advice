@@ -1,0 +1,58 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A2r",
+ "rep": 10,
+ "wave": 2,
+ "dry": false,
+ "started_at": "2026-11-03T23:53:59+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T23:54:52+00:00",
+   "reply": "The offer is decent, but I'd negotiate before accepting. Here's why, and what to ask for.\n\n## How the offer compares\n\nComparing your past pay ($526k) to Google isn't the fair test. The fair test is what you'd earn over the next 12 months by staying versus leaving. If you leave Meta, you lose everything that hasn't vested yet.\n\n**Staying at Meta, next 12 months:** $240k + ~$36k + ~$200k = **about $476k**. Your vesting is dropping from $250k to $200k a year, so staying would only grow your pay if Meta gives you new refresh grants. It may well do that.\n\n**Google, year 1:** How much stock you get each year depends on the vesting schedule, and your summary doesn't say which one applies. Google has used several. Levels.fyi lists 33% / 33% / 22% / 12%, 50% / 28% / 12% / 10%, 36% / 28% / 20% / 16%, and 25% each year.\n\nHere's what each schedule means for your pay, with no refresh grants:\n\n| Schedule | Yr 1 | Yr 2 | Yr 3 | Yr 4 |\n|---|---|---|---|---|\n| 25/25/25/25 | $552k | $552k | $552k | $552k |\n| 33/33/22/12 | $638k | $638k | $520k | $412k |\n| 36/28/20/16 | $671k | $584k | $498k | $455k |\n| 50/28/12/10 | $822k | $584k | $412k | $390k |\n\n(Each column is $282k of base plus target bonus, plus that year's stock.)\n\n**What this means:**\n- Year 1 is $76k\u2013$346k more than staying, depending on the schedule. That's real money but not life-changing, and it's before taxes and any change in either stock's price.\n- The 4-year average is $552k, only about 5% above your current $526k. With most of the front-loaded schedules, years 3\u20134 fall below what you make now unless refreshes fill the gap. Refresh grants follow a four-year vesting schedule with 25% vesting each year. Over time, this creates stacked vesting schedules. But as the recruiter said, refreshes aren't guaranteed, and Meta gives them too, so they don't favor either side.\n- This is a move between equivalent levels (Meta IC6 to Google L6), not a promotion, so it doesn't change your career trajectory.\n- The base is $5k *lower* than you make now. It's slightly above the middle of the posted range ($227k) and well below the $271k top.\n- There's no sign-on bonus, so nothing makes up for the stock you'd give up, or for a partial first-year bonus if your Google bonus is prorated by start date.\n\n**Bottom line:** For an equivalent-level move, the offer is fair but not compelling. You weren't looking and you're happy, so your strongest leverage is that you can easily say no. Use it.\n\n## What to ask for\n\nAsk for everything in one request, not piece by piece:\n\n1. **Base: $260k** (up from $235k). That's near the top of the posted range without hitting the $271k ceiling. Point out that the current offer is a pay cut from your Meta base. Expect to land around $250k\u2013$260k.\n2. **Sign-on bonus: $100k** (up from $0). Frame it as making up for the Meta stock and bonus you'd give up. This is usually the easiest thing for big tech to add. Expect $50k\u2013$100k.\n3. **Stock: $1.35M** (up from $1.08M, about +25%). Recruiters often have the most room to move on stock. Expect $1.2M\u2013$1.3M.\n4. **Get the vesting schedule in writing** before you decide. As the table shows, it can swing year-1 pay by about $270k.\n\nIf they agree to all of it, year 1 is roughly $650k\u2013$900k depending on schedule, and the 4-year average is about $610k without refreshes. At that point the move pays off clearly.\n\n**How to say it:** \"I wasn't looking and I'm happy at Meta, but I'm genuinely excited about this role. Leaving means walking away from unvested equity, and the current base is below what I make now. If you can get to a $260k base, $1.35M in RSUs, and a $100k sign-on, I'm ready to sign.\" Telling them you'll sign at that number gives the recruiter what they need to get approval.\n\n## What to do\n- **Negotiate.** Don't accept as-is. Walking away now would also be premature, since a counteroffer costs you nothing.\n- Decide your walk-away point in advance. A reasonable one: if Google won't add a sign-on bonus and meaningfully raise either base or stock, stay.\n- Before picking a start date, check when your next Meta stock vest and bonus payout land. Starting just after them can be worth tens of thousands.\n- You could tell your Meta manager about the offer to see if they'll counter, but only if you'd really consider staying.\n- Compensation matters to you, but only you can weigh the non-pay factors: the team, the product, your manager, and the risk of starting over somewhere new.",
+   "searches": [
+    {
+     "query": "Google new hire RSU vesting schedule 2025"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule 2025"
+    },
+    {
+     "query": "Google L6 Senior Product Manager salary levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager total compensation"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 35851,
+    "output": 4046,
+    "web_searches": 4
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  },
+  {
+   "prompt": "T2_final_recurring",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs raised to $1,280,000 (vesting over 4 years), and no sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T23:55:15+00:00",
+   "reply": "**Yes. This offer is worth accepting**, as long as the job itself appeals to you. Google raised the stock by $200k, which roughly covers the $200k of Meta stock you'd give up in the next 12 months. Since they've called it their best offer, pushing again probably won't get you much more. Before you sign, though, there are two things to settle, and they could be worth more than another round of negotiating.\n\n## The new numbers\n\nCash is now $240k base plus a $48k target bonus, so $288k. The stock grant is $1.28M.\n\n| Vesting schedule | Yr 1 | Yr 2 | Yr 3 | Yr 4 |\n|---|---|---|---|---|\n| 25/25/25/25 | $608k | $608k | $608k | $608k |\n| 33/33/22/12 | $710k | $710k | $570k | $442k |\n| 36/28/20/16 | $749k | $646k | $544k | $493k |\n| 50/28/12/10 | $928k | $646k | $442k | $416k |\n\n**Compared with staying at Meta (about $476k over the next 12 months):**\n- **Year 1:** $132k to $452k more, depending on the schedule.\n- **4-year average:** $608k, about 16% above what you're paid now ($526k). In the first offer the gap was only 5%.\n- **Base:** now equal to your Meta base, so you're no longer taking a pay cut.\n- **Risk:** on the front-loaded schedules, years 3 and 4 fall below your current pay unless Google gives you refresh grants. Meta's pay would also depend on refreshes, so this risk applies to both choices. It's still the main weakness of the offer.\n\nThe first offer was fair but not compelling. This one is clearly better financially.\n\n## Before you sign\n\n**1. Get the vesting schedule in writing.** It changes your year-1 pay by up to about $320k, and you need to know it to judge the offer properly. Asking about it isn't negotiating, so it won't put the offer at risk.\n\n**2. Choose your start date around Meta payouts.** Since Google won't pay a sign-on bonus, timing is the main way you can recover more money:\n- Meta stock usually vests every quarter. If your next vest is soon (often mid-month in Feb, May, Aug and Nov), resigning after it could keep about $50k.\n- Meta usually pays bonuses around March, and you generally have to be employed on the payout date to get one. Waiting could keep up to about $36k. Google may not accept a start date that far out, but you can ask.\n- Check the exact dates in your Meta equity portal and bonus policy. Also ask Google whether your first-year bonus will be prorated by start date.\n\nAsking for a later start is a normal request and much less likely to fail than asking for more money.\n\n## Asking once more?\n\nYou can try one polite request: \"Is there any flexibility for even a modest sign-on?\" Offers are rarely withdrawn over a request like that. But when Google says \"best offer,\" it usually means it. A small sign-on bonus would probably be worth less to you than getting the start date right, so I'd focus on the date.\n\n## Bottom line\n\nAccept if you'd be happy in the role, team and product. You were happy at Meta, so the move should be about more than money. If you're unsure about the work itself, an extra ~$80k a year on average is still a reasonable price to stay where you're happy. If you are excited about the role, the money now clearly supports taking it.",
+   "searches": [],
+   "citations": [],
+   "usage": {
+    "input": 8059,
+    "output": 2159,
+    "web_searches": 0
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T23:55:15+00:00"
+}

@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is **fair for Google L6, not exceptional**"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Your forward-looking Meta compensation is already around or above $600K"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept this first offer, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1300000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That sounds aggressive because it is an opening position."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area-specific Levels.fyi page currently reporting about $551K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "mix new offers with existing employees"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Decision case:** perhaps 25\u201350% of whatever the recruiter characterizes as typical"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Already at Meta at the corresponding senior level"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if they cannot get close to $625\u2013650K on a four-year-average basis, stay"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has biggest effect on four-year economics",
+    "quote": "Equity usually has the biggest effect on four-year economics."
+   },
+   {
+    "claim": "Google new-hire schedule front-loaded 38/32/20/10",
+    "quote": "Google\u2019s commonly reported new-hire schedule is front-loaded at **38%/32%/20%/10%**"
+   },
+   {
+    "claim": "sign-on may carry repayment clause",
+    "quote": "it is one-time compensation and may carry a repayment clause"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial RSU vesting schedule",
+   "stock-price/conversion date",
+   "first vest date and frequency",
+   "comp cycle eligibility",
+   "Meta compensation forfeited",
+   "sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity is the highest-priority component for me."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for:\n\n- **Base: $260,000**\n- **New-hire RSUs: $1,500,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Average annual target compensation: **$552K**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "it is one-time compensation and may carry a repayment clause"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for enough sign-on to replace that loss directly"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T22:13:34+00:00"
+}

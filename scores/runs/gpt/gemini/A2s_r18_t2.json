@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a **top-of-market outcome** for an L6 PM at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**Net Financial Gain:** **+$436,800** over 24 months."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has a standard 33%/33%/22%/12% front-loaded equity vesting schedule.",
+    "quote": "Assuming Google\u2019s standard front-loaded equity vesting schedule (33% / 33% / 22% / 12%):"
+   },
+   {
+    "claim": "A $200,000 L6 PM sign-on is Google's approval limit without a competing written offer.",
+    "quote": "a $200k sign-on for an L6 PM is at the upper limit of what the Compensation Committee and VP approvals allow"
+   },
+   {
+    "claim": "Google has genuinely reached its compensation ceiling.",
+    "quote": "at this number, they have genuinely hit their ceiling."
+   },
+   {
+    "claim": "Sign-on clawbacks are typically prorated over one or two years.",
+    "quote": "it is typically a 1-year or 2-year prorated clawback if you leave voluntarily"
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid as a lump sum or split across years",
+   "The sign-on clawback period and terms",
+   "Start-date timing relative to Meta vesting and bonus payouts",
+   "Written confirmation of the equity value and sign-on terms"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Accept the offer and congratulate yourself on a textbook negotiation."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Yes, take the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$356,400 (33%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 2** | $240,000 | $48,000 | $356,400 (33%) | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You told them you were leaving $200,000 of unvested Meta stock on the table"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-03T00:37:28+00:00"
+}

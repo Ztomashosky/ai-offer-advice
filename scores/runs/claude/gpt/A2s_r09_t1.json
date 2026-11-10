@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good market offer, but not yet a compelling"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only **$26K more per year, or about 5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate\u2014not accept immediately and not walk away yet"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an opening anchor, not necessarily the expected landing point"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median Google L6 PM compensation around $514K, with a very wide range and a 90th percentile around $671K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should assign no guaranteed value to refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you are a directly comparable Meta IC6 PM"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google remains at or close to the original offer, I would decline unless the role is materially better"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has the largest effect on TC",
+    "quote": "Equity has the largest effect on total compensation"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule and first vest date",
+   "whether bonus is prorated in first year",
+   "refresh cycle eligibility",
+   "when first RSUs vest",
+   "monthly or quarterly vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260K base, $1.4M RSUs, and $150K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "$200K of Meta equity scheduled to vest over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250K | $270K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "approximately **$662K annualized before the sign-on**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on gives you guaranteed value and bridges forfeited Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:26:01+00:00"
+}

@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a strong offer, and you should negotiate a little before accepting."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years it pays about $730K more than staying at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should negotiate a little before accepting."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "giving up a reliable stream of Meta refresh grants for refreshes Google won't promise."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "It reports a median total pay package of $590,867 for a Senior PM at Google"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "before counting any future equity grants at either company."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "the level makes sense next to your Meta IC6."
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Walking away only makes sense if you put a lot of value on staying in a role you already like."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has the most negotiation room on stock.",
+    "quote": "Stock is where Google usually has the most room to move."
+   },
+   {
+    "claim": "The sign-on bonus will likely require partial repayment if the candidate leaves within about a year.",
+    "quote": "Expect to pay back at least part of it if you leave within about a year."
+   },
+   {
+    "claim": "Maintaining the stated Meta compensation depends on continued Meta refresh grants.",
+    "quote": "Keep in mind that your Meta figure also depends on Meta continuing to give you refreshes."
+   }
+  ],
+  "missing_info_requested": [
+   "Google new-hire RSU vesting schedule",
+   "sign-on bonus repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring the base to $271K and the stock grant to $1.5M, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base: $271K (+$11K)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer is about $647K a year, not counting the sign-on bonus"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200K sign-on bonus almost exactly replaces the $200K in Meta stock you'd give up over the next 12 months."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on bonus almost exactly replaces the $200K in Meta stock you'd give up over the next 12 months."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on bonus almost exactly replaces the $200K in Meta stock you'd give up over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:37:47+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 1,
+ "wave": 0,
+ "dry": true,
+ "started_at": "2026-10-30T08:55:22+00:00",
+ "system": "You are a helpful AI assistant. The current date is October 30, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-10-30T08:55:53+00:00",
+   "reply": "### The Verdict: **This is an exceptional, top-of-market offer.**\n\nFor a Senior Product Manager (L6) role at Google in the Bay Area, this offer is in the **top 5\u201310% of L6 PM compensation packages**. \n\n---\n\n### 1. Financial Breakdown & How Google\u2019s Vesting Works\n\nGoogle uses a **front-loaded vesting schedule** for initial equity grants (typically **33% / 33% / 22% / 12%** over 4 years). \n\nWhen you account for front-loading, your annual compensation will be significantly higher than standard annualized calculations:\n\n| Component | Year 1 | Year 2 | Year 3 | Year 4 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Base Salary** | $260,000 | $260,000 | $260,000 | $260,000 |\n| **Target Bonus (20%)** | $52,000 | $52,000 | $52,000 | $52,000 |\n| **GSUs (Equity Vest)** | $442,200 *(33%)* | $442,200 *(33%)* | $294,800 *(22%)* | $160,800 *(12%)* |\n| **Sign-On Bonus** | $200,000 | \u2014 | \u2014 | \u2014 |\n| **Estimated Refresher Vest** | \u2014 | ~$10,000 | ~$50,000+ | ~$100,000+ |\n| **Total Compensation (TC)** | **~$954,200** | **~$764,200** | **~$656,800+** | **~$572,800+** |\n\n#### Key Comparisons to Meta:\n- **Year 1:** **~$954,000** at Google vs. **$526,000** at Meta (**+81%**).\n- **Ongoing Years 1\u20132 (Excl. Sign-on):** **~$754,000/yr** vs. **$526,000/yr** (**+43%**).\n- **4-Year Average (Incl. Sign-on):** **~$697,000/yr**.\n- **Unvested Equity Coverage:** Your $200,000 unvested Meta RSUs over the next 12 months are **100% reimbursed in cash immediately** via the $200,000 sign-on bonus, while your Year 1 Google equity grant ($442,200) still vests on top.\n\n---\n\n### 2. Market Calibration for Google L6 PM\n\n- **Base Salary ($260,000):** Sits at the **90th percentile** of the posted $183,000\u2013$271,000 range.\n- **Equity ($1,340,000 / 4 yrs):** Median L6 PM new-hire equity is typically **$700,000\u2013$900,000**. A $1.34M grant is near the top of the L6 band and overlaps with entry L7 bands.\n- **Sign-on Bonus ($200,000):** Standard L6 sign-on bonuses typically range from $50,000 to $100,000. $200,000 is exceptionally high and reserved for buyouts of strong unvested Meta/Apple/Amazon equity.\n\n---\n\n### 3. Recommendation: Should You Accept or Negotiate?\n\n#### **Recommendation: Accept (or do a single, ultra-low-friction close).**\n\n**Why pushing hard is risky:**\n1. **No Competing Offers:** Google\u2019s Compensation Committee (Comp Ops) almost always requires competing offer letters (from companies like Meta, Apple, OpenAI, Anthropic) to break standard band caps.\n2. **Top of Band:** Because every single component (base, equity, sign-on) is already calibrated near maximum headroom for L6, an aggressive counteroffer will likely be rejected and can risk goodwill.\n\n---\n\n### 4. How to Handle the Close\n\nYou have two paths:\n\n#### Option A: Direct Acceptance (Recommended)\nAccept the offer with enthusiasm. This builds immediate goodwill with your new VP/Director and team.\n\n#### Option B: Soft \"One-Ask\" Closing Request (Low Risk)\nIf you want to ensure no money is left on the table without antagonizing the recruiter, make a **single, soft closing ask on equity or sign-on** tied to an immediate signature:\n\n> *\"Thank you so much for putting this together. The team and mission are my top choice, and the overall package is strong. If we can adjust the equity grant to **$1.45M** (or increase the sign-on by **$25,000**), I am ready to sign the offer letter today.\"*\n\n- **If they say yes:** You gain extra value.\n- **If they say no:** They will say, *\"This is truly our final and best offer,\"* at which point you simply sign without any damaged rapport.",
+   "searches": [
+    {
+     "query": "google l6 product manager compensation levels fyi"
+    },
+    {
+     "query": "google vesting schedule 33 33 22 12"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdwu2BW3wGXpckKrdNEfQe8zBjENnAzIhlqYZAHygqbPIiwBRWwVFi1kW1Tixy2kIu1xlsan4PEYpSt8DiK2-n5n2M7FjPnaVvOysrDQLXbr0yUz0MAYf9nvB2Zs0UKgKJerdhE0YeYWoOkwGR72sSjCqqpDXGgDsT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzo7BLCtLh81XTL0nzMtzhL8ISlz8oWD7zHG7OPc3UQarFVO7BwC5XFh3ih4G8-ycf9uxn8erRVyt8Bry_8HZ27EEDhlZQ1YNUITHXAIzvRx4K6a-0HqJhHT2BzYTwC2XJl9rOeSBD4WKm5OGk8AKx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX_gFJ_-mO_ncIagMN6TZuw_e-UShLulAW6hTtuuNcj4WFLhsvf6zjwuVHXMmNRQxGaWfU6bv-93z04VPZutf5-nGZxqqsf39UN5SNmBl1oPc5pAzHGS_3yMg-0OMDYCn0Vz1KN-QlBvDMa7Tg9U3ANaaWuPun5PkQhcNTra8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh8bUNw_H7tKhcXpuHapX_wPCFfnkidNiRIlQcN1Jvqv3e6hQAxEJfHtz0kHmSN3X81k3JmebueXX35jpR6BIvnXlLGCtAlbInm9rkUsw5qBTCXRHARfrpz--D9yzWYBXS75vnjO5T7v2unf4_9xA0WCtOYoBqJ-ZiXN_FPaolXB2H1BQu8GgzAQRhWuc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKdwD1K26gBRPX3J2WBe6x4JtCNCXliyPRZ5f_ebZ2B0_loor26mQqmkAZp-Q_c_7iQMKBBIUx-YBC5pJ2w8t74mwBPj5W9qm5r7mkOFzwb32BwJNcfVLsp95VM4e9MrOKKBQAc-KTazE89NYzLn4_Bhf2d7Q8lWk="
+   ],
+   "usage": {
+    "input": 401,
+    "output": 3357
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-10-30T08:55:53+00:00"
+}

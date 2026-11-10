@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your $552K offer therefore looks reasonable but not exceptional for the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "About $26K more normalized annual TC"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1300000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "I would ask for $1.4M rather than $1.27M so there is room to negotiate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts median Google L6 PM compensation in the Bay Area around **$606K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "National L6 data is lower, around $514K."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that mixes new hires with existing employees whose refresh grants have stacked"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "I would model the refresh illustration at perhaps **50%\u201370% of face value**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "settles around **$532K annually**, nearly identical to your current $526K"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If each $250K annual refresh vests evenly over four years"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "This is a solid L6 offer"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google leaves the package essentially unchanged\u2014$235K base, $1.08M equity, and no sign-on\u2014I would probably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has used front-loaded vesting schedules",
+    "quote": "Google has historically used front-loaded vesting schedules for some large grants"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages and dates",
+   "eligibility for next refresh cycle",
+   "when first refresh grants and vests",
+   "whether first-year bonus is prorated",
+   "how grant share count is calculated"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Prioritize in this order:\n\n1. **New-hire equity**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the $1.08 million grant vests evenly:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$625K recurring first-year TC**\n- **$725K first-year TC including sign-on**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "About **$76K more over your specific next 12 months**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you are leaving near-term Meta vesting and accepting refresh uncertainty"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T22:03:22+00:00"
+}

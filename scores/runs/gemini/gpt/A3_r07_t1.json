@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong L6 offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the package provides a meaningful switching premium even if you assign zero value to future refresh grants"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate, but I would not walk away over compensation if Google holds firm."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "asking for $1.6M gives them room."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Levels.fyi data puts Bay Area Google L6 PM compensation around $606K annually"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "the package provides a meaningful switching premium even if you assign zero value to future refresh grants"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "are already employed at the equivalent level at Meta"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I would not walk away over compensation if Google holds firm."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting percentages and first vest date",
+   "Share count calculation method",
+   "First annual bonus proration and payment timing",
+   "Sign-on repayment obligation terms",
+   "Refresh eligibility timing and typical ranges"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity: ask for $1.6M This should be your main negotiation lever."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "My suggested counter: - Base: $271,000 - New-hire RSUs: $1.6 million - Sign-on: $250,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Average four-year compensation of $697K, versus about $514K at Meta under those assumptions"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$534K more excluding the one-time sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Potential forfeited Meta vesting between resignation and joining"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:50:13+00:00"
+}

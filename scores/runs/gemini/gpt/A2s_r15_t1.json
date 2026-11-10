@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good, market-competitive Google L6 offer, but it is not compelling enough to accept without negotiating."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Increase: only $26K/year, or about 5%"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation:\n\n1. **Negotiate.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Recent U.S. data puts the reported L6 90th percentile around $671K, though that dataset mixes new offers and existing employees and may include refresh stacking."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Bay Area Google L6 PM median compensation at roughly $551K, while broader U.S. data shows a $514K median and approximately $671K at the 90th percentile."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "though that dataset mixes new offers and existing employees and may include refresh stacking."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not value unspecified refresh grants as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at the same level at Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google barely moves, stay at Meta unless the role itself is substantially better."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact vesting schedule and dates",
+   "first refresh eligibility timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000\n- **New-hire RSUs: $1,400,000**\n- **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At $1.08M over four years, the grant has an annualized value of $270K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$662K normalized annual TC, before sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are forfeiting meaningful near-term equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:33:42+00:00"
+}

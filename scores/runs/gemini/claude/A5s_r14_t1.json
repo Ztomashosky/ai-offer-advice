@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is below the market median for this level."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The offer is better than staying, but the gain is smaller and shorter-lived than it first looks."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: Negotiate. Don't walk away, and don't accept as written."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi puts median total pay for an L6 Senior PM at $605,720 per year."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts median total pay for an L6 Senior PM at $605,720 per year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That median includes people who are already receiving refreshes, but your $552K in year 1 is still on the low side."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Over 4 years you'd gain roughly $150K\u2013$530K, depending on whether Google actually gives you refreshes."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After year 4 the two jobs pay about the same. Google's edge comes almost entirely from the new-hire grant, which runs out."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google with the recruiter's example refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't budge at all: you'd still gain about $76K in year 1, but that's offset by the risks of switching."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Base salary is usually the hardest lever to move, while equity and sign-on bonuses are usually easier.",
+    "quote": "Base is usually the hardest to move. Equity and sign-on are usually easier."
+   }
+  ],
+  "missing_info_requested": [
+   "Written vesting schedule",
+   "Whether first-year bonus and first refresh are prorated by start date",
+   "Current Meta vest dates and bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260K base, $1.3M in RSUs, and a $100K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs | **$1.3M** (+$220K)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "After year 4 the two jobs pay about the same. Google's edge comes almost entirely from the new-hire grant, which runs out."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real comparison for next year is $476K, not $526K. Only $200K of Meta stock vests in the next 12 months"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Why you can justify a sign-on bonus: if you leave mid-cycle, you'll probably give up your Meta bonus for the year in progress (up to about $36K), plus any stock vesting soon after you'd leave."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-04T17:08:22+00:00"
+}

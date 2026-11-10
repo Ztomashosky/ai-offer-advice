@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Financially, this is a strong offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a ~$82,000/year increase over your current baseline, excluding refreshers and stock appreciation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "whether you take it depends on your promotion trajectory and cultural preference"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "an IC7 compensation package ($750k\u2013$900k+) easily beats starting over as a tenured L6 at Google"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With standard performance, refreshers typically add $60k\u2013$100k+/year by Years 3 and 4"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Having Senior PM (L6 / IC6) track records at both Meta and Google"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Decline if you value your established leverage at Meta and are on track for IC7."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google almost universally uses a frontloaded new-hire equity vesting schedule.",
+    "quote": "Google almost universally vests new-hire equity on a frontloaded schedule"
+   },
+   {
+    "claim": "Google refreshers typically add $60,000\u2013$100,000 or more annually by years three and four.",
+    "quote": "refreshers typically add $60k\u2013$100k+/year by Years 3 and 4"
+   },
+   {
+    "claim": "The $1.28 million grant is at the upper equity band for Google L6.",
+    "quote": "they bumped equity by +$200,000 (hitting the upper band for L6)"
+   },
+   {
+    "claim": "Google rarely improves a final offer without a written competing offer.",
+    "quote": "Google rarely moves past this point without a formal competing counteroffer in writing."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta IC7 promotion trajectory",
+   "Google team charter and visibility",
+   "Team track record of launching products",
+   "How engineering-heavy decision-making is in the specific organization",
+   "Conversation with the hiring manager or a peer PM"
+  ],
+  "final_decision": {
+   "value": "depends",
+   "quote": "Accept if maximizing 2-year total compensation (~$1.4M over 24 months) and diversifying your FAANG pedigree is worth the friction"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing again for a sign-on bonus when they already gave $200k in equity and base protection will likely result in a polite"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Year Average at Google: ~$608,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google Year 1: ~$710,400 \u2014 a +$184,000 net gain in your first year alone"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the frontloaded equity grant more than offsets the unvested Meta RSUs you would walk away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 3,
+ "turn": 2,
+ "at": "2026-11-02T20:50:12+00:00"
+}

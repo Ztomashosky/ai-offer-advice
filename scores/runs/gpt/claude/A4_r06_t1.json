@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a strong offer, and you shouldn't walk away from it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "about $647K a year, roughly 23% more than your $526K"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Make one polite, specific counteroffer and say you'll sign right away if they meet it."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Leaving Meta means giving up a meaningful amount of unvested equity plus this year's bonus."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists median total compensation at L6 is $606,937 per year for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "leaves out refreshes, since they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "But in year 4, before refreshes, you could be at about $446K\u2013$473K"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google rarely rescinds an offer over one polite negotiation request.",
+    "quote": "Google rarely pulls an offer over one polite, reasonable ask."
+   },
+   {
+    "claim": "Meta stock follows the listed quarterly vesting dates.",
+    "quote": "Meta stock vests on February 15, May 15, August 15, and November 15."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "sign-on repayment requirement",
+   "whether the sign-on is paid all at once or in parts",
+   "how the RSU dollar grant converts into shares",
+   "vesting schedule and sign-on terms in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Equity: $1.34M \u2192 $1.5M (+$160K, about 12%, or roughly $40K a year)"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Equity: $1.34M \u2192 $1.5M"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "+$160K, about 12%, or roughly $40K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google Year 1 | Google steady state"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "the $200K sign-on roughly replaces the $200K of Meta stock you'd lose next year."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the $200K of Meta stock you'd lose next year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:49:20+00:00"
+}

@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good, market-competitive offer\u2014but not a compelling \u201cleave a job you like\u201d offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays only **$26,000 more per year**"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "Relative to your normal Meta run rate"
+  },
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept it as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": 255000,
+  "base_expected_high": 265000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an intentionally strong opening, not necessarily the expected final result."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google\u2019s offer is approximately the current reported median for an L6 PM in the Bay Area: about **$551,500**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Using the recruiter\u2019s $250K annual refresh-grant example"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "steady-state equity would be around $250K, making total compensation approximately **$532K**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter\u2019s $250K annual refresh-grant example"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at a directly comparable company and level"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if the final offer remains close to **$235K / $1.08M / no sign-on**, I would probably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google may have more flexibility in equity and sign-on than base",
+    "quote": "In practice, Google may have more flexibility in equity and sign-on than base"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule and first vest date",
+   "Whether the $1.08M is converted into shares using the price on grant date",
+   "First-year bonus eligibility/proration",
+   "When eligible for annual refresh",
+   "Signing-bonus repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $270,000** - **New-hire equity: $1,400,000** - **Signing bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Your current compensation is documented"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An extra **$200K equity grant** is worth $200K over the vesting period at grant-date value"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Signing bonus** \u2013 Valuable and certain, but one-time"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A signing bonus would also help address the switching cost and upcoming Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-03T01:02:50+00:00"
+}

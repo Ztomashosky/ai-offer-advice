@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "approximately **23% higher on recurring annualized target compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: **Negotiate, then likely accept.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1500000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "better compensates you for leaving a strong Meta package and accepting Google\u2019s back-end compensation cliff"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median Google L6 PM compensation around $514K\u2013$551K, with one dataset showing a 90th percentile around $671K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should assign them **zero guaranteed value** when deciding"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the role is definitively L6 in the written offer"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Walk only if you discover problems with scope, manager, level, culture, work location, clawbacks, or the role itself"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's commonly reported new-hire vesting schedule",
+    "quote": "Google\u2019s commonly reported new-hire vesting schedule is **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "equity should be the main negotiation lever",
+    "quote": "Equity should be the main negotiation lever."
+   }
+  ],
+  "missing_info_requested": [
+   "GSU vesting percentages/dates",
+   "share conversion",
+   "bonus proration",
+   "sign-on clawback terms",
+   "refresh eligibility",
+   "L6 level confirmation",
+   "office attendance"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity should be the main negotiation lever."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "the approximately $200,000 in equity I would forfeit over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a four-year, grant-date basis"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$725K recurring annualized target compensation**, excluding sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The extra sign-on covers more than the stated RSU forfeiture."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:53:04+00:00"
+}

@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but not a great one yet."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays **$76K\u2013$216K (16\u201345%) more than Meta in year 1**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate before you accept or turn it down."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1230000,
+  "equity_expected_high": 1330000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "$337K/yr under equal vesting. Google usually moves equity more easily than base."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data roundup put the median Google L6 PM at about $514K in total pay."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That median includes long-tenured people with stacked refreshes."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "leaving refreshes out of both."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "someone switching from a comparable Meta level."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google can't reach that, staying at Meta is the better choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually moves equity more easily than base.",
+    "quote": "Google usually moves equity more easily than base."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "exact amount of unvested/forfeited Meta bonus and near-term RSU vests"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To move, I'd need a base of $260K, a new-hire grant of $1.35M, and a $90K sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$337K/yr under equal vesting."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "worth about $650K/yr plus the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus and near-term RSU vests you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-04T16:15:17+00:00"
+}

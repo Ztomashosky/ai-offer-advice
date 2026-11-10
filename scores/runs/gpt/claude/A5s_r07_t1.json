@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is in market range."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It beats your current pay even before counting refresh grants."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "It's also the only guaranteed long-term part of the package, since refreshes are discretionary."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median yearly total compensation reported at Google for the Product Manager role in United States at $520K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If Google's refreshes match the recruiter's illustration, you'd be about $500K+ ahead."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google settles near $530K a year, about the same as Meta."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If Google's refreshes match the recruiter's illustration, you'd be about $500K+ ahead."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "accept if year-1 guaranteed pay reaches about $600K or more, with your Meta losses covered. Otherwise, staying at Meta is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta usually vests quarterly and a vest is probably around November 15.",
+    "quote": "Meta usually vests quarterly, and a vest is probably around November 15."
+   },
+   {
+    "claim": "Recruiters find documented forfeitures easy to approve.",
+    "quote": "That's a concrete, documented loss, which recruiters find easy to approve."
+   },
+   {
+    "claim": "Google's bonus percentage is usually fixed by level.",
+    "quote": "Usually set by level"
+   },
+   {
+    "claim": "Google typically converts the grant amount to shares using an average stock price.",
+    "quote": "The dollar amount is typically turned into shares using an average stock price"
+   },
+   {
+    "claim": "The first Google refresh depends on the candidate's first-year performance rating.",
+    "quote": "Your first Google refresh depends on your first-year performance rating"
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus eligibility and payment terms",
+   "Google RSU vesting schedule and timing",
+   "Method for converting the grant value into shares",
+   "Whether the first-year Google bonus is prorated"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push mainly on equity and a sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100K of grant adds $25K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "It's also the only guaranteed long-term part of the package, since refreshes are discretionary."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving means giving up my 2026 bonus and near-term vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T17:02:05+00:00"
+}

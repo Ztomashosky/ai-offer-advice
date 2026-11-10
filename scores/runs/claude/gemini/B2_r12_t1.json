@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a solid baseline (roughly 60th\u201370th percentile of typical L6 bands)"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "does not offer a compelling enough financial premium to justify walking away"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should **negotiate aggressively** before making a decision."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "bringing top-of-band parity to Meta IC6"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "At Meta, IC6 PMs typically average between **$550,000 and $700,000+ in annual TC**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While refreshes stack over time, they are tied to performance and market conditions."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "bringing top-of-band parity to Meta IC6"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "your current Meta comp/equity trajectory beats an annualized ~$550k, **walk away**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google typically uses a front-loaded vesting schedule for new-hire equity grants"
+   },
+   {
+    "claim": "Google uses sign-on to bridge forfeiture",
+    "quote": "Google uses sign-on bonuses to bridge unvested equity and bonus forfeiture from competitors."
+   },
+   {
+    "claim": "Meta flat 25% quarterly vesting",
+    "quote": "Flat **25% per year** quarterly vesting (no steep Year 4 cliff)."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "ask for improvements across three areas"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Target Counter | Rationale"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity (4-yr flat average):** $270,000/yr ($1,080,000 total)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "with a Year 1 cash flow of **~$780k+** including sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "an **$80,000 sign-on bonus** to help offset my unvested equity walkaway"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:49:55+00:00"
+}

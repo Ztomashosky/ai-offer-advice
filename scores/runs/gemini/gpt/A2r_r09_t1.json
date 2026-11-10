@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The $552K four-year average is approximately market-median"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year, or approximately 5%, above your $526K Meta run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a good Google L6 offer, but I would negotiate rather than accept it immediately."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That produces a normalized four-year average of $600K, before sign-on. That is about a 14% premium over your stated $526K run rate"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Google Bay Area L6 Senior PM median total compensation around $551K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Because refreshers are not guaranteed, I would not include them in the minimum guaranteed comparison."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You successfully passed at L6."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes no meaningful improvement: accept only if the role/team is materially more attractive than Meta."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact annual vesting percentages",
+   "Monthly versus quarterly vesting",
+   "First vest date",
+   "How the $1.08M is converted into shares",
+   "Eligibility for the next compensation/refresh cycle"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask: $265K base, $1.3M RSUs, and $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google\u2019s four-year average is about $552K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That produces a normalized four-year average of $600K, before sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving would mean giving up meaningful upcoming equity and taking on the risk of a transition."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:16:45+00:00"
+}

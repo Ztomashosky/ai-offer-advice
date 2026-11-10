@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Below the approximately $606,000 reported Bay Area median for Google L6 PM compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Only $26,000, or 5%, above your normalized Meta compensation of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Below the approximately $606,000 reported Bay Area median for Google L6 PM compensation, although that crowdsourced figure mixes new offers and tenured employees"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Below the approximately $606,000 reported Bay Area median for Google L6 PM compensation, although that crowdsourced figure mixes new offers and tenured employees"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that crowdsourced figure mixes new offers and tenured employees and should be treated as directional."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "The four-year average is still attractive\u2014about $646,000 under the recruiter\u2019s refresh assumption\u2014but a large portion depends on refreshes that Google explicitly is not promising."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Steady state afterward | ~$532,000"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "With $250,000 annual refresh grants, assuming each refresh vests evenly over four years, the approximate trajectory becomes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google will not meaningfully improve the offer"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vest schedule for the initial RSU grant",
+   "When first eligible for a refresh grant",
+   "Vest schedule for refresh grants",
+   "Whether $250k refresh is target, median, or anecdotal"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000\n- **New-hire RSUs: $1.4 million**\n- **Sign-on bonus: $150,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity: $270,000/year on a straight-line basis"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "equals approximately **$631,000 annualized over four years**, plus the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:59:31+00:00"
+}

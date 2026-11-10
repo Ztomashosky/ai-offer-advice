@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "roughly market-level overall, with good initial equity but weak cash terms"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Its four-year average is only modestly above your current compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer as-is."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is approximately a 20% increase over the initial $1.08M grant."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Bay Area Google L6 Senior PM median compensation around $551K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although self-reported compensation data mixes new hires and existing employees with refresh grants."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Floor case: value future refreshes at zero."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google made little or no improvement, I would stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is likely one of the larger levers available at Google.",
+    "quote": "Equity is likely one of the larger levers available."
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule",
+   "when grant converts to shares and vesting begins",
+   "bonus proration terms",
+   "refresh cycle eligibility and historical median amounts",
+   "sign-on repayment obligation terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask: $260,000 base, $1.30M RSUs, and $150,000 sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "It averages $270K annually over four years at grant-date value"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring compensation is most important, particularly base and equity. The sign-on is important for covering the transition"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "compensates for transition risk and forfeited Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:20:04+00:00"
+}

@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it is a solid baseline offer, but as an initial package, it is essentially a lateral move from Meta"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Only a **~5\u201310% bump** over current TC"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not accept the initial offer, and do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Pushes your package toward the top quartile for L6 PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "An equity grant of $1.08M at L6 is calibrated around the 50th\u201360th percentile for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "External L6 hires from Tier-1 tech firms almost always receive a sign-on bonus"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "you shouldn't rely on uncontracted equity to justify a move"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter\u2019s $250k/year refresher illustration represents a strong baseline scenario"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are direct equivalents"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away yet"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity grant calibrated at 50th-60th percentile",
+    "quote": "is calibrated around the 50th\u201360th percentile for Google PMs"
+   },
+   {
+    "claim": "Meta IC6 standard target is 15%",
+    "quote": "higher than Meta\u2019s standard IC6 target (20% vs. 15%)"
+   },
+   {
+    "claim": "Google does not rescind for polite counters",
+    "quote": "Google does not rescind offers for polite, well-reasoned counters from strong candidates."
+   },
+   {
+    "claim": "recruiters grant sign-on first then equity then base",
+    "quote": "Recruiters often find it easiest to grant a sign-on bonus first, followed by equity expansion, and base salary last."
+   },
+   {
+    "claim": "front-loaded vesting schedules",
+    "quote": "Google's front-loaded schedule (e.g., **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "Verify the GSU vesting schedule (flat vs front-loaded)"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would be looking for:*\n> 1. *A **base salary of $255,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "$250,000 \u2013 $255,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$1,200,000** (~$300k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 TC to ~$692k), but Year 4 drops significantly before refreshers kick in"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested equity/refresher momentum behind at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:49:33+00:00"
+}

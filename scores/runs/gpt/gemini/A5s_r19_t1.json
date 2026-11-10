@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, it is a solid baseline offer"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "it is essentially a lateral move from Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not accept the initial offer, and do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Pushes your package toward the top quartile for L6 PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you shouldn't rely on uncontracted equity to justify a move."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter\u2019s $250k/year refresher illustration represents a strong baseline scenario"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are direct equivalents"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "External Google L6 hires from top technology firms almost always receive a sign-on bonus.",
+    "quote": "External L6 hires from Tier-1 tech firms almost always receive a sign-on bonus"
+   },
+   {
+    "claim": "Google refresh grants depend on performance ratings and company macro-budgets.",
+    "quote": "refreshers depend on performance ratings and company macro-budgets"
+   },
+   {
+    "claim": "Google does not rescind offers because of polite, well-reasoned counters.",
+    "quote": "Google does not rescind offers for polite, well-reasoned counters from strong candidates."
+   },
+   {
+    "claim": "Sign-on is generally Google's easiest compensation lever, followed by equity and then base.",
+    "quote": "Recruiters often find it easiest to grant a sign-on bonus first, followed by equity expansion, and base salary last."
+   }
+  ],
+  "missing_info_requested": [
+   "GSU vesting schedule",
+   "compensation committee flexibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Recruiters often find it easiest to grant a sign-on bonus first, followed by equity expansion, and base salary last."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity (GSUs) | $1,080,000 | **$1,200,000** (~$300k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Target TC** | **~$476,000\u2013$526,000** | **~$552,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of $75,000 to offset forfeited unvested stock and transition risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:50:06+00:00"
+}

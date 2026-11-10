@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "It is a strong initial offer, but it has clear weaknesses you can exploit."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Years 1 and 2, this is a **~21% increase** over your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Strategy: Negotiate (Do Not Accept or Walk Away Yet)"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1120000,
+  "equity_expected_high": 1150000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "brings top-of-band parity with Meta IC6."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% front-loaded vesting schedule for new-hire equity.",
+    "quote": "Google typically uses a **front-loaded vesting schedule (33% / 33% / 22% / 12%)** for new-hire equity"
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses at L6 to close strong candidates.",
+    "quote": "Google frequently uses sign-on bonuses at L6 to close strong candidates."
+   },
+   {
+    "claim": "Sign-on bonuses use a separate one-time budget and are Google's easiest negotiation lever.",
+    "quote": "Sign-on bonuses come out of a separate one-time budget and are the easiest lever for a Google recruiter to pull"
+   },
+   {
+    "claim": "The current-base comparison gives an indisputable justification for compensation committee approval.",
+    "quote": "gives the recruiter an indisputable business justification for compensation committee approval."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "| **Base Salary** | $235,000 | **$255,000** | $245,000 \u2013 $250,000 |\n| **Sign-On Bonus** | $0 | **$75,000** | $50,000 \u2013 $60,000 |\n| **4-Year Equity** | $1,080,000 | **$1,200,000** | $1,120,000 \u2013 $1,150,000 |"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "pushing to $1.2M (~$300k/yr flat equivalent) brings top-of-band parity with Meta IC6."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonuses come out of a separate one-time budget"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There is no sign-on bonus to offset the unvested equity and performance bonus timing I\u2019d be walking away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:23:18+00:00"
+}

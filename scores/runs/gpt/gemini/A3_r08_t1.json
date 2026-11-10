@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptional, top-decile offer for a Senior PM (L6) at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it remains a massive financial upgrade over your current baseline."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Recommendation: **Negotiate once with a \"Closing Counter.\"**"
+  },
+  "intensity": 2,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 225000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "The median L6 initial equity grant is typically between $800k and $1M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "| **Estimated Refresher Vest\\*** | *(Already recurring)* | \u2014 | ~$25,000+ | ~$60,000+ | ~$100,000+ |"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google refresher grants vest evenly over 4 years (25%/yr) and stack over time to offset the Year 3/4 drop from the initial grant."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a front-loaded vesting schedule for initial RSU grants.",
+    "quote": "Google utilizes a **front-loaded vesting schedule** for initial RSU grants"
+   },
+   {
+    "claim": "Google refresh grants vest evenly over four years.",
+    "quote": "Google refresher grants vest evenly over 4 years (25%/yr) and stack over time"
+   },
+   {
+    "claim": "Google L6 sign-ons generally fall between $50,000 and $100,000 absent unvested-equity bridging.",
+    "quote": "L6 sign-ons are generally $50,000\u2013$100,000 unless aggressively bridging unvested equity."
+   },
+   {
+    "claim": "Compensation committees generally require a guaranteed signature to approve higher numbers.",
+    "quote": "compensation committees will typically only unlock higher numbers if they know it guarantees an immediate signature."
+   },
+   {
+    "claim": "There is virtually no risk that asking for an adjustment will cause rescission.",
+    "quote": "there is virtually zero risk of an offer being rescinded by asking for an adjustment."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "your only meaningful lever is **equity (RSUs)** with a minor nudge on **sign-on**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer sits at roughly **$647,000/year annualized** (excluding sign-on)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your offer sits at roughly **$647,000/year annualized** (excluding sign-on) and reaches nearly **$1,000,000 in Year 1**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "framing it as fully neutralizing the risk of walking away from your upcoming Meta vesting cycles and trajectory"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:17:18+00:00"
+}

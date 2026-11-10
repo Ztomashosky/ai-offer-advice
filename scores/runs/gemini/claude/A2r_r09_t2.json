@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about **16% more** than your $526K. It's above the ~$580K walk-away line"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it, as long as the role itself appeals to you.**"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 36000,
+  "signon_ask_high": 36000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "before refreshes, and refreshes are uncertain at both companies"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "vesting schedule in writing",
+   "whether there is a cliff",
+   "Meta bonus payout date",
+   "Meta RSU quarterly vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it, as long as the role itself appeals to you.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "The one remaining gap is my Meta bonus, about $36K. Could you cover it with a sign-on?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$320K stock ($1.28M \u00f7 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you leave before Meta pays your bonus, the ~$36K you'd lose isn't covered."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "About the $200K you'd forfeit: it's already counted in the Meta column. Meta year 1 is only ~$476K because only $200K of stock vests then. Don't subtract it again."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The one remaining gap is my Meta bonus, about $36K. Could you cover it with a sign-on?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-04T16:06:58+00:00"
+}

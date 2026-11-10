@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "roughly market-median when the initial grant is averaged over four years\u2014not a lowball, but not an exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only about **5% above your current stated annual compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer, and don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "I would anchor at:"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported data puts Bay Area Google L6 PM compensation around **$551,000 median**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should not treat them as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if unchanged, lean **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants commonly front-loaded 38/32/20/10",
+    "quote": "Google new-hire grants are commonly reported as front-loaded **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "Refresh grants vest evenly",
+    "quote": "Refresh grants are generally reported as vesting evenly rather than following that same schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire vesting schedule",
+   "First vest date",
+   "Grant conversion date",
+   "Refresh eligibility",
+   "Typical refresh range",
+   "Bonus proration",
+   "Performance mechanics",
+   "Sign-on repayment clawback",
+   "Level and job code confirmation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for $260K / $1.3M / $150K"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are walking away from approximately $200,000 of Meta equity over the next year."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Average initial equity: **$270,000/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year recurring average before sign-on: **$618,500**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are walking away from approximately $200,000 of Meta equity over the next year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:27:13+00:00"
+}

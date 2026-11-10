@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is **market-competitive, not exceptional** for a Bay Area Google L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the Google premium is only:\n\n- **$104,000 over four years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "recent reported L6 PM data shows a broad range, with a 90th percentile around $671,000"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "almost exactly the roughly **$551,000 Bay Area L6 median** reported by Levels.fyi"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Do not value uncertain refreshes at 100 cents on the dollar"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "it is essentially a **lateral compensation move with front-loaded optics**"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they make no meaningful improvement"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base potentially anchors future compensation adjustments",
+    "quote": "Potentially anchors future compensation adjustments"
+   },
+   {
+    "claim": "RSUs generally offer the biggest dollar opportunity",
+    "quote": "RSUs generally offer the biggest dollar opportunity"
+   },
+   {
+    "claim": "sign-on may contain repayment provisions",
+    "quote": "it is nonrecurring and may contain repayment provisions"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting percentages by year",
+   "first vest date and frequency",
+   "refresh eligibility and timing",
+   "bonus proration",
+   "sign-on repayment provisions",
+   "inventory of all unvested Meta shares"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base: $260,000**\n- **New-hire RSUs: $1,300,000**\n- **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250,000 | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The sign-on is useful for bridging forfeited Meta vesting, but it is nonrecurring"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "later-year Meta vesting may overlap with future Meta refresh awards"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "no dedicated compensation for forfeited Meta equity and transition risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:46:27+00:00"
+}

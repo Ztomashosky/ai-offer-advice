@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should negotiate rather than walk away."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering a meaningful four-year premium over your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, and you should negotiate rather than walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 270000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1500000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Compensation negotiation guidance generally identifies equity as the component with the greatest variance and negotiating flexibility, while base is more constrained by formal level bands."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported data puts median Google L6 PM compensation in the Bay Area around $551,000, while another recent analysis of U.S. submissions put L6 PM median total compensation around $514,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "The datasets differ because of timing, geography, tenure, refresh stacking, and methodology"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "without refreshes, your Google compensation falls below your current Meta run rate. That does not make the offer bad, but it means you should not mentally count refreshes as guaranteed income."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they refuse to improve anything, the existing offer is still good enough to accept if you like the team, manager, and scope. I would not walk away solely because of compensation."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard new-hire GSU schedule is front-loaded at 38/32/20/10",
+    "quote": "Recent reporting indicates Google\u2019s standard new-hire GSU schedule is usually front-loaded at 38% / 32% / 20% / 10%, while refresh grants generally vest evenly."
+   },
+   {
+    "claim": "Equity is the component with the greatest variance and negotiating flexibility",
+    "quote": "Compensation negotiation guidance generally identifies equity as the component with the greatest variance and negotiating flexibility, while base is more constrained by formal level bands."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire vesting schedule",
+   "Vesting commencement date",
+   "Grant conversion mechanics",
+   "First vest date and frequency",
+   "Sign-on clawback terms",
+   "Bonus proration details",
+   "Refresh eligibility and typical benchmarks",
+   "Pending Meta compensation forfeited"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Prioritize, in order: equity \u2192 base \u2192 sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Counter at $271,000 base and $1.6M in new-hire RSUs, keeping the $200,000 sign-on."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That is a $684,000 pre-tax advantage over four years, or about $171,000 per year on average, based on your current Meta run rate."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Even excluding the one-time sign-on, Google annualizes to approximately $647,000, about $121,000 above your current $526,000."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "moving would mean giving up approximately $200,000 of equity vesting over the next 12 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:46:56+00:00"
+}

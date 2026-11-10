@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "It's a solid offer, but it's below the typical pay for this level"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer is still better than staying for pay"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as is. Negotiate, mainly for more equity and a sign-on bonus"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi lists median total compensation at L6 as $605,720 per year for Google PMs in the Bay Area."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists median total compensation at L6 as $605,720 per year for Google PMs in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure probably includes stacked refreshes from people who've been there a while"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Leave the recruiter's refresh example out of your comparison."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5 and later: Google looks like roughly $235K + $47K + ~$250K in refreshes, about $530K."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Comparing Google's projected $458K in year 4 against your Meta pay today makes Google look better than it is."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "only walk away if Google won't move"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's initial offer usually has negotiation room.",
+    "quote": "Google's first offer usually leaves room to negotiate."
+   },
+   {
+    "claim": "Google new-hire grants are often front-loaded.",
+    "quote": "But Google new-hire grants are often front-loaded."
+   },
+   {
+    "claim": "Meta stock usually vests quarterly.",
+    "quote": "Meta stock usually vests quarterly, so one may be coming up soon."
+   },
+   {
+    "claim": "Google bonus payout depends on performance rating.",
+    "quote": "Your actual payout depends on your performance rating."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact Google equity vesting schedule in writing",
+   "Timing of the next Meta vest and bonus payout",
+   "Sign-on bonus clawback terms",
+   "Anything else forfeited by leaving Meta"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Negotiate, mainly for more equity and a sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270K (if it vests evenly over 4 years)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This move is a 4-year pay bump, not a permanently higher income."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd give up about $200K of Meta stock vesting in the next year"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-04T17:04:47+00:00"
+}

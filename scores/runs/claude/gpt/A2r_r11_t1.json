@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is **market-competitive, not a lowball**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s guaranteed four-year package is therefore only:"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "My current annual compensation is approximately $526,000, including a $240,000 base"
+  },
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t walk away yet, but I would not accept this offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "it provides room for Google to land around **$1.25M\u2013$1.35M**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "puts Google L6 Senior PM compensation around **$606,000 in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Equity is often one of the more flexible components in senior PM negotiations"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "reported figures can mix first-year, refresh, and existing-employee compensation"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not value refreshes at 100%."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google approved you at L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google cannot get reasonably close to that\u2014and the role itself isn\u2019t materially better\u2014I would stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses front-loaded 38/32/20/10 vesting",
+    "quote": "Google commonly uses a front-loaded **38% / 32% / 20% / 10%** schedule for new-hire equity"
+   },
+   {
+    "claim": "equity is often one of the more flexible components",
+    "quote": "Equity is often one of the more flexible components in senior PM negotiations"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule",
+   "when first vest occurs",
+   "how GSUs are determined",
+   "first-year bonus proration",
+   "refresh eligibility timing",
+   "typical L6 PM refresh ranges",
+   "whether start date affects eligibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "my priority is maximizing guaranteed total value, especially equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The current $1.08M grant is $270K per year on a simple four-year average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$612.5K average annual TC**, plus sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame this as a **make-whole request**, not just an extra perk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:18:46+00:00"
+}

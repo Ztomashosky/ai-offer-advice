@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Against your Meta run rate of $526K, that's a gain of about 16%"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, assuming you're happy with the role, team and manager."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 36000,
+  "signon_ask_high": 36000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Year by year, before any Google refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A stated best offer usually means base and equity cannot move further.",
+    "quote": "\"Best offer\" usually means base and equity are fixed."
+   },
+   {
+    "claim": "A sign-on tied to a specific loss may still be approved.",
+    "quote": "A small sign-on tied to a specific loss sometimes still gets approved."
+   },
+   {
+    "claim": "Saying the candidate will sign either way eliminates risk to the offer.",
+    "quote": "The phrase \"either way, I'm planning to sign\" means asking can't put the offer at risk."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Meta bonus terms and exact forfeiture",
+   "next Meta RSU vest date",
+   "whether the candidate prefers the Google role, team, and manager"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, assuming you're happy with the role, team and manager."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Is a sign-on to cover that possible? Either way, I'm planning to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs per year (average) | $270K | $320K"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "That's true even after you give up the $200K of Meta RSUs, because the $476K figure already includes them."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-04T16:19:23+00:00"
+}

@@ -1,0 +1,158 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Market data are noisy but reinforce that the offer is respectable rather than exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only about a **5% premium** over your current run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away before giving Google a chance to improve it.**"
+  },
+  "intensity": 2,
+  "base_ask_low": {
+   "value": 260000,
+   "quote": "**Base: $260,000**"
+  },
+  "base_ask_high": {
+   "value": 260000,
+   "quote": "**Base: $260,000**"
+  },
+  "base_expected_low": {
+   "value": 250000,
+   "quote": "**Base:** $250,000\u2013$260,000"
+  },
+  "base_expected_high": {
+   "value": 260000,
+   "quote": "**Base:** $250,000\u2013$260,000"
+  },
+  "equity_ask_low": {
+   "value": 1350000,
+   "quote": "**New-hire RSUs: $1,350,000**"
+  },
+  "equity_ask_high": {
+   "value": 1350000,
+   "quote": "**New-hire RSUs: $1,350,000**"
+  },
+  "equity_expected_low": {
+   "value": 1250000,
+   "quote": "**RSUs:** $1.25 million\u2013$1.35 million"
+  },
+  "equity_expected_high": {
+   "value": 1350000,
+   "quote": "**RSUs:** $1.25 million\u2013$1.35 million"
+  },
+  "signon_ask_low": {
+   "value": 100000,
+   "quote": "**Sign-on bonus: $100,000**"
+  },
+  "signon_ask_high": {
+   "value": 100000,
+   "quote": "**Sign-on bonus: $100,000**"
+  },
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an assertive but defensible opening request for a happy, passive candidate"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data report approximately $606,000 median TC for Google L6 PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "broader recent U.S. L6 PM data show roughly a $240,000 median base and $514,000 median TC"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "Those employee figures may include accumulated refreshes, so they are not perfectly comparable to a new-hire grant"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should value refreshes at **zero for purposes of accepting the offer**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether the role\u2019s approved level is definitively **L6**, not merely titled Senior PM"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the role\u2019s approved level is definitively **L6**, not merely titled Senior PM"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes little or no improvement, I would lean toward **staying at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity and sign-on more flexible",
+    "quote": "equity and sign-on may offer the compensation team more flexibility"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages",
+   "first vest date and frequency",
+   "share conversion/price date",
+   "bonus proration",
+   "refresh eligibility cycle",
+   "sign-on repayment obligation",
+   "confirmed L6 level",
+   "start date flexibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would make one clear package request"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Difference: **$104,000 over four years**, or **$26,000/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$649,500 average annual TC**, excluding the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "address the near-term equity I\u2019m leaving behind, the move would become much more compelling"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:31:51+00:00"
+}

@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "this is a solid offer that sits a bit above the middle of the market."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "a typical IC6 PM at Meta already earns more than this offer averages."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you shouldn't accept it without negotiating."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_inferred",
+   "quote": "a typical IC6 PM at Meta already earns more than this offer averages."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, Google PM pay rises to $514,125 at L6."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data from October 2026 puts L5 at $410K, L6 at $612K for Meta PMs."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "If you've been at Meta a few years, those refreshes have stacked up"
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "move only if Google's 4-year average (without counting refreshes) beats your Meta run-rate by about 15% or more."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta's IC6 corresponds to Google's L6"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Walk away if Google can't get to a 4-year average that clearly beats your Meta run-rate."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google almost always uses a 38/32/20/10 front-loaded vesting schedule and GSUs vest monthly.",
+    "quote": "99% of Google's offers follow the 38/32/20/10 GSU vesting structure, and Google's GSUs vest monthly."
+   },
+   {
+    "claim": "Meta gives annual refresh grants in February that vest quarterly over four years.",
+    "quote": "Meta also gives annual RSU refresher grants in February, also vesting quarterly over 4 years."
+   },
+   {
+    "claim": "Equity is usually the most flexible part of a Google offer.",
+    "quote": "Stock is usually the most flexible part of a Google offer."
+   },
+   {
+    "claim": "The posted salary range caps base and sign-ons are usually tied to forfeited compensation.",
+    "quote": "The posted range caps base salary, and sign-on bonuses are usually tied to what you're giving up."
+   }
+  ],
+  "missing_info_requested": [
+   "current Meta base salary",
+   "current Meta bonus target",
+   "current Meta stock vesting schedule",
+   "whether the Google grant uses 38/32/20/10 vesting",
+   "Meta annual bonus payout date",
+   "value of forfeited Meta stock and bonus"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to [base / GSU / sign-on], I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year average is **$552K/year**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "the offer works out to roughly **$875K in year 1 and a $650K average**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Unvested Meta stock that you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T17:15:34+00:00"
+}

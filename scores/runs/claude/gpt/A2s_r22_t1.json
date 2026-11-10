@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The current offer is fair relative to the Google L6 market"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only about:\n\n- **$26,000 more annually**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate, don\u2019t accept as-is, and don\u2019t be afraid to walk.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is deliberately an anchor, not necessarily the expected final outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately **$551,500 median TC** and **$240,000 median base** for Bay Area Google L6 PMs"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "reported 90th-percentile US L6 PM compensation figure of approximately $671,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes are upside, not guaranteed offer value."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "make sure the offer and internal job code are definitively L6, not merely a \u201cSenior PM\u201d external title"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they stay near **$552,000 with no sign-on**, staying at Meta is the better compensation-driven decision."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is most flexible lever",
+    "quote": "Equity usually has more negotiating room than base at large technology companies."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "first vest date and frequency",
+   "grant timing",
+   "bonus mechanics",
+   "refresh timing and vesting",
+   "sign-on clawback terms",
+   "start-date flexibility",
+   "level confirmation",
+   "team health reason for opening"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: **$260,000**\n  - New-hire RSUs: **$1,400,000**\n  - Sign-on: **$200,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "I would be giving up approximately $200,000 of currently scheduled equity vesting"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An increase from $1.08 million to $1.3 million adds $220,000 over four years, or $55,000 annualized."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, it represents normalized recurring initial-grant compensation"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "the second figure makes your next-12-month Meta compensation approximately:\n\n- $240,000 base\n- $36,000 bonus\n- $200,000 equity"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on bonuses are commonly framed as compensation for forfeited bonus or unvested equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 22,
+ "turn": 1,
+ "at": "2026-11-03T00:58:55+00:00"
+}

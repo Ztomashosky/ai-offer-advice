@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard, middle-of-the-road initial offer for an L6 PM at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 Target TC** | **~$526,000** | **~$552,000** | **+$26,000 (~5% increase)**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate aggressively.** Do not accept as-is, but do not walk away either."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "creating meaningful upside over your current Meta grant trajectory."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The guaranteed baseline needs to carry the switch."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to budge on equity/sign-on and remains near the initial ~$550k mark, you are in a strong position to walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% front-loaded vesting schedule.",
+    "quote": "Google applies its front-loaded vesting schedule (typically 33%/33%/22%/12%)"
+   },
+   {
+    "claim": "Google routinely uses sign-on bonuses for passive lateral hires from Meta.",
+    "quote": "Google routinely uses sign-on bonuses to bridge unvested equity and performance bonus timing differences for passive lateral hires from Meta."
+   },
+   {
+    "claim": "The offer will go back to a compensation committee.",
+    "quote": "Let Google go back to the compensation committee"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary around **$260,000** (reflecting my current level and within your posted range)"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000 / yr ($1.08M / 4 yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-on Bonus**| N/A | $0 | **$0** (No transition cushion)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets the friction of leaving unvested Meta RSUs ($200k over the next 12 months) and missed bonus cycles."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:34:07+00:00"
+}

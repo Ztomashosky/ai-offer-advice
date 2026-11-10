@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this offer represents less than a **5% increase in Year 1 total compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as-is, but do not walk away without negotiating."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 265000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "To make the overall long-term financial package compelling against my current equity trajectory"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "**$0** (L6 typical: $50k\u2013$120k)"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should never discount guaranteed initial grant value in exchange for hypothetical future refreshers."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "you should ensure the scope matches your career trajectory."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to negotiate: Politely decline and remain at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has substantial room to improve the offer.",
+    "quote": "Google has substantial room to move on this offer\u2014particularly on base salary, equity, and sign-on bonus."
+   },
+   {
+    "claim": "An L6 sign-on bonus typically ranges from $50,000 to $120,000.",
+    "quote": "**$0** (L6 typical: $50k\u2013$120k)"
+   },
+   {
+    "claim": "Google refresh grants depend heavily on performance ratings and annual company budgets.",
+    "quote": "they depend heavily on performance ratings and annual company budgets."
+   },
+   {
+    "claim": "Base, equity, and sign-on are all negotiable levers.",
+    "quote": "you should counter firmly across all three negotiable levers"
+   },
+   {
+    "claim": "The posted salary range is an approved compensation band.",
+    "quote": "places you near the top of the approved $271k band."
+   }
+  ],
+  "missing_info_requested": [
+   "role scope and whether L6 matches the candidate's career trajectory",
+   "team, product area, and culture fit"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "you should counter firmly across all three negotiable levers"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Raises annual vesting run-rate to ~$325k\u2013$350k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "adds a $40k\u2013$50k sign-on, landing around ~$580k\u2013$600k Y1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "near-term vesting I\u2019d be walking away from at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T00:56:21+00:00"
+}

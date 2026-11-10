@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a good offer, and it's better than it looks."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even then, the current offer already beats your next 12 months at Meta by about $160K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "So negotiate firmly, and be ready to stay at Meta if they won't move."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "You're giving up all your unvested Meta equity and the refresh stack you've built up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "By then the comparison depends on refreshes at both companies, and neither is guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move at all and the role doesn't excite you beyond the money."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Companies usually have more flexibility on equity than on base",
+    "quote": "Companies usually have more flexibility on equity than on base."
+   },
+   {
+    "claim": "Google new-hire grants vest 33/33/22/12",
+    "quote": "Google's new-hire grants are usually front-loaded. Levels.fyi reports a schedule of 33% in year 1, 33% in year 2, 22% in year 3 and 12% in year 4"
+   }
+  ],
+  "missing_info_requested": [
+   "confirmation of front-loaded vesting schedule in offer letter",
+   "exact Meta vest and bonus dates",
+   "sign-on clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google can get to $260K base, $1.35M in RSUs, and a $75K sign-on to cover what I forfeit, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If Google can get to $260K base, $1.35M in RSUs, and a $75K sign-on to cover what I forfeit, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google RSUs (33/33/22/12) | $356K | $356K | $238K | $130K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "something like $250K base, $1.25M RSUs and a $50K sign-on, your year 1 would be about $300K + $412K + $50K \u2248 $760K."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers Meta vests and bonus you'd lose depending on when you leave."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T16:20:23+00:00"
+}

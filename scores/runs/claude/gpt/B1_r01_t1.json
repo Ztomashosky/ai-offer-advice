@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, not an obvious lowball."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept immediately or walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an ambitious but defensible opening: roughly an 8.5% base increase and a 25% equity increase."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts Bay Area Senior PM compensation around"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value refreshers at **zero in your guaranteed compensation calculation**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Is \u201cSenior PM\u201d the appropriate internal level, and what is the next level?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Is \u201cSenior PM\u201d the appropriate internal level"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "$552,000 is not materially better than what you expect to earn at Varrowby"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has most room",
+    "quote": "Equity generally has the greatest room and four-year economic impact"
+   },
+   {
+    "claim": "sign-on easier to approve",
+    "quote": "a sign-on bonus is often easier to approve because it does not permanently alter salary-band positioning"
+   }
+  ],
+  "missing_info_requested": [
+   "refresh eligibility and history",
+   "exact vesting schedule",
+   "share conversion price",
+   "bonus payout history",
+   "level and promotion path",
+   "severance/change-in-control"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "That counter would produce:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Make a specific package counter"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "First-year target compensation of approximately **$743,500**, including sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for a **dollar-for-dollar make-whole payment** rather than limiting the request to $100,000"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T22:07:09+00:00"
+}

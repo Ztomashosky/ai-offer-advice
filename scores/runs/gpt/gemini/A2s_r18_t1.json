@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "$1.08M is a solid initial anchor"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "which is only slightly above your current **$526,000/yr** at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, but do not walk away yet: negotiate firmly."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "competitive L6 PM equity grants at Google can reach **$1.2M to $1.3M+**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "stack to bridge this, refreshes depend on performance ratings and company refresh budgets"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For an L6 coming from Meta IC6"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically front-loads initial equity on a 33%/33%/22%/12% vesting schedule.",
+    "quote": "Google typically issues initial equity grants on a **front-loaded 33% / 33% / 22% / 12% schedule**"
+   },
+   {
+    "claim": "Google refresh grants vest 25% annually over four years and depend on ratings and refresh budgets.",
+    "quote": "annual refresher grants (which vest 25%/yr over 4 years) stack to bridge this"
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses to bridge unvested equity, typically $50,000 to $100,000+ for L6 PMs.",
+    "quote": "For L6 PMs, sign-on bonuses typically range from **$50,000 to $100,000+**"
+   },
+   {
+    "claim": "Competitive Google L6 PM new-hire equity grants can reach $1.2 million to $1.3 million or more.",
+    "quote": "competitive L6 PM equity grants at Google can reach **$1.2M to $1.3M+**"
+   },
+   {
+    "claim": "Promotion from Google L6 to L7 has a notably lower per-cycle conversion rate than L5 to L6.",
+    "quote": "Moving from L6 to L7 at Google has a notably lower conversion rate per cycle"
+   }
+  ],
+  "missing_info_requested": [
+   "whether the team scope provides clear L7 growth runway"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "targets compensation across base, sign-on, and equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270k/yr average RSU"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus: **$75,000 \u2013 $100,000** *(to compensate for unvested Meta equity and moving friction)*"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving $200k in unvested Meta RSUs over the next 12 months with **no sign-on bonus**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:36:45+00:00"
+}

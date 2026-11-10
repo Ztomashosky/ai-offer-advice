@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "At $552K a year, this offer is below the typical L6 package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Right now the offer is only slightly better than staying"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is, and don't walk away. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi says median total compensation at L6 is $595,042 per year, and that figure includes people whose refreshes have stacked up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi says median total compensation at L6 is $595,042 per year"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that figure includes people whose refreshes have stacked up"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "an average of at least about $560K/yr over years 1\u20134 without counting refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you're already at the same level at a direct competitor"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, the current offer isn't worth giving up a job you like"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta refresh grants are not guaranteed.",
+    "quote": "The $526K figure assumes future Meta refresh grants, which aren't guaranteed either."
+   },
+   {
+    "claim": "Meta stock usually vests on a particular quarterly calendar.",
+    "quote": "Meta stock usually vests quarterly, around mid-February, May, August and November."
+   },
+   {
+    "claim": "Google generally has more flexibility on equity than base salary.",
+    "quote": "Google usually has more room to move on stock than on base."
+   },
+   {
+    "claim": "Google sign-on bonuses generally require prorated repayment if the employee leaves within a year.",
+    "quote": "Expect to repay it, usually prorated, if you leave within about a year."
+   },
+   {
+    "claim": "Both companies convert dollar-denominated grants into shares at a set price.",
+    "quote": "Both companies convert grant dollars into shares at a set price"
+   }
+  ],
+  "missing_info_requested": [
+   "Google's exact four-year new-hire RSU vesting schedule in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $255K, an equity grant of $1.4M, and a $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270K/yr of stock (the $1.08M averaged over 4 years)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "at least about $600K in guaranteed year-1 pay, and an average of at least about $560K/yr over years 1\u20134"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "What you'd really get from Meta next year is about $476K, not $526K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Justify the sign-on with concrete losses: the Meta bonus you'd forfeit, the vests you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-04T16:32:44+00:00"
+}

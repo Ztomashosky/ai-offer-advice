@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "this offer is roughly **$68,000/year less** than your current run-rate at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Recommendation:** **Negotiate aggressively.** Since you are happy to stay at Meta, you hold all the leverage."
+  },
+  "intensity": 3,
+  "base_ask_low": 245000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 950000,
+  "equity_ask_high": 1050000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "keeping your 4-year annualized average equity at $250k/year (matching your current Meta run-rate)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "the 4-year annualized average of the package is a step backward from where I am today without guaranteed refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google\u2019s initial offer is a **lukewarm lateral move** that asks you to take an immediate $25,000 cut"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "**Walk Away If:** Google refuses to increase base pay above your current $240k, offers no sign-on bonus"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants follow a specified front-loaded vesting schedule.",
+    "quote": "Google new-hire GSU grants follow a front-loaded schedule: **38% in Year 1, 32% in Year 2, 20% in Year 3"
+   },
+   {
+    "claim": "Google refresh grants typically vest evenly at 25% per year.",
+    "quote": "annual refresher grants (which typically vest 25% evenly over 4 years)"
+   },
+   {
+    "claim": "Google refresh grants are tied to performance ratings.",
+    "quote": "refreshes are discretionary and tied to performance ratings"
+   },
+   {
+    "claim": "Bridging the projected equity decline with refresh grants would require top-tier ratings.",
+    "quote": "It is difficult for refreshers alone to completely bridge a $140,000\u2013$220,000 drop in initial grant value without top-tier ratings."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "aim for a package that protects your base salary, provides a sign-on buffer, and increases initial equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Annualized Average:** At **$458k/year**, this offer is roughly **$68,000/year less** than your current run-rate at Meta."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "provides a sign-on buffer, and increases initial equity"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets the forfeiture of your upcoming Meta bonus/RSU cycle ($200k unvested in the next 12 months)"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T20:41:45+00:00"
+}

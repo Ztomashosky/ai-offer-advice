@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your Google recurring package is somewhat below that Google employee median"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is ahead by approximately $378K over four years even if you never receive a refresh grant"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "my answer has moved from \u201cprobably stay unless they improve it\u201d to \u201ctake it.\u201d"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts Bay Area Google L6 PM median compensation at roughly $606K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "incumbents\u2019 compensation can include stacked refresh grants, so it is not directly comparable to a new-hire package"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I would still not make the decision assuming those refreshes happen exactly as illustrated"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s illustration, your approximate Google compensation would be"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "I would reject Google despite the money if one or more of these is true"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on replaces the forfeited Meta equity",
+    "quote": "The $200K sign-on replaces the Meta RSUs you are leaving"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment schedule and repayment provision",
+   "RSU vesting schedule",
+   "Bonus proration",
+   "Refresh eligibility"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "I would now lean toward accepting"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not reopen the monetary negotiation after they explicitly called this the best offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs: $1.080M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring compensation without sign-on or refreshes"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on replaces the Meta RSUs you are leaving"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google has effectively replaced the Meta equity you would forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-02T22:03:56+00:00"
+}

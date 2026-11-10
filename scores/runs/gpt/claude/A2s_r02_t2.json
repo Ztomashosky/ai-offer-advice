@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Why it's a good offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You come out about $380K ahead over four years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as the role, team and manager are ones you want."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The Google figures don't include any refresh grants."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses usually require repayment if the employee leaves within 12\u201324 months.",
+    "quote": "These bonuses usually have to be repaid, in full or in part, if you leave within 12\u201324 months."
+   },
+   {
+    "claim": "Google normally uses a compensation model in which later-year pay depends on refresh grants.",
+    "quote": "That's the normal Google model, but it means your long-term pay depends on performing well there."
+   },
+   {
+    "claim": "Meta stock usually vests quarterly around specified months.",
+    "quote": "Meta stock usually vests every quarter, around mid-February, May, August and November."
+   },
+   {
+    "claim": "Moving the Google start date to collect a Meta vest costs Google nothing.",
+    "quote": "That's a normal request, it costs them nothing, and it's worth real money to you."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on repayment terms",
+   "sign-on payment schedule",
+   "RSU vesting schedule",
+   "stock grant share-conversion method and date",
+   "exact Meta vesting dates",
+   "Meta annual bonus payment date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as the role, team and manager are ones you want."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "the recruiter has said it's final"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "You come out about $380K ahead over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "most of the gain comes in year 1. After that, the two jobs pay about the same."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 | ~$476K | **~$758K** | **~$844K**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It pays you back for the stock you'd leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 2,
+ "turn": 2,
+ "at": "2026-11-03T16:25:34+00:00"
+}

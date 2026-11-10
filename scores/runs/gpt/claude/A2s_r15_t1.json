@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "So the offer is fair to good. It isn't exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google beats Meta by about $75K in year 1 with even vesting, or about $215K with front-loaded vesting."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I think this is a good offer and you should negotiate before deciding."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Moving means giving up stock that's still vesting and a strong path where I am."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "One source puts L6 at a total annual compensation of $495k, including a base salary of $212k."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes would have to fill that gap, and the recruiter told you they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "it's a sideways move in level (Meta IC6 is roughly Google L6)."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move and the vesting is front-loaded."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually the compensation component where Google has the most negotiating room.",
+    "quote": "Stock is usually where Google has the most room"
+   },
+   {
+    "claim": "Sign-on bonuses are common when a candidate gives up unvested stock.",
+    "quote": "Sign-on bonuses are common when someone gives up unvested stock."
+   },
+   {
+    "claim": "Sign-on bonuses usually require repayment if the employee leaves within 12 months.",
+    "quote": "Sign-on bonuses usually have to be paid back if you leave within 12 months."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "How the grant's dollar amount is converted into shares",
+   "When the first refresh grant would arrive"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $255K, an RSU grant of $1.35M, and a $75K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I'd need a base of $255K, an RSU grant of $1.35M, and a $75K sign-on."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your 4-year average of $552K is above those figures"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google beats Meta by about $75K in year 1 with even vesting"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd leave behind isn't an extra cost. It's already part of your Meta number above."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$75K, framed as covering lost Meta stock and the drop in later years"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-04T16:44:12+00:00"
+}

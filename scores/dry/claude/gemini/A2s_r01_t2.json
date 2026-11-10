@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an exceptional outcome"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "an immediate +$318,000 (+60%) cash and equity surge over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Take the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A $200,000 sign-on bonus at Google L6 is at the absolute top end of what their compensation committee approves"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With Modest Refreshers:** Your 4-year total comp will land around **$2.6M\u2013$2.7M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Refresher Stack *(est.)* | \u2014 | \u2014 | +~$25,000 | +~$60,000 | +~$100,000"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 PM roles"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Take the offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on at top end of what comp committee approves",
+    "quote": "at the absolute top end of what their compensation committee approves"
+   },
+   {
+    "claim": "Google standard payout is 100% upfront",
+    "quote": "Google standard is usually 100% upfront in month 1"
+   },
+   {
+    "claim": "sign-on bonuses typically have 12-month clawback",
+    "quote": "sign-on bonuses have a 12-month clawback clause (pro-rated if you leave before 1 year)"
+   },
+   {
+    "claim": "front-loaded vesting schedule",
+    "quote": "Google's standard **33% / 33% / 22% / 12%** front-loaded vesting schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout cadence (lump sum vs split)",
+   "clawback terms"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "### The Verdict: **Accept (Strong Yes)**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing further risks souring the relationship or getting a flat refusal"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "guaranteed **$2.43M** over 4 years (~$608,000/yr average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus | $0 | **$200,000** | $0 | $0 | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "typically reserved strictly for buying out unvested FAANG equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-02T19:51:19+00:00"
+}

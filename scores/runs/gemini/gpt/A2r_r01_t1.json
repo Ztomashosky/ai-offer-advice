@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "your offer is approximately a median-market package\u2014not a premium package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000 more per year, or about 5%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the current offer immediately, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "A $600,000\u2013$625,000 package represents approximately a 14%\u201319% premium over your Meta run rate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported market data puts US Google L6 PM median compensation around $514,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Give refreshers little or no value in your acceptance calculation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they remain near the present offer: stay at Meta unless the Google role has unusually strong career or personal upside."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact new-hire vesting percentages and dates",
+   "First vest date relative to start date",
+   "Bonus proration rules",
+   "Refresh eligibility and vesting schedule",
+   "Sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Opening request: $260,000 base, $1.4 million equity, and a $200,000 sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity annualized over four years: $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base is particularly valuable because it:\n\n- Recurs every year"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for a $200,000 make-whole sign-on bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:26:23+00:00"
+}

@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and I'd accept it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's roughly 23% above your current $526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Before you sign, it's reasonable to make one polite request for more."
+  },
+  "intensity": 1,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1440000,
+  "equity_ask_high": 1490000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "If you can name a specific amount of Meta stock you'd forfeit beyond the next 12 months, use that number."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median yearly compensation package in San Francisco Bay Area for Google PMs at $510K across all levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The recruiter was right that refreshes aren't guaranteed, so plan your finances as if they won't fill that gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they say no, accept the offer as it stands."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vesting schedule details",
+   "Sign-on repayment/clawback terms and payout timing",
+   "Unvested Meta equity vesting beyond the next 12 months"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Best option: about $100K\u2013150K more in RSUs, bringing the grant to roughly $1.44M\u20131.49M."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "bringing the grant to roughly $1.44M\u20131.49M. Your base is already near the top of the range"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google pays $260K + $52K + $335K a year in RSUs, about $647K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Next 12 months, comparing like with like:\n- Meta if you stay: $240K base + $36K bonus + $200K RSUs = about $476K\n- Google, year 1: $260K base + $52K target bonus + $200K sign-on + year-1 RSUs."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on roughly covers your next 12 months of Meta RSUs. Do you have unvested Meta stock that would vest after that?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:44:54+00:00"
+}

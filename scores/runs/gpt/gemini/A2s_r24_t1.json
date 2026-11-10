@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a reasonable **initial baseline offer** for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Compared to your current **$526,000/yr**, that is only about a **5% total compensation increase**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "The Verdict: **Do Not Accept as-is \u2014 Negotiate**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Pushes your 4-year average TC above $620k/yr."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should never price unvested/hypothetical refreshes into your base decision to switch jobs."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "moving laterally with a base pay cut and a ~5% annualized TC increase does not make financial sense"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge:** Walk away and stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses a front-loaded equity vesting schedule.",
+    "quote": "they use a front-loaded schedule (commonly **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**)"
+   },
+   {
+    "claim": "A zero sign-on is Google's standard opening anchor and is highly negotiable.",
+    "quote": "$0 sign-on is standard for Google\u2019s opening anchor, but highly negotiable."
+   },
+   {
+    "claim": "Google refresh grants are tied to performance ratings and budget cycles.",
+    "quote": "they are tied to performance ratings and budget cycles."
+   },
+   {
+    "claim": "Google recruiters prefer exact numbers to take to the compensation committee.",
+    "quote": "Google recruiters prefer specific numbers they can take directly to the compensation committee (Comp Comm)."
+   },
+   {
+    "claim": "Google rarely rescinds offers over professional negotiation.",
+    "quote": "Google rarely rescinds offers for professional, data-backed negotiations."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary of **$255,000** (to reflect an increase over my current $240k base),*\n> * *A 4-year equity grant of **$1.35M**, and*\n> * *A sign-on bonus of **$75,000**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a straight 4-year average, the Google offer is **~$552,000/yr** ($235k base + $47k bonus + $270k/yr stock)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Target Year 1 TC** | ~$638,000 (front-loaded) | **~$750,000+"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Standard L6 signing bridge to offset unvested Meta RSUs/tenure risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T00:44:56+00:00"
+}

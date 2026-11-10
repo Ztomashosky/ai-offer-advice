@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair Google L6 offer, but not a compelling offer for someone who is happy at Meta."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "A roughly 5% premium is not much compensation for switching risk"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept it as-is."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "the four-year annualized package is only modestly above my existing compensation, which isn\u2019t quite enough to justify the transition risk."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "That is almost exactly the currently reported Bay Area median of roughly $551,000 for Google L6 PMs"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that benchmark is self-reported and may include tenured employees with stacked refreshes rather than strictly new-hire offers."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would therefore treat refreshes as upside, not as part of the compensation needed to justify joining."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After the new-hire grant ends, steady-state compensation in the illustration is approximately $532K\u2014almost identical to your current $526K."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter\u2019s illustration produces this approximate progression:"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "lateral move offering only about a 5% annualized premium."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google will not materially improve the package and the role itself is not clearly superior, I would stay at Meta."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule for the $1.08M RSU grant",
+   "First vest date and amount vesting in first 12 months",
+   "Refresh eligibility timing and proration rules",
+   "Sign-on bonus repayment provisions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for:\n\n- Base: $260,000\n- New-hire RSUs: $1,400,000\n- Sign-on bonus: $100,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire equity: $270,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring first-four-year target: $662K\n- Plus $100K sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your next-12-month Meta number is lower\u2014approximately $476,000, using the $200,000 vesting figure\u2014so Google is about $76,000 higher in that particular period."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:38:47+00:00"
+}

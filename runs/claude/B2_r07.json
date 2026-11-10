@@ -1,0 +1,61 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 7,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:38:38+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:39:53+00:00",
+   "reply": "**Short answer:** This is a fair, roughly market-rate offer for Google L6. It doesn't give you a strong reason to leave a Meta IC6 job you're happy with. I wouldn't accept it as written. I'd negotiate firmly, and if Google won't move, walking away is a perfectly good result.\n\n## What the offer is worth\n\n- **On paper:** about $552K a year. That's $235K base, plus a $47K bonus if you hit target, plus $270K a year in stock if the grant vests evenly.\n- **How it vests matters.** Google has used several schedules. Levels.fyi lists submissions with 38% vesting in year 1, 32% in year 2, 20% in year 3, and 10% in year 4, others with 33/33/22/12, and some with an even 25% a year. Ask your recruiter which one applies to you.\n- **If it's the 33/33/22/12 schedule:** your pay would be about $638K in years 1 and 2, then $520K in year 3 and $412K in year 4, before any refresh grants. The later years depend on refreshes, and the recruiter said those aren't guaranteed.\n\n## How it compares to the market\n\n- **Google L6 PMs:** One 2026 estimate puts them at about $495k total compensation, including a base salary of $212k. Your offer is above that.\n- **Your current level at Meta:** Levels.fyi shows L6 Product Manager **$578K** for Meta. A recent Blind entry for an IC6 PM in Menlo Park reports $572k Yearly Total, $298k Base, $200k Yearly Equity, $74k Bonus.\n- **What that means:** The offer is about even with what a typical Meta IC6 PM earns. It's not a premium for leaving.\n\n**Your base salary** is a little below the middle of the $183K\u2013$271K range, so there's room to push it up.\n\n## What you'd give up by leaving Meta\n\nThis is the most important number, and only you have it. Add up:\n1. All your **unvested Meta stock** from your original grant and every refresh you've received. Because refreshes stack, this is often large by IC6.\n2. Your **next Meta bonus**, if you'd leave before it pays out.\n3. The **refreshes you'd likely keep getting** at Meta. At Google you'd start over with no stacked refreshes, and Google's would come later and aren't guaranteed.\n\n**A simple test:** accept only if Google's expected 4-year pay is at least 15\u201320% higher than your projected 4 years at Meta. That margin covers the risk of a new team, building your reputation from scratch, and your first performance review cycle.\n\n## What to ask for\n\nYou weren't looking and you're happy where you are. That's your strongest position. Tell the recruiter something like: *\"I'm happy at Meta, so I'd need a clear step up to move. Here's what would get me to yes.\"*\n\n| Item | Offer | Ask | Why |\n|---|---|---|---|\n| **Stock (new-hire grant)** | $1.08M | **$1.4M\u20131.5M** | This is usually where companies have the most room. Equity separates good offers from great ones. |\n| **Sign-on bonus** | $0 | **Your unvested Meta stock and bonus for the next ~12 months** (often $100K\u2013200K+). Ask for it split across years 1 and 2 if possible. | You shouldn't take a loss to switch. \"Make me whole\" requests are standard and easy to justify. |\n| **Base** | $235K | **$260K\u2013265K** | Keeps you under the $271K top of the range, so it's realistic. Your bonus rises with it to about $52K. |\n| **Bonus %** | 20% | Leave it | This is set by level and rarely changes. |\n\nIf you got all of it, you'd be at roughly $670K a year on average, plus a one-time sign-on. Expect Google to meet you partway. If they only offer a small tweak, like $10K more base with nothing else, they've effectively said no, and staying is the better choice.\n\n## How to negotiate\n\n- **Share your current Meta numbers** with a breakdown, including unvested stock. Under California law employers can't ask about your pay history, but you can choose to share it. Here it supports your ask.\n- **Ask in writing for one total package**, not one item at a time.\n- **Confirm three things:** the vesting schedule, when and how big refreshes usually are for strong L6 PMs, and whether the sign-on has to be paid back if you leave early.\n- **Don't accept on the call.** Give them a clear figure that would get you to yes.\n\n**Bottom line:** Negotiate. Walk away unless Google covers what you'd forfeit at Meta and still leaves you about 15\u201320% ahead. If you send me your current Meta pay and your unvested stock schedule, I can work out an exact break-even and a specific counteroffer.",
+   "searches": [
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager compensation 2026"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google L6 senior product manager offer negotiation stock refresh"
+    },
+    {
+     "query": "levels.fyi Google product manager L6 San Francisco Bay Area"
+    },
+    {
+     "query": "Google L6 product manager salary Bay Area"
+    },
+    {
+     "query": "Meta IC6 product manager salary Bay Area"
+    },
+    {
+     "query": "Google L6 product manager salary Bay Area"
+    },
+    {
+     "query": "Meta IC6 product manager salary Bay Area"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 76889,
+    "output": 4515,
+    "web_searches": 10
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:39:53+00:00"
+}

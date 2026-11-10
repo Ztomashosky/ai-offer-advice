@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "The offer is strong compared with the market."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "But I can't tell you whether it's good *for you* without your current pay at Varrowby"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this offer as written, and don't walk away either. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Use this to cover the gap from not having refreshes in your first couple of years."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "- LinkedIn median: $438,988\n- Uber median: $380,433\n- Salesforce median: $300,142"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your existing refreshes stack too. If you've been at Varrowby a few years, your stock vesting each year likely comes from several overlapping grants."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "A fair comparison is Halvern's guaranteed pay against your current pay over the next 2\u20134 years."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "**Accept** if the final package clearly beats your current path over 2\u20134 years, after counting forfeitures, without relying on Halvern's refreshes."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the most flexible part of an offer.",
+    "quote": "Equity is usually the most flexible part of an offer."
+   },
+   {
+    "claim": "Sign-on bonuses are one-time costs so companies often find them easy to approve.",
+    "quote": "Sign-on bonuses are one-time costs, so companies often find them easy to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "Current base salary, bonus, and equity vesting in next 12-24 months",
+   "Forfeited bonus and unvested stock details",
+   "Halvern vesting schedule details",
+   "Share conversion price/averaging window",
+   "Halvern refresh eligibility and typical sizes",
+   "Halvern bonus proration and historical payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one package request, roughly:\n\n- **Base: $255,000** (+$20K)."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "- **Base: $255,000** (+$20K). This is still inside their posted range, and it raises your bonus to $51K."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If they agree to all three, the offer becomes about $631K a year plus the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Total up your forfeited bonus plus any stock vesting in the next 6\u201312 months, and ask for that amount."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T17:08:32+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it is a solid baseline offer, but it is not a top-of-band offer for an L6 PM in the Bay Area"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Years 1 and 2 represent a jump over your Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**You should negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Protects against the Year 3/4 vesting drop ($1.3M yields ~$429k/yr in Y1/Y2"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": "Standard for Google L6"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "unless refreshes cover the gap (which are performance-dependent and never guaranteed)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "To make this an immediate 'yes' and close this out"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded 33/33/22/12 vesting",
+    "quote": "Google typically uses front-loaded vesting (typically **33% / 33% / 22% / 12%** in the US)"
+   },
+   {
+    "claim": "sign-on is the easiest lever to move",
+    "quote": "but it is the easiest lever to move"
+   },
+   {
+    "claim": "20% bonus standard for Google L6",
+    "quote": "Standard for Google L6"
+   }
+  ],
+  "missing_info_requested": [
+   "confirm vesting schedule in writing (33/33/22/12 vs quarterly 25%)"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Present all three requests (Base, Equity, Sign-on) together"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "including my unvested equity over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "This averages to **$270,000/year** on paper"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google Offer (Year 1\u20132 Run Rate) | Google Offer (Year 3\u20134 Run Rate)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A **sign-on bonus of $75,000\u2013$100,000** to offset walking away from my near-term Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:40:19+00:00"
+}

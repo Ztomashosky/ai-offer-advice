@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Market data are noisy but reinforce that the offer is respectable rather than exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only about a **5% premium** over your current run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away before giving Google a chance to improve it.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That represents roughly a 15%\u201319% premium over your present run rate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent Levels.fyi data report approximately $606,000 median TC for Google L6 PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "while broader recent U.S. L6 PM data show roughly a $240,000 median base and $514,000 median TC."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "Those employee figures may include accumulated refreshes, so they are not perfectly comparable to a new-hire grant."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should value refreshes at **zero for purposes of accepting the offer**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "passive candidate moving from Meta IC6 to Google L6."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes little or no improvement, I would lean toward **staying at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity and sign-on offer more flexibility to compensation teams than base salary.",
+    "quote": "equity and sign-on may offer the compensation team more flexibility."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule percentages",
+   "First vest date and vesting frequency",
+   "Conversion mechanism for initial grant",
+   "First-year bonus proration",
+   "Refresh grant eligibility timing",
+   "Sign-on repayment terms",
+   "Confirmation of L6 leveling",
+   "Start date flexibility to capture upcoming Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "ask for $260,000 / $1.35 million / $100,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$337,500 annualized equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$649,500 average annual TC, excluding the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "address the near-term equity I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:32:23+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a solid, market-standard initial offer for an L6 PM, but it is not top-of-band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google L6 Offer (Annualized average):** ~$552,000/yr"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate (Do not accept as-is, do not walk away yet)"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "increasing the grant to ~$1.25M brings Year 1 comp above $750k and cushions the back half"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A $75k\u2013$100k sign-on bonus for an L6 PM is standard in lateral FAANG moves."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "cushions the back half of the 4-year cycle"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google views Meta IC6 as a prime lateral hire"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away yet"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 38/32/20/10",
+    "quote": "Google standardly uses a front-loaded schedule (typically **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "Google refreshers vest at 25%/year",
+    "quote": "Google refreshers vest at 25%/year and stack, but your performance rating dictates the size."
+   },
+   {
+    "claim": "zero sign-on is standard opening posture",
+    "quote": "is standard recruiter opening posture"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm the exact GSU vest schedule and whether monthly or quarterly"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "You should negotiate three specific levers"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base Salary: Ask for $255,000 \u2013 $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs: $270k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base + Target Bonus (20%)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "To offset the unvested equity and upcoming bonus cycle I\u2019d be walking away from, I\u2019d be looking for a sign-on bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:06:02+00:00"
+}

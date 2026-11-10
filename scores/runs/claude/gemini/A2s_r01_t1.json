@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "A **$1.08M** 4-year grant is in the upper quartile (75th+ percentile) for a Google L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your **Year 1 and Year 2 compensation will be ~$638,000+**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Do not accept as-is, and do not walk away.** **You should negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1080000,
+  "equity_expected_high": 1150000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "is in the upper quartile (75th+ percentile) for a Google L6 PM"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "upper quartile (75th+ percentile) for a Google L6 PM"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google relies on annual performance refreshes to fill this gap, but as your recruiter noted, refreshes depend on performance ratings and are not guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google typically uses a **front-loaded vesting schedule** (commonly 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "Google routinely uses sign-ons to close senior PM hires from Meta",
+    "quote": "Google routinely uses sign-ons to close senior PM hires from Meta"
+   },
+   {
+    "claim": "grant is upper quartile for Google L6 PM",
+    "quote": "is in the upper quartile (75th+ percentile) for a Google L6 PM"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "your easiest and highest-probability wins will come from **Base Salary** and a **Sign-on Bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Google\u2019s base salary is lower than what you already make"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$0 in sign-on bonus to bridge transition costs"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are leaving unvested equity and upcoming bonus payouts at Meta without an upfront buffer"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T20:58:42+00:00"
+}

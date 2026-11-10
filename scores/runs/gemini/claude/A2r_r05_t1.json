@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "So your offer (about $552K averaged) is **around the median: fair, not generous**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Right now it gives you only a small raise for a job change you didn't go looking for."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: negotiate. Don't accept as-is, and don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Your stacked Meta equity is about $250K/yr. Google's grant needs to replace that without counting on refreshes they won't guarantee."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data shows Google L6 PMs at a median of about $514K, with a 25th\u201375th percentile range of $481,000 \u2013 $621,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google's grant needs to replace that without counting on refreshes they won't guarantee."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google L6 is the equivalent of Meta IC6, so this is a lateral move, not a promotion."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all and the vesting is an even 25%, you'd be changing jobs for about 5% more a year plus refreshes you can't count on. That's a reasonable reason to stay"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Levels.fyi lists specific front-loaded vesting schedules for Google",
+    "quote": "Levels.fyi lists a front-loaded schedule as the headline: 38% vests in the 1st year, 32% in the 2nd, 20% in the 3rd, 10% in the 4th."
+   },
+   {
+    "claim": "Levels.fyi reports a median sign-on of $60,000 for Google PMs",
+    "quote": "Levels.fyi shows a median $60,000 sign-on for Google PMs, and you have a stronger case than most."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and frequency",
+   "Share price conversion and averaging window",
+   "Timing of first refresh grant",
+   "Meta 2026 bonus payout date",
+   "Meta quarterly vest timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make this an easy yes, I'd need a $260K base, a $100K sign-on, and $1.3M in RSUs."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, without refreshes, Google averages $552K/yr. That's only about 5% more than Meta's $526K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your Meta figure of $526K is your average annual pay. What you'd actually earn by staying over the next 12 months is lower"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus you'd forfeit plus near-term vesting you'd lose."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:17:30+00:00"
+}

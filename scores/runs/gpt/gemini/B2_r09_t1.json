@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **solid baseline offer** for a Google L6 Senior PM"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "this offer might only be a lateral or slight upgrade in real take-home pay over a 4-year horizon."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Do not accept as-is, and do not walk away\u2014negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1280000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_inferred",
+   "quote": "the average compensation is essentially flat compared to my trajectory at Meta."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Meta IC6 PM total compensation typically spans **$520,000 to $680,000+**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refreshers (which vest evenly at 25%/year) stack over time, performance ratings dictate refresher sizes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standardly uses a 33%/33%/22%/12% front-loaded vesting schedule.",
+    "quote": "Google standardly uses a **front-loaded vesting schedule** (33% / 33% / 22% / 12%)"
+   },
+   {
+    "claim": "A zero sign-on bonus is standard for Google's opening bid.",
+    "quote": "Google offered **$0 sign-on bonus**, which is standard for an opening bid"
+   },
+   {
+    "claim": "Google refresh grants vest evenly at 25% per year.",
+    "quote": "annual refreshers (which vest evenly at 25%/year) stack over time"
+   },
+   {
+    "claim": "Performance ratings determine Google refresher grant sizes.",
+    "quote": "performance ratings dictate refresher sizes, so you absorb risk in Years 3 and 4."
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses to close candidates from Meta.",
+    "quote": "Google frequently uses sign-on bonuses to close candidates from Meta."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "What to Negotiate (Specific Target Asks)"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "**Base Salary** | $235,000 | **$250,000 \u2013 $255,000** | The top of band is $271,000."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Yr Average** | **$235,000** | **$47,000** | **$270,000/yr** | **~$552,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Aim for a package that pushes your 4-year annualized average closer to **$600k\u2013$650k** and locks in guaranteed upfront cash"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested Meta equity and forfeited mid-year/annual Meta bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:48:06+00:00"
+}

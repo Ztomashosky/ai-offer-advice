@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "competitive compensation packages reach **$580k\u2013$650k+ annualized** (or $1.2M\u2013$1.4M total equity)"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the annualized compensation is only ~$26,000/year higher than what you make today"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate aggressively."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1280000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Lifts annualized equity to ~$320k\u2013$337k/yr, protecting against the Year 3/4 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "At Google L6 in the Bay Area, competitive compensation packages reach **$580k\u2013$650k+ annualized**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "performance-dependent refreshers should not be counted on to fix an initial offer that isn't compelling enough"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Leaving a stable, high-paying IC6 role for a lateral move requires a clear financial premium"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move significantly:** Politely decline and stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads new-hire equity at 33/33/22/12",
+    "quote": "Google typically vests new-hire equity on a **front-loaded schedule** (standard is **33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "$0 sign-on abnormal for closed deal at L6",
+    "quote": "A $0 sign-on is standard for an initial offer, but abnormal for a closed deal at L6."
+   },
+   {
+    "claim": "refreshers vest evenly at 25%/year",
+    "quote": "Google refreshers stack annually (vesting evenly at 25%/year)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary of **$255,000**,*\n> * *An initial equity grant of **$1.3M**, and*\n> * *A sign-on bonus of **$80,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Year Annualized Average:** **~$552,000/yr** ($235k base + $47k bonus + $270k avg stock)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "~$600k+ annualized / ~$700k+ in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Compensates for the unvested stock left on the table at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:24:27+00:00"
+}

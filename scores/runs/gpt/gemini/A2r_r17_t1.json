@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is a solid **at-market baseline** (~50th\u201360th percentile for an L6 Product Manager in the Bay Area)"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s offer looks like a modest step up on paper"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this initial offer as-is, but do not walk away either. You should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This brings your Year 1/2 equity to ~$415k\u2013$430k and increases your 4-year floor."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Target the **75th+ percentile** for an L6 PM in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "The recruiter mentioned annual refreshes to offset this, but refreshes depend entirely on performance ratings and stack slowly over 4 years"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard first offers leave substantial room for negotiation, especially on equity and sign-on.",
+    "quote": "standard first offers from Google leave substantial room for negotiation\u2014especially on **equity** and **sign-on bonus**"
+   },
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% equity vesting schedule.",
+    "quote": "Google\u2019s front-loaded equity vesting schedule (typically **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "Google refreshes depend entirely on performance and vest 25% per year.",
+    "quote": "refreshes depend entirely on performance ratings and stack slowly over 4 years (refreshes vest 25% per year)"
+   },
+   {
+    "claim": "Google frequently omits sign-on bonuses initially and uses them as a primary negotiation lever.",
+    "quote": "Google frequently omits sign-on bonuses in initial offers but uses them as a primary lever during negotiation."
+   },
+   {
+    "claim": "A polite counteroffer will not cause Google to rescind the offer.",
+    "quote": "a polite counter-offer will not cause them to rescind the offer"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "increase the initial equity grant to **$1,250,000**, and include a **$75,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000 (4-yr avg)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total Year 1 Comp"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "| **Total Year 1 Comp** | **~$476,000** | **~$552,000 (avg)** | **~$638,400 (actual Y1)** |"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This offsets any unvested Meta RSUs you forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-03T00:23:11+00:00"
+}

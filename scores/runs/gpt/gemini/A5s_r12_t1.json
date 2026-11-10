@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard, middle-of-the-band initial offer for Google L6 PM in the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On paper, this is only a **~$26k (5%) increase in annualized target compensation**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, but do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1280000,
+  "equity_ask_high": 1280000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Pushes equity toward the 75th percentile for L6 ($320k/yr)."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A lateral move (Meta IC6 to Google L6) typically commands a 15\u201325% premium on annualized compensation"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "**Year 4:** $235k base + $47k bonus + $129.6k equity (12%) + Refreshes ($187.5k) = **~$599k**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**Year 2:** $235k base + $47k bonus + $356.4k equity + Y1 Refresh ($62.5k) = **~$701k**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "$356.4k equity + Y1 Refresh ($62.5k) = **~$701k**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A lateral move (Meta IC6 to Google L6) typically commands a 15\u201325% premium"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "it is not compelling enough to leave Meta as-is"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% front-loaded vesting schedule for new-hire equity.",
+    "quote": "Google typically vests new-hire equity on a **front-loaded schedule (33% / 33% / 22% / 12%)**"
+   },
+   {
+    "claim": "Google almost always leaves room to negotiate initial offers, especially equity and sign-on bonuses.",
+    "quote": "Google almost always leaves room for negotiation on initial offers, particularly on equity and sign-on bonuses."
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm whether the grant uses a 33/33/22/12 schedule or equal quarterly vesting."
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary of **$250,000** to reflect my current baseline and level"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Google Offer (L6):** $235k base + $47k bonus (20%) + $270k equity ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1 Target TC** | ~$638k (front-loaded) | **~$730k+** (including sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you are walking away from $200k in near-term vesting Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:40:06+00:00"
+}

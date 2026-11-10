@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an above-average to strong offer, particularly on equity."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "would represent a lateral step financially and a step down in scope."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate aggressively or walk away / push for L7 calibration if they cannot meet your targets."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_inferred",
+   "quote": "Meta IC6 total comp frequently spans **$580,000 to $800,000+** per year"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Your offer ($552k annualized average) sits around the 70th\u201375th percentile for L6."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "relying on refreshes to prevent a compensation drop in Year 3/4 introduces performance and macroeconomic risk."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Was L7 considered by the hiring committee, and what would it take to bridge that gap?"
+  },
+  "level_claim": {
+   "value": "down_level",
+   "quote": "An IC6 candidate entering as L6 represents a down-level in career scope."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to negotiate or make minimal adjustments (e.g., +$10k stock, no sign-on): **Walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a front-loaded equity vesting schedule.",
+    "quote": "Google typically uses a **front-loaded vesting schedule**"
+   },
+   {
+    "claim": "Meta equity vests evenly at 25% per year with quarterly vesting.",
+    "quote": "Meta\u2019s equity, by contrast, vests evenly at **25% per year** with quarterly vesting"
+   },
+   {
+    "claim": "Meta's IC6 refresher culture is among the most aggressive in Big Tech.",
+    "quote": "Meta\u2019s refresher culture for IC6 is among the most aggressive in Big Tech."
+   },
+   {
+    "claim": "A $50,000\u2013$100,000+ Google signing bonus is standard for L6 candidates from peer companies.",
+    "quote": "It is standard for Google to offer a **$50,000 \u2013 $100,000+** signing bonus for L6 candidates"
+   },
+   {
+    "claim": "Meta IC6 generally maps closer to Google L7 than Google L6.",
+    "quote": "Meta IC6 generally maps closer to **Google L7 (Senior Staff / Group PM)** than L6."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether L7 was considered by the hiring committee",
+   "What would be required to bridge the leveling gap"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "* **Base Salary:** Ask for **$255,000 \u2013 $260,000** (closer to the $271k maximum).\n* **Sign-on Bonus:** Ask for **$80,000 \u2013 $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base Salary:** Ask for **$255,000 \u2013 $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Ask for **$1,250,000 over 4 years** (bringing annualized equity to ~$312k/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "compensate for the equity I\u2019d be walking away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:52:24+00:00"
+}

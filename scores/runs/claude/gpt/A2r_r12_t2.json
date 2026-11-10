@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it is approximately market-level for a Bay Area Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it is now a meaningful improvement over your current compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My take: **lean accept**, assuming you like the role, manager, and scope"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "puts Bay Area Google L6 PM median compensation at approximately $606K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "treat them as expected upside\u2014not contractual compensation"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "This appears to be broadly a lateral move in level"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You materially prefer your current team and manager."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule",
+    "quote": "If the grant is front-loaded 38% / 32% / 20% / 10%"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages and dates",
+   "When the $1.28M is converted into shares",
+   "Whether first annual bonus is prorated",
+   "When eligible for first refresh grant",
+   "Whether there is a delay between starting and first vest",
+   "Meta vesting tranche dates"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My take: **lean accept**, assuming you like the role, manager, and scope"
+  },
+  "final_threshold": 600000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not walk away purely because there is no sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Four-year total: **$2.432M**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "In practice, the first bonus may be prorated, and vest timing matters"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your next 12 months at Meta appear to be approximately:"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Capturing one more Meta vest could effectively produce the transition payment Google refused to provide"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 12,
+ "turn": 2,
+ "at": "2026-11-02T23:20:27+00:00"
+}

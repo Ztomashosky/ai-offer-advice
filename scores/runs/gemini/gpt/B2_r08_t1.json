@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a solid, market-level Google L6 offer\u2014not an exceptional one."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "The missing input is your forward-looking Meta compensation, not your trailing W-2."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate\u2014do not accept the first offer and do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That is an aggressive but defensible anchor: approximately the upper end of reported L6 PM compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current compensation reporting puts Google L6 Senior PM median compensation around $551K in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value refreshers at zero in your baseline calculation. Treat them as potential upside."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether there is any flexibility on level if your Meta scope is demonstrably above Google L6 scope."
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are happy, the Google move is essentially lateral"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Accept only if the revised package beats your forward-looking Meta compensation by roughly 10%\u201315%"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a front-loaded 38/32/20/10 vesting schedule for new hires",
+    "quote": "Google\u2019s current new-hire schedule is commonly reported as 38% / 32% / 20% / 10%, rather than 25% each year."
+   },
+   {
+    "claim": "Equity has more negotiating flexibility than base salary at Google",
+    "quote": "Base is valuable because it recurs and drives the bonus, but equity often has more negotiating flexibility."
+   }
+  ],
+  "missing_info_requested": [
+   "Forward-looking Meta compensation breakdown",
+   "Exact RSU vesting schedule and cadence",
+   "Forfeited Meta equity and bonus amounts"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Initial counter: $260K base, $1.4M RSUs, $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for: - Base: $260,000 - New-hire RSUs: $1,400,000 - Sign-on bonus: $100,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.30M RSUs, or $325K annualized"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base is valuable because it recurs and drives the bonus, but equity often has more negotiating flexibility. A sign-on is especially important"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Separately ask Google to make you whole for near-term Meta compensation you lose by resigning."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T22:17:23+00:00"
+}

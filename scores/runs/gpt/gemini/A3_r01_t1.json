@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong offer**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this package represents a massive financial acceleration over your current Meta baseline."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**You should negotiate.** Since you are happy at Meta, weren\u2019t looking, and hold strong leverage"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1550000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Highlight the backend drop-off in Years 3 and 4 caused by Google's front-loaded vesting schedule."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median total compensation for a Google L6 Product Manager in the San Francisco Bay Area is around **$520,000\u2013$580,000/year**."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard initial grants for L6 PMs sit between $800,000 and $1,100,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Estimated Refresher Vest** | Included above | \u2014 | ~$15,000\u2013$25,000 | ~$40,000\u2013$60,000 | ~$70,000\u2013$100,000 |"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**Estimated Refresher Vest** | Included above | \u2014 | ~$15,000\u2013$25,000 | ~$40,000\u2013$60,000 | ~$70,000\u2013$100,000 |"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 is Staff/Principal scope. At Google, L5 is Senior PM and L6 is Staff PM / Group PM."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google primarily uses one of two specific front-loaded equity vesting schedules.",
+    "quote": "Google primarily uses a **front-loaded equity vesting schedule** (most commonly **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "Google will not rescind an offer over a polite market-based counter.",
+    "quote": "Google does not rescind offers over polite, market-based counters."
+   },
+   {
+    "claim": "Google offered the sign-on specifically to offset Meta equity and close the candidate quickly.",
+    "quote": "Google is offering $200,000 to offset unvested Meta equity and close you quickly."
+   },
+   {
+    "claim": "L6 Google equity typically vests monthly after the first month or quarter.",
+    "quote": "L6 equity typically vests monthly after the first month/quarter"
+   },
+   {
+    "claim": "The standard sign-on clawback is 12 months pro rata.",
+    "quote": "confirm the clawback period (standard is 12 months pro-rata)."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity vesting schedule",
+   "Monthly vesting cadence",
+   "Sign-on payment timing",
+   "Sign-on clawback period",
+   "Whether the offer title and scope accurately reflect Staff PM at L6"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**focus your negotiation on Equity (RSUs).**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$1,500,000 \u2013 $1,550,000** in GSUs"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer averages **~$697,000/year** over 4 years (including the sign-on)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus**| \u2014 | $200,000 | \u2014 | \u2014 | \u2014 |"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google is offering $200,000 to offset unvested Meta equity and close you quickly."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:11:16+00:00"
+}

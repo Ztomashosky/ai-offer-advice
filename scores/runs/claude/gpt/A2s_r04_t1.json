@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a **strong first-year offer with a good initial equity grant**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year ahead on four-year average** versus your stated $526K run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "You need a meaningful premium to justify leaving a role where you are already happy."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Levels.fyi data for Google L6 PMs in the Bay Area shows:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should value unspecified Google refresh grants at **zero for purposes of deciding whether to join**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "decline if Google does not create a meaningful four-year premium unless you genuinely prefer the job"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has a formal annual refresh process",
+    "quote": "Google does have a formal annual process that considers equity refresh amounts"
+   },
+   {
+    "claim": "raising base has recurring secondary benefit via bonus",
+    "quote": "because Google\u2019s bonus is calculated from base, raising the base has a recurring secondary benefit"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages",
+   "stock-price conversion methodology",
+   "bonus proration",
+   "refresh cycle eligibility",
+   "sign-on installment and repayment terms",
+   "component flexibility",
+   "work location/in-office expectations",
+   "Meta vesting schedule next four years"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "counter at $260K / $1.35M / $200K"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base: ask for $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial RSUs vesting | Total |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google\u2019s front-loading makes the offer look much better in Years 1 and 2 than it does over the whole grant"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for a **$200K sign-on payment to offset the transition**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:39:47+00:00"
+}

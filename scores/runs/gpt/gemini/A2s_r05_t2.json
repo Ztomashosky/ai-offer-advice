@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an **exceptional outcome** and effectively at the top of Google\u2019s L6 band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "compared to your Meta run rate of ~$526,000/year."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Further counter-offering is unlikely to yield more and risks goodwill. **Sign the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With standard annual refreshers added in Years 2\u20134, your actual average over 4 years will likely sit between **$630,000 and $680,000/year**."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Because of the $200k cash upfront plus Google\u2019s 33/33/22/12 vesting:"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The offer is effectively at the top of Google\u2019s L6 band.",
+    "quote": "this is an **exceptional outcome** and effectively at the top of Google\u2019s L6 band."
+   },
+   {
+    "claim": "Google\u2019s new-hire equity follows a 33/33/22/12 vesting schedule.",
+    "quote": "Because of the $200k cash upfront plus Google\u2019s 33/33/22/12 vesting:"
+   },
+   {
+    "claim": "Standard refreshers will likely produce a four-year average of $630,000 to $680,000 per year.",
+    "quote": "your actual average over 4 years will likely sit between **$630,000 and $680,000/year**."
+   },
+   {
+    "claim": "Google sign-on bonuses typically have one- or two-year prorated repayment clauses.",
+    "quote": "Google sign-on bonuses typically carry a 1-year or 2-year prorated repayment clause if you leave voluntarily."
+   },
+   {
+    "claim": "A $200,000 L6 PM sign-on is very rare and reflects Google\u2019s maximum discretion.",
+    "quote": "A $200,000 sign-on bonus for an L6 PM is very rare and represents Google using its maximum discretion to close you."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid as one lump sum or split across years",
+   "The sign-on clawback and repayment terms",
+   "When Meta\u2019s upcoming performance bonus pays out"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Further counter-offering is unlikely to yield more and risks goodwill. **Sign the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Further counter-offering is unlikely to yield more and risks goodwill. **Sign the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Baseline Average:** **~$608,000/year** (excluding any refreshers or stock appreciation)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1:** **~$844,400** ($240k base + $48k bonus + $356.4k equity + $200k sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google didn't just replace your $200k of unvested Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T21:05:37+00:00"
+}

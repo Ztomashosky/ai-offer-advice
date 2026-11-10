@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong, top-tier offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a ~**30%\u2013%35% jump in 4-year annualized earnings**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Accept Enthusiastically (Recommended)"
+  },
+  "intensity": 1,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "round the equity grant to **$1.45M**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Typical L6 Senior PM compensation at Google in the Bay Area sits between **$450,000 and $550,000/year**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google uses annual refreshers to fill this gap, but refreshers depend on performance ratings and Alphabet share price"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "An initial grant of **$1.34M** is what is typically seen for L7"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "**Walk Away?** Absolutely not."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 38/32/20/10",
+    "quote": "Google generally uses a front-loaded vesting schedule for new-hire equity grants"
+   },
+   {
+    "claim": "sign-on covers unvested Meta RSUs dollar-for-dollar",
+    "quote": "covers your unvested Meta RSUs for the next 12 months dollar-for-dollar"
+   },
+   {
+    "claim": "offer preemptively priced to buy out Meta equity",
+    "quote": "Google's compensation committee has already preemptively priced this offer to buy out your Meta equity"
+   },
+   {
+    "claim": "standard initial L6 grants are $600k-$800k",
+    "quote": "Standard initial equity grants for L6 are typically **$600k \u2013 $800k**"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on bonus payout and clawback terms",
+   "Meta vesting/bonus payout dates",
+   "refresher expectations"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "round the equity grant to **$1.45M** (or increase base salary to **$270,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "would it be possible to round the equity grant to **$1.45M**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,340,000 over 4 years ($335,000/yr straight-line average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**4-Year Average (excl. sign-on):** **~$647,000/year**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "covers your unvested Meta RSUs for the next 12 months dollar-for-dollar"
+  }
+ },
+ "bad_quotes": [
+  "verdict_vs_current"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:20:17+00:00"
+}

@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a fair market offer, but not a compelling \u201cleave a job you like\u201d offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000, or 5%, above your stated Meta run rate of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Roughly $668,000 is around the upper end\u2014but not beyond\u2014the observed L6 PM market."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported market data puts Bay Area Google L6 PM median compensation around $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Broader recent L6 PM data shows a median around $514,000 and a 90th percentile around $671,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assign zero guaranteed value to refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google stays near $552,000 with no sign-on, I would remain at Meta unless the Google role is substantially better"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule percentages across the 4 years",
+   "First vest date and vesting frequency",
+   "Stock price/date used for share conversion",
+   "Bonus proration terms",
+   "Refresh cycle eligibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $265,000 base, $1.4 million RSUs, and $100,000 sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Value the initial $1.08 million grant at $270,000/year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A one-time payment should not distract from recurring four-year economics."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Don\u2019t claim you need the entire $200,000 forfeited equity as a cash make-whole. That $200,000 is already included in your Meta next-12-month compensation."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You would forfeit $200,000 of Meta equity scheduled to vest during the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T00:50:50+00:00"
+}

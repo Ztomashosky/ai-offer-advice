@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong final offer, and I'd take it if the role and team appeal to you."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this offer clearly beats staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Check the four terms above, time your exit around your next Meta vest, and accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Meta refreshes and Google refreshes roughly offset each other."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually accommodates start dates without trouble",
+    "quote": "Google usually accommodates start dates without trouble."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on repayment terms",
+   "sign-on timing (paid all at once or split across years one and two)",
+   "vesting schedule for the $1.08M"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Check the four terms above, time your exit around your next Meta vest, and accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Since they've called it their best offer, don't push on pay again."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Four-year average: about $608K a year, up from $552K in the first offer"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Assumes the sign-on is paid entirely in year one. Not included: refreshes from either company."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "That covers the full $200K of near-term stock you'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-03T16:34:26+00:00"
+}

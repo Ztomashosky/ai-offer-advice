@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Your offer\u2019s recurring annualized value is above that benchmark, and the sign-on makes the overall package stronger."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is approximately $328,000 ahead over four years, or $82,000 per year\u2014a 15.6% gross premium."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Assuming the role and manager pass your diligence, take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "recent self-reported US data puts median Google L6 PM compensation around $514,000, with a median base of $240,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assuming target bonuses, unchanged stock prices, and no future refresh grants at either company"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Sign-on clawback language and terms",
+   "Exact vesting percentages and pricing methodology",
+   "First-year bonus eligibility/proration",
+   "Equity refresh-cycle eligibility timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "I\u2019d lean toward accepting\u2014provided you like the Google role, manager, and scope reasonably well."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not reopen monetary negotiations after they explicitly said this is the best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial/current RSUs | $1.080M | $1.000M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, Google\u2019s recurring annualized compensation is approximately $558,000, only $32,000 or 6% above your Meta run rate."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on directly replaces the gross value you said you would forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-03T01:02:34+00:00"
+}

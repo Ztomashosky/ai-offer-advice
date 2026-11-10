@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is respectable and roughly market-normal for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Difference: $26,000/year, or about 5%"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t walk away yet, but I would not accept this offer as-is"
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 125000,
+  "signon_ask_high": 125000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "I would need a meaningfully stronger guaranteed four-year package to make the transition."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported market data puts Bay Area Google L6 PM compensation around the mid-$500Ks"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Treat refreshers as upside when deciding, not as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "once the new-hire grant is gone and four annual $250,000 refresh grants are fully stacked, compensation would settle around"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under that illustration, four-year Google compensation would be approximately $2.583 million, or about $646,000/year on average."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "roughly market-normal for a Google L6 PM"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if:\n\n- They barely move;\n- The refresh illustration is doing most of the work in making the package attractive;\n- And you otherwise prefer staying at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "In practice Google may have more flexibility on equity and sign-on than base",
+    "quote": "In practice, Google may have more flexibility on equity and sign-on than base"
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule percentage per year (front-loaded vs even)",
+   "First grant and vest dates",
+   "First-year bonus proration details",
+   "Earliest refresh cycle eligibility and proration rules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I\u2019d like to ask whether the package can be adjusted to a $265,000 base salary, $1.35 million new-hire equity grant, and a $125,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity: $337.5K/year\n- Recurring four-year target: approximately $655.5K/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year target: approximately $655.5K/year\n- First-year target including sign-on: approximately $780.5K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T01:08:47+00:00"
+}

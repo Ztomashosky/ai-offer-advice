@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good L6 offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is a substantial switching premium."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate once"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an intentionally ambitious but defensible anchor."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "roughly **$606,000 median annual compensation for Bay Area L6 PMs**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Recent anecdotal L6 PM market data puts Bay Area grants around $300,000\u2013$500,000 per year"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These datasets are self-reported and mix new hires with existing employees"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would value refreshes at **zero**, and treat them as potential upside"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "L6 scope is at least broadly comparable to your Meta IC6 scope"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The role is a meaningful scope or career regression."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on reflects forfeited Meta equity",
+    "quote": "That is probably how Google\u2019s compensation team arrived at it."
+   },
+   {
+    "claim": "equity protects comp after sign-on",
+    "quote": "equity is the largest component and protects your compensation after the sign-on disappears"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-grant vesting percentages by year",
+   "Sign-on payment timing and repayment obligation",
+   "Bonus proration and multipliers",
+   "Refresh eligibility and timing",
+   "Benefits differences"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "this should be your top priority"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for:\n\n- **Base: $271,000**\n- **RSUs: $1,600,000 over four years**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The extra $260,000 of equity represents only another $65,000 per year on a straight-line basis"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$371,000 more in the first year**, including sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200,000 sign-on effectively replaces the approximately $200,000 of Meta RSUs vesting over your next 12 months"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You may be forfeiting more than just the next 12 months of Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:49:34+00:00"
+}

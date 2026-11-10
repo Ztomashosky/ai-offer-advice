@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 is about +$280K (roughly +59%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, from a pay standpoint I'd take it, as long as the sign-on terms check out"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Years 2\u20134, per year (if the recruiter's refresh example holds)"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "~$620K \u2192 $683K \u2192 $746K"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Year 5 and later | ~$526K | ~$538K"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The sign-on bonus is paid in cash.",
+    "quote": "The sign-on is paid in cash."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback period and whether repayment is prorated",
+   "when the sign-on is paid and whether it is split across years",
+   "RSU vesting schedule",
+   "how the RSU grant is converted into shares",
+   "Meta vesting calendar and start-date timing",
+   "whether Meta would make a counteroffer"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If the job itself appeals to you, this is a good offer to accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn't push for more."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google's own stock grant still starts vesting on top of it."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is about +$280K (roughly +59%)."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on bonus replaces the Meta stock you'd lose by leaving."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on bonus replaces the Meta stock you'd lose by leaving."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-03T17:01:17+00:00"
+}

@@ -1,0 +1,58 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 7,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T15:11:58+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T15:13:06+00:00",
+   "reply": "**This is a strong offer, and you should accept it after one polite, specific round of negotiation.** Walking away makes no sense: it beats your Meta pay by a wide margin and sits above market for the level. With no competing offer, keep the ask modest and well-supported.\n\n## How it compares to Meta (in thousands of dollars)\n\n| | Year 1 | Years 2\u20134 (per year, before refreshes) | 4-year total |\n|---|---|---|---|\n| Meta (stay) | ~$476 (with $200 RSUs vesting) | ~$526 | ~$2,054 |\n| Google (even vesting) | **$847** | $647 | **$2,788** |\n\nOver four years that's about $730K more, roughly +36%. The $200K sign-on bonus replaces the $200K of Meta stock you'd give up in your first year, so you aren't losing anything in year 1.\n\n**Market check:** Levels.fyi shows Google Product Manager L6 at $607K. That figure probably includes refresh grants and stock price gains for people who've been there a while. Your offer is about $647K a year before any refreshes. Your recruiter already met your \"market competitive\" condition.\n\n## The one thing to check first: vesting schedule\n\nAsk the recruiter how the $1.34M grant vests. Google has used front-loaded schedules. Levels.fyi lists 38% in the 1st year, 32% in the 2nd, 20% in the 3rd, 10% in the 4th. Other sources say Google changed its standard new-hire vesting schedule in mid-2023 to a front-loaded structure, though the exact percentages differ by source.\n\nThe 4-year total is the same either way, but the yearly amounts change a lot:\n\n| Schedule | Y1 | Y2 | Y3 | Y4 |\n|---|---|---|---|---|\n| 38/32/20/10 | $1,021K | $741K | $580K | **$446K** |\n\nUnder that schedule, year 4 pay without refreshes would be **below your current Meta pay**. That's why the refresh grants matter, and the recruiter told you they aren't guaranteed. This is a real risk for later years, and it's the best reason to ask for more stock.\n\n## What to ask for\n\nMake the request once, in one message, and frame it as closing the deal, not as a threat:\n\n1. **Equity: from $1.34M to about $1.5M (+$160K).** This is your main ask. Your argument is that front-loaded vesting and non-guaranteed refreshes make the later years thin.\n2. **Base: from $260K to $271K, the top of the posted range.** This is small but easy to justify. It also raises your bonus about $2K, since the bonus is 20% of base.\n3. **Keep the $200K sign-on.** Also ask about the clawback terms. If a Meta bonus payout or stock vest is coming up soon after you'd leave, ask for a little more sign-on to cover that specific amount.\n\n**Sample script:**\n> \"I'm really excited about this team, and Google is my first choice. I'd like to get to yes. Leaving Meta means giving up significant unvested equity, and since refreshes aren't guaranteed, I'd like the later years to be stronger. If you can get the equity grant to $1.5M and base to $271K, I'm ready to sign.\"\n\n## Expectations and guardrails\n- **Likely outcome:** a partial bump (some extra stock or a few thousand on base), or a polite \"this is our best.\" Either way, accept. A rescinded offer for a request this respectful is very unlikely.\n- **Don't** make up a competing offer or hint that you might walk away. You don't have that leverage, and you don't need it.\n- **Do** saying \"ready to sign\" signals commitment and tends to get the best response.\n- **Keep in mind:** the stock is valued at today's Alphabet price, so your actual pay will move with the share price.\n\n**Bottom line:** negotiate once (about +$160K equity and base at $271K), confirm the vesting schedule and sign-on clawback, then accept.",
+   "searches": [
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule 2025 front-loaded"
+    },
+    {
+     "query": "Meta IC6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "levels.fyi Google product manager L6 salary San Francisco Bay Area"
+    },
+    {
+     "query": "Google product manager L6 salary levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation"
+    },
+    {
+     "query": "Google product manager L6 salary levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 82888,
+    "output": 4204,
+    "web_searches": 9
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T15:13:06+00:00"
+}

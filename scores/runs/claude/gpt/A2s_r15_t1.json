@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good, market-competitive Google L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Increase:** only **$26K/year, or about 5%"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate: definitely"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "That is above the recent reported U.S. median annual L6 PM stock compensation of roughly $230K"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median compensation at roughly $551K"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "broader U.S. data shows a $514K median and approximately $671K at the 90th percentile"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that dataset mixes new offers and existing employees and may include refresh stacking"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not value unspecified refresh grants as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at the same level at Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they make little or no improvement, I would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "commonly reported Google vesting schedule 38/32/20/10",
+    "quote": "the commonly reported Google schedule of **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule and first vest date",
+   "refresh eligibility timing and proration",
+   "stock-price averaging period",
+   "sign-on clawback terms",
+   "Meta comp statement and vest dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If there are constraints on one component, I\u2019m open to shifting value among base, equity, and sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are forfeiting meaningful near-term equity."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At $1.08M over four years, the grant has an annualized value of $270K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$625K normalized annual compensation**\n- Plus a $100K first-year sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame the $200K as **documented forfeited equity**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:33:23+00:00"
+}

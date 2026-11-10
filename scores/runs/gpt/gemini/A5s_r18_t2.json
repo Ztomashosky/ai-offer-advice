@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Getting Google to add a **$200,000 sign-on bonus** and bump your base to match Meta without a formal competing offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Earning **~$760k\u2013$840k** in Year 1 significantly de-risks the friction of onboarding and changing teams."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If you are excited about the team, problem space, and the SF office location, **accept the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "Assumes standard target performance equity refreshes stack on top of base/bonus."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 sign-on bonus is near the top of the band for an L6 non-executive role.",
+    "quote": "A $200k sign-on bonus is near the absolute top of the band for an L6 non-executive role."
+   },
+   {
+    "claim": "Google's standard vesting is often front-loaded on a 33/33/22/12 schedule.",
+    "quote": "Google's standard vesting is often front-loaded (33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4)"
+   },
+   {
+    "claim": "Google often pays sign-on bonuses in the first or second paycheck.",
+    "quote": "Google often pays it in your first or second paycheck"
+   },
+   {
+    "claim": "The standard sign-on clawback is prorated repayment for leaving within 12 or 24 months.",
+    "quote": "Standard is prorated repayment if you leave voluntarily within 12 or 24 months"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing and whether it is split across years",
+   "Sign-on clawback term",
+   "GSU vesting cadence and front-loaded versus even schedule",
+   "Whether the start date can follow an imminent Meta RSU vest"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "From a purely financial perspective, this is a clear green light."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "If you are excited about the team, problem space, and the SF office location, **accept the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "which would yield ~$356,400 in Year 1 equity rather than an even 25% ($270,000)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You swapped $200,000 of unvested Meta RSUs (which carry stock price volatility risk) for **$200,000 in guaranteed cash** up front."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You swapped $200,000 of unvested Meta RSUs (which carry stock price volatility risk) for **$200,000 in guaranteed cash** up front."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-03T00:49:06+00:00"
+}

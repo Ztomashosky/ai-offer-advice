@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "near the top of the band for standard L6 PM offers without competing written counteroffers"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the compensation is mathematically superior for Years 1\u20133"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Accept the offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "near the top of the band for standard L6 PM offers"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Requires Refreshes to bridge"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Accept the offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads new-hire grants at 33/33/22/12",
+    "quote": "Google typically front-loads initial RSU grants (standard **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "$1.28M is near top of band for standard L6 PM offers",
+    "quote": "is near the top of the band for standard L6 PM offers without competing written counteroffers"
+   }
+  ],
+  "missing_info_requested": [
+   "product scope/impact",
+   "career velocity preference",
+   "work-life balance preference"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "continuing to push for a sign-on bonus will yield diminishing returns"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Base $240k + Bonus $48k + RSU $422.4k)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "your first-year liquid income will surge past $700,000"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Even after subtracting the $200,000 you leave behind at Meta, your Year 1 equity payout will be"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google responded by increasing your total equity grant by **$200,000**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 22,
+ "turn": 2,
+ "at": "2026-11-03T00:31:03+00:00"
+}

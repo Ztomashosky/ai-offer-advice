@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an **exceptional, top-of-band Google L6 PM offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your annualized baseline is **$608,000/year** (up +$82,000/year over Meta)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should take it**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "even before accounting for annual equity refreshers or stock appreciation"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard front-loaded vesting schedule",
+    "quote": "Google's standard vesting schedule vests **38% in Year 1, 32% in Year 2, 20% in Year 3, and 10% in Year 4**"
+   },
+   {
+    "claim": "Meta moves faster on promotions",
+    "quote": "Meta generally moves faster on promotions for top performers, but has higher churn and intensity."
+   },
+   {
+    "claim": "Google L6 to L7 is deliberate",
+    "quote": "Google L6 to L7 is notoriously deliberate and requires significant cross-org consensus."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether product area is tier-1",
+   "Promotion velocity priorities"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.** Google met your compensation floor, matched your base"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "the financial package is essentially maximized for an L6"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Yr Avg** | **$240,000** | **$48,000** | **$320,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "effectively replaces the $200,000 of unvested Meta stock you are forfeiting within your very first 12 months"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "~$526,000** over the next 12 months (which includes that $200,000 in vesting stock)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "effectively replaces the $200,000 of unvested Meta stock you are forfeiting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-02T23:06:48+00:00"
+}

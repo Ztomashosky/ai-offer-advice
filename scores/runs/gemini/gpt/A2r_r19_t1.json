@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Fair for Google L6; insufficiently differentiated for someone happy at Meta whose priority is compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26K/year, or about 5%, above your stated $526K Meta run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate\u2014not accept as-is and not walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That is around the reported 90th percentile of broader US L6 PM compensation, which is appropriate as an opening ask"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported Bay Area Google L6 PM median compensation was approximately $551K, meaning your offer is almost exactly market median"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Broader US L6 data shows a median around $514K and a 90th percentile around $671K."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshers cannot be included in guaranteed offer value."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are performing at an equivalent senior level at a direct peer."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If they cannot get normalized compensation to roughly $600K or better, staying at Meta is the financially rational choice."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact vesting schedule percentages and frequency",
+   "first vest date",
+   "share count stock-price averaging period",
+   "bonus proration details",
+   "first refresh grant eligibility timing",
+   "modeled refresh amount for standard performance",
+   "sign-on bonus repayment terms",
+   "confirmation of L6 level recording in HR system"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move compelling, I\u2019d like to see whether the team can get closer to $265K in base, $1.4M in new-hire equity, and a $100K sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs: $1,400,000\n- Sign-on bonus: $100,000\n\nThat is an ambitious but defensible anchor:\n\n- $265K is within the posted $183K\u2013$271K base range.\n- Normalized recurring target compensation would be approximately:\n  - $265K base\n  - $53K target bonus\n  - $350K average annual initial equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on helps with Year 1, but it should not hide weak recurring compensation."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:45:31+00:00"
+}

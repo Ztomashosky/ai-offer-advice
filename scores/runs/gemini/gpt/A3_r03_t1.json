@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is already a strong L6 offer\u2014probably toward the upper end of Google\u2019s current Senior PM compensation range"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is materially ahead of Meta\u2019s known next-12-month compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is already a strong L6 offer\u2014probably toward the upper end of Google\u2019s current Senior PM compensation range\u2014but you should still negotiate once."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Because refreshes are not guaranteed, your argument should be that the initial grant must make the risk-adjusted four-year package sufficiently compelling on its own."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "puts Bay Area Google L6 PM median compensation around $514K\u2013$551K; one recent dataset places the 90th percentile around $671K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshers are part of the process, but they are not a contractual guarantee."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "The role has narrower scope despite being nominally equivalent."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Purely on the numbers, however, this is not a walk-away offer. It is a strong offer that is worth countering before accepting."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire awards are granted on the first non-holiday Wednesday of the month following start date",
+    "quote": "Alphabet also notes that new-hire awards are generally granted on the first non-holiday Wednesday of the month following the employee\u2019s start date."
+   },
+   {
+    "claim": "Google's compensation planning uses modeled equity-refresh recommendations based on performance, location, and role",
+    "quote": "Google publicly describes annual compensation planning as including modeled equity-refresh recommendations based on factors such as performance, location, and role"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire RSU vesting schedule",
+   "vesting frequency and first vest date",
+   "bonus proration details",
+   "refresh grant eligibility timeline and cycle rules",
+   "sign-on repayment schedule and clawback details"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get the package to $271,000 base, $1.6 million in new-hire equity, and a $250,000 sign-on bonus, I would be prepared to move quickly toward signing."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Because you\u2019re happy at Meta, were recruited rather than actively searching, and Google\u2019s refresh grants are not guaranteed, you have legitimate leverage."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire equity, averaged over 4 years | $335,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Even excluding the sign-on, Google would be approximately:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on by itself also approximately replaces the Meta shares you would forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:47:34+00:00"
+}

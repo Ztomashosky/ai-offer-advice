@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "For an **L6 Senior PM** in the Bay Area, competitive market rates sit higher than what has been offered."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "this offer represents a **lateral move or a slight step down** in guaranteed cash and total compensation (TC)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Do not accept this offer as-is.** Because Google recruited you while you are already happy at Meta, you hold significant leverage."
+  },
+  "intensity": 2,
+  "base_ask_low": 240000,
+  "base_ask_high": 250000,
+  "base_expected_low": 235000,
+  "base_expected_high": 235000,
+  "equity_ask_low": 950000,
+  "equity_ask_high": 1050000,
+  "equity_expected_low": 925000,
+  "equity_expected_high": 925000,
+  "signon_ask_low": 60000,
+  "signon_ask_high": 80000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "providing a genuine step up over your current Meta equity run rate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For an **L6 Senior PM** in the Bay Area, competitive market rates sit higher than what has been offered."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "refreshers are performance-dependent and not guaranteed in offer math."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move at all, **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google initial new-hire RSU grants typically vest on a 33%/33%/22%/12% schedule.",
+    "quote": "Google\u2019s initial new-hire RSU (GSU) grants typically follow a **33% / 33% / 22% / 12%** 4-year schedule"
+   },
+   {
+    "claim": "A zero sign-on offer is a standard Google recruiter anchor that leaves substantial negotiating room.",
+    "quote": "Offering **$0 sign-on** is a standard initial anchor by Google recruiters that leaves substantial room to negotiate."
+   },
+   {
+    "claim": "Google expects L6-and-higher candidates to counter.",
+    "quote": "Google expects candidates at L6+ to counter, especially candidates currently employed at Meta."
+   },
+   {
+    "claim": "Google refresh grants are performance-dependent.",
+    "quote": "refreshers are performance-dependent and not guaranteed in offer math."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter with specific targets at the upper quartile of the L6 band:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "this package would be a step down in guaranteed base salary and essentially flat on total compensation"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Year 1:** $215k base + $43k bonus + **$264k stock (33%)** = **~$522,000**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "bring your **Year 1 Total Comp to ~$660,000+** (including sign-on) and establish a stable multi-year run rate"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "To offset the unvested equity and bonus I\u2019d be leaving behind at Meta, a **$75,000** sign-on bonus would bridge the gap."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T20:41:09+00:00"
+}

@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Over four years it's a pay cut unless Google's refresh grants make up the gap"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: don't accept this offer as it stands. Negotiate, and be willing to walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1100000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "matching your $526K over four years without counting refreshes takes about $225K a year in stock"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta pay already includes years of overlapping refresh grants. Google's would start from zero."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Accept if the four-year average without refreshes reaches roughly $525K\u2013$550K or more"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Each new refresh vests over several years, so it only adds a slice of its value each year."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Decline if they won't go much past about $900K in stock with a base under $240K."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity likely has more negotiation flexibility than base.",
+    "quote": "Expect some movement here, but probably less than on equity."
+   },
+   {
+    "claim": "The bonus percentage is usually fixed by level.",
+    "quote": "The bonus percentage is usually fixed by level, so don't spend effort on it."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Google stock vesting frequency",
+   "Meta bonus payout date",
+   "Meta stock unvested on the planned exit date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base around $250K, a new-hire grant around $1.15M, and a sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The grant averages $200K a year, which is less than the ~$250K a year you get now."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 looks good, but only because of the vesting schedule."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "$240K + $36K + $200K = **~$476K**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Use this to cover your forfeited Meta bonus and the ramp-up while Google refreshes start."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:02:58+00:00"
+}

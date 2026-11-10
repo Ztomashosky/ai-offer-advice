@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Short answer: It's a good offer, and you shouldn't walk away from it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "So in year 1, Google pays about **$76K more (+16%)**, not $26K more."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should also negotiate before accepting. They came to you, you're happy where you are, and you can turn this down without losing anything."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Google usually has more flexibility on equity and sign-on bonuses than on base salary."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "The recruiter's example checks out. Each $250K refresh adds about $62.5K/yr of vesting:"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Each $250K refresh adds about $62.5K/yr of vesting:\n\n| Year | Equity vesting | Total comp (flat base, target bonus) |\n|---|---|---|\n| 1 | $270K | ~$552K |\n| 2 | ~$333K | ~$615K |\n| 3 | ~$395K | ~$677K |\n| 4 | ~$458K | ~$740K |\n| 5 | ~$250K | ~$532K |"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's example checks out. Each $250K refresh adds about $62.5K/yr of vesting"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Make sure Google L6 is truly the same as or better than your Meta IC6 in scope."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they won't move at all, it's still about $76K more in year 1. Then it comes down to the role, the team"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has more flexibility on equity and sign-on bonuses than on base salary.",
+    "quote": "Google usually has more flexibility on equity and sign-on bonuses than on base salary."
+   },
+   {
+    "claim": "Sign-on bonuses come with a 12-24 month clawback.",
+    "quote": "Expect a sign-on bonus to come with a clawback if you leave within 12\u201324 months."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus payout timing",
+   "Meta RSU next vesting date",
+   "Recent Google L6 PM offers on Levels.fyi",
+   "Google L6 scope vs Meta IC6 scope"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Google usually has more flexibility on equity and sign-on bonuses than on base salary. Ask for all three in one message"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity vesting | $200K | $270K ($1.08M \u00f7 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Why the sign-on is easy to justify: leaving Meta costs you real money.\n- You'll likely give up your Meta bonus for this year."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Why the sign-on is easy to justify: leaving Meta costs you real money.\n- You'll likely give up your Meta bonus for this year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-04T17:15:53+00:00"
+}

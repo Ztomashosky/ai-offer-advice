@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Google has moved this from a merely lateral offer to a **strong L6 offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Approximately a **15.6% premium**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Compensation verdict: accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": "I would **not negotiate the package again** after they explicitly called it their best offer"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "The current self-reported U.S. median for Google L6 PM is approximately **$514,000**, including about $230,000 in annual stock"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "They should therefore be treated as probable compensation opportunities\u2014not contractual compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You materially prefer your Meta manager, team, or product."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly front-loads vesting 38/32/20/10",
+    "quote": "If it uses Google\u2019s commonly reported front-loaded **38% / 32% / 20% / 10%** schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages and frequency",
+   "First vest date",
+   "Whether first bonus is prorated",
+   "Whether you qualify for next refresh cycle",
+   "Latest permissible start date"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My recommendation: **lean accept**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would **not negotiate the package again** after they explicitly called it their best offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "they added $200,000 of grant-date equity distributed across the four-year vesting schedule"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "it is nonrecurring and may contain repayment provisions"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "don\u2019t subtract the entire $200,000 from Google\u2019s offer as a separate loss while also using your Meta compensation as the baseline"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "effectively create the make-whole payment Google declined to provide"
+  }
+ },
+ "bad_quotes": [
+  "year1_vs_recurring"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-03T00:47:15+00:00"
+}

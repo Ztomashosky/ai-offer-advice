@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "comfortably above median and approaching the upper end of reported L6 compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "materially exceeds your current annualized compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, then probably accept."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 260000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A $1.55M request is a $210K increase in the four-year grant, or only $52.5K annualized. It is a meaningful but not absurd counter. It positions you to land near $1.45M\u2013$1.50M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current compensation submissions put Bay Area Google L6 PM median compensation around $606K."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A separate dataset covering U.S. L6 PM submissions over the previous 24 months shows a median around $514K and a 90th percentile around $671K."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These are self-reported and mix established employees with new offers"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value the signed offer without assuming refreshers"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I would not walk merely because Google declines the counter."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants commonly follow a 38/32/20/10 front-loaded vesting schedule",
+    "quote": "Google new-hire grants commonly use a front-loaded 38% / 32% / 20% / 10% schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule for equity grant",
+   "Vesting frequency and first vest date",
+   "Sign-on payout timing (lump sum vs installments)",
+   "Sign-on clawback terms",
+   "First annual bonus proration",
+   "Equity refresh timing and proration rules",
+   "GSU share count calculation methodology",
+   "Start date flexibility to capture imminent Meta vesting/bonus"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Specifically, could the compensation team consider a base of $271,000 and a new-hire equity grant of $1.55 million, while keeping the $200,000 sign-on?"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Specifically, could the compensation team consider a base of $271,000 and a new-hire equity grant of $1.55 million"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "A $1.55M request is a $210K increase in the four-year grant, or only $52.5K annualized."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring annualized TC"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on appears designed to make up for your next 12 months of Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:52:11+00:00"
+}

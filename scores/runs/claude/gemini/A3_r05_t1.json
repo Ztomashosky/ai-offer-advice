@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a top-of-market offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a massive financial leap compared to your Meta IC6 compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Should you negotiate? Yes, but with precision."
+  },
+  "intensity": 2,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Standard L6 initial grants range between $800k and $1.1M over 4 years"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "A typical Google L6 PM total compensation package ranges between $480,000 and $550,000 per year"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which Google typically grants annually with a multi-year vesting schedule) stack to help backfill that drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Your Google L6 offer is exceptional"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away on compensation grounds."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule 33/33/22/12",
+    "quote": "Google uses a front-loaded vesting schedule for initial grants: 33% (Year 1) / 33% (Year 2) / 22% (Year 3) / 12% (Year 4)"
+   },
+   {
+    "claim": "base bands have strict committee caps",
+    "quote": "base bands have strict compensation committee caps"
+   },
+   {
+    "claim": "typical L6 sign-on bonuses range from $50k to $100k",
+    "quote": "Typical L6 sign-on bonuses range from $50,000 to $100,000"
+   },
+   {
+    "claim": "sign-on clawback typically 12 months",
+    "quote": "Verify the clawback period (typically 12 months at Google)"
+   },
+   {
+    "claim": "aggressive counter could trigger approval delays",
+    "quote": "an aggressive counter-offer could trigger internal approval delays"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback period and payment schedule",
+   "Meta bonus payout date vs start date",
+   "initial grant vesting schedule and cadence"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity (Highest Probability): Ask to bring the equity grant to $1,450,000 \u2013 $1,500,000"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask to bring the equity grant to $1,450,000 \u2013 $1,500,000 over 4 years"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Year Total Baseline: Without accounting for stock appreciation or annual refreshers, the 4-year total is $2.79M, or an average of ~$697,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Cash Flow: You will make nearly $1,000,000 in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:14:12+00:00"
+}

@@ -1,0 +1,58 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A3",
+ "rep": 2,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:35:54+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A3_strong",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:37:04+00:00",
+   "reply": "**Short answer: this is a strong offer, and you should negotiate a little before accepting.** Over four years it pays about $730K more than staying at Meta, before counting any future equity grants at either company. Because you weren't looking, you have real leverage, but the offer is already near the top of the market, so ask for modest increases.\n\n## How the offer compares\n\n**The level and the market:** The $183K\u2013$271K range you saw matches a real Google posting, \"The US base salary range for this full-time position is $183,000-$271,000 + bonus + equity + benefits.\" Levels.fyi lists Senior Product Manager at Google as level L6, so the level makes sense next to your Meta IC6. It reports a median total pay package of $590,867 for a Senior PM at Google, and a 10th\u201390th percentile range of $450K \u2013 $692K. Your offer is about $647K a year, not counting the sign-on bonus, which puts it in the upper part of that range. Your $260K base is already close to the $271K top of the posted range.\n\n**Year by year (in thousands of dollars, refresh grants not included):**\n\n| | Year 1 | Year 2 | Year 3 | Year 4 | 4-yr total |\n|---|---|---|---|---|---|\n| Meta (stay) | 476 | 526 | 526 | 526 | 2,054 |\n| Google, equal vesting each year | 847 | 647 | 647 | 647 | 2,788 |\n| Google, 38/32/20/10 vesting | 1,021 | 741 | 580 | 446 | 2,788 |\n\n**Check the vesting schedule.** Google often vests new-hire stock faster in the early years. Levels.fyi shows a schedule where 38% vests in the 1st year, 32% in the 2nd, 20% in the 3rd and 10% in the 4th, and other sources report 33/33/22/12. The four-year total is the same either way. With a front-loaded schedule, though, years 3\u20134 fall below what you make at Meta unless the refresh grants arrive. So the recruiter's caveat that refreshes aren't guaranteed matters more than it might seem. Keep in mind that your Meta figure also depends on Meta continuing to give you refreshes.\n\nThe $200K sign-on bonus almost exactly replaces the $200K in Meta stock you'd give up over the next 12 months. Expect to pay back at least part of it if you leave within about a year.\n\n## What to ask for\n\n1. **Base: $271K (+$11K).** That's the top of the posted range, which makes it an easy request to justify.\n2. **New-hire stock: about $1.5M (+$160K, roughly 12%).** Stock is where Google usually has the most room to move. Your argument is honest and strong: you're happy at Meta, weren't looking, and would be giving up a reliable stream of Meta refresh grants for refreshes Google won't promise.\n3. **Fallback if they won't raise the stock: about $50K more in sign-on.** This also helps cover the Meta bonus you may lose by leaving partway through the year.\n\nA realistic outcome is getting part of this, maybe $15\u201340K more per year. Don't make up a competing offer. Being willing to stay where you are is enough leverage.\n\n**Sample wording:** *\"I'm excited about the role, and I'm happy where I am, so leaving means giving up a lot of predictable equity at Meta. If you can bring the base to $271K and the stock grant to $1.5M, I'm ready to sign.\"*\n\n## Before you sign\n- Get the vesting schedule and the sign-on payback terms in writing.\n- Pick a start date after your next Meta stock vest and, if possible, after your Meta bonus pays out.\n- Check whether the vested Meta and Google stock together would leave too much of your wealth in big-tech stocks.\n\n**Bottom line:** If you'd like the job itself at least as much as your current one, negotiate as above and then accept even if Google doesn't move much. Walking away only makes sense if you put a lot of value on staying in a role you already like.",
+   "searches": [
+    {
+     "query": "Google Senior Product Manager salary range \"$183,000-$271,000\""
+    },
+    {
+     "query": "Google Senior Product Manager salary range \"$183,000-$271,000\""
+    },
+    {
+     "query": "Google Group Product Manager L6 base salary range job posting"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule 2025 front-loaded monthly"
+    },
+    {
+     "query": "levels.fyi Google product manager L6 total compensation"
+    },
+    {
+     "query": "Google Senior Product Manager Workspace base salary range"
+    },
+    {
+     "query": "Google Senior Product Manager Workspace base salary range"
+    },
+    {
+     "query": "Google RSU vesting 38% 32% 20% 10% new hire"
+    },
+    {
+     "query": "Google sign-on bonus clawback new hire"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 93148,
+    "output": 4870,
+    "web_searches": 9
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:37:04+00:00"
+}

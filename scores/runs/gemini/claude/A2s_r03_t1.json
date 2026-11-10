@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Compared with the market, the offer is reasonable."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Averaged over 4 years, it's only about 5% more than you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "It's a fair offer, but for someone who's happy where they are and wasn't looking, it isn't good enough yet. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Pays you for the Meta stock you'd give up and the refreshes you'd be restarting"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "The closest match is Google L6 Product Design Manager in the Bay Area, with a median total compensation of $485,400."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "unless refresh grants make up the gap. Your Meta stock declines the same way, from $250K a year to $200K next year, unless you get refreshes there too. So both paths depend on refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "If they move very little, ask whether the role could be leveled at L7."
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If the offer stays where it is, I'd stay at Meta, since you'd be taking on a lot of change for about $26K a year."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "which vesting schedule applies (33/33/22/12 vs 38/32/20/10)",
+   "how dollar value of grant converts into number of shares",
+   "typical refresh size for a strong L6 performer"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Raise the stock first, since that's where Google has the most room. Ask for a sign-on bonus second and a higher base third."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock per year | ~$250K | $270K ($1.08M \u00f7 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The first year looks better because Google usually pays out more stock early."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus you'd likely lose by leaving mid-cycle, and the lower base"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:26:45+00:00"
+}

@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "near the top of what Google's compensation committee typically approves"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You will make **$232,000 to $318,000 more** at Google in your first 12 months"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "standard stacking refreshes (~$60k/yr added each year), your steady-state comp in Years 2\u20134 will average **~$580k\u2013$650k/yr**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "your steady-state comp in Years 2\u20134 will average **~$580k\u2013$650k/yr**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": "standard stacking refreshes (~$60k/yr added each year)"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "their true ceiling for an L6 lateral hire"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Unless you are 6 months away from an IC7 promotion at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "$200k sign-on near top of Google comp committee approvals",
+    "quote": "near the top of what Google's compensation committee typically approves"
+   },
+   {
+    "claim": "offer escalated to executive comp approval",
+    "quote": "they have escalated this to executive comp approval"
+   },
+   {
+    "claim": "standard 1-year prorated clawback",
+    "quote": "Standard is a 1-year prorated clawback, but confirm it isn't 2 years"
+   },
+   {
+    "claim": "Google new-hire grants front-loaded 33/33/22/12",
+    "quote": "Confirm whether the $1.08M vests front-loaded (e.g., 33%/33%/22%/12%)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment schedule and clawback terms",
+   "equity vesting schedule (front-loaded vs even)"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing for more equity or base at this stage carries diminishing returns"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity Vesting | ~$250,000 | ~$356,400 | ~$270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Once the sign-on expires, your target cash will be $288k"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a **$200k sign-on bonus** to replace unvested equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 2,
+ "at": "2026-11-03T00:53:23+00:00"
+}

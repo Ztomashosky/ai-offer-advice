@@ -1,0 +1,102 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "A2s",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T21:10:10+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T21:11:26+00:00",
+   "reply": "## Bottom line\n\n**Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet.**\n\nThis is a **strong first-year offer with a good initial equity grant**, but it is not clearly compelling over four years for someone who:\n\n- already makes about $526,000,\n- is happy at Meta,\n- wasn\u2019t looking, and\n- would be taking switching and refresh-grant risk.\n\nI would ask for:\n\n- **$260,000 base**\n- **$1.35 million in new-hire RSUs**\n- **$200,000 sign-on bonus**\n\nA reasonable landing zone would be approximately:\n\n- **$250,000\u2013$255,000 base**\n- **$1.2 million\u2013$1.3 million RSUs**\n- **$100,000\u2013$150,000 sign-on**\n\nIf Google stays close to the original offer, I would move only if the job itself is materially better\u2014not solely for compensation.\n\n## What the offer is actually worth\n\nPublic compensation data currently lists Google\u2019s main new-hire vesting schedule as **38% / 32% / 20% / 10%**, although you should confirm your exact schedule in the written offer. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\nAssuming that schedule, unchanged stock prices, and a full target bonus:\n\n| Year | Base + target bonus | Initial RSUs vesting | Total |\n|---|---:|---:|---:|\n| 1 | $282,000 | $410,400 | **$692,400** |\n| 2 | $282,000 | $345,600 | **$627,600** |\n| 3 | $282,000 | $216,000 | **$498,000** |\n| 4 | $282,000 | $108,000 | **$390,000** |\n| **4-year average** |  |  | **$552,000/year** |\n\nThat comparison excludes:\n\n- future Google refresh grants,\n- future Meta refresh grants,\n- stock-price changes,\n- raises and promotions,\n- over- or under-target bonuses,\n- any prorating of your first Google bonus.\n\n### Compared with Meta\n\nYour stated Meta figures give two useful baselines:\n\n- **Next 12 months:** $240K + $36K + $200K = **$476K**\n- **Normal run rate:** approximately **$526K**\n\nSo Google is roughly:\n\n- **$216K ahead in Year 1** versus your next-12-month Meta vesting schedule.\n- **$26K/year ahead on four-year average** versus your stated $526K run rate.\n- **$104K ahead cumulatively over four years** if Meta stayed at exactly $526K each year.\n\nThat last number is the important one. A **$104K four-year premium\u2014about 5%\u2014is not enormous compensation for leaving a job you like**. Google\u2019s front-loading makes the offer look much better in Years 1 and 2 than it does over the whole grant.\n\nWithout refreshers, compensation also falls to approximately **$390K in Year 4**. That is why you should value unspecified Google refresh grants at **zero for purposes of deciding whether to join**. Google does have a formal annual process that considers equity refresh amounts, but performance, role, location, managerial discretion and other factors affect the outcome. ([services.google.com](https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai))\n\n## Is it a good Google L6 offer?\n\n**Yes, particularly on initial equity. But the base is soft and the lack of sign-on is a clear weakness.**\n\nCurrent self-reported Levels.fyi data for Google L6 PMs in the Bay Area shows:\n\n- Average total compensation: approximately **$551K**\n- 10th\u201390th percentile range: approximately **$450K\u2013$686K**\n- Average base: approximately **$263K**\n- Average first-year stock: approximately **$241K** ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/levels/senior-pm/locations/san-francisco-bay-area))\n\nThese figures are directional rather than perfectly apples-to-apples, but they suggest:\n\n- Your projected **$692K first year is very strong**.\n- Your **$235K base is below the reported L6 average**.\n- Your initial equity is doing almost all of the work.\n- A sign-on bonus is not unusual for Google PM offers; current reported data shows sign-ons varying by offer. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\nYour base is also only $5K below Meta, but because Google\u2019s bonus is calculated from base, raising the base has a recurring secondary benefit.\n\n## What I would negotiate\n\n### 1. Base: ask for $260,000\n\nThe posted band was $183K\u2013$271K. Your $235K offer is only modestly above its midpoint and below your current reported base.\n\nAsk for **$260K** because:\n\n- it is within the published band,\n- it reflects an experienced external L6 hire,\n- it is reasonably close to current reported Bay Area L6 base compensation,\n- it gives Google room to settle around $250K\u2013$255K.\n\nI would consider **$250K** a good outcome. At minimum, Google should be able to explain why it cannot match or modestly exceed your current $240K base.\n\n### 2. Initial RSUs: ask for $1.35 million\n\nThe initial grant is the most important long-term lever. Ask to increase it from $1.08M to **$1.35M**.\n\nA likely acceptable result would be **$1.2M\u2013$1.3M**.\n\nThe case is straightforward:\n\n- You have strong current compensation.\n- You were recruited rather than actively searching.\n- You are assuming uncertainty around future refreshers.\n- The front-loaded grant creates a substantial Year 3\u20134 decline unless refreshes materialize.\n- You need a meaningful premium to justify leaving a role where you are already happy.\n\nDo not let them sell the first-year number as if it were your durable annual compensation.\n\n### 3. Sign-on: ask for $200,000\n\nTell Google you expect approximately **$200K of Meta equity to vest during the next 12 months**, and ask for a **$200K sign-on payment to offset the transition**.\n\nThey may respond that the front-loaded Google grant already compensates you. That is a reasonable argument from their perspective, but it does not mean you should avoid asking.\n\nA realistic outcome might be:\n\n- $100K\u2013$150K cash, or\n- extra equity if cash is constrained.\n\nIf they offer a sign-on with a repayment clause, inspect whether repayment is:\n\n- prorated monthly,\n- all-or-nothing,\n- triggered by voluntary departure only or also termination,\n- based on gross or net payment.\n\n## Suggested negotiation message\n\n> I\u2019m very excited about the team and the opportunity. At the same time, I\u2019m currently happy at Meta and wasn\u2019t actively looking, so the economics need to make the move clearly compelling.\n>\n> My current annual compensation is approximately $526,000, and I expect roughly $200,000 of Meta equity to vest over the next 12 months. I also understand that Google\u2019s future refresh grants are discretionary, so I need to evaluate the offer primarily on the guaranteed initial package.\n>\n> Given my current compensation, the scope of the L6 role, and the published salary band, I\u2019d like to request a base salary of $260,000, an initial equity grant of $1.35 million, and a $200,000 sign-on bonus to offset the equity I\u2019m leaving behind.\n>\n> I\u2019m flexible on the mix if there are constraints on individual components, but I\u2019d like the overall package to provide a meaningful four-year premium over staying at Meta.\n\nThen stop talking and let the recruiter respond. Don\u2019t negotiate against yourself by immediately offering lower figures.\n\n## Your acceptance threshold\n\nBecause you are happy and compensation matters, I would target at least **$2.45M\u2013$2.55M in four-year target compensation**, excluding uncertain refreshes.\n\nFor example:\n\n- $250K base\n- $50K target bonus\n- $1.2M initial RSUs\n- $100K sign-on\n\nThat equals:\n\n- Four years of salary and target bonus: $1.2M\n- Initial equity: $1.2M\n- Sign-on: $100K\n- **Four-year total: $2.5M**\n\nThat would be about **$396K above** four years at your stated $526K Meta run rate, which is a more appropriate switching premium.\n\n### My decision framework\n\n- **Accept:** If they land around the range above and you like the team, manager and scope.\n- **Possibly accept:** If they improve materially but remain below that range, and the role offers substantially better scope or career trajectory.\n- **Walk:** If they remain near the original $2.208M four-year package and the role is only a lateral career move.\n\n## Questions to get answered before deciding\n\nAsk the recruiter to confirm in writing:\n\n1. The exact initial-grant vesting percentages and vesting frequency.\n2. The date and stock-price methodology used to convert $1.08M into shares.\n3. Whether your first bonus is prorated.\n4. Whether your start date affects eligibility for the next refresh cycle.\n5. When new employees typically receive their first refresh consideration.\n6. Whether sign-on can be paid in one installment and what repayment terms apply.\n7. Whether there is flexibility among cash, base and equity if one component is capped.\n8. The actual work location and in-office expectations for the San Francisco role.\n\nAlso build a month-by-month list of your **actual Meta vesting for the next four years**. Your stated $250K annual RSU run rate conflicts slightly with only $200K vesting over the next 12 months. The correct comparison is Google\u2019s exact vest schedule against Meta\u2019s exact scheduled vests\u2014not a historical average.\n\n**My recommendation: counter at $260K / $1.35M / $200K, aim to settle around $250K\u2013$255K / $1.2M\u2013$1.3M / $100K\u2013$150K, and decline if Google does not create a meaningful four-year premium unless you genuinely prefer the job.**",
+   "searches": [
+    {
+     "type": "search",
+     "query": "Google L6 Senior Product Manager compensation San Francisco 2026 equity offer Levels.fyi",
+     "queries": [
+      "Google L6 Senior Product Manager compensation San Francisco 2026 equity offer Levels.fyi",
+      "Google RSU vesting schedule 38 32 20 10 new hire 2026",
+      "Google careers Senior Product Manager L6 San Francisco salary range 183000 271000",
+      "Google annual equity refresh grants product manager L6 compensation refreshers"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "site:levels.fyi/companies/google/salaries/product-manager/levels/l6 San Francisco 2026",
+     "queries": [
+      "site:levels.fyi/companies/google/salaries/product-manager/levels/l6 San Francisco 2026",
+      "site:levels.fyi Google L6 product manager San Francisco compensation 2026",
+      "site:careers.google.com benefits compensation equity refresh Google employees annual equity refresh",
+      "site:google.com/about/careers/applications/how-we-hire compensation offer equity bonus Google"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 235000+47000+1080000*0.38",
+     "queries": [
+      "calculator: 235000+47000+1080000*0.38"
+     ]
+    },
+    {
+     "type": "open_page",
+     "url": "https://www.levels.fyi/companies/google/salaries/product-manager/levels/senior-pm/locations/san-francisco-bay-area"
+    }
+   ],
+   "citations": [
+    "https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai",
+    "https://www.levels.fyi/companies/google/salaries/product-manager/levels/senior-pm/locations/san-francisco-bay-area",
+    "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area"
+   ],
+   "usage": {
+    "input": 30939,
+    "output": 6023
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  },
+  {
+   "prompt": "T2_final_signon",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs stay at $1,080,000, plus a $200,000 sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-02T21:12:07+00:00",
+   "reply": "## My recommendation: **take it\u2014if you\u2019re at least genuinely interested in the role**\n\nThe revised package is financially strong enough to justify the move. I would **not keep negotiating after they\u2019ve labeled it final**. Your remaining decision should be about the manager, scope, trajectory, and whether you want to work at Google\u2014not whether the compensation is adequate.\n\n## The economics\n\nAssuming Google\u2019s common 38% / 32% / 20% / 10% new-hire vesting schedule\u2014confirm this in your actual grant documents\u2014the package looks like this: ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\n| Year | Base + target bonus | RSUs | Sign-on | Total |\n|---|---:|---:|---:|---:|\n| 1 | $288,000 | $410,400 | $200,000 | **$898,400** |\n| 2 | $288,000 | $345,600 | \u2014 | **$633,600** |\n| 3 | $288,000 | $216,000 | \u2014 | **$504,000** |\n| 4 | $288,000 | $108,000 | \u2014 | **$396,000** |\n| **Total** |  |  |  | **$2,432,000** |\n| **Average** |  |  |  | **$608,000/year** |\n\nThis assumes:\n\n- full target bonuses,\n- no salary increases,\n- no Google refresh grants,\n- no stock-price movement,\n- no first-year bonus proration.\n\nAgainst your stated Meta run rate of $526,000:\n\n- Meta four-year run rate: **$2.104M**\n- Google four-year package: **$2.432M**\n- Google premium: **$328K total**\n- Average premium: **$82K/year, or about 16%**\n\nThat is a legitimate switching premium. It is also above the current self-reported Bay Area Google L6 PM median of approximately $551K, although such market data mixes employees at different tenure points and should only be directional. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area))\n\n## Why the $200K sign-on changes my answer\n\nPreviously, the offer gave you only a modest four-year premium while requiring you to absorb the cost and risk of switching.\n\nNow Google has:\n\n- matched your $240K Meta base,\n- increased the target bonus from $36K to $48K,\n- effectively replaced the $200K of near-term Meta RSUs you identified,\n- preserved the large front-loaded equity grant.\n\nThe sign-on bonus is real compensation, not merely cosmetic. Your forfeited Meta RSUs and Google\u2019s sign-on are both pre-tax numbers, so $200K versus $200K is a reasonable comparison before accounting for stock-price changes.\n\n## The major caveat: the compensation cliff\n\nWithout refreshes, your modeled compensation falls:\n\n- from **$898K in Year 1**\n- to **$634K in Year 2**\n- to **$504K in Year 3**\n- to **$396K in Year 4**\n\nThat sounds alarming, but the cumulative economics remain favorable:\n\n- After Year 1: **$898K**\n- After Year 2: **$1.532M**\n- After Year 3: **$2.036M**\n- After Year 4: **$2.432M**\n\nYou should still value future refreshes at zero when making the decision. If they happen, they are upside. By Year 3, you can reassess whether Google\u2019s raises, refreshes, promotion prospects and job quality justify staying.\n\n## I would decline only if one of these is true\n\n1. **You are lukewarm or negative about the manager or team.**  \n   A 16% four-year premium is meaningful, but not enough to knowingly enter a dysfunctional situation.\n\n2. **The Google role has substantially worse scope.**  \n   Confirm that this is a genuine lateral-or-better L6 role, rather than a smaller role carrying the same nominal level.\n\n3. **You strongly prefer Meta\u2019s work or culture.**  \n   You are not being paid so much more that you should ignore a large quality-of-life difference.\n\n4. **Your actual Meta four-year vest schedule is substantially greater than the $526K run rate suggests.**  \n   If, for example, existing grants create several years well above $250K in annual vesting, use those exact numbers instead.\n\n5. **The sign-on has unusually punitive repayment terms.**\n\n## Verify these items before signing\n\nPay particular attention to the **$200K sign-on agreement**:\n\n- Is the clawback one year, two years, or longer?\n- Is repayment prorated monthly, or is it all-or-nothing?\n- Does repayment apply if Google terminates you without cause?\n- Would you repay the gross $200K even though you received less after withholding?\n- Is it paid immediately, on the first paycheck, or in installments?\n\nAlso confirm:\n\n- exact GSU vesting percentages and first vest date,\n- the date and methodology used to convert $1.08M into shares,\n- whether the first annual bonus is prorated,\n- whether your start date affects the next performance and refresh cycle,\n- when you will first be eligible for a refresh grant.\n\nIf possible, optimize the **start date** around your next Meta vest without reopening compensation. Even capturing one more scheduled Meta vest before leaving can be valuable.\n\n## Final answer\n\n**Yes, I would accept this offer, provided you like the manager, team, and role reasonably well.**\n\nIt is not an irresistible package, and its Year 4 economics require attention. But on the numbers you provided, Google is now offering:\n\n- reimbursement for the near-term equity you are leaving,\n- approximately **$608K average annual compensation over four years**, and\n- approximately **$328K more than maintaining your current Meta run rate**.\n\nThat is enough of a premium to make the move financially rational. If you are excited about the role, sign. If you prefer staying at Meta for nonfinancial reasons, staying is also defensible\u2014but the offer itself is no longer the reason to decline.",
+   "searches": [
+    {
+     "type": "search",
+     "query": "Google L6 product manager compensation Bay Area 2026 Levels.fyi",
+     "queries": [
+      "Google L6 product manager compensation Bay Area 2026 Levels.fyi",
+      "Google RSU vesting schedule new hire 38 32 20 10 2026",
+      "Google sign-on bonus repayment terms offer compensation"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 240000+0.2*240000+0.38*1080000+200000",
+     "queries": [
+      "calculator: 240000+0.2*240000+0.38*1080000+200000"
+     ]
+    },
+    {
+     "type": "open_page",
+     "url": "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area"
+    }
+   ],
+   "citations": [
+    "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area"
+   ],
+   "usage": {
+    "input": 23732,
+    "output": 3490
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T21:12:07+00:00"
+}

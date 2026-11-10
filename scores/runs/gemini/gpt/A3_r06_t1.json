@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "These datasets are self-reported and mix new hires with existing employees, but they indicate that your offer is strong."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The offer provides a meaningful premium over Meta even if you give zero value to future Google refresh grants."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, but I would not walk away over compensation if Google holds firm."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Recent anecdotal L6 PM market data puts Bay Area grants around $300,000\u2013$500,000 per year, so yours appears comfortably competitive but not obviously at the absolute ceiling."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports roughly $606,000 median annual compensation for Bay Area L6 PMs"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These datasets are self-reported and mix new hires with existing employees"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, I would value refreshes at zero, and treat them as potential upside."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "L6 scope is at least broadly comparable to your Meta IC6 scope."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I would not walk away over compensation if Google holds firm."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The $200,000 sign-on was designed by Google comp to replace 12 months of Meta vesting",
+    "quote": "The $200,000 sign-on effectively replaces the approximately $200,000 of Meta RSUs vesting over your next 12 months. That is probably how Google\u2019s compensation team arrived at it."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-grant vesting schedule/percentages by year",
+   "Sign-on repayment obligations and schedule",
+   "Typical equity refresh ranges for L6 PMs",
+   "Bonus proration and multiplier terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Because equity is the largest component and protects your compensation after the sign-on disappears, this should be your top priority."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Purely financially, the current offer is already good enough to accept. Because you are happy and were not searching, however, you have every reason to make one professional counter."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The extra $260,000 of equity represents only another $65,000 per year on a straight-line basis."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$371,000 more in the first year, including sign-on\n- $171,000 more in the first year, excluding sign-on\n- Approximately $121,000 more in recurring annual compensation"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "moving means giving up existing equity and taking on uncertainty around future refresh grants."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:49:47+00:00"
+}

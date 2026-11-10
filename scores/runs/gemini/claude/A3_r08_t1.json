@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should negotiate before accepting. Over four years it's worth far more than staying at Meta. Because it's already near the top of the market"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years it's worth far more than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, and you should negotiate before accepting."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "New-hire stock: ask for $1.6M (about +$260K, roughly 20% more). Expect to land somewhere around $1.45\u20131.55M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data pulled last week shows Google's L6 PMs in the US at a median of $514K, with a middle range (25th to 75th percentile) of $481,000 \u2013 $621,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "In practice, Google refreshers stack up and fill this gap, but as the recruiter said, they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": "none",
+  "unsupported_claims": [
+   {
+    "claim": "As of 2026, almost all (99%) of Google offers follow a 38/32/20/10 vesting structure vesting monthly.",
+    "quote": "As of 2026, almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure, and Google's GSUs vest monthly."
+   },
+   {
+    "claim": "Meta's US L6 PM median is $612K.",
+    "quote": "Meta's US L6 PM median is $612K, so you're currently below market for your level."
+   }
+  ],
+  "missing_info_requested": [
+   "Confirmation of vesting schedule in offer letter",
+   "How $1.34M equity converts to shares (pricing/averaging window)",
+   "Meta unvested stock details, next vest date, and bonus payout dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need the package closer to $1.6M in GSUs and a $271K base."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make the move, I'd need the package closer to $1.6M in GSUs and a $271K base. I'd be ready to sign quickly if we can get there."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Year 1 | $260K + $52K + $509K stock + $200K sign-on = ~$1.02M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Average yearly pay at Google is about $697K, or about $647K without the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on: keep the $200K. It already roughly covers the $200K in Meta stock you'd lose next year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:44:02+00:00"
+}

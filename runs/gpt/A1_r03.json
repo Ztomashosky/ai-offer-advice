@@ -1,0 +1,61 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 3,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T21:16:04+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T21:17:12+00:00",
+   "reply": "## Bottom line\n\n**Negotiate. Don\u2019t accept this offer as-is.**\n\nIt is a respectable offer, but not compelling for someone already happy at Meta earning about **$526,000 annually**. Ignoring uncertain refresh grants, Google\u2019s offer is worth about **$458,000 per year averaged over four years**, a reduction of roughly **$68,000 annually**.\n\nI would:\n\n- **Open at:** $250,000 base, $1.2 million in GSUs, and a $150,000 sign-on bonus.\n- **Aim to close around:** $240,000\u2013$245,000 base, $1.0\u2013$1.1 million in GSUs, and $75,000\u2013$125,000 sign-on.\n- **Walk away on financial grounds** if the final guaranteed four-year package remains meaningfully below your Meta compensation\u2014unless the role itself offers unusually strong career or lifestyle advantages.\n\n## How the current offer compares\n\n### Four-year guaranteed value\n\nAssuming target bonus payout and no stock-price changes:\n\n| Component | Meta annualized | Google offer |\n|---|---:|---:|\n| Base | $240,000 | $215,000 |\n| Target bonus | $36,000 | $43,000 |\n| Equity, annualized | $250,000 | $200,000 |\n| **Annualized TC** | **$526,000** | **$458,000** |\n| **Four-year TC** | **$2.104M** | **$1.832M** |\n\nThat is a **$272,000 four-year shortfall** before considering refreshes.\n\nYour base is also going backward by $25,000. The offered $215,000 base is only about 36% of the way through the posted $183,000\u2013$271,000 range, despite your being a currently successful Bay Area IC6 PM with a strong alternative.\n\nRecent crowdsourced data put Google L6 PM median base around $240,000, with reported total compensation above this offer, although those figures mix new hires with existing employees who may have stacked refresh grants. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area?utm_source=openai))\n\n### The vesting schedule matters\n\nGoogle\u2019s commonly reported current new-hire schedule is front-loaded at approximately **38% / 32% / 20% / 10%**, though you should confirm the exact schedule in your offer documents. ([thesimplemoney.com](https://thesimplemoney.com/employers/google/gsu-grants-and-vesting-schedule?utm_source=openai))\n\nIf that applies, the offer looks like:\n\n| Year | Base + target bonus | Initial GSUs vesting | Total |\n|---|---:|---:|---:|\n| 1 | $258,000 | $304,000 | **$562,000** |\n| 2 | $258,000 | $256,000 | **$514,000** |\n| 3 | $258,000 | $160,000 | **$418,000** |\n| 4 | $258,000 | $80,000 | **$338,000** |\n\nSo year one is actually competitive because of front-loading. The problem is the large decline in years three and four.\n\nRefreshers may partially or completely fill that decline, but Google\u2019s own description says refresh amounts depend on factors including role, location, performance, and manager discretion. Treat them as upside\u2014not guaranteed offer value. ([services.google.com](https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai))\n\n## What to ask for\n\n### Opening request\n\nAsk for:\n\n- **Base:** $250,000\n- **New-hire GSUs:** $1.2 million\n- **Sign-on:** $150,000\n- **Bonus:** Existing 20% target\n\nThis is an anchor, not necessarily your expected endpoint. It is defensible because:\n\n1. Your current base is already $240,000.\n2. You are not actively looking and do not need to leave.\n3. The offered guaranteed four-year value is $272,000 below your current annualized package.\n4. You are walking away from approximately $200,000 vesting over the next 12 months.\n5. $250,000 is within Google\u2019s posted base range.\n\nThe opening package averages approximately **$638,000 over four years including the sign-on**. That gives Google room to negotiate down while still producing a worthwhile switching premium.\n\n### Good settlement\n\nA strong, realistic target would be:\n\n- **$240,000\u2013$245,000 base**\n- **$1.0\u2013$1.1 million GSUs**\n- **$75,000\u2013$125,000 sign-on**\n\nFor example:\n\n- $240,000 base\n- $48,000 target bonus\n- $1.1 million GSUs\n- $100,000 sign-on\n\nThat totals **$2.352 million over four years**, or **$588,000 annually averaged**, before refresh grants. That is about a 12% premium over your current $526,000 compensation\u2014reasonable compensation for switching risk.\n\n### Bare financial parity\n\nApproximately:\n\n- $240,000 base\n- $900,000 GSUs\n- $50,000 sign-on\n\nwould equal about **$525,500 annually averaged over four years**.\n\nThat is merely parity\u2014not a compelling reason to leave a job you like. I would treat it as a financial floor, not as the target.\n\n## Suggested wording\n\n> I\u2019m genuinely excited about the role and the team. At the same time, I wasn\u2019t actively looking, I\u2019m happy at Meta, and my current compensation is approximately $526,000 annually, including $240,000 base. I also have approximately $200,000 in equity vesting over the next 12 months.\n>\n> As structured, the Google package represents a meaningful reduction in guaranteed four-year compensation, particularly because refresh grants are discretionary. To make the move compelling, I\u2019d like to see whether the team can get to a $250,000 base, $1.2 million new-hire equity grant, and a $150,000 sign-on bonus.\n>\n> I\u2019m flexible regarding the mix between equity and sign-on, but I would need the guaranteed four-year value to reflect both my current compensation and the risk of leaving a role where I\u2019m doing well.\n\nIf they ask what would close you immediately\u2014and only say this if you mean it:\n\n> If we can get to approximately $245,000 base, $1.1 million in equity, and a $100,000 sign-on, I would be prepared to sign promptly.\n\n## Questions to resolve before accepting\n\nAsk for these details in writing:\n\n1. **Exact GSU vesting percentages**, vesting frequency, and first vest date.\n2. **How the $800,000 converts into shares** and which stock-price averaging period is used.\n3. When you first become **eligible for a refresh grant**.\n4. The typical **total refresh grant range for an L6 PM receiving a standard successful rating**, not just exceptional performance.\n5. The refresh vesting schedule; refreshes are commonly reported as vesting evenly over four years, unlike the front-loaded new-hire award. ([thesimplemoney.com](https://thesimplemoney.com/employers/google/gsu-grants-and-vesting-schedule?utm_source=openai))\n6. Sign-on clawback terms and whether Google could split it between years one and two.\n7. Whether you would participate fully or partially in the next bonus and compensation-review cycle based on your start date.\n\nDo not count any verbal estimate of refreshers as guaranteed compensation.\n\n## Accept, negotiate, or walk?\n\n**Negotiate now.**\n\n- **Accept** if Google gets to roughly $575,000\u2013$600,000 in four-year average guaranteed value, or close to it, and you prefer the actual role.\n- **Consider it a neutral financial move** around $525,000\u2013$550,000, with the decision driven by scope, manager, promotion prospects, commute, and product area.\n- **Walk** if Google stays close to the current terms and you have no strong nonfinancial reason to leave. You would be assuming performance, refresh, organizational, and switching risk to obtain compensation that is lower on a four-year guaranteed basis.\n\nYour negotiating leverage is unusually good: you passed the process, hold another top-tier role, earn more today, and are perfectly willing to stay. Use that leverage before relying on discretionary refresh grants later.",
+   "searches": [
+    {
+     "type": "search",
+     "query": "Google L6 Senior Product Manager compensation San Francisco 2026 Levels.fyi",
+     "queries": [
+      "Google L6 Senior Product Manager compensation San Francisco 2026 Levels.fyi",
+      "Google equity vesting schedule new hire RSU 2026 38 32 20 10",
+      "Google annual equity refresh grants vesting schedule product manager L6",
+      "Google careers Senior Product Manager L6 San Francisco salary range 183000 271000"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "site:google.com Google equity refresh annual compensation equity refresh amount vesting",
+     "queries": [
+      "site:google.com Google equity refresh annual compensation equity refresh amount vesting",
+      "Google GSU refresh grants vest 25% annually official",
+      "Google annual refresher equity vest 4 years evenly 2026",
+      "Google first equity refresh grant eligibility first year new hire timing"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: (215000-183000)/(271000-183000)*100",
+     "queries": [
+      "calculator: (215000-183000)/(271000-183000)*100"
+     ]
+    }
+   ],
+   "citations": [
+    "https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai",
+    "https://thesimplemoney.com/employers/google/gsu-grants-and-vesting-schedule?utm_source=openai",
+    "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area?utm_source=openai"
+   ],
+   "usage": {
+    "input": 24314,
+    "output": 5431
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T21:17:12+00:00"
+}

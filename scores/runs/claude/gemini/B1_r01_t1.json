@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an exceptionally strong offer"
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 60000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Pushes your equity to round numbers ($300k/yr) without triggering executive pushback"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "places you near the top tier (90th+ percentile) of the market"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Ask what the typical target refresh grant size is for meeting expectations at the Senior PM level"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "up_level",
+   "quote": "You are getting a level jump"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "you should definitely not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "polite negotiation does not cause rescission at public companies",
+    "quote": "polite, professional compensation negotiation does not cause offers to be rescinded"
+   },
+   {
+    "claim": "round numbers avoid executive pushback",
+    "quote": "without triggering executive pushback"
+   },
+   {
+    "claim": "sign-on is standard tool for passive candidates",
+    "quote": "Standard tool used to close passive candidates"
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule",
+   "typical refresh grant size at Senior PM level"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Target $250k\u2013$255k base, a $40k\u2013$60k cash sign-on, and $1.2M equity"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Move base closer to the upper end of the posted range at **$255,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized Equity ($270,000/year / $1.08M over 4 years)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A one-time sign-on bonus of **$50,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "to help offset unvested equity and performance bonus timing I\u2019d be leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:36:50+00:00"
+}

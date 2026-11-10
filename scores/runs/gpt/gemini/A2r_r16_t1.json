@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It is a solid initial offer, but not a compelling one for someone who wasn't actively looking."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Years 3 & 4 (The Cliff): Your initial equity drops steeply."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 80000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "L6 equity grants can stretch up to $1.2M\u2013$1.35M for competitive hires."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they are tied to performance ratings and are not guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge at all, you are in a great spot to comfortably stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a 33%/33%/22%/12% front-loaded schedule for initial RSU grants.",
+    "quote": "Google uses a **front-loaded vesting schedule (33% / 33% / 22% / 12%)** for initial RSU grants"
+   },
+   {
+    "claim": "Google refresh grants typically vest 25% per year and are tied to performance ratings.",
+    "quote": "Google\u2019s annual refresher grants (which typically vest 25% per year) will help backfill this, they are tied to performance ratings"
+   },
+   {
+    "claim": "The offered grant is around the 50th\u201360th percentile for Google L6 PMs in the Bay Area.",
+    "quote": "$1.08M in RSUs is right around the 50th\u201360th percentile for Google L6 PMs in the Bay Area."
+   },
+   {
+    "claim": "Google L6 equity grants can reach $1.2M\u2013$1.35M for competitive hires.",
+    "quote": "L6 equity grants can stretch up to $1.2M\u2013$1.35M for competitive hires."
+   },
+   {
+    "claim": "Base salary increases require strict band calibration at Google.",
+    "quote": "Base salary increases require strict band calibration, but you should still ask to at least beat your current Meta base."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make this an easy decision for me to sign, I\u2019d be looking for:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google\u2019s offer appears to be an annualized **$552,000/yr** ($235k base + $47k bonus + $270k equity avg)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "the easiest levers for recruiters to move are **Sign-on Bonus** (one-time cash budget) and **Equity (GSUs)**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Compensates for the unvested Meta RSUs you forfeit in the immediate short term and bridges any bonus cycle misalignment."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:17:32+00:00"
+}

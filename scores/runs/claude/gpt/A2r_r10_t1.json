@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your offer\u2019s four-year average is therefore approximately market median"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Four-year premium over a constant $526K Meta run rate: only **$104K total**, or approximately **5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate\u2014not accept or walk away yet"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Above the reported median annual L6 stock figure when averaged over four years"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Public October 2026 data puts Google L6 PM median compensation around **$514K nationally** and approximately **$551K in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would assign them **$0 of guaranteed value** when deciding"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "L6 Senior PM is a credible lateral match to Meta IC6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably stay at Meta if"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is the most flexible/important lever due to refresh uncertainty",
+    "quote": "Equity is especially important because the refresh grants are not guaranteed"
+   },
+   {
+    "claim": "Google front-loads new-hire equity",
+    "quote": "Google typically front-loads new-hire equity approximately **38% / 32% / 20% / 10%** over four years"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule and first vest date",
+   "when share count is established",
+   "refresh eligibility and typical range",
+   "refresh vesting schedule",
+   "bonus proration",
+   "sign-on repayment provisions",
+   "later start date to capture Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **New-hire RSUs: $1,400,000** - **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs | $410K | $346K | $216K | $108K | $270K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year average before sign-on: $612.5K - Four-year average including sign-on: $625K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:17:27+00:00"
+}

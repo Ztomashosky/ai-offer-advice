@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptionally strong offer for a Google Senior Product Manager (L6)."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a **+$121,000/yr or ~23% increase** over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate first."
+  },
+  "intensity": 2,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Ask for **$1.5M \u2013 $1.6M** in RSUs over 4 years (up from $1.34M)."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "The median total compensation (TC) for an L6 PM in the Bay Area is typically around **$500,000\u2013$530,000**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "standard performance at L6 yields refresh grants that cushion this drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away:"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google typically uses a front-loaded vesting schedule (e.g., 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "Google grants annual refreshers to bridge Year 3-4 dropoff",
+    "quote": "Google grants annual refreshers (which vest incrementally over subsequent years) specifically to bridge the drop-off in Years 3 and 4"
+   },
+   {
+    "claim": "base near top of band is 96th percentile",
+    "quote": "your base is near the top of the posted $271,000 range (approx. 96th percentile)"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm whether offer follows standard front-loaded vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "your biggest levers are **Equity (RSUs)** and **Year 2 Sign-on protection**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$1.5M \u2013 $1.6M** in RSUs over 4 years (up from $1.34M)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$335k/yr equity = **~$647,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google 4-Year Average (Recurring)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:12:22+00:00"
+}

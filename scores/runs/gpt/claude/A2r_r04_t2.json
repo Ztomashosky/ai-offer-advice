@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this offer is now clearly better."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take it.** This version clears the bar we set"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "These figures leave out Google refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A later start-date request will not reopen compensation negotiations.",
+    "quote": "Asking for a later start date isn't a compensation ask, so it won't reopen negotiations"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule and first vest timing",
+   "Stock price and date used to convert the grant into shares",
+   "Next Meta RSU vest date",
+   "Whether leaving now forfeits the Meta annual bonus",
+   "Whether the Google role, team, and manager are at least as good"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, take it.** This version clears the bar we set"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "You could ask Google to cover it with a small sign-on as one last request."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $200K RSU increase does the same job. It adds $50K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "They didn't add a sign-on bonus, but the $200K RSU increase does the same job. It adds $50K a year"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "that money is already counted. It's part of the $476K Meta number above."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "**About the $200K you'd leave behind:** that money is already counted."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-03T16:16:02+00:00"
+}

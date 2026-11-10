@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a negligible compensation bump (~5% in guaranteed Year 1 cash/equity)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should **negotiate aggressively**, and if Google refuses to move meaningfully, you should **walk away**."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "it\u2019s essentially flat compared to what I\u2019m currently making at Meta"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should **never price uncommitted refreshes into your baseline decision**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "what is essentially a lateral move and a negligible compensation bump"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google barely moves (e.g., bumps equity by only $50k and offers no sign-on): **Walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly omits sign-on bonuses from initial offers as a negotiation buffer.",
+    "quote": "Initial offers from Google almost always leave out the sign-on bonus as a negotiation buffer."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "With these adjustments, Year 1 Total Comp would be approximately **$672,000\u2013$700,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Up from $1.08M, representing ~$337.5k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Compensates for leaving unvested equity and bridges Year 1 TC"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Compensates for leaving unvested equity and bridges Year 1 TC"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:42:02+00:00"
+}

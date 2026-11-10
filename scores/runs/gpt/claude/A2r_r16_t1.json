@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a decent offer but not a strong one for someone Google approached while you were happy where you are."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Bottom line: in a straight trade, this is roughly a wash once you adjust for risk."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My take: negotiate, don't accept this as it stands."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This is where Google usually has the most room."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Even if Google gives you no refreshes, your 4-year average would be about $552K."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't reach it, declining is a perfectly good outcome, since you're happy where you are."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has the most flexibility on new-hire equity.",
+    "quote": "This is where Google usually has the most room."
+   },
+   {
+    "claim": "Meta typically pays its annual bonus in the first quarter.",
+    "quote": "Meta typically pays the annual bonus in Q1, so check your plan."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly, including a vesting date in mid-November.",
+    "quote": "Meta RSUs usually vest quarterly, and one date falls in mid-November."
+   },
+   {
+    "claim": "Recruiters push hardest internally when they believe the candidate will sign.",
+    "quote": "Recruiters push hardest internally when they believe that."
+   },
+   {
+    "claim": "Meta does not always make retention counteroffers.",
+    "quote": "Meta doesn't always counter, but it costs you little to ask"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule for the Google new-hire grant",
+   "Typical Google L6 refresh grant for strong performers",
+   "Meta bonus eligibility and payout date",
+   "Current Google L6 pay ranges"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three items at once, with specific numbers."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Even if Google gives you no refreshes, your 4-year average would be about $552K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all three with even vesting, year 1 would be about $720K and the steady state about $644K."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta number for next year is about $476K, not $526K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers your forfeited Meta bonus and the gap until your Google refreshes build up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-04T16:18:25+00:00"
+}

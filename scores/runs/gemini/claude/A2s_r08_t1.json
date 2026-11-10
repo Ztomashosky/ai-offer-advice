@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is at market, not above it."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Averaged over four years, the offer is only about 5% above what you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as it stands, and don't walk away either. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 248000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Base is limited by the posted range, while stock and sign-on have more room."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median total compensation package for a Senior PM at Google in San Francisco Bay Area of $540,985."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Google offer (before refreshes)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are equivalent."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't go beyond about $1.15M in stock with a meaningful sign-on bonus, you'd be giving up a job you like for about 5% more. In that case, turning it down is a perfectly reasonable choice."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "which vesting schedule Google grant uses",
+   "Meta bonus payout timing",
+   "Meta quarterly stock vest date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push hardest on stock and the sign-on. Base is limited by the posted range, while stock and sign-on have more room."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming 33/33/22/12, with $282K/yr in cash (base plus bonus)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is about $160K higher, but that's mostly early vesting, not a higher salary."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on bonus is how you get compensated for these losses."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:35:10+00:00"
+}

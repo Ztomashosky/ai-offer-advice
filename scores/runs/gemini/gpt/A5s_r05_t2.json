@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Your $558K before refreshes is therefore reasonable for a new hire, while your $758K first year is strong."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That means Google is paying roughly a **$330K\u2013$380K four-year premium before any refreshes**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My recommendation: **take it**, assuming you like the role and manager"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Bay Area data puts Google L6 PM median compensation around $606K, but that includes existing employees whose annual refresh grants have accumulated."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "includes existing employees whose annual refresh grants have accumulated. Your $558K before refreshes is therefore reasonable for a new hire"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Future Google refreshes create upside, although you should still value them conservatively."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "sign-on payment timing",
+   "clawback period and proration terms",
+   "first RSU vesting date",
+   "first refresh eligibility cycle",
+   "bonus proration details"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Accept if all three are true:\n\n- You are genuinely interested in the Google role and manager.\n- You are comfortable staying through the sign-on clawback period."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Do not reopen the entire package. They added $200K and explicitly called it their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs vesting | $270K | $270K | ~$250K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "After the sign-on is gone, the guaranteed/target premium is only about **$32K per year**."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your actual next-12-month Meta compensation appears closer to **$476,000**, because only $200,000 of Meta RSUs would vest"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on is replacing something you are forfeiting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T22:02:57+00:00"
+}

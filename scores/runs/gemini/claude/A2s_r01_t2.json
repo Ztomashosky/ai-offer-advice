@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Money isn't the question anymore: the offer clearly wins on pay."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, after you check the three details below"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You're ahead by about $400K over four years even if Google never gives you a refresh grant."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Make sure it's really L6 and the job you interviewed for."
+  },
+  "walkaway_tied_to": "none",
+  "unsupported_claims": [
+   {
+    "claim": "When a recruiter says best offer after a big move, they usually mean it",
+    "quote": "When a recruiter says \"best offer\" after a move this big, they usually mean it"
+   },
+   {
+    "claim": "Meta RSU vest date often falls in mid-November",
+    "quote": "Meta RSUs usually vest each quarter, and one vest date often falls in mid-November."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on bonus payback terms and payment timing/installments",
+   "Vesting schedule confirmation and share conversion price/date",
+   "Level and scope confirmation"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, after you check the three details below"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": ""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "1 | **~$898K** ($240K + $48K + $410K stock + $200K sign-on) | ~$476K | **+$422K**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "1 | **~$898K** ($240K + $48K + $410K stock + $200K sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You asked for help covering the stock you'd give up, and they covered all of it in cash."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-03T16:24:19+00:00"
+}

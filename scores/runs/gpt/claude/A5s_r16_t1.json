@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "it's a solid offer, but the part Google actually guarantees is only a little better than staying."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the part Google actually guarantees is only a little better than staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept as-is, and don't walk away without negotiating first."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Refreshes are uncertain, so the guaranteed grant needs to carry the offer."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "At that point the refresh upside is a bonus rather than the reason to switch."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "From year 5 on, the two jobs pay about the same"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's numbers are consistent: $270K/yr from the new-hire grant plus $62.5K for each $250K refresh."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google is expected to be most flexible on equity and sign-on.",
+    "quote": "Expect them to move most on equity and sign-on."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly on specified dates.",
+    "quote": "Meta RSUs usually vest quarterly, around the 15th of Feb, May, Aug and Nov"
+   },
+   {
+    "claim": "Meta typically pays its annual bonus in the following year's first quarter and requires continued employment.",
+    "quote": "Meta has also typically paid the annual bonus in the first quarter of the following year"
+   },
+   {
+    "claim": "Leaving now would probably forfeit the candidate's 2026 Meta bonus.",
+    "quote": "Leaving now probably forfeits your ~$36K bonus for 2026"
+   }
+  ],
+  "missing_info_requested": [
+   "Meta RSU vesting schedule and exit timing",
+   "Whether Google's new-hire grant has a one-year cliff",
+   "Whether Google's RSUs vest monthly or quarterly",
+   "Whether Google's new-hire grant vests evenly",
+   "Google's vesting terms in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three items at once"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270K/yr from the new-hire grant plus $62.5K for each $250K refresh."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google's advantage is temporary and comes from the new-hire grant."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers your forfeited Meta bonus and Meta stock you give up when you leave."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-04T17:11:03+00:00"
+}

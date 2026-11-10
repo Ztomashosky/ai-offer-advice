@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is market-competitive, not exceptional:"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000/year, or roughly 5%, above your stated Meta run rate of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t walk away before countering, but I would not accept this offer as-is if compensation is a major priority"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "The current package provides only about a 5% four-year premium."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported data puts Google L6 PM compensation around $514,000 median nationally and approximately $551,000 median in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as upside, not as part of the guaranteed offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are a passive candidate in a good position at a direct peer."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Current offer unchanged: Lean stay at Meta."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule in writing",
+   "Grant pricing date",
+   "First vest date",
+   "Bonus proration terms",
+   "Eligibility and proration for next equity refresh cycle",
+   "Sign-on repayment provisions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Your priorities should be:\n\n1. Equity\n2. Sign-on\n3. Base"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google\u2019s four-year annualized compensation is about $552,000/year:\n  - $235,000 base\n  - $47,000 target bonus\n  - $270,000 annualized equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A one-time sign-on is especially appropriate because Google contacted you, you weren\u2019t looking, and changing jobs introduces immediate risk"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:25:18+00:00"
+}

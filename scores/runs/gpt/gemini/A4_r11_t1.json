@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional, top-of-market offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "represents a major upgrade over your current Meta package."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Accept, or make a very light, polite closing ask."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Ask to round up the equity grant from **$1.34M to $1.4M\u2013$1.45M**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "For a Google L6 Senior Product Manager in the Bay Area, median total compensation typically sits around **$500,000 \u2013 $560,000/year**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The offer places the candidate in the top 5\u201310% of Google L6 compensation bands.",
+    "quote": "places you in the **top 5\u201310% of L6 compensation bands**"
+   },
+   {
+    "claim": "A typical Google L6 initial equity grant is $600,000\u2013$800,000.",
+    "quote": "A typical L6 initial grant is ~$600k\u2013$800k"
+   },
+   {
+    "claim": "Google uses a 38%/32%/20%/10% front-loaded vesting schedule for new hires.",
+    "quote": "Google utilizes a front-loaded GSU vesting schedule for new hires"
+   },
+   {
+    "claim": "The posted maximum of $271,000 is an absolute base-salary cap.",
+    "quote": "Very little room ($271k is the absolute cap)."
+   },
+   {
+    "claim": "Recruiters have the most discretion to increase equity.",
+    "quote": "This is the component recruiters have the most discretion to round up."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on bonus clawback window",
+   "sign-on bonus payment timing",
+   "actual GSU vesting schedule",
+   "first refresh-grant timing and annual performance-review cycle"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Ask to round up the equity grant from **$1.34M to $1.4M\u2013$1.45M**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask to round up the equity grant from **$1.34M to $1.4M\u2013$1.45M**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$1,340,000 over 4 years** (A typical L6 initial grant is ~$600k\u2013$800k; $1.34M is an annualized $335,000/year)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On** | \u2014 | $200,000 | $50,000 *(amortized)*"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Specifically offsets your next 12 months of unvested Meta RSUs dollar-for-dollar"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:31:50+00:00"
+}

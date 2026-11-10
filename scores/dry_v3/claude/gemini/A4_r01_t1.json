@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional, top-of-market offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**Year 1:** **~$954,000** at Google vs. **$526,000** at Meta (**+81%**)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Recommendation: Accept (or do a single, ultra-low-friction close).**"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 225000,
+  "signon_ask_high": 225000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "If we can adjust the equity grant to **$1.45M** (or increase the sign-on by **$25,000**)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Median L6 PM new-hire equity is typically **$700,000\u2013$900,000**. A $1.34M grant is near the top of the L6 band"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard L6 sign-on bonuses typically range from $50,000 to $100,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Estimated Refresher Vest** | \u2014 | ~$10,000 | ~$50,000+ | ~$100,000+"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For a Senior Product Manager (L6) role at Google"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial equity grants (typically **33% / 33% / 22% / 12%** over 4 years)."
+   },
+   {
+    "claim": "Comp Ops requires competing offers to break band caps",
+    "quote": "Google\u2019s Compensation Committee (Comp Ops) almost always requires competing offer letters"
+   },
+   {
+    "claim": "$200K sign-on reserved for buyouts",
+    "quote": "$200,000 is exceptionally high and reserved for buyouts of strong unvested Meta/Apple/Amazon equity."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "single, soft closing ask on equity or sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If we can adjust the equity grant to **$1.45M** (or increase the sign-on by **$25,000**)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Ongoing Years 1\u20132 (Excl. Sign-on):** **~$754,000/yr** vs. **$526,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Ongoing Years 1\u20132 (Excl. Sign-on):** **~$754,000/yr**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Your $200,000 unvested Meta RSUs over the next 12 months are **100% reimbursed in cash immediately** via the $200,000 sign-on bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:18:41+00:00"
+}

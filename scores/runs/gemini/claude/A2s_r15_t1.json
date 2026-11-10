@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "So the offer is fair to good. It isn't exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google beats Meta by about $75K in year 1 with even vesting, or about $215K with front-loaded vesting."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I think this is a good offer and you should negotiate before deciding."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Stock is usually where Google has the most room, and base has some room left."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports a median yearly compensation package in San Francisco Bay Area of $510K for Google PMs across all levels. One source puts L6 at a total annual compensation of $495k"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "These numbers assume the full target bonus, a flat stock price and no Google refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "it's a sideways move in level (Meta IC6 is roughly Google L6)"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move and the vesting is front-loaded."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually where Google has the most room to negotiate.",
+    "quote": "Stock is usually where Google has the most room, and base has some room left."
+   },
+   {
+    "claim": "As of 2026, 99% of Google offers follow a 38/32/20/10 vesting schedule.",
+    "quote": "One negotiation guide says that as of 2026, almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's vesting schedule (in writing)",
+   "How the dollar amount converts to shares (e.g. 30-day average)",
+   "When the first refresh grant would arrive"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $255K, an RSU grant of $1.35M, and a $75K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make the move, I'd need a base of $255K, an RSU grant of $1.35M, and a $75K sign-on."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google beats Meta by about $75K in year 1 with even vesting, or about $215K with front-loaded vesting."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on | $0 | **$75K**, framed as covering lost Meta stock and the drop in later years"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd leave behind isn't an extra cost. It's already part of your Meta number above. Don't count it twice."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$75K, framed as covering lost Meta stock and the drop in later years"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-04T16:44:30+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but you shouldn't accept it as written."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "you'd make about $552K a year on average versus roughly $526K at Meta. That's only about 5% more."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "It's a fair offer, but you shouldn't accept it as written. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Right now this offer is only slightly better than staying once you account for my refresh stack and the cost of switching."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Those refreshes vest 25% a year and stack up over time, but as the recruiter said, they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "If the grant is front-loaded, Year 1 looks great but your pay drops in Years 3\u20134 unless refreshes fill the gap."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move on base or the sign-on and the grant turns out to vest evenly."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity and the sign-on bonus are usually easier for them to move than base.",
+    "quote": "Equity and the sign-on bonus are usually easier for them to move than base."
+   }
+  ],
+  "missing_info_requested": [
+   "The exact vesting schedule for the grant",
+   "How the grant gets converted to shares",
+   "What a typical L6 refresh looks like"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Asking for all three gives the recruiter room to trade."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Either way, the new-hire grant averages $270K a year, so you'd make about $552K a year on average versus roughly $526K at Meta."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Accept if you end up with roughly $600K+ a year on a four-year average, or a solid Year 1 bump plus a sign-on that covers what you'd lose at Meta."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your fair comparison is your next 12 months at Meta, not the $526K average. If you stay, you get about $476K ($240K base + $36K bonus + $200K vesting)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There's no sign-on bonus to cover what you'd lose by leaving, such as an upcoming Meta bonus payout or refresh."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:15:31+00:00"
+}

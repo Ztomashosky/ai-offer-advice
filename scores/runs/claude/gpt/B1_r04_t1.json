@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but I would negotiate rather than accept immediately."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "If your realistic forward compensation at Varrowby is under about $460,000, this is financially compelling"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate once, firmly and collaboratively."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "It is intentionally an opening position, not necessarily the package you expect them to approve in full."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports Bay Area Senior PM compensation at roughly $350,000 median, $480,000 at the 75th percentile"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "assign refreshes zero value in the acceptance decision. Treat them as upside."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether the role\u2019s level is truly Senior PM and what the next level requires"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the role\u2019s level is truly Senior PM and what the next level requires"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "The improved offer fails your 15%\u201320% switching-premium test"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "refreshes are discretionary so should not discount initial grant",
+    "quote": "Refresh grants are explicitly discretionary, so they should not be used to discount the value you need in the initial grant."
+   }
+  ],
+  "missing_info_requested": [
+   "typical refresh grant for Senior PMs",
+   "vesting cadence and cliff",
+   "bonus eligibility and payout history",
+   "change-of-control treatment",
+   "level verification"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "prioritize:\n\n1. Additional new-hire RSUs"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base: $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.25 million in RSUs equals $612,500 in annualized target compensation"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That counter annualizes to approximately $662,000, before the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the sign-on should move higher in priority and should at least cover the reasonably expected value you are leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T22:09:04+00:00"
+}

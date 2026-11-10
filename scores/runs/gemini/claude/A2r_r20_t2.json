@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, this is a good offer, and it clears the bar I suggested last time."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Average per year | $552K | $608K | | vs. Meta ($526K) | +$26K (5%) | +$82K (about 16%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If you actually want the job, take it. Before you sign, there's one small, low-risk thing you can still ask for"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 35000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes are normal but not guaranteed, and that's true at Meta too."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they say no, accept anyway. The offer is good without it."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Recruiters can approve sign-on bonuses even after the main compensation package is locked.",
+    "quote": "Some recruiters can approve this even when the main package is locked."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule for the $1.28M grant",
+   "whether first-year bonus is prorated",
+   "when first refresh would come",
+   "how the number of shares is calculated"
+  ],
+  "final_decision": {
+   "value": "push_once_more",
+   "quote": "Before you sign, there's one small, low-risk thing you can still ask for (below)."
+  },
+  "final_threshold": null,
+  "final_push_items": [
+   "Start date after Meta bonus pays out or $35K-$40K sign-on bonus"
+  ],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "a small sign-on bonus (about $35\u201340K) to cover the Meta bonus you'd lose"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs per year (if vested evenly) | $270K | $320K"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving now means forfeiting my ~$36K Meta bonus. Could we either set my start date after [payout date] or add a sign-on to cover it?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-04T16:27:40+00:00"
+}

@@ -1,0 +1,143 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Measured against the market, this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Whether it's good for *you* depends on what you'd give up at Varrowby"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Either way, you should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_inferred",
+   "quote": "Use the refresh gap as your reason: \"My current comp includes stacked refreshes, and your year 1 doesn't.\""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts the median Senior Product Manager salary in the San Francisco Bay Area at $350,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "base + bonus + everything vesting in the next 12 months (original grant + all refreshes) + expected next refresh"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If the offer doesn't get there even after negotiating, turning it down is a perfectly reasonable outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Halvern year 1 will be the candidate's lowest-paid year.",
+    "quote": "At Halvern, year 1 is your lowest-paid year."
+   },
+   {
+    "claim": "Halvern refresh grants would only begin adding compensation in year 2 or 3.",
+    "quote": "Refreshes, which aren't guaranteed, would only start adding up from year 2 or 3."
+   },
+   {
+    "claim": "Companies reserve the top of salary ranges for future raises.",
+    "quote": "Companies often hold back the very top of a range to leave room for future raises"
+   },
+   {
+    "claim": "The lack of a sign-on bonus is merely Halvern's opening position.",
+    "quote": "\"No sign-on\" is just their opening position"
+   },
+   {
+    "claim": "A sign-on bonus is usually the easiest compensation component for a company to add.",
+    "quote": "a sign-on is usually the easiest thing for a company to add."
+   }
+  ],
+  "missing_info_requested": [
+   "current base salary",
+   "current bonus",
+   "current original-grant and refresh vesting schedule",
+   "how the RSU dollar value converts into shares",
+   "RSU vesting schedule and any one-year cliff",
+   "typical refresh grant size and history",
+   "first-year bonus proration and historical payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three at once, framed as one package"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If the amount is large, ask for it split across year 1 and year 2."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving means walking away from [$X] in unvested equity and bonus over the next year"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T17:06:32+00:00"
+}

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "-vHoarywD_yb5uAPnd-giAw",
+  "created": 1793651194,
+  "model": "gemini-3.7-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "### 1. Is This a Good Offer?\n\n**Yes, objectively this is a very strong offer.**\n\n* **Total Year 1 Compensation (TC):** **~$552,000** \n  * Base: $235,000\n  * Bonus (20%): $47,000\n  * Equity ($1.08M / 4 years): $270,000/year (assuming standard equal vesting)\n* **Market Context:** In the San Francisco Bay Area, Senior PM (L5/L6 equivalent at major public tech companies) compensation typically ranges between **$380,000 and $520,000**. At **$552k TC**, this offer already sits in the top quartile of the market, driven by the $1.08M equity grant.\n* **Base Salary Placement:** The posted range is $183k\u2013$271k. Your $235,000 offer sits around the 60th percentile ($227k is the midpoint), leaving **$36,000 of room below the top of the band**.\n* **Title & Career:** Moving from PM to Senior PM at a comparable public software company accelerates your career trajectory and future compensation baseline.\n\n---\n\n### 2. Should You Accept, Negotiate, or Walk Away?\n\n**You should negotiate.**\n\nYou are in a position of maximum leverage:\n1. **They recruited you:** You were not an active job seeker.\n2. **You have strong BATNA (Best Alternative to a Negotiated Agreement):** You are happy at Varrowby and have no pressure to leave.\n3. **There is identifiable room on the table:** No sign-on bonus was offered, and base salary has headroom within their public band.\n\nNegotiating professionally from this position carries virtually zero risk of an offer being rescinded, and almost always yields an extra $30k\u2013$80k+ in cash or equity.\n\n---\n\n### 3. What to Ask For and Specific Targets\n\nFocus your ask on **Base Salary** and a **Sign-on Bonus**, with a modest push on **Equity**:\n\n| Component | Current Offer | Target Ask | Target Settle | Rationale |\n| :--- | :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$260,000** | $245k \u2013 $255k | Posted maximum is $271k; $260k stays inside their band. |\n| **Sign-on Bonus** | $0 | **$75,000** | $40k \u2013 $50k | Offsets forfeited annual bonus and unvested equity at Varrowby. |\n| **4-Year RSUs** | $1,080,000 | **$1,200,000** | $1.08M \u2013 $1.15M | Bumps annual equity to $300k/year ($30k/yr lift). |\n| **Year 1 TC** | **$552,000** | **~$687,000** | **~$600k \u2013 $630k** | |\n\n---\n\n### 4. How to Frame the Negotiation\n\nWhen speaking to the recruiter, anchor on three points:\n1. **Genuine excitement** about the team and product.\n2. **The friction of leaving:** You are walking away from an established reputation, upcoming bonus cycle, and unvested RSUs at Varrowby.\n3. **A clear closing commitment:** Giving them a number where you can say *\"If we can get to X, I am ready to sign immediately.\"*\n\n#### Sample Script / Email Framing:\n\n> *\"Thank you again for the offer. I've really enjoyed meeting the team, and I'm very excited about what Halvern is building in this space.*\n>\n> *Because I wasn\u2019t actively looking and have a great setup at Varrowby, making a move requires leaving behind my upcoming bonus and unvested equity. To make this an easy decision and sign right away, I'm hoping we can bridge the gap in a couple of areas:*\n>\n> 1. * **Base Salary:** Given the posted range tops out at $271k and the scope of the role, could we adjust the base to **$260,000**?*\n> 2. * **Sign-on Bonus:** To help offset the unvested compensation and transition timing from Varrowby, could we include a **$75,000 sign-on bonus**?*\n> 3. * **Equity:** If there\u2019s flexibility to bring the initial grant to **$1.2M over 4 years**, that would make this a clear upgrade across the board.*\n>\n> *If we can get close to these numbers, I\u2019d be thrilled to sign and lock in a start date.\"*\n\n---\n\n### 5. Critical Due Diligence Before Finalizing\n\nBefore signing any revised offer, verify the following mechanics:\n\n1. **Vesting Schedule:** \n   * Is it standard quarterly (25% per year with a 1-year cliff), or back-loaded (e.g., 5/15/40/40) / monthly?\n2. **Equity Valuation Method:**\n   * Is the $1.08M calculated based on a 30-day trailing VWAP (volume-weighted average price), or the spot price at grant date?\n3. **Refresh Grant Realities:**\n   * While refreshes are never contractually guaranteed, ask the hiring manager or recruiter: *\u201cWhat percentage of Senior PMs received refresh grants at the last review cycle, and what is the typical target percentage of base for top performers?\u201d*\n4. **Bonus Multipliers:**\n   * Clarify how the 20% target is calculated (company performance factor \u00d7 individual performance factor) and how often it pays out at/above 100% of target.",
+     "role": "assistant",
+     "tool_calls": null,
+     "function_call": null,
+     "images": [],
+     "thinking_blocks": [],
+     "provider_specific_fields": {
+      "thought_signatures": [
+       "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"
+      ]
+     }
+    }
+   }
+  ],
+  "usage": {
+   "completion_tokens": 2500,
+   "prompt_tokens": 289,
+   "total_tokens": 2789,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": null,
+    "reasoning_tokens": 1159,
+    "rejected_prediction_tokens": null,
+    "text_tokens": 1341,
+    "image_tokens": null,
+    "video_tokens": null
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": null,
+    "cache_write_tokens": null,
+    "cached_tokens": null,
+    "text_tokens": 289,
+    "image_tokens": null,
+    "video_tokens": null
+   },
+   "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [
+   [
+    {
+     "category": "HARM_CATEGORY_HATE_SPEECH",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.00011423257,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.04242125
+    },
+    {
+     "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.0052460553,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.07099625
+    },
+    {
+     "category": "HARM_CATEGORY_HARASSMENT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.0028668272,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.054292567
+    },
+    {
+     "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.00014908478,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.014869928
+    }
+   ]
+  ],
+  "vertex_ai_citation_metadata": []
+ }
+]

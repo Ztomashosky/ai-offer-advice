@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is fine but not strong"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Whether it's actually a good deal depends on what you'd give up at Meta, which you haven't told me."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as written, and don't walk away yet. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Equity is the main lever. As one guide puts it, in a lot of PM offer negotiations, the majority of the increase comes from RSUs getting bumped."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows median total compensation at L6 is $606,937 per year for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median at $60,000 per year for Product Managers."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure is inflated by tenured people with stacked refreshes and stock gains, so it's not a direct comparison."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "You'd be trading equity that's already granted for equity you hope to get."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google's best offer doesn't clearly beat your Meta 4-year number, after accounting for the vesting dip and the missing refresh stack, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google changed standard vesting schedule to 33/22/25/20 in mid-2023",
+    "quote": "Google changed its standard new-hire vesting schedule in mid-2023, moving most engineers to a front-loaded structure: 33% in Year 1, 22% in Year 2, 25% in Year 3, 20% in Year 4."
+   },
+   {
+    "claim": "Employees are not eligible for a Google refresh until after 12 months",
+    "quote": "One Blind thread notes you're not eligible for a refresh until after 12 months."
+   },
+   {
+    "claim": "Google and Meta typically include $30k-$50k sign-on if pushed",
+    "quote": "Google and Meta often won't offer it from the get-go, but will eventually include it if you negotiate. They may offer between $30k and $50k."
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule structure",
+   "Meta base salary",
+   "Meta bonus target",
+   "Meta unvested RSU schedule and next vest date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for the full package at once, not one item at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make this move I'd need roughly $260K base, $1.4M in RSUs, and a $100K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you hit these asks, the average year is about $650K before the sign-on, compared with $552K now."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving means forfeiting [$X] in unvested equity and my upcoming bonus, and resetting my refresh stack. To make this move I'd need roughly $260K base, $1.4M in RSUs, and a $100K sign-on to cover what I'm leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T17:18:30+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is fair but not compelling."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It pays only about 5% more than Meta on average"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate rather than accept or walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Right now this offer is below my current base and close to my current total pay."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The recruiter told you refreshes aren't guaranteed, so you'd be taking that risk."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 to Google L6 is generally treated as the same level"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google comes back below about $580\u2013600K a year averaged over 4 years, or won't explain the vesting schedule"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta gives refresh grants.",
+    "quote": "Meta gives refreshes too, so they roughly cancel out in the comparison."
+   },
+   {
+    "claim": "Google generally has more flexibility on equity and sign-on than base salary.",
+    "quote": "Equity and sign-on bonuses are usually easier for Google to move than base pay."
+   },
+   {
+    "claim": "Google may require proof of the candidate's Meta compensation.",
+    "quote": "Google may ask for proof."
+   }
+  ],
+  "missing_info_requested": [
+   "The applicable new-hire RSU vesting schedule, confirmed in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base around $260K, an equity grant around $1.4M, and a sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270K/yr averaged over 4 years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "you'd average about $618K a year, roughly 17% more than Meta, plus the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "sign-on to cover the Meta equity I'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 22,
+ "turn": 1,
+ "at": "2026-11-04T16:55:18+00:00"
+}

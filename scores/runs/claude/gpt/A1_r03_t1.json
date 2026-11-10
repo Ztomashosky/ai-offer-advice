@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a respectable offer, but not compelling for someone already happy at Meta"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Google\u2019s offer is worth about **$458,000 per year averaged over four years**, a reduction of roughly **$68,000 annually**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept this offer as-is.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "The offered guaranteed four-year value is $272,000 below your current annualized package."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent crowdsourced data put Google L6 PM median base around $240,000, with reported total compensation above this offer"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "those figures mix new hires with existing employees who may have stacked refresh grants"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat them as upside\u2014not guaranteed offer value."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "**Walk** if Google stays close to the current terms and you have no strong nonfinancial reason to leave."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire vesting is front-loaded 38/32/20/10",
+    "quote": "Google\u2019s commonly reported current new-hire schedule is front-loaded at approximately **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "refreshes vest evenly over four years",
+    "quote": "refreshes are commonly reported as vesting evenly over four years, unlike the front-loaded new-hire award"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact GSU vesting percentages and first vest date",
+   "How $800K converts to shares",
+   "Refresh eligibility timing",
+   "Typical refresh range for L6 PM",
+   "Sign-on clawback terms",
+   "Bonus/comp-review cycle participation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base:** $250,000\n- **New-hire GSUs:** $1.2 million\n- **Sign-on:** $150,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity, annualized | $250,000 | $200,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The opening package averages approximately **$638,000 over four years including the sign-on**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are walking away from approximately $200,000 vesting over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:21:58+00:00"
+}

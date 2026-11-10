@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a solid offer, a bit above the typical pay for this level, but you have a lot of leverage."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays roughly $150\u2013200K+ more per year."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, don't accept as-is, and don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This is usually where Google has the most room to move. Even a $250K increase adds about $95K to year 1 and helps with the year 3\u20134 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median yearly compensation package in United States totals $494K for Google PMs across all levels. Another source reports L6 (Senior PM) level earning average salary of $455k."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes would add to years 2\u20134, but they aren't guaranteed. Without them, you'd earn less in years 3\u20134 than you do at Meta now."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire stock vests 38/32/20/10",
+    "quote": "38% vests in the 1st year, 32% in the 2nd, 20% in the 3rd, and 10% in the 4th."
+   },
+   {
+    "claim": "Stock is where Google has the most room to move",
+    "quote": "Stock: This is usually where Google has the most room to move."
+   }
+  ],
+  "missing_info_requested": [
+   "confirmation of vesting schedule in writing",
+   "share price conversion method and timing",
+   "typical L6 equity refresh amounts"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a $260K base, $1.35M in stock, and a $75K sign-on to cover what I'm leaving behind."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Even a $250K increase adds about $95K to year 1 and helps with the year 3\u20134 drop."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the extra money is in your first two years, so think about years 3 and 4 before deciding."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for this to cover what you lose by leaving Meta: this year's bonus (~$36K, which Meta usually pays in early spring, and you'd likely lose it by leaving now) plus stock that would vest soon."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-04T16:09:47+00:00"
+}

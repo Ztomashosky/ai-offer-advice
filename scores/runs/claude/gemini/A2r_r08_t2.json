@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts this package at the **top 5\u201310% of Google\u2019s L6 PM compensation band**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this package more than covers the $200,000 in unvested Meta RSUs"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Unless you are on the cusp of an IC7 promotion at Meta within the year, **accept the offer**."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": "This is a top-bracket outcome for an L6 PM hire."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": "top 5\u201310% of Google\u2019s L6 PM compensation band"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "*(Offset by stacked refreshers)*"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you are within 6\u201312 months of an IC7 promotion at Meta, staying makes sense"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google uses a front-loaded vesting schedule (typically **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "Comp committee prefers equity over cash sign-ons",
+    "quote": "Google's Compensation Committee often prefers granting top-of-band equity over cash sign-ons for retention purposes"
+   },
+   {
+    "claim": "package is top 5-10% of band",
+    "quote": "puts this package at the **top 5\u201310% of Google\u2019s L6 PM compensation band**"
+   }
+  ],
+  "missing_info_requested": [
+   "whether within 6-12 months of IC7 promotion at Meta",
+   "product scope/charter details"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Unless you are on the cusp of an IC7 promotion at Meta within the year, **accept the offer**."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "accept the offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google Equity (Front-loaded) | $422,400 (33%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "another **+$184k in Year 2** over your current Meta compensation"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k \"Loss\" is Erased in Year 1"
+  }
+ },
+ "bad_quotes": [
+  "rsu_annualized"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 8,
+ "turn": 2,
+ "at": "2026-11-02T20:57:59+00:00"
+}

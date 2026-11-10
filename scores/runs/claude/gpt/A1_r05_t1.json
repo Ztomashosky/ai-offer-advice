@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a respectable general-market L6 offer, but not a compelling switching offer"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "The four-year normalized compensation is below your current run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as written."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "below the recent reported L6 90th-percentile total of roughly $671K"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported U.S. Google L6 PM data shows approximately"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "whether submissions are new offers or existing employees make these figures imperfect"
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "compare Google against your actual already-granted Meta vest schedule, not an assumption that future Meta refresh grants will remain identical forever"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I would value potential refreshes at zero to perhaps 25\u201350% of the recruiter\u2019s implied value"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would walk\u2014or more precisely, stay at Meta\u2014if the final package is still roughly"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is likely the largest available lever",
+    "quote": "Equity is likely the largest available lever."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "first vest date",
+   "refresh eligibility and range",
+   "bonus proration",
+   "sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "the equity and sign-on are the most important because they address the gap"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$300K annualized equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$600K normalized TC, excluding the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google beats your unusually light next Meta vesting year by about $86K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on would then compensate you for switching risk and lost Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:23:27+00:00"
+}

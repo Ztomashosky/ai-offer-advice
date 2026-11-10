@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "+$26,000/yr over current run-rate"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$26,000/yr over current run-rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "This brings your steady-state baseline well above Meta even when the initial front-loading tapers"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard L6 sign-ons are $50k\u2013$100k+"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "You will rely heavily on annual equity refreshers (which Google grants during annual reviews) to keep your compensation above $550k\u2013$600k"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded 38/32/20/10 vesting",
+    "quote": "typically 38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4"
+   },
+   {
+    "claim": "Standard L6 sign-ons",
+    "quote": "Standard L6 sign-ons are $50k\u2013$100k+"
+   },
+   {
+    "claim": "sign-on is easiest lever without breaking bands",
+    "quote": "the easiest lever for a recruiter to bridge transition costs without breaking compensation equity bands"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm exact vesting schedule",
+   "First refresher eligibility timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for improvements across three areas"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "the base of $235,000 is slightly below my current $240,000 base"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000 ($1.08M / 4 yrs)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus is standard for L6 external hires and is the easiest lever"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "include a **$100,000 sign-on bonus** to offset the transition"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:06:05+00:00"
+}

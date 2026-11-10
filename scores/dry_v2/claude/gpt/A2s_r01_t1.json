@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is also below the approximately **$606,000 median reported for Google L6 product managers in the Bay Area**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only a **$26,000 annual increase**, or approximately **5%**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, and don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "consistent with the external L6 benchmark: keeping the current $235K base and $47K bonus would require approximately **$1.295M in four-year equity** to reach the reported $606K L6 median"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "below the approximately **$606,000 median reported for Google L6 product managers in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "third-party compensation data mixes tenured employees, new hires, refresh grants, and stock appreciation, so it is a benchmark rather than an exact offer target"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Zero or heavily discounted value for future refreshes**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google remains at the current package, I would probably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Reported Google schedules frequently use 38/32/20/10",
+    "quote": "Reported Google schedules frequently use **38% / 32% / 20% / 10%**, rather than 25% annually"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity vesting percentages by year",
+   "Vesting frequency and first vest date",
+   "Grant-date mechanics",
+   "First-year bonus treatment",
+   "Refresh timing",
+   "Performance assumptions",
+   "Sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "This is the most important lever because it creates the largest difference."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Using the simple four-year average for the Google grant"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The next-12-month comparison is different"
+  },
+  "forfeiture_handling": {
+   "value": "netted",
+   "quote": "Google may correctly point out that you receive substantial Google equity during the same period"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:05:28+00:00"
+}

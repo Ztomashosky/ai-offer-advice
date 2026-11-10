@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair Google L6 offer, but not a compelling offer for someone who is happy at Meta"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is about $76,000 higher in that particular period"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept it as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an intentionally strong anchor, not necessarily the expected final result"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported Bay Area median of roughly **$551,000 for Google L6 PMs**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "may include tenured employees with stacked refreshes rather than strictly new-hire offers"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "treat refreshes as **upside**, not as part of the compensation needed to justify joining"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After the new-hire grant ends, steady-state compensation in the illustration is approximately $532K"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter\u2019s illustration produces this approximate progression"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "a lateral move offering only about a 5% annualized premium"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google will not materially improve the package and the role itself is not clearly superior, **I would stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the largest lever",
+    "quote": "Equity is the largest lever. Base is useful but may be more tightly banded."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule for the $1.08M",
+   "First vest date and 12-month vest amount",
+   "Refresh eligibility timing",
+   "Whether first refresh is prorated/delayed",
+   "Sign-on repayment provision"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Target approximately $1.25M\u2013$1.30M equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.25M equity, or $312.5K/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "creates guaranteed first-year value without depending on discretionary refreshes"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:38:32+00:00"
+}

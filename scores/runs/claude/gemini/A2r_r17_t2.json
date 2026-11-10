@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a strong offer that significantly beats your current compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "significantly beats your current compensation for the next 2\u20133 years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "Whether you should take it now comes down to **cash-flow timing vs. Year 4 cliff**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "top-of-market (~85th\u201390th percentile) for an L6 PM in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "it takes 3\u20134 years of strong performance ratings for refreshes to fully stack"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google's annual refreshes vest linearly over 4 years (25% per year), meaning it takes 3\u20134 years of strong performance ratings for refreshes to fully stack"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "both **Meta** and **Google** at the Senior/Lead (L6/IC6) level"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Stay at Meta if:**\n  * You are already on a clear, imminent track to **IC7"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule 33/33/22/12",
+    "quote": "Google\u2019s standard **33% / 33% / 22% / 12%** vesting schedule"
+   },
+   {
+    "claim": "Google uses equity rather than cash sign-ons for upper bands",
+    "quote": "Google frequently uses equity rather than cash sign-ons for upper bands"
+   },
+   {
+    "claim": "IC7 promotion resets equity to $700k-$900k",
+    "quote": "an IC7 promotion at Meta would reset your equity into the $700k\u2013$900k+ range"
+   },
+   {
+    "claim": "Google refreshes vest linearly 25% per year",
+    "quote": "Google's annual refreshes vest linearly over 4 years (25% per year)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "depends",
+   "quote": "Whether you should take it now comes down to **cash-flow timing vs. Year 4 cliff** and **culture/career fit**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "this is a strong offer that significantly beats your current compensation"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "effectively front-loaded **+$66,000 in Year 1** and **+$66,000 in Year 2**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "acts as a structured \"sign-on\" paid over your first 24 months"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 2,
+ "at": "2026-11-03T00:23:26+00:00"
+}

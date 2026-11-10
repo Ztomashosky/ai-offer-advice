@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a solid offer, but it isn't as good as the $1.08M figure makes it look."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years it's only about 5\u20137% more than you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate. It's a solid offer, but it isn't as good as the $1.08M figure makes it look."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "RSUs: ask for $1.3M (up from $1.08M). This is your main ask because it fixes the Year 3\u20134 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assuming it does, your yearly pay with no refresh grants would be:"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if they won't raise the equity at all and the four-year average stays around $550K, staying at Meta is a reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a 38/32/20/10 vesting schedule for RSUs",
+    "quote": "At Google, RSUs are subject to a 4-year vesting schedule: 38% vests in the 1st year, 32% in the 2nd, 20% in the 3rd, and 10% in the 4th."
+   },
+   {
+    "claim": "Equity is where Google has the most flexibility to negotiate",
+    "quote": "Equity is where Google has the most room to move, so lead with it."
+   }
+  ],
+  "missing_info_requested": [
+   "Confirmation of Google RSU vesting schedule in offer letter",
+   "Whether Google reduces first-year bonus if starting partway through the year",
+   "How Google converts RSU dollar grant into shares",
+   "Typical refresh grant size for an L6 PM at Google"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity is where Google has the most room to move, so lead with it. Base salary is capped by the posted range."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At Google, RSUs are subject to a 4-year vesting schedule: 38% vests in the 1st year, 32% in the 2nd, 20% in the 3rd, and 10% in the 4th."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus: ask for $50K. It covers lost Meta stock and any partial-year bonus you'd forfeit."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on bonus: ask for $50K. It covers lost Meta stock and any partial-year bonus you'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:10:36+00:00"
+}

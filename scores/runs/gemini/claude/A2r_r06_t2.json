@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years you'd make about $82K/yr more, roughly 16%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you actually want the job."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "a fair comparison is about $608K vs. $526K, both before refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vesting schedule in writing",
+   "Meta next RSU vest date",
+   "Meta annual bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, I'd take it, as long as you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Optional: one polite, low-key ask. For example: \"I'm ready to accept. Is a modest sign-on to offset my forfeited Meta bonus possible?\""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Base $240K + target bonus $48K (20%) + $1.28M RSUs, with no refreshes: | Vesting schedule | Year 1 | Year 2 | Year 3 | Year 4 | 4-year average |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is $130\u2013300K above your next 12 months at Meta. That more than covers the roughly $36K Meta bonus you'd likely give up. So the missing sign-on bonus matters less than it did."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Is a modest sign-on to offset my forfeited Meta bonus possible?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-03T16:19:39+00:00"
+}

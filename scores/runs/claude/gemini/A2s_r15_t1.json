@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a solid, above-median baseline offer for Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**4-Yr Average TC** | **~$526,000** | **~$552,000** | **+5% increase**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "but do not walk away yet\u2014you should negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "protecting you against Year 3/4 drop-offs"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard for L6 is $50k\u2013$100k+"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they are performance-dependent, market-dependent, and not guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 vs. Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on all fronts**, **walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting",
+    "quote": "Google standardly uses front-loaded vesting (typically **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "sign-on is standard tool to bridge",
+    "quote": "A sign-on bonus is the standard tool used to bridge this friction"
+   },
+   {
+    "claim": "Standard L6 signon is $50k-$100k+",
+    "quote": "Standard for L6 is $50k\u2013$100k+"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "$260,000 base**, **$1.25M in GSUs**, and an **$80,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "base salary represents a step down from my current $240k base"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000/yr ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus: $75,000 \u2013 $100,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets unvested equity you leave behind at Meta ($200k in the next 12 months)"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:26:59+00:00"
+}

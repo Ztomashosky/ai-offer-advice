@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair opening offer, but it's probably not enough to justify leaving a job you like"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "What I don't know: your actual Meta pay. That matters more than any market data."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this offer as written. Negotiate firmly, and be ready to walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi shows a median of about $607K for a Google L6 Product Manager."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median of about $607K for a Google L6 Product Manager."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Price the offer on what's guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google won't get you there, staying at a job you like is a good outcome, not a loss."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's usual new-hire RSU vesting schedule is 33%/33%/22%/12%, monthly, with no cliff.",
+    "quote": "Its usual new-hire schedule is 33% / 33% / 22% / 12%, vesting monthly with no cliff."
+   },
+   {
+    "claim": "Google usually covers forfeited stock and bonus with a sign-on bonus.",
+    "quote": "Google usually covers that with a sign-on."
+   },
+   {
+    "claim": "Sign-on compensation comes from a budget separate from base and equity.",
+    "quote": "Sign-on sits in a separate budget from your base and GSU negotiation"
+   },
+   {
+    "claim": "Sign-on can often be increased when other compensation components are firm.",
+    "quote": "it can often be raised even when other parts are \"firm.\""
+   },
+   {
+    "claim": "Meta reduced employee equity refreshers by approximately 5% in 2026 after a roughly 10% cut in 2025.",
+    "quote": "Meta employees got about 5% less equity in 2026 refreshers, after roughly a 10% cut in 2025."
+   }
+  ],
+  "missing_info_requested": [
+   "actual current Meta base and bonus target",
+   "Meta stock vesting in each of the next four years",
+   "timing of the next Meta bonus and refresh",
+   "Meta stock and bonus forfeited by leaving",
+   "Google vesting schedule in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three of these together in one counter"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Specifically, a $260K base, a $1.4M GSU grant, and a $[X]K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer averages $552K over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The first two years look great. After that, your pay drops unless refresh grants fill the gap"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Add up the Meta stock you'd forfeit in the next ~6 months plus any bonus you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T17:13:17+00:00"
+}

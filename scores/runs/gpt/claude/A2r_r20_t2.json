@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a good offer, not a can't-refuse one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the $82K/yr average gain is closer to **$40\u201345K/yr in your pocket**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If they say no, accept anyway. The offer is good without it."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 35000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes are normal but not guaranteed, and that's true at Meta too."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A stated best offer usually means base and equity cannot be raised again.",
+    "quote": "\"Best offer\" usually means they won't raise the base or the RSU grant again."
+   },
+   {
+    "claim": "A polite additional ask will not cause the offer to be withdrawn.",
+    "quote": "a polite one won't cost you the offer"
+   },
+   {
+    "claim": "Some recruiters can approve a sign-on bonus after the main package is locked.",
+    "quote": "Some recruiters can approve this even when the main package is locked."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus payout date",
+   "exact RSU vesting schedule",
+   "whether the first-year bonus is prorated",
+   "timing of the first refresh",
+   "method used to calculate the number of shares"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, this is a good offer, and it clears the bar I suggested last time."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A start date after your Meta bonus pays out. This costs Google nothing and could save you about $36K."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs per year (if vested evenly) | $270K | $320K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "a small sign-on bonus (about $35\u201340K) to cover the Meta bonus you'd lose."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "That's about $130K to $300K more in year 1, even after counting the $200K you'd give up."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They added $200K in stock, which matches the RSUs you said you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-04T16:27:19+00:00"
+}

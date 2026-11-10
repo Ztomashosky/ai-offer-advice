@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Still, the total now clearly beats your guaranteed pay at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as the written offer matches what the recruiter told you."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Using the recruiter's example, Google would pay about $620k in year 2, $683k in year 3 and $746k in year 4"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google would pay about $620k in year 2, $683k in year 3 and $746k in year 4"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter's example, Google would pay about $620k in year 2, $683k in year 3 and $746k in year 4"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's first-year bonus is expected to be prorated.",
+    "quote": "First-year bonus: expect it to be prorated, so the real year-1 total is probably a bit under $758k."
+   },
+   {
+    "claim": "Meta usually vests equity every three months and the next vest is probably in mid-November.",
+    "quote": "Meta usually vests every three months, and the next date is probably mid-November."
+   },
+   {
+    "claim": "Sign-on repayment is usually prorated over 12\u201324 months.",
+    "quote": "what you'd have to pay back if you leave early (usually prorated over 12\u201324 months)."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the written offer matches the recruiter's terms",
+   "Sign-on payment timing and repayment terms",
+   "RSU vesting schedule and share-conversion method",
+   "First-year bonus proration",
+   "Exact next Meta RSU vest date",
+   "Meta bonus employment and payout-date rules"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If the role and team appeal to you, accept once the written offer is confirmed"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't negotiate further"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock | $200k | $270k | $270k"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google, Year 1 | Google, Years 2\u20134 (guaranteed)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $200k of Meta stock is already counted in the \"stay\" column. Don't subtract it from Google's number again."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Resigning one day early could cost you about $50k."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 2,
+ "at": "2026-11-04T17:03:58+00:00"
+}

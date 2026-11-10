@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer. I would negotiate once, but I would not walk away over compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s offer is approximately $2.79 million over four years, or about $684,000 more gross compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, then accept unless the role itself gives you pause."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A counter at $1.5 million is reasonable: - Increase requested: $160,000 - Annualized increase: $40,000 - Only about a 12% increase"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately $606,000 median annual compensation for Google L6 product managers in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although this is self-reported data and mixes employees at different points in their grant and refresh cycles."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat future refresh grants as upside, not guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is where Google has the most flexibility to improve offers.",
+    "quote": "equity is probably where Google has the greatest ability to improve the offer."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact GSU vesting schedule",
+   "Grant date and first vest timing",
+   "Bonus proration terms",
+   "Sign-on payment and repayment terms",
+   "Historical refresh ranges for L6 PMs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "bring the offer to $271,000 in base salary, $1.5 million in new-hire equity, and a $250,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "bring the offer to $271,000 in base salary, $1.5 million in new-hire equity, and a $250,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.34 million grant annualizes to $335K over four years. Combined with base and target bonus, that gives you a $647K recurring four-year average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, your four-year average recurring compensation is approximately $647,000 per year."
+  },
+  "forfeiture_handling": {
+   "value": "netted",
+   "quote": "The Google sign-on also approximately replaces the $200,000 of Meta stock you would forfeit over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:03:48+00:00"
+}

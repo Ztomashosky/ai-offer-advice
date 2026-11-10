@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **solid first offer** for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You will see a massive cash-flow jump over Meta (~$690k vs. your current ~$526k)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should **negotiate rather than accept as-is**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "A $1.2M grant at 38% gives you ~$456,000 in Year 1 equity and buffers the Year 3/4 drop-off"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshers depend on performance ratings and macroeconomic grant budgets. If refreshers are modest"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "happily employed at Meta at an equivalent senior level (IC6)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "**Do not walk away:** The Year 1 & 2 upside is substantial"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard new-hire vesting is front-loaded 38/32/20/10",
+    "quote": "Google\u2019s standard new-hire equity vests on a front-loaded schedule (typically **38% in Y1, 32% in Y2, 20% in Y3, and 10% in Y4**)"
+   },
+   {
+    "claim": "Google regularly uses sign-on bonuses at L6 to buy out unvested equity",
+    "quote": "Google regularly uses sign-on bonuses at L6 to bridge the transition and buy out unvested near-term equity"
+   },
+   {
+    "claim": "refreshers usually vest 25% per year",
+    "quote": "annual refreshers stack over 4 years (usually vesting 25% per year)"
+   },
+   {
+    "claim": "Google will likely meet in the middle",
+    "quote": "Google will likely meet you in the middle with a sign-on bonus and a bump in base or equity"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary of **$255,000**, ensuring it\u2019s an increase over my current base"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "you have $200,000 vesting at Meta over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08M over 4 years looks like **$270,000/yr** in equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "offers **zero sign-on bonus**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$75,000\u2013$100,000** to help offset my upcoming Meta vest schedule"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T20:55:23+00:00"
+}

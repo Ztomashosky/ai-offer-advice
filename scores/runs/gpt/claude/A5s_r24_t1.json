@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Google pays slightly below its own going rate for this level."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your usual Meta pay: **$526K**. Google is only about $26K (5%) more."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't take it as offered, and don't turn it down yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Against your $526K, that means **about $605\u2013630K/yr in guaranteed pay**, averaged over 4 years."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows Google L6 Product Managers at $607K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "people often look for a guaranteed raise of about 15\u201320%, not counting refreshes."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google settles at about $282K cash + $250K refreshes = **$532K**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google settles at about $282K cash + $250K refreshes = **$532K**, roughly your Meta pay today."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't reach a number like that, staying at Meta is a reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has the most compensation flexibility in new-hire equity.",
+    "quote": "This is where Google has the most flexibility."
+   },
+   {
+    "claim": "Google is more likely to move on equity and sign-on than base.",
+    "quote": "Expect Google to meet you partway, most likely on equity and sign-on more than base."
+   },
+   {
+    "claim": "Meta gives refresh grants.",
+    "quote": "Meta gives refresh grants too."
+   },
+   {
+    "claim": "The candidate's Meta equity compensation is mostly stacked refresh grants and likely continues.",
+    "quote": "Your $250K/yr at Meta is mostly stacked refreshes already, and it likely continues if you stay."
+   }
+  ],
+  "missing_info_requested": [
+   "Google grant vesting schedule in writing",
+   "total unvested Meta equity",
+   "next Meta vesting dates",
+   "Meta bonus payment date",
+   "expected Meta refresh"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "If you had to choose, go for equity first, then sign-on, then base."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "+$320K \u2248 +$80K/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all three, year 1 would be about $660K plus the sign-on, or $735K+."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $75K sign-on bonus to cover what I'd lose."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-04T17:23:13+00:00"
+}

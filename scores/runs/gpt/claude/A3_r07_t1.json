@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "The short answer: it's a strong offer, and you should negotiate."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It already pays well above what you make now"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't walk away, and don't accept the first number."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 275000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Moving means giving up unvested equity and refreshes I'd expect."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your ~$250K a year probably already includes stacked Meta refreshes, which you'd give up."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, not counting any refreshes, the offer averages about **$697K a year**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refreshes would only partly replace Meta refreshes and not immediately.",
+    "quote": "Google's refreshes would only partly replace them, and not right away."
+   },
+   {
+    "claim": "The actual Google bonus depends on the candidate's performance rating.",
+    "quote": "What you actually get depends on your performance rating."
+   }
+  ],
+  "missing_info_requested": [
+   "Google equity vesting schedule",
+   "Whether the equity award is a dollar value or fixed share count",
+   "Share price used for the equity award",
+   "Whether the sign-on is paid at once or over two years",
+   "Whether the sign-on has an early-departure clawback"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring the GSU grant to $1.6M and base to $271K, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "raise it from $1.34M to **$1.6M**, about 19% more."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "~$335K if the grant vests evenly"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If it's front-loaded: Years 1\u20132 are even better, about $950K and $750K. But Years 3\u20134 fall to about $607K and $473K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You're not looking, and leaving costs you something real."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T16:42:48+00:00"
+}

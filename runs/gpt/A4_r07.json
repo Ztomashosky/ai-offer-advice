@@ -1,0 +1,67 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 7,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:50:06+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:51:09+00:00",
+   "reply": "## Bottom line\n\n**This is a strong offer. I would negotiate once, then probably accept even if Google does not improve it. I would not walk away based on compensation alone.**\n\nYour best counter is:\n\n- **Base:** $271,000  \n- **New-hire equity:** **$1.5 million**\n- **Sign-on:** **$250,000**\n\nIf Google will improve only one component, prioritize **equity**, followed by base, then sign-on.\n\n## What the offer is actually worth\n\n### Annualized view\n\n| Component | Google |\n|---|---:|\n| Base | $260,000 |\n| Target bonus | $52,000 |\n| RSUs annualized over four years | $335,000 |\n| **Recurring annualized TC** | **$647,000** |\n| Sign-on | $200,000 |\n| **Four-year average including sign-on** | **$697,000/year** |\n\nThat compares with:\n\n- Your stated Meta run-rate: **$526,000**\n- Your actual next-12-month Meta compensation using the $200,000 forward vest: **$476,000**\n\nThose two Meta numbers are meaningfully different. For the decision, the **forward-looking $476,000** is probably the better baseline unless you expect another Meta refresh, promotion, or compensation increase.\n\nGoogle\u2019s offer therefore represents:\n\n- **+$121,000/year** versus your stated $526,000 Meta run-rate, excluding sign-on\n- **+$171,000/year** versus your forward Meta compensation\n- Approximately **$2.788 million over four years**, including the sign-on, assuming target bonus and no salary increases or refresh grants\n\n### Confirm the vesting schedule\n\nGoogle new-hire grants are commonly reported as front-loaded **38% / 32% / 20% / 10%**, rather than 25% annually. Confirm your exact schedule in writing. ([thesimplemoney.com](https://thesimplemoney.com/employers/google/gsu-grants-and-vesting-schedule?utm_source=openai))\n\nIf yours is 38/32/20/10, the offer looks approximately like this:\n\n| Year | Base + target bonus | Initial RSUs | Sign-on | Total |\n|---|---:|---:|---:|---:|\n| 1 | $312,000 | $509,200 | $200,000 | **$1,021,200** |\n| 2 | $312,000 | $428,800 | \u2014 | **$740,800** |\n| 3 | $312,000 | $268,000 | \u2014 | **$580,000** |\n| 4 | $312,000 | $134,000 | \u2014 | **$446,000** |\n\nThis illustrates the principal weakness: **Year 4 falls below your current Meta run-rate unless refresh grants fill the gap.**\n\nGoogle publicly describes equity refreshes as part of its annual compensation-planning process, with amounts influenced by performance, location, role, modeled recommendations, and management discretion. That supports what the recruiter told you: refreshes are real, but neither their amount nor outcome is guaranteed. ([services.google.com](https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai))\n\n## Is it market competitive?\n\nYes\u2014more than merely competitive.\n\nAs of October 2026, Levels.fyi reports approximately **$605,720 median compensation for an L6 Google PM in the Bay Area**. Another analysis of recent self-reported US data puts L6 PM median TC around $514,000 and the 90th percentile around $671,000, although those figures mix new offers and existing employees. Your approximately **$647,000 annualized recurring package** is therefore above the reported Bay Area median and toward the upper end of broader L6 data. ([levels.fyi](https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area?utm_source=openai))\n\nYour base is also already **96% of the posted maximum**: $260,000 against $271,000. Consequently, Google probably has only modest room on base, while equity is likely the most productive negotiation lever.\n\n## What to ask for\n\n### Recommended counter\n\nAsk for:\n\n1. **$271,000 base**\n2. **$1.5 million new-hire RSUs**\n3. **$250,000 sign-on**\n\nThat is assertive without being disconnected from the existing offer:\n\n- Base increases by only $11,000 to the published maximum.\n- Equity increases by $160,000, or about 12%.\n- Sign-on increases by $50,000.\n\nI would **not** demand all three as a condition of accepting. Present them as the package that would make you comfortable moving quickly.\n\n### Your real priorities\n\nIf forced to prioritize:\n\n1. **Increase RSUs to $1.5 million**\n2. **Increase base to $271,000**\n3. **Increase sign-on to $250,000**\n\nA reasonable settlement would be any of:\n\n- $271,000 base and unchanged equity/sign-on\n- $1.45\u2013$1.5 million equity\n- $225,000\u2013$250,000 sign-on\n- Some combination worth roughly another $75,000\u2013$150,000 over four years\n\n## Suggested script\n\n> Thank you again for the offer. I\u2019m genuinely excited about the team and role, and Google is my clear first choice.\n>\n> I\u2019ve reviewed the package carefully against my current compensation and the equity I would be leaving at Meta. The offer is strong, but I\u2019d like to ask whether there is room to improve it to $271,000 in base, $1.5 million in new-hire equity, and a $250,000 sign-on bonus.\n>\n> I recognize there may be different levels of flexibility across those components. My highest priority is the equity, given the long-term compensation profile and the uncertainty around future refresh grants. If you can get close to that package, I\u2019d be prepared to move quickly.\n\nDo not claim competing offers. If asked directly, be truthful:\n\n> I don\u2019t have another offer in hand. My comparison is with the compensation and vesting I would give up by leaving Meta, along with current market compensation for this level.\n\n## Questions to resolve before signing\n\nAsk the recruiter to confirm in writing:\n\n- Exact equity vesting percentages and vesting frequency\n- How the GSU share count and grant-date price are determined\n- Whether you will be eligible for the **2027 equity-refresh cycle**, given a potential late-2026 start\n- When the first refresh would be granted and begin vesting\n- Sign-on payment timing and repayment/clawback terms\n- Whether the bonus is prorated in your first year\n- Any unvested-equity treatment if the role is eliminated\n- Your precise level, job family and work location in the offer documents\n\nAlphabet states that new-hire equity awards are generally granted on the first non-holiday Wednesday of the month after the employee starts, so the eventual share count may depend on timing and stock price. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424_htm.xml?utm_source=openai))\n\n## My recommendation\n\n1. **Counter once with $271K / $1.5M / $250K.**\n2. Avoid ultimatums and emphasize that Google is your first choice.\n3. If they improve anything meaningful, accept\u2014assuming the role and manager remain attractive.\n4. If they refuse entirely, I would still likely accept. The unchanged offer is already strong and materially exceeds your forward Meta compensation over the initial four years.\n5. Walk away only if you require Meta-level compensation every individual year without relying on refreshes, or if there are non-compensation concerns about scope, manager, stability, or leveling.\n\nIn short: **negotiate, but don\u2019t negotiate yourself out of a role you prefer. This is already a very good L6 PM offer.**",
+   "searches": [
+    {
+     "type": "search",
+     "query": "Google Senior Product Manager L6 San Francisco compensation 2026 Levels.fyi",
+     "queries": [
+      "Google Senior Product Manager L6 San Francisco compensation 2026 Levels.fyi",
+      "Google equity vesting schedule 38 32 20 10 new hire RSU 2026",
+      "Google careers Senior Product Manager San Francisco salary range 183000 271000",
+      "Google annual equity refresh grants product manager L6 compensation"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 260000+52000+1340000/4",
+     "queries": [
+      "calculator: 260000+52000+1340000/4"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 260000+52000+509200+200000",
+     "queries": [
+      "calculator: 260000+52000+509200+200000"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "Google new hire annual equity refresh eligibility join late year compensation cycle 2026",
+     "queries": [
+      "Google new hire annual equity refresh eligibility join late year compensation cycle 2026",
+      "Google equity refresh grant timing annual compensation cycle March vesting new hires eligibility"
+     ]
+    }
+   ],
+   "citations": [
+    "https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf?utm_source=openai",
+    "https://thesimplemoney.com/employers/google/gsu-grants-and-vesting-schedule?utm_source=openai",
+    "https://www.levels.fyi/companies/google/salaries/product-manager/locations/san-francisco-bay-area?utm_source=openai",
+    "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424_htm.xml?utm_source=openai"
+   ],
+   "usage": {
+    "input": 23035,
+    "output": 4948
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:51:09+00:00"
+}

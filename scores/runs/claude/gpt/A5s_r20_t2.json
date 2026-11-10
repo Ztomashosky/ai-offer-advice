@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is no longer a marginal offer. It is a financially credible reason to switch."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the resulting guaranteed four-year package provides a meaningful\u2014though not enormous\u2014switching premium"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "My recommendation: **take it\u2014assuming you like the role and manager**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Preserves potential refresh upside, though that should still be treated as uncertain."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "after the initial grant finishes, your longer-term compensation will depend heavily on refresh grants"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "treating the recruiter\u2019s $250K refresh illustration as necessary for the move to work"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You distinctly prefer your current manager, team, or product area."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is discretionary rather than contractual continuation",
+    "quote": "the actual amount is discretionary rather than a contractual continuation of your initial grant"
+   },
+   {
+    "claim": "sign-on bonus commonly comes with repayment conditions",
+    "quote": "A sign-on bonus commonly comes with repayment conditions"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms",
+   "exact RSU vesting schedule",
+   "bonus eligibility/proration"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, I would take this offer if the Google role and manager clear a basic quality bar."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not reopen the headline compensation negotiation after they have labeled this their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, excluding future refreshes, raises, stock-price changes, and Meta retention grants:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "much of the switching premium comes from the one-time $200K"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "the $200K sign-on directly addresses your forfeited Meta vesting"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Pays $200K immediately to compensate for the near-term Meta equity you are relinquishing"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-03T01:07:55+00:00"
+}

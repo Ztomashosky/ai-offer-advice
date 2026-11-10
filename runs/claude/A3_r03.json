@@ -1,0 +1,43 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A3",
+ "rep": 3,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:22:16+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A3_strong",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:23:12+00:00",
+   "reply": "**This is a very strong offer. You shouldn't walk away, and you shouldn't accept it as-is. Negotiate once, politely, for a small amount, then decide based on whether you actually want the job.** By my numbers it's worth about $680K more than staying over four years, before counting any refresh grants.\n\n## The numbers, year by year\n\nWhen the equity vests matters a lot here. Levels.fyi says Google's new-hire grants are front-loaded. It lists two 4-year schedules: **38/32/20/10** and **33/33/22/12**, both vesting monthly. Ask your recruiter which one applies to you. Using 38/32/20/10, with no refreshes and a flat stock price:\n\n| | Year 1 | Year 2 | Year 3 | Year 4 | 4-yr total |\n|---|---|---|---|---|---|\n| Base + target bonus | $312K | $312K | $312K | $312K | $1.25M |\n| Sign-on | $200K | \u2014 | \u2014 | \u2014 | $200K |\n| New-hire RSUs | $509K | $429K | $268K | $134K | $1.34M |\n| **Google total** | **~$1.02M** | **~$741K** | **~$580K** | **~$446K** | **~$2.79M** |\n| **Meta (your figures)** | ~$476K* | ~$526K | ~$526K | ~$526K | ~$2.05\u20132.1M |\n\n*Year 1 at Meta is $240K + $36K + the $200K of RSUs vesting in the next 12 months.\n\nWhat this tells you:\n- **The sign-on covers what you'd give up.** The $200K sign-on equals the $200K of Meta RSUs you'd forfeit next year. All the new-hire equity is extra on top.\n- **The edge shrinks over time.** Even under the 33/33/22/12 schedule, Year 1 is about $950K. But by Year 4 the new-hire grant alone puts you below Meta. Whether you stay ahead then depends on refreshes, which the recruiter correctly said aren't guaranteed. Your Meta refreshes aren't guaranteed either, so neither side is certain.\n- **It's above market.** Your $260K base is near the top of the posted $183K\u2013$271K range. Levels.fyi's median for a related Google L6 role is about $447K a year in total. Your offer averages about $700K a year over four years.\n- **Real risks:** the stock price could fall, the bonus is a target rather than a promise, and the sign-on almost certainly has to be paid back if you leave early.\n\n## What to ask for\n\nYou have real leverage: you weren't looking, you're happy where you are, and Google came to you. But the offer is already generous, so make one clean request rather than several rounds.\n\n**The ask:**\n1. **Base: $271K**, the top of the posted range (+$11K). This is easy to justify and also raises your bonus, since the bonus is a percentage of base.\n2. **Equity: $1.5M** instead of $1.34M (+$160K, about 12%). Equity is usually the most flexible part of Google offers at this level, and it's worth the most to you.\n3. **Fallback if they won't move on equity:** keep the $200K sign-on and add a **$75K\u2013$100K second-year sign-on**. That helps offset the dip as the front-loaded vesting tapers off.\n\n**Sample script:** *\"I'm genuinely excited about this role, but I wasn't looking to leave Meta, and I have to give up meaningful unvested equity and a team I like. If you can get to $271K base and $1.5M in equity, I'm ready to sign.\"*\n\nExpect to get part of it. Even reaching $265K base and $1.42M in equity would add about $25K a year.\n\n**Get these in writing before signing:**\n- **Vesting schedule:** which split, and whether there's a cliff before the first shares vest.\n- **Sign-on payback terms:** how much you'd owe if you left within 12 or 24 months, and whether it's prorated.\n- **Share conversion:** how the $1.34M becomes a number of shares, e.g. which average price and over what dates.\n- **Bonus:** whether your first-year bonus is prorated by start date.\n\n## Two cautions\n- **Don't bluff.** Don't say you'll walk away or claim Meta is countering unless that's true. This offer is good enough that losing it over a bluff would be expensive.\n- **Taxes:** your employer will likely withhold only 22% on the sign-on and the early stock vesting. At this income your real tax rate is much higher, so expect a big tax bill in April unless you plan ahead.\n\n## Accept, negotiate, or walk away?\nNegotiate, then **accept if you'd be happy in the role.** On money alone, it's worth roughly $680K more over four years, even assuming no Google refreshes and flat Meta pay. If what makes you hesitate is how much you like Meta, you could ask Meta for a retention grant. Just know that matching a Year 1 near $1M would be an unusually large counter for them.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule new hire 2025 front-loaded"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire front-loaded 2025"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 41686,
+    "output": 4075,
+    "web_searches": 4
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:23:12+00:00"
+}

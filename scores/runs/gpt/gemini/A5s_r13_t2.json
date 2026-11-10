@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "You successfully extracted near top-of-market value for a Google L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your Year 1 compensation jumps by 44% to 60% over your current Meta package."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should accept this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "Your Year 2 compensation will comfortably remain in the $650,000\u2013$700,000 range"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a front-loaded new-hire RSU vesting schedule.",
+    "quote": "Google typically vests new-hire RSUs on a front-loaded schedule"
+   },
+   {
+    "claim": "Google's standard RSU vesting structure is 33/33/22/12.",
+    "quote": "Assuming the standard 33/33/22/12 structure"
+   },
+   {
+    "claim": "Google's front-loaded equity will prevent a compensation drop in years two and three.",
+    "quote": "Because Google front-loads the first two years of equity, your Year 2 compensation will comfortably remain"
+   },
+   {
+    "claim": "Sign-on clawbacks typically require one- or two-year prorated repayment.",
+    "quote": "typically a 1- or 2-year prorated repayment if you leave voluntarily"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout timing and clawback terms",
+   "equity vesting cadence and exact annual split",
+   "start-date timing relative to imminent Meta bonus or RSU vest"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Once you verify the sign-on payment terms, sign the offer"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Before clicking \"Accept,\" review the formal offer letter to verify these terms"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity Vesting | ~$250,000 | $356,400 (33%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus | $0 | $200,000 | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You aren't just offsetting the $200k in Meta RSUs; you are getting it in liquid cash upfront"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-02T23:42:28+00:00"
+}

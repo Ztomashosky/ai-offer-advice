@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a respectable, market-normal L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only $26,000, or 5%, above your Meta run rate of $526,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept this offer as-is purely for compensation."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Approximately $668,000 is below the reported L6 90th percentile of roughly $696,000"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current reported Google L6 PM compensation averages about $566,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "I would value it at no more than 50% of the recruiter\u2019s illustration"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "produces steady-state compensation of about $532,000\u2014almost exactly your current Meta run rate"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "full $250K annual refreshes | $552K | $615K | $677K | $740K"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk/stay at Meta if they leave the offer essentially unchanged"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "new-hire RSUs usually the largest negotiation lever",
+    "quote": "Usually the largest negotiation lever."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire equity vesting schedule",
+   "First refresh eligibility date",
+   "First-year bonus proration",
+   "First equity vest and grant pricing date",
+   "Sign-on/make-whole availability"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google says it cannot do everything, prioritize in this order"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "you leave behind"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized initial equity: $350K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year compensation before refreshes: **$668K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on compensates for transition risk, uncertain refreshes, bonus timing and equity you leave behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:56:27+00:00"
+}

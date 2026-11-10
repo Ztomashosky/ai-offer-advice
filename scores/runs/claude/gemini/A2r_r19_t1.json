@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "$1.08M is in the upper quartile of standard initial bands."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**Total Year 1 TC** | **~$526,000** | **~$638,400**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "### 3. Verdict: Negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "L6 PM equity ceilings can reach $1.2M\u2013$1.3M for competitive candidates."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For an L6 PM in the Bay Area, initial equity grants typically range from $750k to $1M+."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refreshers help cushion this, as the recruiter noted, refreshes depend on performance ratings and company budgets."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not accept as-is, and do not walk away yet."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses 33/33/22/12 front-loaded vesting",
+    "quote": "typically **33% / 33% / 22% / 12%** over 4 years"
+   },
+   {
+    "claim": "passive candidates almost always get a sign-on",
+    "quote": "almost always receive a sign-on bonus to offset unvested equity transitions"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "target **~$720k+ Year 1 Total Comp**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$255,000 \u2013 $260,000**."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000/yr *(if flat avg)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google (L6 Offer - Year 1) | Google (L6 4-Yr Annual Avg)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "To offset leaving my upcoming vesting and bonus cycle, I\u2019d like to include a sign-on bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:25:57+00:00"
+}

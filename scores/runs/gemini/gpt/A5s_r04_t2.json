@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "That is also almost exactly the currently reported Bay Area median for Google L6 PM compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your Google package averages $608K over four years before any refreshes, about 16% above your normalized Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "The revised offer has crossed from \u201cnegotiate or stay\u201d to financially attractive enough to accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area median for Google L6 PM compensation, though self-reported market data mixes new hires and existing employees"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "though self-reported market data mixes new hires and existing employees with accumulated refresh grants."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Your Google package averages $608K over four years before any refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "You should not value the recruiter\u2019s $250K refresh illustration as guaranteed compensation."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule",
+   "RSU valuation mechanics",
+   "Sign-on payment timing",
+   "Sign-on repayment terms",
+   "First-year bonus eligibility",
+   "Meta compensation retention/forfeiture details"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Accept, provided the role and manager clear your bar and the written sign-on terms are reasonable."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not reopen compensation negotiations after they labeled this their best offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240K base + $48K bonus + $270K RSUs + $200K sign-on = $758K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200K sign-on is doing most of the work. Without it, Google\u2019s recurring initial compensation is:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Fully offsets the stated $200K of near-term Meta RSUs with cash"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 4,
+ "turn": 2,
+ "at": "2026-11-02T22:01:19+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "underwhelming initial offer for a Senior PM (L6) in the Bay Area"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "it represents a **lateral move or net pay cut**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate firmly.** You have near-optimal leverage"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1050000,
+  "equity_ask_high": 1050000,
+  "equity_expected_low": 950000,
+  "equity_expected_high": 1000000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "To make leaving your Meta IC6 role financially worthwhile, your Year 1 target should be **$600,000+**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should never accept a below-market initial package based solely on uncommitted future refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "it represents a **lateral move or net pay cut**"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "if Google refuses to meaningfully improve the package to beat your current run rate"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule 33/33/22/12",
+    "quote": "Google\u2019s Front-Loaded Vesting Schedule (typically 33% / 33% / 22% / 12%)"
+   },
+   {
+    "claim": "Google has bandwidth to move within L6 bands",
+    "quote": "Google has standard bandwidth to move within L6 bands for candidates with competing Big Tech packages"
+   },
+   {
+    "claim": "sign-on is easiest lever without breaking caps",
+    "quote": "A sign-on bonus is the easiest lever for recruiters to pull without breaking compensation committee equity/base caps"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A base salary of **$250,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a 4-year average:** Base ($215k) + Bonus ($43k) + RSUs ($200k/yr) = **$458,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1:** $215k base + $43k bonus + $264k stock (33%) = **~$522,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There is nothing to compensate for friction, forfeited unvested stock, or the base pay drop"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T20:43:36+00:00"
+}

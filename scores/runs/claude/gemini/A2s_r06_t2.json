@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional outcome and a major win."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a net gain of roughly **+$450,000 to +$500,000**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept it.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Refreshers (Est.)** | $0 | + ~$25,000 \u2013 $40,000"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "this is an offer you should sign"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on paid in first 1-2 paychecks lump sum standard",
+    "quote": "Confirm that the $200k is paid out in your first 1\u20132 paychecks as a lump sum (standard at Google)"
+   },
+   {
+    "claim": "clawback typically 12 months prorated",
+    "quote": "verify the clawback duration (typically 12 months prorated)"
+   },
+   {
+    "claim": "Meta bonus paid out in March",
+    "quote": "do not forfeit your upcoming Meta annual bonus (usually paid out in March)"
+   },
+   {
+    "claim": "Google equity vests monthly after month 1",
+    "quote": "Confirm whether the $1.08M grant vests monthly (standard after month 1)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout and clawback terms",
+   "Meta bonus timing vs start date",
+   "vest schedule and frequency"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept it.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Yes, you should accept it."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over your first two years at Google, you will clear roughly **~$1.5M to ~$1.58M**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus** | $200,000 | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They effectively converted your unvested Meta RSUs into guaranteed, upfront cash"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-02T21:06:45+00:00"
+}

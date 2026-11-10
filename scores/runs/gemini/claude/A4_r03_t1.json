@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer pays well above your current comp."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate once, politely and modestly, and then accept."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1490000,
+  "equity_ask_high": 1540000,
+  "equity_expected_low": 1390000,
+  "equity_expected_high": 1490000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 275000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Your argument is the Meta equity you're giving up. Add up *all* your unvested Meta RSUs"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "As the recruiter said, they aren't guaranteed. Judge the offer as if none come."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually Google's most flexible lever.",
+    "quote": "Equity is usually Google's most flexible lever."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule of the RSU grant",
+   "Sign-on bonus payment and clawback terms",
+   "Total unvested Meta RSUs",
+   "Exact dates for upcoming Meta RSU vests and bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring base to $271K and add $175K to the RSU grant, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "About $150K\u2013$200K more in RSUs**, which is +$37K\u2013$50K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Ongoing: about $120K/yr (around 23%) above your current $526K steady state, before any Google refreshes."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on roughly replaces the Meta RSUs you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:46:40+00:00"
+}

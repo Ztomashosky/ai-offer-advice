@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this revised offer is strong and worth taking"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 Total Comp | **~$526,000** | **$710,400** | **+$184,400 (+35%)**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "you should accept the offer"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "An average L6 PM refresh is ~$90k\u2013$130k/yr"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "An average L6 PM refresh is ~$90k\u2013$130k/yr. Stacking those will keep your Year 3 and Year 4 total comp well above **$620,000+**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "after two performance cycles at Google, you will have received two annual equity refresher grants"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You have strong promotion momentum to IC7 at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard vesting is front-loaded 33/33/22/12",
+    "quote": "Google\u2019s standard front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "refreshes vest evenly at 25%/yr",
+    "quote": "annual equity refresher grants (which vest evenly at 25%/yr)"
+   },
+   {
+    "claim": "average L6 PM refresh value",
+    "quote": "An average L6 PM refresh is ~$90k\u2013$130k/yr"
+   },
+   {
+    "claim": "Google promotions are slower",
+    "quote": "an L6-to-L7 promo at Google (where promotions are notoriously slower)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Take the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "you should accept the offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Yr Annual Average| **~$526,000** | **~$608,000** | **+$82,000/yr (+15.6%)**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp | **~$526,000** | **$710,400**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They fully offset your Year 1 Meta unvested stock"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-03T00:25:20+00:00"
+}

@@ -1,0 +1,46 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 6,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T13:07:33+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T13:08:32+00:00",
+   "reply": "**My answer: don't accept this offer as written. Negotiate, and be ready to walk away.** You weren't looking, you're happy at Meta, and Google came to you. That puts you in a strong position, and this offer doesn't pay you to move.\n\n## What the offer is really worth\n\nYou can't divide the $800K by 4 to get $200K a year. Google usually front-loads new-hire grants. One Levels.fyi blog post explains a front-loaded New Hire grant vests more in earlier years than later years, with annual performance-base grants replacing the New Hire grant over time. The split often quoted is 33/33/22/12. Ask your recruiter to confirm your exact schedule in writing.\n\nAssuming that 33/33/22/12 split:\n\n| | Year 1 | Year 2 | Year 3 | Year 4 | 4-yr avg |\n|---|---|---|---|---|---|\n| Google (base + target bonus + RSUs) | $522K | $522K | $434K | $354K | **$458K** |\n| Meta (your numbers) | ~$476K* | ~$526K | ~$526K | ~$526K | ~$514K |\n\n*$240K base + $36K bonus + the $200K vesting in your next 12 months.\n\n- **Year 1 looks like a raise, but it isn't.** The front-loading pulls money forward from years 3 and 4.\n- **Without refreshes, Google drops well below Meta in years 3 and 4.** The recruiter told you refreshes aren't guaranteed. Meta's future refreshes aren't guaranteed either, so leave them out on both sides.\n- **The base is a pay cut.** $215K is $25K below what you make now and below the middle of the posted range ($227K). The range goes up to $271K, so there's room.\n- **Your first-year bonus may be smaller.** It's a target, not a promise, and it may be prorated for a partial first year. Also check whether leaving Meta means giving up a Meta bonus that's about to pay out.\n\n## Where you stand compared with the market\n\nLevels.fyi reports that the median yearly compensation package in San Francisco Bay Area totals $510K across all Google PM levels. For a related L6 role in the Bay Area (product design manager), the reported median is $485,400. Your offer averages $458K over four years, which is below both.\n\nEquity is usually where Google has the most room. One negotiation firm says the equity band larger than for other components like base salary or signing bonus. Another source puts L6 sign-on bonuses at $100,000 or more at L6 and above, particularly when a competing offer is in play.\n\n## What to ask for\n\n| Item | Ask | Realistic target | Why |\n|---|---|---|---|\n| Base | **$255K** | $245\u2013250K | Within the posted range. You shouldn't take a base cut to switch jobs. |\n| New-hire RSUs | **$1.15M** | $1.0\u20131.1M | This makes the 4-year average beat what you have now, even with no refreshes. |\n| Sign-on bonus | **$100K** (could be split over 2 years) | $50\u201375K | Covers equity and bonus you'd give up at Meta, plus a prorated first-year bonus. |\n\nAt the targets above (base $250K, RSUs $1.05M, sign-on $60K), the guaranteed 4-year average is about **$575K a year** before refreshes. That's a real raise over Meta.\n\n**Set your walk-away point before you start.** I'd say roughly base \u2265 $240K and RSUs \u2265 $1.0M. That keeps the guaranteed 4-year average at or above your current ~$526K. If Google won't get there, stay at Meta. Moving has costs: you'd restart vesting, rebuild your reputation, and give up the job you like.\n\n**What to tell the recruiter (roughly):**\n> \"I'm excited about the role, but I wasn't looking and I'm happy at Meta. My current comp is about $526K a year. As offered, this is a pay cut on base and over four years. To make the move, I'd need base around $255K, a new-hire grant around $1.15M, and a $100K sign-on to cover what I'd leave behind. If we can get close to that, I'm ready to sign.\"\n\n**Other tips:**\n- Share your current numbers. They're your strongest argument.\n- Ask for a breakdown by year, including the vesting schedule and how the stock price is set to convert the dollar grant into shares.\n- Don't count any refreshes when you compare.\n- Be careful about asking Meta for a counteroffer unless you'd really stay for one.\n\nI'm not a financial advisor. Taxes and changes in GOOGL/META stock prices could change these numbers.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google 33/33/22/12 vesting new hire"
+    },
+    {
+     "query": "Google L6 product manager compensation levels.fyi San Francisco"
+    },
+    {
+     "query": "Google signing bonus L6 negotiation"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 36953,
+    "output": 4549,
+    "web_searches": 5
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T13:08:32+00:00"
+}

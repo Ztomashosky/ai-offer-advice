@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Financially, this is an exceptional outcome."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You gain **+$184,400/year (+35%)** in each of your first two years compared to your Meta run-rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If you like the team and product area at Google, **accept the offer**."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "which will keep your Year 3 TC around **$620k\u2013$660k+** (assuming standard performance)."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "by then you will have accumulated annual equity refreshes from Years 1 and 2"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's initial equity grants vest 33% / 33% / 22% / 12%.",
+    "quote": "Because Google vests initial grants **33% / 33% / 22% / 12%**, your actual payout is heavily front-loaded"
+   },
+   {
+    "claim": "The $1.28M grant is top-tier for Google L6 product managers.",
+    "quote": "At **$1.28M equity**, you are at the top tier of Google\u2019s L6 Product Manager compensation band."
+   },
+   {
+    "claim": "Standard performance refreshes will bring Year 3 total compensation to $620K\u2013$660K+.",
+    "quote": "which will keep your Year 3 TC around **$620k\u2013$660k+** (assuming standard performance)."
+   },
+   {
+    "claim": "Google compensation committees frequently substitute equity increases for cash sign-ons at the top of a level.",
+    "quote": "Google compensation committees frequently trade cash sign-ons for equity bumps when pushed to the top of a level."
+   },
+   {
+    "claim": "A $1.28M grant is exception-level for a Google L6 product manager.",
+    "quote": "$1.28M RSU is already an exception-level grant for an L6 PM."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the Google team works on a core tier-1 product or an exploratory initiative",
+   "Whether the candidate is close to an IC7 promotion at Meta",
+   "Commute and lifestyle implications of the Google San Francisco office"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If you like the team and product area at Google, **accept the offer**."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing further on compensation at this stage carries diminishing returns and risks offer fatigue"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google equity ($422,400) is **$222,400 higher** than the $200,000 in Meta RSUs"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You make up for the forfeited equity in your first 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-03T00:26:56+00:00"
+}

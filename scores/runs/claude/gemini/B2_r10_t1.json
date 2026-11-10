@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "It is a solid, above-average initial offer for Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "the financial delta needs to be compelling enough to justify the transition risk"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "top-of-band for L6 PM can reach **$1.25M\u2013$1.4M+**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "initial anchors often start around $850k\u2013$950k"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes are **discretionary and performance-dependent**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For me to make a lateral move from IC6 to L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge, you can comfortably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google typically uses a front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "Google won't rescind offer for negotiation",
+    "quote": "Google will not rescind an offer for professional, data-backed negotiation."
+   },
+   {
+    "claim": "Meta bonus pays out more generously than Google",
+    "quote": "Meta\u2019s bonus multiplier (company + individual performance) historically pays out more generously than Google\u2019s"
+   },
+   {
+    "claim": "$0 sign-on is standard opening tactic",
+    "quote": "Having **$0 sign-on** is a standard opening tactic"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "here is what would make this an easy 'yes'"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "$255,000 \u2013 $260,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An initial grant of $1.08M ($270k/yr average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "your **Year 1 Total Compensation** moves from **~$638k** to **~$780k+**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "offset unvested equity I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:48:29+00:00"
+}

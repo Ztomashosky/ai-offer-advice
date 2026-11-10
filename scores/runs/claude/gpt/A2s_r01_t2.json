@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The revised offer is fair, competitive, and financially sufficient to justify moving."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is **$328,000 more over four years**, or a **15.6% premium**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes\u2014assuming you like the Google role, manager, and team reasonably well, I would take this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median Google L6 PM compensation at approximately **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should therefore continue valuing future refreshes at zero for the acceptance decision."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "I would stay at Meta if any of these are true:"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting 38/32/20/10",
+    "quote": "Google\u2019s commonly reported front-loaded vesting schedule of **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "median base reportedly ~$240,000",
+    "quote": "Median base is reportedly approximately $240,000."
+   }
+  ],
+  "missing_info_requested": [
+   "RSU vesting schedule and first vest date",
+   "sign-on payment timing and repayment/clawback provisions",
+   "bonus eligibility and proration",
+   "first refresh eligibility",
+   "team and manager assignment",
+   "Meta next vest date"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Take it if the Google role is at least roughly as attractive as your Meta role."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would stop negotiating compensation if they have clearly said this is final."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Four-year average** | **$608,000** | **$526,000**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base: $240,000 \u00d7 4 = $960,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on fully offsets the nominal $200,000 of near-term Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-02T21:36:04+00:00"
+}

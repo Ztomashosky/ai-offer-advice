@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is a solid **at-market baseline** (~50th\u201360th percentile for an L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s offer looks like a modest step up on paper"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "but do not walk away either. You should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Target the **75th+ percentile** for an L6 PM in the Bay Area"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "~50th\u201360th percentile for an L6 Product Manager in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshes depend entirely on performance ratings and stack slowly over 4 years"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "leaving you free to decide whether to take the current offer or stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google vesting schedule is 33/33/22/12",
+    "quote": "Google\u2019s front-loaded equity vesting schedule (typically **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "refreshes vest 25% per year",
+    "quote": "stack slowly over 4 years (refreshes vest 25% per year)"
+   },
+   {
+    "claim": "Google uses sign-on as a negotiation lever",
+    "quote": "Google frequently omits sign-on bonuses in initial offers but uses them as a primary lever during negotiation."
+   },
+   {
+    "claim": "polite counter won't cause rescind",
+    "quote": "a polite counter-offer will not cause them to rescind the offer."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If we can get the base salary to **$255,000**, increase the initial equity grant to **$1,250,000**, and include a **$75,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for $1,250,000 \u2013 $1,300,000** over 4 years (up from $1.08M)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270,000 (4-yr avg)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Missing sign-on:** Google frequently omits sign-on bonuses in initial offers"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This offsets any unvested Meta RSUs you forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-03T00:22:42+00:00"
+}

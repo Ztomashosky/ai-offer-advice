@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Securing a **$200,000 sign-on bonus** on an L6 offer is an exceptional outcome."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you will earn roughly **$650,000+ more** at Google than staying on your current trajectory at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**~$620,000** *($240k base + $48k bonus + $270k RSU + ~$62k Y1 refresh)*"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**~$745,000** *($240k base + $48k bonus + $270k RSU + ~$187k refreshes)*"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "**~$683,000** *($240k base + $48k bonus + $270k RSU + ~$125k refreshes)*"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you have extracted nearly the maximum financial value possible for an L6 lateral hire"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Further negotiation could cause deal fatigue or withdrawal of the offer.",
+    "quote": "Continuing to negotiate further risks deal fatigue or having the offer pulled."
+   },
+   {
+    "claim": "Sign-on clawbacks standardly require full repayment within 12 months or are prorated over 12\u201324 months.",
+    "quote": "Standard is 100% repayment if you leave within 12 months, or pro-rated over 12\u201324 months"
+   },
+   {
+    "claim": "Google typically uses monthly or front-loaded equity vesting.",
+    "quote": "Google typically uses monthly vesting (or front-loaded schedules depending on the specific grant vehicle)."
+   },
+   {
+    "claim": "A compensation committee was involved in securing the package.",
+    "quote": "Thank you for working with the compensation committee to secure this package."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing and clawback terms",
+   "Exact equity vesting schedule",
+   "Start-date impact on bonus proration"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I am excited to accept the offer for the Senior Product Manager (L6) role."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240k base + $48k bonus + $270k RSU + $200k sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "effectively created a **~$758,000 Year 1 compensation package**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 cash sign-on completely neutralizes the unvested RSUs you walk away from at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 8,
+ "turn": 2,
+ "at": "2026-11-02T21:36:37+00:00"
+}

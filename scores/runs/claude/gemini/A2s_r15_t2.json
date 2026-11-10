@@ -1,0 +1,172 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Year 1 is L7/Director-Level Compensation"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Net Guaranteed Financial Gain:** **+$328,000**"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "Meta Run Rate (Baseline)** | ~$526,000"
+  },
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Take the offer.**"
+  },
+  "intensity": {
+   "value": 0,
+   "quote": "**Yes, you should seriously consider accepting this.**"
+  },
+  "base_ask_low": {
+   "value": null,
+   "quote": ""
+  },
+  "base_ask_high": {
+   "value": null,
+   "quote": ""
+  },
+  "base_expected_low": {
+   "value": null,
+   "quote": ""
+  },
+  "base_expected_high": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_ask_low": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_ask_high": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_expected_low": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_expected_high": {
+   "value": null,
+   "quote": ""
+  },
+  "signon_ask_low": {
+   "value": null,
+   "quote": ""
+  },
+  "signon_ask_high": {
+   "value": null,
+   "quote": ""
+  },
+  "signon_basis": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "is top-of-market compensation in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual equity refreshes that begin vesting in Year 2 and Year 3 to soften this drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "**Take the offer.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google uses front-loaded vesting (standardly **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "$200k sign-on is top of exception tier",
+    "quote": "A **$200,000 sign-on bonus** for a Google L6 Product Manager is at the top of their exception tier."
+   },
+   {
+    "claim": "standard clawback terms",
+    "quote": "Check the clawback period (standard is prorated or 100% repayable if you leave within 12 months)."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on distribution and clawback terms",
+   "exact GSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Take the offer.**"
+  },
+  "final_threshold": {
+   "value": null,
+   "quote": ""
+  },
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Take the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-Hire RSUs | ~$356,400 | ~$356,400 | ~$237,600 | ~$129,600"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus** | $200,000 | \u2014 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on bonus replaces that unvested equity with **liquid cash on Day 1/Month 1**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 15,
+ "turn": 2,
+ "at": "2026-11-02T23:27:43+00:00"
+}

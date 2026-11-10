@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but not a strong one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Once you count what you'd give up at Meta, it's only a small raise."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept it as written."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "the current grant roughly matches what you already earn at Meta, which already includes refreshes"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median total compensation at L6 is $605,720 per year for Google PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "at least ~$600K/yr averaged over four years, not counting refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get close to that, staying at Meta is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "New-hire equity is the lever most likely to move.",
+    "quote": "This is where you're most likely to get movement."
+   },
+   {
+    "claim": "Base salary usually moves the least in negotiation.",
+    "quote": "Base usually moves the least, so expect something like $245K\u2013$255K."
+   },
+   {
+    "claim": "Sign-on bonuses usually have a one-year clawback.",
+    "quote": "Sign-on bonuses usually have a one-year clawback, so read the terms."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's applicable new-hire RSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260K base, $1.4M in RSUs, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google over 4 years, before refreshes: $282K \u00d7 4 + $1.08M = about $2.21M, or roughly $552K/yr on average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The four-year average becomes clearly better than staying at Meta."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for it explicitly to cover the Meta equity you'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-04T16:45:42+00:00"
+}

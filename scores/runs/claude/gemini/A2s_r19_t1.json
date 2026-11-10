@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a strong initial offer for an L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you receive an immediate ~$110k\u2013$160k annual pay bump over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate: Send the counter above."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "To align long-term incentives with the scope of this L6 role"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest 25%/yr over 4 years) stack to bridge this gap, they are discretionary and performance-dependent"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "take a base salary reduction when moving laterally between Tier-1 tech firms"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move at all, you can comfortably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire equity front-loaded schedule",
+    "quote": "Google's standard new-hire equity vests on a **front-loaded schedule (33% / 33% / 22% / 12%)**"
+   },
+   {
+    "claim": "sign-on bonuses are Google's primary discretionary lever",
+    "quote": "Sign-on bonuses are Google\u2019s primary discretionary lever to close lateral hires"
+   },
+   {
+    "claim": "virtually zero risk of rescinding",
+    "quote": "There is virtually zero risk of Google rescinding an L6 PM offer over standard, polite negotiation."
+   },
+   {
+    "claim": "Google teams expect counters at L6",
+    "quote": "Google compensation teams expect counter-offers at L6."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "You should anchor your counter on three clear components"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base Salary \u2014 Ask for $255,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "treating Google\u2019s $1,080,000 RSU grant as an even 25% ($270,000) per year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On | \u2014 | $0 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It offsets the risk of walking away from your established reputation and upcoming unvested Meta equity refreshes."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:37:42+00:00"
+}

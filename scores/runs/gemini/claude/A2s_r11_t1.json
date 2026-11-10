@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer averages about $552K a year, which is reasonable for L6 but not top of market."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Over four years it pays about the same as staying at Meta, and most of the extra money comes in the first two years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate before you accept."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Over four years the offer is only about 5% better than staying, and years 3\u20134 are a pay cut"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median of about $510K a year for Google product managers in the Bay Area, across all levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Assume they roughly cancel out, so ignore them on both sides."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are generally treated as the same level, so you aren't getting promoted by switching."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move at all."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Most recent Google offers use a 38/32/20/10 front-loaded vesting schedule",
+    "quote": "Most recent Google offers (reportedly about 99%) use a front-loaded schedule: 38% in year 1, 32% in year 2, 20% in year 3 and 10% in year 4"
+   },
+   {
+    "claim": "Equity and sign-on are easiest to move at Google while base is hardest",
+    "quote": "Equity and a sign-on bonus are usually the easiest things to move at Google. Base salary is the hardest because it's tied to pay bands."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule confirmation from recruiter in writing",
+   "Candidate's exact Meta vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three at once"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years it pays about the same as staying at Meta, and most of the extra money comes in the first two years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The offer as written amounts to about $100K a year more for two years, then less afterward."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus and stock you'd give up by leaving"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-04T16:37:50+00:00"
+}

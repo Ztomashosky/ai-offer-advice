@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't great given your situation."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Year one looks good, but the base salary is a step down. And once you count the Meta stock you'd give up, the four-year gain is small"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Leaving means giving up about $200K of stock vesting next year, my bonus, and the refresh grants I've built up, and this offer cuts my base."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta figure already includes the refresh grants stacked from past years. Google's offer has no refreshes yet"
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over four years, ignoring refresh grants at Google"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move at all. Staying at Meta at about $526K a year is a good fallback"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on money is often the easiest for Google to approve.",
+    "quote": "Sign-on money is often the easiest for them to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule in writing",
+   "Whether bonus is multiplied by performance rating",
+   "Whether the equity grant is fixed in dollars or shares"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three at once. If Google says base salary is fixed by the range, move the gap into stock or the sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire stock | **$1.35M** (about $337K a year)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That would be about $600K+ in year 1 and a clear four-year improvement."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Meta, next 12 months: $240K base + $36K bonus + $200K RSUs = about $476K. That's the right figure to compare against, not $526K, because only $200K of stock actually vests next year."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There's no sign-on bonus. You'd lose stock that's about to vest and possibly a Meta bonus payout, depending on when you leave."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:24:56+00:00"
+}

@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On money, Google wins clearly in years 1\u20132 and by about $80K/yr on average."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, on compensation this is now a good offer. Accept it once you've confirmed two details"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes aren't guaranteed, but they're normal at L6. Even modest ones would keep you ahead."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "vesting schedule",
+   "sign-on terms (payout timing and clawback policy)"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, on compensation this is now a good offer. Accept it once you've confirmed two details"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Since they've said this is their best offer, don't push further on money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "About $330K more over four years (~$608K/yr vs. ~$526K/yr), before any Google refreshes."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $1.08M grant didn't grow, so Google's pay after the sign-on averages about $558K/yr."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "comparing Google's total pay against Meta's total pay already accounts for the equity you'd forfeit."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on matches the $200K you'd forfeit, so you aren't paying to switch."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-04T16:46:46+00:00"
+}

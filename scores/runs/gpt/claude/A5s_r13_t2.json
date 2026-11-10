@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Financially this is a strong final offer, and it meets the targets I gave you last time"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On money alone, this is clearly the better choice: about $378K more over four years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. If the team and role feel right, take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "about $378K more over four years even if you never get a refresh"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google, $250K/yr refreshes | 758 | 620 | 683 | 745 | **2,807**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, $250K/yr refreshes | 758 | 620 | 683 | 745 | **2,807**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The money only decides it if the team, manager, and scope are at least as good as what you have now."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "sign-on clawback period, proration, and layoff treatment",
+   "sign-on payment timing",
+   "RSU vesting schedule",
+   "how the RSU grant is converted into shares",
+   "Meta bonus payout date",
+   "next Meta RSU vest date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If you'd want it, accept, once the clawback terms and vesting schedule are confirmed in writing."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "pushing for more money now would gain little and could cost goodwill"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Updated numbers (in $K, base + 20% target bonus + equity, with even 25%/yr vesting)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Is it paid all at once or split across years 1 and 2? This doesn't change the totals"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "my earlier comparison had already counted that loss, because the Meta column only paid you $476K in year 1"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You asked them to make up for the $200K of Meta RSUs you'd give up, and they did."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-04T17:07:10+00:00"
+}

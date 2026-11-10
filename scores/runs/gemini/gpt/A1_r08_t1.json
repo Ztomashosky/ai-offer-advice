@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your $215K base and $458K annualized package are below those benchmarks."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Google\u2019s offer is therefore approximately: - **$68K/year below** your stated Meta run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as-is. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 235000,
+  "base_expected_high": 240000,
+  "equity_ask_low": 1100000,
+  "equity_ask_high": 1100000,
+  "equity_expected_low": 950000,
+  "equity_expected_high": 1000000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "At $240K base, about **$952K of equity** is required merely to match your $526K annualized Meta run rate before a sign-on"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi\u2019s Bay Area L6 page reports approximately **$551K median TC**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as **zero in your guaranteed-compensation comparison**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they cannot make the guaranteed package at least compensation-neutral plus a switching premium: Walk away."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Target bonus is likely standardized by level with limited flexibility.",
+    "quote": "Target bonus: It is likely standardized by level, so there is probably limited flexibility."
+   },
+   {
+    "claim": "Level changes after committee approval are generally harder than improving compensation within level.",
+    "quote": "Level changes after committee approval are generally harder than improving compensation within L6."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule (e.g. 38/32/20/10 vs 25/25/25/25)",
+   "First vest date",
+   "Conversion share price / averaging mechanism",
+   "First bonus proration terms",
+   "Refresh eligibility and vesting timeline"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for: - **Base: $250,000** - **New-hire equity: $1.1 million** - **Sign-on: $150,000 cash**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At those numbers, annualized compensation before sign-on would be: - $250K base - $50K bonus - $275K annualized initial equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$538K recurring annualized initial-package value - **$563K four-year average** when the $100K sign-on is amortized"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Do not frame the entire $200K as an additional loss on top of your current compensation\u2014that would double-count it. It is already included in your forward Meta compensation."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:25:53+00:00"
+}

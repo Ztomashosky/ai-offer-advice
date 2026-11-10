@@ -1,0 +1,142 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should negotiate before accepting."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "That's roughly on par with or a bit above staying at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 50000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "This also softens the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "That's realistic if you perform well, but as the recruiter said, it's not guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether it's truly the same level as your current job"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers use a 38/32/20/10 GSU vesting schedule.",
+    "quote": "almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure"
+   },
+   {
+    "claim": "Meta bonuses are paid annually in March and are forfeited if the employee leaves before payout.",
+    "quote": "At Meta bonuses are paid annually in March. Leaving before the payout means forfeiting that bonus entirely."
+   },
+   {
+    "claim": "Google usually has the most negotiating room on stock.",
+    "quote": "Stock is usually where Google has the most room to move."
+   },
+   {
+    "claim": "The top of a salary range is usually reserved for people already at the level.",
+    "quote": "the top of a range is usually reserved for people already at the level"
+   },
+   {
+    "claim": "The recruiter would take the proposed counter to an approval committee.",
+    "quote": "gives the recruiter something concrete to take to the approval committee"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "how and when the dollar grant is converted to shares",
+   "whether the first-year bonus is prorated",
+   "when refresh eligibility begins",
+   "whether Google L6 matches the current level and scope",
+   "recent Google L6 PM offers on Levels.fyi"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "a $50K sign-on, $1.3M in stock and $255K base"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "here's how it plays out, not counting any refresh grants"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "what you'd actually earn by staying next year is about $476K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it covers the Meta bonus you'd forfeit plus the Meta stock vesting between now and your start date"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:22:55+00:00"
+}

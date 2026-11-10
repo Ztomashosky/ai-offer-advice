@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your $558K recurring package is around the middle of the market"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The recurring package is still slightly above your Meta package"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "this is enough to justify taking the offer"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "crowdsourced Bay Area data puts average Google L6 PM compensation at approximately $581K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshes should remain upside rather than something you rely on"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Years 2\u20134 annually"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter\u2019s illustration of a $250K refresh grant each year"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You have material concerns about the manager, product area, reorganization risk, or scope"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on is cash rather than stock-price-dependent",
+    "quote": "The sign-on is particularly valuable because it is cash rather than stock-price-dependent compensation."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment and clawback terms",
+   "exact equity vesting schedule",
+   "first bonus proration",
+   "refresh eligibility timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Accept if all three are true"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would stop negotiating compensation, clarify the written mechanics"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annual initial equity | ~$250K normalized | $270K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 | $476K actual upcoming | $758K"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on fully addresses the upcoming $200K Meta vesting."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google has effectively made you whole for the near-term Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-03T01:11:39+00:00"
+}

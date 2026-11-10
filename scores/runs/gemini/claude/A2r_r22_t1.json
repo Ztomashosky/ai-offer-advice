@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Your offer is solidly competitive but not top of band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In year 1 it probably pays well above what you'd make staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a good offer. Negotiate it. Don't accept it as-is, and don't walk away over money."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "leaving means giving up my 2026 bonus and a significant amount of unvested Meta equity."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median Google PM package at about $449K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, with no refreshes: about $2.2M, or ~$552K/yr."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Walk away only for non-money reasons, like the team, the scope or the commute to SF."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google is usually more flexible on equity and sign-on bonuses than on base",
+    "quote": "Google is usually more flexible on equity and sign-on bonuses than on base, so lead with those."
+   },
+   {
+    "claim": "Google sometimes compensates for forfeited equity",
+    "quote": "Be ready to share your unvested balance; Google sometimes compensates for forfeited equity."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule and frequency",
+   "Exact Meta vest dates",
+   "Meta bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $260K, a $1.3M equity grant, and a $75K sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years, with no refreshes: about $2.2M, or ~$552K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you land around $252K base, $1.2M RSUs and a $50K sign-on, year 1 comes to about $810K"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $526K/yr is an average. What you'd really give up is your next 12 months at Meta: $240K base + $36K bonus + $200K RSUs = about $476K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving costs you real money: your 2026 Meta bonus if you go before it pays out, plus your unvested RSUs beyond year 1."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 22,
+ "turn": 1,
+ "at": "2026-11-04T16:30:07+00:00"
+}

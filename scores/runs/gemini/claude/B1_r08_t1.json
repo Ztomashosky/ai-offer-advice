@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "I think this is a strong offer, and you should negotiate rather than accept it as is or walk away."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": "One thing I can't judge without more information is whether it beats what you'd be giving up at Varrowby"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I think this is a strong offer, and you should negotiate rather than accept it as is or walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "The grant is where the most money is. Equity budgets are often more flexible than base pay."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi says the median Senior Product Manager salary in the San Francisco Bay Area is $350,000, based on 997 salaries."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "up_level",
+   "quote": "The title is a step up as well."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "accept only if the final package clearly beats your real current pay at Varrowby."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Companies often find one-time cash easier to approve than permanent raises",
+    "quote": "companies often find one-time cash easier to approve than permanent raises."
+   },
+   {
+    "claim": "Equity budgets are often more flexible than base pay",
+    "quote": "Equity budgets are often more flexible than base pay."
+   }
+  ],
+  "missing_info_requested": [
+   "current base, bonus, and unvested stock schedule",
+   "vesting schedule details",
+   "share count conversion method",
+   "typical refresh grant history",
+   "bonus payout history",
+   "sign-on clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make all three requests at once, then tell them which matters most to you."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs: $1,080,000 \u00f7 4 = $270,000 a year"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving means giving up about $X in unvested stock and bonus over the next year. To make the move work, I'd need a sign-on bonus of $X"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T17:12:08+00:00"
+}

@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "From a purely compensation standpoint, **this is an exceptional outcome.**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "easily outpacing Meta\u2019s current baseline by roughly **$500,000+** over the cycle."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Take the offer.** You get a monster Year 1 payout ($844k+)"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**With Modest Refreshers:** Your 4-year total comp will land around **$2.6M\u2013$2.7M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**With Modest Refreshers:** Your 4-year total comp will land around **$2.6M\u2013$2.7M** (~$650,000/yr average)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google L6 sign-on is at the absolute top of compensation committee approvals.",
+    "quote": "A **$200,000 sign-on bonus** at Google L6 is at the absolute top end of what their compensation committee approves"
+   },
+   {
+    "claim": "Such sign-ons are strictly reserved for buying out unvested FAANG equity.",
+    "quote": "typically reserved strictly for buying out unvested FAANG equity."
+   },
+   {
+    "claim": "Google's standard new-hire equity vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Google's standard **33% / 33% / 22% / 12%** front-loaded vesting schedule"
+   },
+   {
+    "claim": "Google usually pays 100% of a sign-on bonus upfront in month one.",
+    "quote": "Google standard is usually 100% upfront in month 1"
+   },
+   {
+    "claim": "Sign-on bonuses typically have a prorated 12-month clawback.",
+    "quote": "Typically, sign-on bonuses have a 12-month clawback clause (pro-rated if you leave before 1 year)."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid as one lump sum or split across years",
+   "The sign-on bonus clawback duration and whether it is prorated"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Take the offer.** You get a monster Year 1 payout ($844k+)"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing further risks souring the relationship or getting a flat refusal."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google's standard **33% / 33% / 22% / 12%** front-loaded vesting schedule"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "assuming the sign-on is paid upfront in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "typically reserved strictly for buying out unvested FAANG equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-02T19:51:46+00:00"
+}

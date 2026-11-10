@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **good market offer, but not a compelling \u201cleave a job you like\u201d offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only a **$26,000 annual premium\u2014roughly 5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as-is, but don\u2019t walk away before countering.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": 255000,
+  "base_expected_high": 265000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "The equity request is a 25% increase over the initial grant\u2014not an absurd counter"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "data puts Google L6 PM compensation around **$581,000 on average**, with an average base around **$266,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**For purposes of deciding whether to join, value refreshers at zero.** Treat them as upside."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google holds at the current package:** I would probably decline"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants front-loaded 38/32/20/10",
+    "quote": "Google new-hire grants are commonly reported as front-loaded at approximately **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "equity has the largest dollar range",
+    "quote": "**Prioritize equity**, because it has the largest dollar range."
+   }
+  ],
+  "missing_info_requested": [
+   "exact initial-grant vesting schedule",
+   "refresh cycle eligibility",
+   "bonus target vs historical payout",
+   "start date relative to Meta vest",
+   "whether offer tied to specific team"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base: $270,000** - **New-hire equity: $1,350,000** - **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The guaranteed four-year difference is much smaller"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on is additional first-year compensation, not recurring compensation"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on compensates for forgone Meta compensation, transition risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T01:01:28+00:00"
+}

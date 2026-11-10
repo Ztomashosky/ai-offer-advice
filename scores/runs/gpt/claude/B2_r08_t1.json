@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is fine but not strong"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Whether it's actually a good deal depends on what you'd give up at Meta"
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as written, and don't walk away yet. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Leaving means forfeiting [$X] in unvested equity and my upcoming bonus, and resetting my refresh stack."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows median total compensation at L6 is $606,937 per year for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median at $60,000 per year for Product Managers."
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure is inflated by tenured people with stacked refreshes and stock gains, so it's not a direct comparison."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "a cautious estimate of future refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google's best offer doesn't clearly beat your Meta 4-year number, after accounting for the vesting dip and the missing refresh stack, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The target bonus percentage is usually fixed by level.",
+    "quote": "Don't push; it's usually set by level"
+   },
+   {
+    "claim": "Meta RSUs vest quarterly.",
+    "quote": "Meta vests RSUs quarterly, so check your next vest date before setting a start date."
+   },
+   {
+    "claim": "Meta's annual bonus pays around March and leaving earlier likely forfeits most of it.",
+    "quote": "If you leave before Meta's annual bonus pays out (around March), you likely lose most of this year's bonus"
+   },
+   {
+    "claim": "Google and Meta often omit sign-on initially but add it after negotiation.",
+    "quote": "Google and Meta often won't offer it from the get-go, but will eventually include it if you negotiate."
+   },
+   {
+    "claim": "Google refresh grants depend on performance.",
+    "quote": "At Google you'd start with none, and refreshes depend on performance"
+   }
+  ],
+  "missing_info_requested": [
+   "Google new-hire RSU vesting schedule",
+   "Meta base salary",
+   "Meta bonus target",
+   "Meta unvested RSU schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for the full package at once, not one item at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "You don't need a competing offer, because Meta is your alternative."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you hit these asks, the average year is about $650K before the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving means forfeiting [$X] in unvested equity and my upcoming bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T17:18:10+00:00"
+}

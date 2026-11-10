@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **respectable first offer, but it is not top-of-band for Google L6 PM in the Bay Area**"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "it likely falls short when compared against what an established IC6 makes at Meta."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet. Negotiate firmly."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "followed by a noticeable dip in Years 3\u20134 unless refresh grants are top-tier."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "If you have been at Meta for 1\u20132+ years as an IC6, your stacked refreshers likely place your current Meta run-rate"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "followed by a noticeable dip in Years 3\u20134 unless refresh grants are top-tier."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 $\\rightarrow$ Google L6 is a lateral move."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge, you can comfortably stay at Meta knowing you didn't leave money on the table."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's performance multipliers tend to be more modest than Meta's.",
+    "quote": "Google's company performance multipliers tend to be more modest than Meta's historically generous individual/company bonus multipliers."
+   },
+   {
+    "claim": "Google typically uses one of two specified front-loaded vesting schedules.",
+    "quote": "Google uses a **front-loaded vesting schedule** (typically 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10%)."
+   },
+   {
+    "claim": "Meta grants vest evenly and have consistent quarterly refresh stacking.",
+    "quote": "Meta grants even 25%/year vesting with consistent quarterly refresh stacking."
+   },
+   {
+    "claim": "Google does not rescind offers for polite compensation counters.",
+    "quote": "Google does not rescind offers for polite, well-reasoned compensation counters."
+   },
+   {
+    "claim": "A 20% target bonus is standard for Google L6.",
+    "quote": "**Target Bonus ($47,000 / 20%):** Standard for Google L6."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "When countering, ask for adjustments across **Base, Equity, and Sign-on**:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "A base salary of **$260,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Year 1 & 2:** ~$356k/year in equity $\\rightarrow$ **~$638k Total Compensation (TC)**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This would bring your **Year 1 Target TC to ~$765k\u2013$820k** (including sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$80,000** to offset unvested stock left behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:53:04+00:00"
+}

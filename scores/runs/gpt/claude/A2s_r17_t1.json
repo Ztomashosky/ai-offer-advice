@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Overall, Google's offer is fair and in the middle of its range"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On average it pays only about 5% more than you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate rather than accept or walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "you need a meaningful raise to move. Then make a specific request"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The Google figures include only this grant, with no refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google L6 and Meta IC6 are usually treated as equivalent."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't reach that, turning it down is a reasonable outcome."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Which vesting schedule applies to the Google grant",
+   "How Google converts the grant value into shares",
+   "When the Meta bonus pays out",
+   "Whether the role scope matches the level",
+   "Whether the candidate would accept a Meta counteroffer"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $255\u2013260k"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100k adds about $25k a year on average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "you'd average about $615\u2013630k a year plus the sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your next 12 months at Meta is $240k + $36k + $200k, not $526k."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd be giving up unvested Meta stock, and you may lose your Meta bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-04T16:47:16+00:00"
+}

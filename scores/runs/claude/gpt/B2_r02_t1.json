@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **good, market-rate Google L6 offer\u2014not an exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Roughly **8% below reported Meta IC6 market compensation**"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1300000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That is near\u2014but not beyond\u2014the reported 90th-percentile Google L6 range."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "The reported Bay Area Google L6 PM median is approximately **$551,000**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would value refreshes at **zero or, at most, as conservative upside**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "rather than move laterally for roughly market compensation"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google cannot get meaningfully above your forward Meta compensation"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most flexible recurring component",
+    "quote": "Equity is generally the most flexible recurring component, while sign-on is often used to cover forfeited compensation"
+   }
+  ],
+  "missing_info_requested": [
+   "exact annual vesting percentages and cadence",
+   "first-year bonus eligibility",
+   "refresh eligibility timing",
+   "forward-looking Meta compensation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for **$265K base, $1.5M equity and $100K sign-on**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for:\n\n- **Base: $265,000**\n- **New-hire RSUs: $1,500,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the equity is valued evenly over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "approximately **$693,000 in annualized recurring target compensation**, before the sign-on bonus"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "calculate your **forward-looking Meta compensation**, not last year\u2019s W-2"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "I would need a $140,000 sign-on payment to make the transition economically neutral"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T22:12:55+00:00"
+}

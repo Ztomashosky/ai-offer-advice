@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a solid, credible L6 offer\u2014not an exceptional \u201cleave a job you like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "That is only a broad benchmark; **your actual Meta forward compensation is what matters**."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer as-is, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an assertive anchor, but not an absurd one for a currently employed Meta IC6 whom Google sourced."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area-specific Levels.fyi data reports an L6 median of approximately **$606,000**, although these datasets combine new hires and existing employees with stacked refresh grants"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although these datasets combine new hires and existing employees with stacked refresh grants, making them imperfect offer benchmarks."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value the offer using only the initial grant. Treat refreshers as upside\u2014not as money already offered."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Is there any flexibility on level if your Meta scope supports L7 consideration?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Don\u2019t jeopardize a confirmed L6 offer by insisting on L7, but if your current scope is genuinely cross-organizational and comparable to Google L7 PM work, it is worth asking"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google cannot meaningfully improve the offer, I would remain at Meta unless the Google role is substantially better for your career, work-life balance, or interests."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule",
+   "Meta forward compensation and unvested equity schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I\u2019d be comfortable making the move at $265,000 base, $1.4 million in new-hire equity, and a $100,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Based on the level, the San Francisco range, my current position as an IC6 PM at Meta, and the opportunity cost of moving, I\u2019d be comfortable making the move at $265,000 base, $1.4 million in new-hire equity, and a $100,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity: Above the recent median when divided by four"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year recurring average before sign-on: **$668K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on is particularly useful for replacing Meta compensation you forfeit by leaving."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T22:16:46+00:00"
+}

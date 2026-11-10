@@ -1,0 +1,169 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a **reasonable market offer but not a compelling \u201cleave a job you like\u201d offer**."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "So Google is approximately **$222K behind over four years**"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "My current annual compensation is approximately $526,000"
+  },
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept this offer as written."
+  },
+  "intensity": {
+   "value": 3,
+   "quote": "I would **stay at Meta**"
+  },
+  "base_ask_low": {
+   "value": 250000,
+   "quote": "Base: $250,000"
+  },
+  "base_ask_high": {
+   "value": 250000,
+   "quote": "Base: $250,000"
+  },
+  "base_expected_low": {
+   "value": 240000,
+   "quote": "$240K\u2013$250K base"
+  },
+  "base_expected_high": {
+   "value": 250000,
+   "quote": "$240K\u2013$250K base"
+  },
+  "equity_ask_low": {
+   "value": 1000000,
+   "quote": "New-hire RSUs: $1,000,000"
+  },
+  "equity_ask_high": {
+   "value": 1000000,
+   "quote": "New-hire RSUs: $1,000,000"
+  },
+  "equity_expected_low": {
+   "value": 950000,
+   "quote": "$950K\u2013$1.0M RSUs"
+  },
+  "equity_expected_high": {
+   "value": 1000000,
+   "quote": "$950K\u2013$1.0M RSUs"
+  },
+  "signon_ask_low": {
+   "value": 100000,
+   "quote": "Sign-on bonus: $100,000"
+  },
+  "signon_ask_high": {
+   "value": 100000,
+   "quote": "Sign-on bonus: $100,000"
+  },
+  "signon_basis": {
+   "value": "gap",
+   "quote": "addressing both the four-year compensation gap and the equity I\u2019m leaving behind"
+  },
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "It needs about **$222K more merely to equal** the illustrative Meta path"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data for Google L6 PMs in the Bay Area reports approximately:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, value refresh grants at **zero**."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "they primarily replace the declining initial grant"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Confirm that L6 is final and whether there was any L7 discussion"
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are not receiving a promotion relative to your current IC6 level."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes only a token improvement\u2014such as $225K base with the same equity and no sign-on\u2014I would **stay at Meta**."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses a 38/32/20/10 vesting schedule",
+    "quote": "Google commonly uses a **38% / 32% / 20% / 10%** new-hire vesting schedule"
+   },
+   {
+    "claim": "refreshes primarily replace the declining initial grant",
+    "quote": "they primarily replace the declining initial grant"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm vesting schedule in writing",
+   "Refresh eligibility timing and proration",
+   "Typical refresh grant ranges for SF L6 PMs",
+   "Clawback terms",
+   "Bonus proration",
+   "L7 leveling discussion"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $250,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "So Google is approximately **$222K behind over four years**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial RSUs: $1.0M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base and target bonus: $300K \u00d7 4 = $1.2M"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "addressing both the four-year compensation gap and the equity I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:21:18+00:00"
+}

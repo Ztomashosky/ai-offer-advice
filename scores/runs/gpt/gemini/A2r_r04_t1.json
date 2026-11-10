@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, financially this is a strong offer for a Google L6 PM in the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "4-Yr Average (No Refreshes) | ~$526,000/yr | **$552,000/yr** | **+$26,000/yr**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 60000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "cushions the Years 3 and 4 vesting drop"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google's typical L6 PM total compensation band centers around **$520,000\u2013$620,000/year**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "are intended to stack and cushion this drop, but as the recruiter noted, they are performance-dependent."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard new-hire equity uses a 33%/33%/22%/12% front-loaded vesting schedule.",
+    "quote": "Google's standard new-hire equity vests on a **front-loaded schedule (33% / 33% / 22% / 12%)**"
+   },
+   {
+    "claim": "Google annual performance refresh grants vest linearly over four years.",
+    "quote": "Google's annual performance refreshers (which vest linearly over 4 years at 25%/yr)"
+   },
+   {
+    "claim": "Google expects L6/IC6 candidates to negotiate.",
+    "quote": "Google expects candidates at L6/IC6 to negotiate"
+   },
+   {
+    "claim": "Collaborative negotiation will not put the offer at risk.",
+    "quote": "doing so will not put the offer at risk as long as you remain collaborative and enthusiastic."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Focus your negotiation on **Base Salary** and a **Sign-On Bonus**, with a modest stretch on **Equity**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Your current base is $240,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Anchors your 4-year annualized run rate higher ($300k/yr average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "adds guaranteed cash upfront."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets forfeited near-term bonuses/vests at Meta and adds guaranteed cash upfront."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T20:50:53+00:00"
+}

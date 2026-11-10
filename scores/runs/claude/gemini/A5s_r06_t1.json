@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "$1.08M equity over 4 years** is a respectable baseline for a Google Senior Product Manager (L6)"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "this offer is essentially **lateral**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as-is."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 265000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "At Google L6, equity is the easiest lever for the compensation committee to expand."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "At L6, Google frequently awards sign-on bonuses ($50,000\u2013$120,000)"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should never discount an initial offer based on non-guaranteed future performance grants."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "this offer is essentially **lateral**"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to negotiate:** **Walk away."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google L6 equity is the easiest lever for the comp committee",
+    "quote": "At Google L6, equity is the easiest lever for the compensation committee to expand."
+   },
+   {
+    "claim": "Google frequently awards sign-on at L6 to offset unvested equity",
+    "quote": "At L6, Google frequently awards sign-on bonuses ($50,000\u2013$120,000) to offset unvested equity"
+   },
+   {
+    "claim": "Google uses front-loaded vesting",
+    "quote": "Google often uses front-loaded vesting (e.g., 33%/33%/22%/12% or 38%/32%/20%/10%)"
+   }
+  ],
+  "missing_info_requested": [
+   "Clarify the exact vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary: Ask for $255,000 \u2013 $265,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Taking into account the equity I would walk away from over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Ask for $1,300,000 \u2013 $1,400,000 over 4 years\n* **Rationale:** This brings the annualized equity portion to ~$325,000\u2013$350,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus is a standard tool Google uses to bridge this transition cost."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$75,000** to bridge the unvested stock and bonus I leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:32:24+00:00"
+}

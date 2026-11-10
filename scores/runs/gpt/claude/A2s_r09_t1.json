@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Still, it suggests this offer is below the typical L6 package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's only about 5% more than your $526K run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. If Google gets close to the realistic column, accept"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi reports median total compensation at L6 is $605,720 per year for Google Senior PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports median total compensation at L6 is $605,720 per year for Google Senior PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "it's self-reported and mixes tenured employees with new hires."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, this averages about $552K/yr before refreshers."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you're already at the same level at a peer company."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't move from $235K and $1.08M with no sign-on, turning it down is completely reasonable."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google is most flexible on stock and sign-on and least flexible on base.",
+    "quote": "Google usually moves most on stock and sign-on and least on base"
+   },
+   {
+    "claim": "Stock is the easiest component of Google's offer to increase.",
+    "quote": "It's the easiest part of the offer for Google to increase."
+   },
+   {
+    "claim": "Google's bonus payout depends on the candidate's performance rating.",
+    "quote": "the payout depends on your performance rating."
+   }
+  ],
+  "missing_info_requested": [
+   "Grant vesting schedule and monthly or quarterly vesting frequency",
+   "How the number of shares and applicable share-price date are determined",
+   "Whether leaving now forfeits a Meta bonus or stock vest",
+   "Typical L6 refresher for someone meeting expectations"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "push hardest on those two."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I'd need a base around $260K, new-hire equity around $1.4M, and a $75K sign-on."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years, this averages about $552K/yr before refreshers."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google's first-year pay depends on the vesting schedule"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $526K/yr figure isn't the right number to compare against."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "there's nothing to offset the Meta equity and bonus I'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-04T16:34:25+00:00"
+}

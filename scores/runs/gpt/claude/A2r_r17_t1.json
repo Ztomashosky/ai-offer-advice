@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your offer's ~$552K average is below that."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's roughly $26K/yr more, or 5%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate. Don't accept this offer as written, and don't walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "it helps offset the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi's Google page shows L6 $607K next to Product Manager."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta figure already includes stacked refreshes."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "before any refreshes: $235K base + $47K bonus + $270K stock = about $552K/yr"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get there, staying at Meta is a good outcome, not a loss."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire stock grants usually use front-loaded vesting.",
+    "quote": "Google's new-hire stock grants usually vest more in the early years."
+   },
+   {
+    "claim": "Almost all Google offers use a 38/32/20/10 vesting structure.",
+    "quote": "almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   },
+   {
+    "claim": "Google's first refresh begins vesting only in year two.",
+    "quote": "Google's first refresh would only start vesting in year 2."
+   },
+   {
+    "claim": "Meta RSUs vest quarterly on four specified dates.",
+    "quote": "Meta RSU's vest quarterly on February 15th, May 15th, August 15th, and November 15th."
+   },
+   {
+    "claim": "Meta bonuses are paid twice annually under its Checkpoint system.",
+    "quote": "Under Meta's new Checkpoint system, bonuses will be paid twice annually"
+   }
+  ],
+  "missing_info_requested": [
+   "Google new-hire equity vesting schedule",
+   "Written confirmation of the vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Stock is the main thing to push on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I'd need base at $260K, stock at $1.4M, and a $100K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100K of stock adds $25K/yr to the 4-year average"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "4-year avg (excl. sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "your real Meta pay next year is closer to $476K plus whatever your next refresh adds."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for a sign-on bonus to cover what you'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-04T16:20:19+00:00"
+}

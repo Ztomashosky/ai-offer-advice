@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your 4-year average of about $552K is below that median, and your $235K base is about $16K under the typical base."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even unchanged, the offer beats Meta for the first two years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer:** Negotiate. It's a solid offer but not a great one."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi reports a median total compensation package for a Senior PM at Google of $590,867"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports a median total compensation package for a Senior PM at Google of $590,867"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Meta also gives refreshes, so you're comparing a known amount at Google against two uncertain futures."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers use a 38/32/20/10 GSU vesting schedule.",
+    "quote": "As of 2026, almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   },
+   {
+    "claim": "Equity is usually the most flexible component of Google offers.",
+    "quote": "Equity is usually the most flexible part of Google offers"
+   },
+   {
+    "claim": "Meta generally requires employment on the bonus payout date.",
+    "quote": "Meta's bonus usually only pays out if you're still employed on the payout date"
+   },
+   {
+    "claim": "Meta gives equity refresh grants.",
+    "quote": "Meta also gives refreshes, so you're comparing a known amount at Google against two uncertain futures."
+   },
+   {
+    "claim": "Google fixes the grant in dollars and later converts it into shares.",
+    "quote": "the grant is fixed in dollars and converted to shares"
+   }
+  ],
+  "missing_info_requested": [
+   "next Meta bonus payout date",
+   "next Meta stock vest date",
+   "written Google vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $260K, a new-hire grant of $1.35M, and a $100K sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your 4-year average of about $552K is below that median"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Getting to something like $250K base, a $1.2M+ grant and a $50K+ sign-on would make this clearly worth it."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta number going forward is about $476K, not $526K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $100K sign-on bonus to cover what I'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-04T16:12:51+00:00"
+}

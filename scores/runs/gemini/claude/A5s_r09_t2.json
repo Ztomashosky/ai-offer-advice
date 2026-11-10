@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "That's for you to decide, but on compensation, this is a good offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On guaranteed money, this beats staying by about $380K over 4 years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, once you've checked a few things below."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If the recruiter's refresh example holds (about $62.5K/yr added for each year's grant), Google's 4-year total is roughly $2.8M."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If the recruiter's refresh example holds (about $62.5K/yr added for each year's grant), Google's 4-year total is roughly $2.8M."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Clawback terms for the sign-on bonus",
+   "Whether sign-on is paid as a lump sum or split across years",
+   "Google's exact vesting schedule in writing",
+   "Timing of next Meta RSU vest and annual bonus payout"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "If the clawback terms are reasonable and the start date can work around your Meta vest, accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push for more pay. They've said this is their best offer and they already gave you a lot."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $270K/yr assumes even vesting."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The gain is front-loaded. Most of it is the sign-on bonus. After Year 1, the guaranteed gain drops to about +$32K/yr (+6%)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-04T17:01:11+00:00"
+}

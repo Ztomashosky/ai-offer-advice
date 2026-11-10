@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your $552K offer therefore looks reasonable but not exceptional for the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "That is only a **5% premium over your normal Meta compensation**, which is not much compensation for taking switching risk"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a solid L6 offer, but not a compelling \u201cleave a job you like\u201d offer. I would negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1300000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "I would ask for $1.4M rather than $1.27M so there is room to negotiate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Levels.fyi data puts median Google L6 PM compensation in the Bay Area around **$606K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although that mixes new hires with existing employees whose refresh grants have stacked."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I would model the refresh illustration at perhaps **50%\u201370% of face value** when making the decision."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After the initial grant ends, the recruiter\u2019s own illustration settles around **$532K annually**, nearly identical to your current $526K."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If each $250K annual refresh vests evenly over four years:"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "This is a solid L6 offer"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google leaves the package essentially unchanged\u2014$235K base, $1.08M equity, and no sign-on\u2014I would probably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has historically used front-loaded vesting schedules for some large grants",
+    "quote": "Google has historically used front-loaded vesting schedules for some large grants, while the recruiter\u2019s illustration appears to assume equal 25% annual vesting."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages and vest dates",
+   "Eligibility for next annual refresh cycle",
+   "When first refresh would be granted and vest",
+   "Whether first-year bonus is prorated",
+   "How share count is calculated and on what date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "- **Base: $260K**\n- **New-hire equity: $1.4M**\n- **Sign-on bonus: $150K**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "increasing equity from $1.08M to approximately **$1.27M** gets recurring annualized TC to roughly **$600K** under equal vesting."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "- **$625K recurring first-year TC**\n- **$725K first-year TC including sign-on**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on is still valuable, especially because you are leaving near-term Meta vesting and accepting refresh uncertainty"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T22:03:43+00:00"
+}

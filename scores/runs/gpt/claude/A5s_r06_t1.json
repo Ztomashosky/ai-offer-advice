@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is solid but not great for you."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 is about +$76K (16%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this offer as written, and don't walk away from it either. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Leaving means giving up my second-half bonus and future Meta refreshes."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_ture_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Years 1\u20134, if the recruiter's refresh example holds"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5 and later, steady state | ~$526K | ~$532K ($282K + ~$250K refreshes)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google's pay is about the same as yours today."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, the offer is still about +$76K in year 1"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta has two annual review cycles and pays bonuses twice annually.",
+    "quote": "Meta's Checkpoint program has two review cycles a year, mid-year and year-end, with bonuses paid twice a year."
+   },
+   {
+    "claim": "Leaving before year-end payout would probably forfeit the second-half Meta bonus.",
+    "quote": "If you leave before the year-end payout, you'll probably lose your second-half 2026 bonus"
+   },
+   {
+    "claim": "Google would probably prorate the candidate's first bonus.",
+    "quote": "Your first Google bonus will probably also be reduced for the partial year."
+   },
+   {
+    "claim": "Meta RSUs vest quarterly.",
+    "quote": "Meta RSUs vest quarterly. Check your vest calendar."
+   },
+   {
+    "claim": "Some Google grants use a specific front-loaded vesting schedule.",
+    "quote": "Some Google grants have used a front-loaded schedule (for example 38% in year 1, 32% in year 2"
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Grant-to-share conversion price and measurement date or averaging period",
+   "Timing of the first refresh grant",
+   "Whether the first refresh is reduced for a partial year",
+   "Meta vesting calendar and possible start-date timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260K base, $1.3M in RSUs, and a $75K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| Year 1 | ~$476K | ~$552K ($235K + $47K + $270K) |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 5 and later, steady state | ~$526K | ~$532K ($282K + ~$250K refreshes)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta comp for the next 12 months is about $476K ($240K + $36K + $200K vesting), not $526K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "What you'd give up that the offer doesn't cover"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T17:00:28+00:00"
+}

@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It is a **competitive L6 offer**, but not an especially compelling offer"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Google premium: approximately **$26,000/year**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the current offer immediately, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Your current grant is competitive, but its four-year economics do not create a large enough premium."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent late-October 2026 data puts Bay Area Google L6 PM median compensation around **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "because they are discretionary and not included in the offer, I can\u2019t give them the same weight as the written package. I need the initial offer to work on its own."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google will not materially improve the offer, I would lean toward staying at Meta unless the Google role is clearly superior for your career."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact GSU vesting schedule",
+   "First vesting date",
+   "Share conversion price/method",
+   "Refresh eligibility and timing",
+   "Bonus proration and historical payout range",
+   "Sign-on clawback terms",
+   "Start-date implications"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260,000 base, $1.35 million in GSUs, and a $150,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.08M grant averages $270K/year over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Under 38% first-year Google vesting, Google would be approximately **$692K**, or roughly **$216K higher**."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You do not necessarily need to claim the entire $200K is being \u201clost\u201d\u2014because Google\u2019s first-year vesting may more than offset it"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:45:06+00:00"
+}

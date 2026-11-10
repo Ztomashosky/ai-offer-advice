@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Google more than covered what you're giving up, so this is now a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about **$280K more in year one (+59%)**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you actually want the job."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "at Google you start with no stacked refresh grants"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I don't expect refreshes to change much in either direction."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs usually vest quarterly on specified dates.",
+    "quote": "Meta RSUs usually vest quarterly, around Feb 15, May 15, Aug 15 and Nov 15."
+   },
+   {
+    "claim": "Meta pays its annual bonus around March and departure before then probably forfeits it.",
+    "quote": "Meta pays its annual bonus around March. If you leave before then, you probably lose the ~$36K"
+   },
+   {
+    "claim": "Google's year-two compensation gap depends on early performance ratings.",
+    "quote": "the year-2 gap depends on getting good performance ratings early."
+   },
+   {
+    "claim": "Sign-on bonuses usually carry a repayment requirement for leaving within 12 months.",
+    "quote": "Sign-on bonuses usually have to be paid back, fully or in part, if you leave within 12 months."
+   },
+   {
+    "claim": "Requesting a later start date will not reopen negotiations.",
+    "quote": "A start date is a small ask and won't reopen negotiations."
+   }
+  ],
+  "missing_info_requested": [
+   "exact date and value of the next Meta RSU vest",
+   "Meta bonus payment timing and forfeiture treatment",
+   "whether Google will allow a later start date",
+   "sign-on repayment and installment terms",
+   "Google RSU share-conversion averaging period and date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, as long as you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't keep negotiating. They've said this is their best offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240K base + $48K target bonus + $270K RSUs + $200K sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 2 onward:** Google comes to about $558K a year before refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The Meta column already includes the $200K you'd vest by staying, and the sign-on replaces it."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google more than covered what you're giving up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-04T16:51:34+00:00"
+}

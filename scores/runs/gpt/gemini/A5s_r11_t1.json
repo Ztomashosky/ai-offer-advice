@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "As an initial offer, it is average\u2014and not compelling enough to leave Meta."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "this initial offer is essentially lateral for me\u2014especially with a slight drop in base salary and no sign-on bonus."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "If they meet your targets, you get a substantial compensation upgrade; if they refuse, you stay in a role you enjoy."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1380000,
+  "equity_ask_high": 1380000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1320000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Strong competitive L6 PM offers in the Bay Area routinely reach **$1.25M to $1.45M** in equity."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Strong competitive L6 PM offers in the Bay Area routinely reach **$1.25M to $1.45M** in equity."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should evaluate the offer based on what is **guaranteed in writing today**, not hypothetical refresher projections."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if: They hold firm or only offer marginal adjustments (e.g., adding $10k in base or a tiny $20k sign-on)."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google intentionally omits sign-on bonuses from initial offers to test candidate sensitivity.",
+    "quote": "Google frequently leaves out sign-on bonuses in initial offers to test candidate sensitivity."
+   },
+   {
+    "claim": "The offered equity is standard mid-band for Google L6.",
+    "quote": "$1.08M over 4 years ($270k/yr annualized) is standard mid-band for L6."
+   },
+   {
+    "claim": "Competitive Bay Area L6 PM offers routinely include $1.25M\u2013$1.45M in equity.",
+    "quote": "Strong competitive L6 PM offers in the Bay Area routinely reach **$1.25M to $1.45M** in equity."
+   },
+   {
+    "claim": "Google often uses specified front-loaded equity vesting schedules.",
+    "quote": "Google often uses front-loaded vesting, such as 33/33/22/12 or 38/32/20/10."
+   },
+   {
+    "claim": "Google's compensation committee has the most flexibility on equity and sign-on.",
+    "quote": "Google's Compensation Committee has the most flexibility on equity and sign-on."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Focus on Equity and Sign-On First: Google's Compensation Committee has the most flexibility on equity and sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08M over 4 years ($270k/yr annualized)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus of **$100,000** to offset unvested equity and make the Year 1 transition compelling."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$100,000** to offset unvested equity and make the Year 1 transition compelling."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:38:25+00:00"
+}

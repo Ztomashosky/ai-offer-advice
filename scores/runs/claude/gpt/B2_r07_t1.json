@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **solid, credible L6 offer\u2014not an exceptional \u201cleave a job you like\u201d offer**"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Google\u2019s four-year average of $552,000 is not obviously superior to what a Meta IC6 can earn"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer as-is, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Equity is likely the largest negotiable pool."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area-specific Levels.fyi data reports an L6 median of approximately **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "these datasets combine new hires and existing employees with stacked refresh grants, making them imperfect offer benchmarks"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value the offer using only the initial grant. Treat refreshers as upside\u2014not as money already offered."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Is there any flexibility on level if your Meta scope supports L7 consideration?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "it is worth asking whether the hiring committee explicitly considered that level"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Google makes only a token improvement and your Meta forward TC is around or above $550K\u2013$600K"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses 38/32/20/10 vesting",
+    "quote": "Google commonly uses a **38% / 32% / 20% / 10%** new-hire vesting schedule rather than 25% per year"
+   },
+   {
+    "claim": "equity is likely the largest negotiable pool",
+    "quote": "Equity is likely the largest negotiable pool."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule",
+   "When grant approved/priced and first vest",
+   "Refresh eligibility and proration",
+   "Make-whole for Meta forfeitures",
+   "Level flexibility for L7",
+   "Candidate's Meta forward compensation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "$265,000 base, $1.4 million in new-hire equity, and a $100,000 sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "My suggested opening request is:\n\n- **Base:** $265,000\n- **New-hire equity:** **$1.4 million**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire equity | $1,080,000 total |\n| Four-year average equity | $270,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year recurring average before sign-on: **$668K**\n- Four-year average including sign-on: **$693K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Calculate your Meta forward compensation rather than comparing Google against last year\u2019s W-2"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on is particularly useful for replacing Meta compensation you forfeit by leaving."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T22:17:54+00:00"
+}

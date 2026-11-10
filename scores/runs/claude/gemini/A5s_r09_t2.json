@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "extracted maximum value from Google's compensation framework"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$318,400 (+60%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Total Year 2 Comp | ~$526,000 | **~$644,400** *(excl. refreshes)*"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Accept the offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Comp committee caps sign-on at this level",
+    "quote": "the Compensation Committee typically caps sign-on flexibility at this level for L6"
+   },
+   {
+    "claim": "Google uses front-loaded vesting",
+    "quote": "standard Google front-loaded vesting (33% / 33% / 22% / 12%)"
+   },
+   {
+    "claim": "standard clawback policy",
+    "quote": "typically a 12-month prorated repayment if you leave voluntarily"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment structure and clawback",
+   "equity vesting schedule",
+   "start date relative to Meta vest/bonus timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Accept the offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If the grant vests straight-line (25% / year = $270k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A $200,000 sign-on bonus is guaranteed cash."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "gave you dollar-for-dollar cash replacement for your unvested Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-02T23:36:01+00:00"
+}

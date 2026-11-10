@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "makes Google approximately **23% higher on recurring annualized target compensation**, before assuming any Google refresh grants."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, but I would not walk away over compensation if Google holds firm."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1500000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "better compensates you for leaving a strong Meta package and accepting Google\u2019s back-end compensation cliff."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported market data puts median Google L6 PM compensation around $514K\u2013$551K, with one dataset showing a 90th percentile around $671K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should assign them **zero guaranteed value** when deciding"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact GSU vesting percentages and dates",
+   "How dollar grant is converted into shares",
+   "First share vesting date",
+   "Bonus proration terms",
+   "Sign-on payment timing and clawback terms",
+   "Equity refresh eligibility timing and typical range",
+   "Start date adjustment around Meta vesting",
+   "Office attendance requirement"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one clean counter:\n\n- **Base: $271,000**\n- **New-hire equity: $1,600,000**\n- **Sign-on: $250,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Make one clean counter:\n\n- **Base: $271,000**\n- **New-hire equity: $1,600,000**\n- **Sign-on: $250,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Approximately **$363K more over four years** than the current offer"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That makes Google approximately **23% higher on recurring annualized target compensation**, before assuming any Google refresh grants. Including the sign-on, the four-year average is about **33% higher**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The extra sign-on covers more than the stated RSU forfeiture. You are giving up approximately $200K of upcoming Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:53:24+00:00"
+}

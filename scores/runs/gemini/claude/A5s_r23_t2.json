@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your guaranteed pay goes up about $380K over 4 years (about 19%), compared with about $160K before."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. If you'd be happy in the role, I'd take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "4-year with illustrated refreshes | \u2014 | $2.58M | **~$2.81M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once Google's new-hire grant runs out in year 5, your pay drops back to roughly what you'd earn at Meta."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "4-year with illustrated refreshes | \u2014 | $2.58M | **~$2.81M**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Employers usually withhold 22% federal tax on sign-on bonuses",
+    "quote": "Employers usually withhold 22% federal tax on bonuses like this, which is likely less than you'll actually owe."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on repayment terms and schedule",
+   "RSU vesting schedule and share conversion formula",
+   "Next Meta stock vest date and bonus eligibility date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. If you'd be happy in the role, I'd take it."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": ""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Year 1 | ~$476K | $552K | **$758K** ($240K + $48K + $270K + $200K)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 | ~$476K | $552K | **$758K** ($240K + $48K + $270K + $200K) |\n| Years 2\u20134 (each) | ~$526K* | $552K | **$558K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The Meta stock you'd give up is already in the Meta column above (it's why Meta's Year 1 is $476K). The new Google grant already replaces that stock, so the sign-on is extra money on top."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-04T17:22:47+00:00"
+}

@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the guaranteed four-year value materially exceeds your current run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, then accept unless the role itself gives you pause."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Only about a 12% increase to the original equity grant"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "$606,000 median annual compensation for Google L6 product managers in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "mixes employees at different points in their grant and refresh cycles"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat future refresh grants as **upside, not guaranteed compensation**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would not walk away over compensation unless Google materially changes the terms"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is where Google has greatest ability to improve",
+    "quote": "equity is probably where Google has the greatest ability to improve the offer"
+   },
+   {
+    "claim": "front-loaded vesting schedule as fact",
+    "quote": "Google\u2019s commonly reported new-hire GSU schedule is front-loaded at **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact GSU vesting schedule",
+   "grant date and first vest",
+   "bonus proration",
+   "sign-on payment timing and repayment clause",
+   "refresh cycle eligibility",
+   "historical refresh ranges for L6 PMs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "base salary first, followed by the equity grant"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "ask for $271K"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.34 million grant annualizes to $335K over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the one-time sign-on, your four-year average recurring compensation is approximately **$647,000 per year**"
+  },
+  "forfeiture_handling": {
+   "value": "netted",
+   "quote": "Next 12 months based on actual expected vesting: approximately **$476,000**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:03:24+00:00"
+}

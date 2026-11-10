@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a good offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In the near term, Google pays more under every schedule."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't walk away from it, and don't accept it as written. Negotiate first."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Compare the guaranteed amounts against each other, not Google's guaranteed amount against Meta's average."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Can you also confirm the vesting schedule and that this is L6?"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Stay if they won't move at all and the schedule is 25/25/25/25."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refresh grants typically vest 25% annually over four years.",
+    "quote": "Refreshes typically follow a four-year schedule with 25% vesting each year"
+   },
+   {
+    "claim": "Equity is Google's most flexible compensation lever.",
+    "quote": "Equity is where Google has the most flexibility"
+   },
+   {
+    "claim": "Meta bonuses are usually paid the following year and require continued employment.",
+    "quote": "Bonuses at companies like Meta are usually paid the following year and only if you're still employed."
+   },
+   {
+    "claim": "Meta RSUs generally vest quarterly and the next vest should be in mid-November.",
+    "quote": "Meta RSUs generally vest quarterly, so the next vest should be mid-November."
+   },
+   {
+    "claim": "Meta and Google often match each other's offers.",
+    "quote": "Meta and Google often match each other"
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Meta bonus payment and continued-employment terms",
+   "next Meta RSU vest date",
+   "confirmation that the Google role is L6",
+   "whether Meta will counter"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a $75k sign-on, $260k base and $1.3M in equity."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Year 1 is $76k\u2013$216k above what you'd get from Meta over the same period."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Even getting half of these would add roughly $70\u2013100k to year one."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "About $200k over the next year is lost if you go."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-04T16:40:39+00:00"
+}

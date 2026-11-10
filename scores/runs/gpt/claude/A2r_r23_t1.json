@@ -1,0 +1,143 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a solid offer but not a great one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years, it averages about $552K, roughly 5% above your current $526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.** Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "it's what fixes the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "If you get the realistic results, you'd average about $615\u2013640K a year over four years, before refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, you'd be taking on more risk and starting over to earn about 5% more"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta stock vests every quarter.",
+    "quote": "**Meta stock vests every quarter.**"
+   },
+   {
+    "claim": "A Meta vest date is around November 15.",
+    "quote": "I believe one of those dates is around **November 15**, 11 days from now."
+   },
+   {
+    "claim": "Meta's annual bonus is paid in March.",
+    "quote": "If it's paid once a year in March, as I believe it is"
+   },
+   {
+    "claim": "Big tech companies usually have the most flexibility on stock.",
+    "quote": "This is usually where big tech companies have the most room to move"
+   },
+   {
+    "claim": "A sign-on bonus should be easy for Google to approve.",
+    "quote": "it shouldn't be hard for them to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "Which Google equity vesting schedule applies",
+   "Whether Google equity vests monthly or quarterly",
+   "Typical Google L6 refresh amounts for meeting or exceeding expectations",
+   "Sign-on repayment terms",
+   "Start-date flexibility",
+   "Candidate's exact Meta vesting schedule",
+   "Candidate's Meta bonus payment and eligibility terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $260K, a stock grant of $1.4M, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Leaving means giving up unvested equity, an upcoming vest, and this year's bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, it averages about $552K, roughly 5% above your current $526K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on: This covers the bonus and vesting you'd lose by leaving"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This covers the bonus and vesting you'd lose by leaving"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-04T16:31:07+00:00"
+}

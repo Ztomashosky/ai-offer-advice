@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't strong enough on its own"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Compared with your usual ~$526K, it's only about $26K a year (5%)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate before deciding."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "It's also what makes the move worth it."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, the median yearly compensation package for Google PMs in San Francisco Bay Area totals $510K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Accept if the guaranteed pay reaches about $590K+ a year with a meaningful sign-on bonus"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google's illustrated long-term refresh level of $250K a year is about the same."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google's illustrated long-term refresh level of $250K a year is about the same."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs vest on four specified quarterly dates.",
+    "quote": "Meta RSU's vest quarterly on February 15th, May 15th, August 15th, and November 15th."
+   },
+   {
+    "claim": "About $50,000 would vest at Meta on November 15.",
+    "quote": "About $50K vests on November 15, 12 days from now."
+   },
+   {
+    "claim": "Google's first-year bonus would probably be prorated for a late-2026 start.",
+    "quote": "If you start in late 2026, your first Google bonus will probably be prorated"
+   },
+   {
+    "claim": "Equity is usually Google's easiest compensation lever to increase.",
+    "quote": "Equity is usually the easiest part for Google to raise."
+   },
+   {
+    "claim": "Negotiating will not cause Google to withdraw the offer.",
+    "quote": "Asking won't make them pull the offer."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's written RSU vesting schedule",
+   "Candidate's exact Meta vesting schedule",
+   "When and how Meta pays the annual bonus",
+   "Candidate's Meta compensation documentation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "a base of $260K, a new-hire grant of $1.4M, and a $75K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The guaranteed part is base, target bonus and the new-hire grant."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A realistic result is about $650\u2013670K in year 1 and about $590\u2013600K a year in guaranteed pay."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 | **~$476K** (240 + 36 + 200 of RSUs)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $75K sign-on to cover the Meta bonus and vesting I'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:53:23+00:00"
+}

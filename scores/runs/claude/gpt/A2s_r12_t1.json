@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good L6 offer, but not yet a compelling \u201cleave a job you like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26,000/year, or about 5%, above** your stated Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would **negotiate, not accept as-is and not walk away yet**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Bay Area Google L6 PM median compensation around **$606,000**, though that mixes new offers and existing employees with stacked refresh grants"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median compensation around **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Another recent dataset put nationwide L6 PM median around $514,000 and the 90th percentile around $671,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "it mixes new offers and existing employees with stacked refresh grants, so it is directional rather than perfectly apples-to-apples"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should not treat discretionary future grants as guaranteed compensation"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google remains at **$235K / $1.08M / $0**, I would stay at Meta unless the Google role is materially better"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most flexible lever",
+    "quote": "Equity is likely the most flexible and financially important component."
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule",
+   "grant pricing and first vest timing",
+   "refresh eligibility based on start date",
+   "typical L6 PM refresh range",
+   "bonus payout multipliers"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at **$265K / $1.4M / $200K**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity: $1.08M \u00f7 4 = $270,000 average"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus would then protect the transition separately."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your known Meta compensation for the next 12 months appears closer to **$476,000**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on payment is the cleanest mechanism for recognizing forfeited near-term compensation"
+  }
+ },
+ "bad_quotes": [
+  "caveat_tenure_offering_company"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:30:13+00:00"
+}

@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "especially on initial equity, but it is not yet a compelling"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On a four-year guaranteed basis, the offer is only modestly above your current compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don\u2019t accept this offer as-is, but don\u2019t walk away before giving Google a chance to improve it."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Increasing equity to $1.4 million makes the four-year value meaningfully better without requiring Google to exceed the salary range."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent reported compensation puts Google L6 PM compensation in the Bay Area around"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value refresh grants at **zero unless you can get reliable information about their likely amount and timing**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably stay at Meta if Google remains at the original package."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is commonly the most flexible lever in tech PM offers",
+    "quote": "Equity is commonly the most flexible component in large-tech PM offers."
+   }
+  ],
+  "missing_info_requested": [
+   "confirmation of the RSU vesting schedule in writing",
+   "refresh grant eligibility timing",
+   "target refresh grant amount for an L6 PM",
+   "how refresh grants vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Give one clear, ambitious package rather than asking vaguely whether there is flexibility"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Increasing equity to $1.4 million makes the four-year value meaningfully better"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This is why you should not evaluate the offer by year-one compensation alone."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $150,000 sign-on payment partially addresses the roughly $200,000 of Meta equity scheduled to vest during the next 12 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:35:40+00:00"
+}

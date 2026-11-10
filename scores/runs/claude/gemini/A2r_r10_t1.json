@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a **solid baseline offer, but not a top-of-band offer for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "too close to a lateral comp move over 4 years to accept as-is"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Recommendation: Negotiate Firmly"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Increase the **RSU grant to $1,250,000** over 4 years to account for long-term parity."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest 25%/yr) help fill the gap, they depend entirely on performance ratings"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "established IC6 at Meta with steady momentum"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on any component, staying at Meta is the lower-risk, higher-certainty choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google uses a **front-loaded schedule** (typically 33% in Year 1, 33% in Year 2, 22% in Year 3, and 12% in Year 4)"
+   },
+   {
+    "claim": "refreshes vest 25%/yr",
+    "quote": "annual refreshers (which vest 25%/yr) help fill the gap"
+   },
+   {
+    "claim": "band has headroom to move on all levers",
+    "quote": "The offer has clear room to move across base, equity, and sign-on."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google moves on at least two of these three levers"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "making around $526k total comp with $240k base and $200k of RSUs vesting over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Year Annualized Average:** ~$552,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Include a **sign-on bonus of $80,000** to offset the equity I'm walking away from"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets lost near-term Meta vesting ($200k in next 12 mos) and transition risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:07:30+00:00"
+}

@@ -1,0 +1,67 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A2r",
+ "rep": 22,
+ "wave": 3,
+ "dry": false,
+ "started_at": "2026-11-03T00:02:13+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T00:02:36+00:00",
+   "reply": "### The Bottom Line: **Do Not Accept As-Is \u2014 Negotiate**\n\nYou are in a strong negotiating position: you are happy at Meta, were passively recruited, and hold an equivalent Senior/Staff-level role (IC6 $\\approx$ L6). \n\nGoogle\u2019s initial offer is **solid, but it is an opening bid with substantial room for improvement**. Leaving Meta without negotiating would leave tens of thousands of dollars (if not six figures) on the table.\n\n---\n\n### 1. Breakdown of the Offer vs. Meta\n\n| Component | Meta (IC6) | Google (L6 Offer) | Analysis |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $235,000 | **Slight decrease** (Range is $183k\u2013$271k) |\n| **Target Bonus** | 15% (~$36,000) | 20% ($47,000) | **+$11,000** |\n| **Total Target Cash** | $276,000 | $282,000 | **+$6,000** (essentially flat) |\n| **Equity (Annualized)** | ~$250,000/yr | $270,000/yr ($1.08M / 4) | **+$20,000/yr** (straight-line) |\n| **Sign-on Bonus** | N/A | $0 | **$0** (typical first offer) |\n| **Average Total Comp** | **~$526,000** | **~$552,000** | **+$26,000/yr** (only ~5% increase) |\n\n---\n\n### 2. Critical Nuances You Must Factor In\n\n#### A. The Google Vesting Schedule \"Front-Loading\"\nUnlike Meta\u2019s quarterly even vest (25% per year), Google typically front-loads new-hire equity grants (historically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**):\n* **Year 1 Total Comp:** ~$638,000 to ~$692,000 (due to 33\u201338% vesting in Year 1).\n* **Year 4 Total Comp:** Drops sharply to ~$390,000\u2013$410,000 without stock growth and heavy refreshers.\n\n#### B. The \"Refresher Stacking\" Reality\nThe recruiter is correct that Google equity refreshers vest over multiple years and stack. However, **Meta does the exact same thing**, often with more predictable and generous equity refreshes. You cannot rely on hypothetical future refreshers to bridge the compensation gap in Years 3 and 4.\n\n#### C. The Base Salary\nThey offered you **$235,000**, which is lower than your current $240,000 Meta base and sitting near the midpoint of their $183k\u2013$271k band. You should never take a base pay cut when switching Big Tech companies horizontally.\n\n---\n\n### 3. What to Ask For (Your Counter-Offer)\n\nTarget the upper quartile of the L6 PM band:\n\n1. **Sign-on Bonus: Ask for $75,000 \u2013 $100,000**\n   * *Rationale:* You are leaving behind $200,000+ in near-term vesting Meta RSUs and walking into a new review cycle. Google routinely uses sign-on bonuses to bridge this gap.\n2. **Equity (GSUs): Counter with $1,250,000 \u2013 $1,300,000 over 4 years**\n   * *Rationale:* $1.08M is standard for an initial offer, but L6 PM equity can reach $1.2M\u2013$1.35M+ for competitive hires.\n3. **Base Salary: Counter with $255,000**\n   * *Rationale:* Matches/beats your current $240,000 Meta base while staying comfortably within their posted $271,000 ceiling.\n\n---\n\n### 4. How to Communicate the Counter\n\nCall or email your recruiter with a collaborative, appreciative, yet firm tone:\n\n> *\"I\u2019m excited about the team and the scope of the L6 role, and I\u2019ve really enjoyed getting to know everyone. However, compensation is an important consideration for me. Because I was not actively looking and am in a strong position at Meta\u2014making $526k with an unvested pipeline and a $240k base\u2014this initial package does not yet create a compelling enough financial case to make the jump.*\n>\n> *If we can get closer to the following numbers, I would be thrilled to sign immediately:*\n> * **Base Salary:** *$255,000 (to reflect my current base and stay aligned with the band)*\n> * **Equity:** *$1,280,000 over 4 years*\n> * **Sign-on Bonus:** *$75,000 (to offset the unvested RSUs and transition risk)*\n>\n> *Is this something you can take back to the compensation committee?\"*\n\n---\n\n### Summary\n* **Do not accept** the first offer; it is only a ~5% increase on a 4-year annualized basis.\n* **Do not walk away**; Google expects you to negotiate, and they have significant budget headroom at L6 for base, equity, and sign-on.\n* If they meet you halfway (e.g., $245k\u2013$250k base, $1.2M equity, and a $50k\u2013$60k sign-on), you will have secured an extra **~$150k\u2013$200k in total value** over your tenure.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule 38 32 20 10 or 33 33 22 12"
+    },
+    {
+     "query": "Google L6 Product Manager levels fyi compensation"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6133dqXbUvrbaRJMv0G8eJgSdPxL2cWEKQ3pUF-49_dSuFgYg8JxA7YgUkIZlhOrwA5LcKUO80pxu4Lw2Dw2FCutu4JFmeLCk7WOHPv7pgu3bbypqkuBnKc5Ch-R-9AwIh7NU3KZvv57ZQte48l5Kau5qiThj5b4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7AT2YLVrMVbiXLBPjmn8bo1vifeELWNiVZQDsIbFxuIwsQFrMEnXkeDMxBX2DiXEFN3QL9rSwrJvrJR-JJJ61LcOhYvfjaqZTsjLfKJ8KsJsOvS6_NWegc6lJtwsfew5STzQ60dygEU_IJncuLeI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhsBIn7EkVpqgmUiGIF9svfSmMb8PQyZH_s0V0nfms1d1NoP0JTgSn431UdKtnH4Sbbujj5F2RRVWdI0eOnz9zRkPMKPWNGmnUEmsneggnltEVZrDaLD77n_xlKKFWIR3SNByPpo_80HH0w0TlWUz83PXtx5wYz_EkcBYRwQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYbLtNEvVFtVuwHZYAOwYSDR4C_nei_tQDgtfKOJFoK-F1iLjU4OGS9Zv-Q2jxhGrcA0qDa6rMA36W3S3vce_fmZ1cZaxh4bYriw0D8q09a1ZcBwIjXAnXycjKuoM-tARzq8A3KZMfJ2UwfA5aytYeV3NvPeZv6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb-1o5tBtRsfbjE5Iw70l1mh5f5GzGnOt2c9f3ENUZ5KkBaR4DAU8qZ03CD_zjWEo0kik1sT4G86DaAbF7WRScRNMwC3k-8bpXWycckDZZSb7hfBjqQtIKPPVPtIK8v1X6EmRswYbPQl2UpLaLwgfR9i1aW0ov_V_U1-zbFLWy883wJOIKq_haVoaihw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw4LD0uF9IoiayNkUZuI2RlNBUbo_tCYCfkPIprGa23p9Y8p4cYMTyTyAxqlKIoZq3pB74XyAYf2kSlBhpv4OjgZddVASxADr_IhZYzF-iTGHEbeQyW8fePF43ysC30rvBKwEGPQEljcyqlkeIMsUfpSbfzrWwoajNEs7C58mAJ4cjFzcsVfLKhiG-wyEvKaTtg4leVntV9SrA-QHZ7KsbpRxIK6JlPg=="
+   ],
+   "usage": {
+    "input": 364,
+    "output": 3095
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  },
+  {
+   "prompt": "T2_final_recurring",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs raised to $1,280,000 (vesting over 4 years), and no sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T00:02:56+00:00",
+   "reply": "### Short Answer: **Yes, you should seriously consider accepting it.**\n\nYour negotiation was successful: you pushed them from a **$552k/yr** package to **$608k/yr average** ($2.43M total value over 4 years). More importantly, because of how Google\u2019s vesting works, **they effectively solved your $200k unvested Meta RSU concern, even without an upfront sign-on bonus.**\n\n---\n\n### 1. The Real Year-by-Year Math\n\nGoogle typically front-loads initial RSU grants (standard **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**). \n\nAssuming the standard 33% front-load, here is what your cash and liquid stock flow looks like compared to Meta:\n\n| Year | Meta (IC6 Baseline) | Google (Revised L6 Offer) | Net Annual Delta |\n| :--- | :--- | :--- | :--- |\n| **Year 1** | ~$476,000 \u2013 $526,000 | **~$710,400** <br> *(Base $240k + Bonus $48k + RSU $422.4k)* | **+$184,000 to +$234,000** |\n| **Year 2** | ~$526,000 | **~$710,400** <br> *(Base $240k + Bonus $48k + RSU $422.4k)* | **+$184,400** |\n| **Year 3** | ~$526,000 | **~$569,600** <br> *(Base $240k + Bonus $48k + RSU $281.6k)* | **+$43,600** *(+ Refreshes)* |\n| **Year 4** | ~$526,000 | **~$441,600** <br> *(Base $240k + Bonus $48k + RSU $153.6k)* | *Requires Refreshes to bridge* |\n| **4-Yr Total**| **~$2,104,000** | **~$2,432,000** | **+$328,000 overall** |\n\n---\n\n### 2. Why Missing the Sign-On Bonus Isn't a Dealbreaker\n\nWhen you asked for compensation to cover the **$200,000** you were leaving on the table at Meta, Google responded by increasing your total equity grant by **$200,000** (from $1.08M to $1.28M).\n\n* **In Year 1 alone**, you will vest **$422,400** of Google stock.\n* Even after subtracting the $200,000 you leave behind at Meta, your Year 1 equity payout will be **higher than your Meta annual equity run rate ($250k)** by over **$170,000**.\n* You are not \"losing\" money during the transition; your first-year liquid income will surge past $700,000.\n\n---\n\n### 3. Offer Calibration\n\n* **$1.28M equity** is near the top of the band for standard L6 PM offers without competing written counteroffers.\n* **$240k base** matches your current rate and sits comfortably in the upper half of their $183k\u2013$271k band.\n* When Google says *\"this is our best offer\"* after bumping equity by $200k and matching your base, continuing to push for a sign-on bonus will yield diminishing returns and could cause unnecessary friction.\n\n---\n\n### 4. What Should Drive Your Decision Now\n\nSince the compensation is mathematically superior for Years 1\u20133, your decision comes down to qualitative factors:\n\n1. **Product Scope & Impact:** Do you find the product area, team charter, and problem space at Google more compelling than your current Meta scope?\n2. **Career Velocity (L7 / Director Track):** Meta\u2019s culture is generally faster-paced with clearer ownership lines, but can have higher volatility. Google offers broader scale and stability, though navigating cross-functional consensus and promotions (L6 to L7) can take longer.\n3. **Burnout vs. WLB:** If you want a change of pace or better work-life balance, Google typically provides a more sustainable rhythm than Meta.\n\n---\n\n### Recommendation\n\n**Accept the offer.** You successfully extracted an additional **$200,000 in equity and raised your base**, putting you over **$700k in Year 1 total comp**. If the team and product alignment feel right, this is a strong financial and career move.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule 2024 2025 2026"
+    },
+    {
+     "query": "Google equity vesting schedule percentages"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkmPoBz29d2IdxqnAoT32-x2Fw7QFxAx5XdofKC4MzjzwhkSrcd5yhc2v95oplksYMIvBNptXwRLV52z_ljV8u3zLcx1kwd1kFwsVwuX5chiznplBJg1iJ2bGWpsEe45IrqFhP6OY4cU5wVeITeGmw9JstHCaojq8tAKPomkxGxlBBy9KVv8Lg2pd8ww==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4afHSkgPe09S7Sq9LPaiE4XqwZ_Itg_mnH5pRF3Z4hAGES7rFYbQchGyWVpPZUFKM4ZA-ZttqHT5KRtwMvCxv1tNCHDHpUc2IvcNL4syq_SZy4bCdoHGtv7dZ5gmGY3os5FhVU5o4RL5cwn_c5MO8hXWbyIACng=="
+   ],
+   "usage": {
+    "input": 1800,
+    "output": 2772
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T00:02:56+00:00"
+}

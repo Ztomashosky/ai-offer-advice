@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts you comfortably in the **90th+ percentile** for Google L6 PM offers."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your Year 1 compensation has shifted from a modest ~5\u201310% bump to a **massive ~44%+ increase** over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should take it.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**4-Year Average (with standard ~$250k/yr refreshers):** **~$700,000+/year.**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "**4-Year Average (with standard ~$250k/yr refreshers):** **~$700,000+/year.**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has reached its authorization ceiling for an external L6 PM without a competing offer.",
+    "quote": "you have reached the upper boundary of what Google will authorize for an external L6 PM without a competing offer letter in hand."
+   },
+   {
+    "claim": "A $200,000 sign-on was the maximum realistic outcome without a competing offer.",
+    "quote": "extracting a $200k sign-on strictly using your Meta unvested stock as an anchor was the maximum realistic outcome."
+   },
+   {
+    "claim": "The standard clawback is a one-year prorated repayment.",
+    "quote": "standard is a 1-year pro-rated repayment if you leave voluntarily"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payout timing and whether it is split across years",
+   "Sign-on clawback period and repayment terms",
+   "Equity vesting schedule, cadence, and any initial cliff",
+   "Start-date flexibility around pending Meta bonus or stock vesting"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should take it.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "At this point, you have reached the upper boundary of what Google will authorize"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**New-Hire RSUs (Yr 1)** | ~$200,000\u2013$250,000 | **$270,000** *(flat)* or **$356k+** *(if frontloaded)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**4-Year Baseline Average (without refreshers):** ~$608,000/year (vs. ~$526k at Meta)."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Most candidates have to fight to get forfeited unvested stock matched via additional equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-03T00:50:46+00:00"
+}

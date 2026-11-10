@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "That makes it a market-level offer, not a strong \u201crecruit away a happy Meta employee\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26,000\u2014or about 5%\u2014above your current run rate**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept immediately, but don\u2019t automatically walk away.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an intentionally strong but defensible opening position"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Bay Area data puts Google L6 PM compensation around **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as **upside, not guaranteed compensation**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably stay at Meta if Google does not improve the offer"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base increases target bonus",
+    "quote": "Base is especially valuable because it is recurring and increases your target bonus."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact GSU vesting percentages and first vest date",
+   "Whether bonus is prorated",
+   "Refresh eligibility timing",
+   "Whether sign-on, base, equity are negotiable",
+   "Start date timing relative to Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000**\n- **New-hire RSUs: $1,350,000**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You have genuine walk-away leverage because you are happy staying."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs: $1.2M\u2013$1.3M**\n- **Sign-on: $50,000\u2013$100,000**\n\nFor example:\n\n\\[\n\\$250K + \\$50K + \\$1.2M/4 = \\$600K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "one-time money should not disguise a weak recurring package"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are giving up a stable position and unvested Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:34:22+00:00"
+}

@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "### The Verdict: **This is a top-of-market offer.**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "delivers a massive financial leap compared to your Meta IC6 compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Should you negotiate?** **Yes, but with precision.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A polite, anchored ask targeting **equity** is standard and will not risk the offer."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "A typical Google L6 PM total compensation package ranges between **$480,000 and $550,000** per year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Without accounting for stock appreciation or annual refreshers, the 4-year total is **$2.79M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "annual refreshers (which Google typically grants annually with a multi-year vesting schedule) stack to help backfill that drop."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's initial grants use a 33/33/22/12 front-loaded vesting schedule.",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial grants: **33% (Year 1) / 33% (Year 2) / 22% (Year 3) / 12% (Year 4)**."
+   },
+   {
+    "claim": "An aggressive counter could trigger internal approval delays.",
+    "quote": "an aggressive counter-offer could trigger internal approval delays."
+   },
+   {
+    "claim": "A polite equity counter will not risk the offer.",
+    "quote": "A polite, anchored ask targeting **equity** is standard and will not risk the offer."
+   },
+   {
+    "claim": "Google base bands have strict compensation committee caps.",
+    "quote": "but base bands have strict compensation committee caps."
+   },
+   {
+    "claim": "Google typically has a 12-month sign-on clawback and pays the bonus in the first paycheck.",
+    "quote": "Verify the clawback period (typically 12 months at Google) and payment schedule (payable in your first paycheck)."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback period",
+   "sign-on payment schedule",
+   "Meta bonus payout timing",
+   "initial grant vesting schedule",
+   "monthly or quarterly vesting cadence"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**Equity (Highest Probability):** Ask to bring the equity grant to **$1,450,000 \u2013 $1,500,000** over 4 years."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask to bring the equity grant to **$1,450,000 \u2013 $1,500,000** over 4 years."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "the 4-year total is **$2.79M**, or an average of **~$697,000/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1 Cash Flow:** You will make nearly **$1,000,000** in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:14:40+00:00"
+}

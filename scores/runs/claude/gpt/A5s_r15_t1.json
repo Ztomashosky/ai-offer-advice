@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good, market-rate L6 offer, but not an exceptional"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year, or 5%, above** your stated normal Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: **Negotiate**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "the current reported median for an SF Bay Area Google L6 PM\u2014Levels.fyi presently reports approximately **$551K**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the current reported median for an SF Bay Area Google L6 PM\u2014Levels.fyi presently reports approximately **$551K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "At 50% credit, Google averages approximately **$599K/year over four years**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5 steady state: **$532K**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter\u2019s illustration produces this equity schedule, assuming straight-line vesting"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they leave the offer unchanged I would probably **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base bands and internal parity are usually tighter",
+    "quote": "Base bands and internal parity are usually tighter."
+   }
+  ],
+  "missing_info_requested": [
+   "exact annual vesting percentages",
+   "monthly vs quarterly vesting and first vest date",
+   "share-price/grant-date methodology",
+   "refresh cycle eligibility and timing",
+   "bonus proration"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Initial equity\n\nThis is the most important request."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You already make approximately $526K."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.30M adds $55K/year.\n- $1.40M adds $80K/year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$631K**\n- First year: **$706K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google will correctly point out that its own equity vests during that same period"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Request a dollar-for-dollar cash make-whole for the specific amount lost."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:43:19+00:00"
+}

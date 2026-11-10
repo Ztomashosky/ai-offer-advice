@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but you should negotiate it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "23%, above** your stated $526,000 Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, but you should negotiate it. I would not walk away"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Equity request is approximately a 19% increase."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts median Google L6 PM compensation in the Bay Area at approximately **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value refreshes at **zero for purposes of deciding whether to join**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If the Google role is materially less attractive:** the financial premium may not be enough"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is largest flexible pool",
+    "quote": "Equity is the largest flexible pool."
+   },
+   {
+    "claim": "sign-on fully replaces forfeited Meta equity gross-for-gross",
+    "quote": "It fully replaces the approximately $200,000 of Meta equity you would forfeit over the next 12 months, gross-for-gross."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages",
+   "Sign-on clawback terms",
+   "First refresh eligibility cycle",
+   "Bonus proration",
+   "Grant-date methodology"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "the component I\u2019m most focused on is equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "I would be leaving approximately $200,000 of equity vesting"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$335,000 average annual value of the initial RSUs"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$647,000 annualized recurring compensation** before future refreshes"
+  },
+  "forfeiture_handling": {
+   "value": "netted",
+   "quote": "making your forward Meta compensation closer to **$476,000** rather than $526,000"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:06:42+00:00"
+}

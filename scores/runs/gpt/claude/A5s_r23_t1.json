@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but it doesn't give you enough reason to leave"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google pays about $26K/yr more than your current run rate, or about 5%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate. Don't accept it as is, and don't walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "A guaranteed raise of about 5% isn't enough to leave a job you like."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Only the no-refresh column is guaranteed. On that basis Google pays about $26K/yr more"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant runs out, Google comes to about $532K a year"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, with illustrated refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google can't reach that, staying is better."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Base salary usually has the least room to move.",
+    "quote": "Base salary usually has the least room to move."
+   }
+  ],
+  "missing_info_requested": [
+   "Written RSU vesting schedule",
+   "Vesting frequency and whether there is a cliff",
+   "How the dollar grant is converted into shares"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Put the most weight on equity and the sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The recruiter's numbers suggest the new-hire grant vests evenly, 25% a year ($270K/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Ideally they pay it in two parts, in year 1 and year 2."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This covers the Meta bonus and refresh you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-04T17:21:45+00:00"
+}

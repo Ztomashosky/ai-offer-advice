@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an exceptionally strong offer that has reached the ceiling of what Google typically grants"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you will take home roughly **$368,000 more** in total compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "places this offer in the **top 10\u201315% (75th\u201390th percentile)** of Google L6 PM packages in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "**$569,600** + refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "jumping to Google as an L6 resets your internal promotion clock"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Unless you have an imminent IC7 promotion locked in at Meta within the next performance cycle"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google rolled the $200k unvested value directly into RSU pool",
+    "quote": "they chose to address your unvested $200k by rolling that exact value directly into your RSU pool"
+   },
+   {
+    "claim": "Google front-loaded vesting schedule 33/33/22/12",
+    "quote": "Under Google\u2019s front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "Meta IC7 total comp range",
+    "quote": "Meta IC7 (Principal PM) total compensation typically ranges between $800k\u2013$1M+"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Accept the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Yr Avg**| **$240,000** | **$48,000** | **$320,000/yr**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google's Year 1 stock payout alone is **$422,400**, which fully absorbs the $200k"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "fully absorbs the $200k you would forfeit at Meta while leaving you with an extra"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "which fully absorbs the $200k you would forfeit at Meta"
+  }
+ },
+ "bad_quotes": [
+  "unsupported_claims"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T20:52:44+00:00"
+}

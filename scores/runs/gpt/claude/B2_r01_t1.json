@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your offer averages below that median and has no sign-on bonus."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "If you're a typical IC6, this offer may pay you *less* over 4 years than staying"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate. Don't take the offer as written, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1280000,
+  "equity_expected_high": 1430000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi lists Google L6 PM median total pay at about **$607K**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists Google L6 PM median total pay at about **$607K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "**Refreshes would partly fill the drop in years 3\u20134, but you can't count on them.**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Even with average refreshes, year 4 lands around $500\u2013550K."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If Google can't reach it, staying at a job you like is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually Google's most flexible compensation lever.",
+    "quote": "Equity is usually where Google moves most."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "actual Meta total compensation",
+   "unvested Meta stock vesting over the next 12 months",
+   "bonus forfeited by leaving",
+   "already-granted Meta refreshes that would continue vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**Stock is your main ask.**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "New-hire stock | $1.08M | **$1.45\u20131.5M**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Every extra $100K adds about $33K to each of years 1 and 2."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "**Justify the sign-on bonus with what you'd forfeit:** Meta stock vesting soon and any bonus you'd lose."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T17:12:37+00:00"
+}

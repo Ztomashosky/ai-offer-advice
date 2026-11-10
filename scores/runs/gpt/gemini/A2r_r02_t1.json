@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Equity ($1.08M over 4 yrs): Near median (median is ~$1.0M\u2013$1.1M)."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer\u2019s 4-year annualized average ($552,000/yr) is only ~5% above your current Meta run-rate ($526,000)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not accept the offer as-is, and do not walk away without countering."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Top of L6 band reaches $1.3M\u2013$1.5M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Because refreshers are performance-dependent and never guaranteed, you want a higher initial grant and a sign-on bonus to protect your multi-year floor."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you hold a peer Staff/Senior-level position (IC6) at Google\u2019s primary talent competitor (Meta)."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's initial L6 PM offers leave significant room across compensation levers.",
+    "quote": "Google's initial L6 PM offers leave significant room across all levers (base, equity, and sign-on)."
+   },
+   {
+    "claim": "Google typically uses a specified front-loaded new-hire GSU vesting schedule.",
+    "quote": "Google typically vests new-hire Restricted Stock Units (GSUs) on a front-loaded schedule"
+   },
+   {
+    "claim": "Google L6 base salary tops out around $255,000\u2013$270,000 for strong hires.",
+    "quote": "Google tops out around $255k\u2013$270k for strong L6 hires."
+   },
+   {
+    "claim": "Google regularly uses $50,000\u2013$100,000-plus sign-ons for L6 candidates from top peers.",
+    "quote": "Google regularly uses $50,000 to $100,000+ sign-on bonuses at L6 to close candidates from Meta or other top-tier peers."
+   },
+   {
+    "claim": "Promotion from Google L6 to L7 is notoriously slow and requires massive cross-organization alignment.",
+    "quote": "Moving from L6 to L7 at Google is notoriously slow and requires massive cross-org alignment."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Google's initial L6 PM offers leave significant room across all levers (base, equity, and sign-on)."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity ($1.08M over 4 yrs): Near median (median is ~$1.0M\u2013$1.1M)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp: **~$816,000** (~$600k 4-year average)."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Bridges the gap for leaving your upcoming $200k Meta vesting tranche and unvested retention value."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T20:48:05+00:00"
+}

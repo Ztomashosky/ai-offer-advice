@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "You're getting a strong 4 years, not a permanently higher income."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your guaranteed pay goes up about $380K over 4 years (about 19%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. If you'd be happy in the role, I'd take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "4-year with illustrated refreshes | \u2014 | $2.58M | **~$2.81M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once Google's new-hire grant runs out in year 5, your pay drops back to roughly what you'd earn at Meta."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "4-year with illustrated refreshes | \u2014 | $2.58M | **~$2.81M**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If the team, manager, or product doesn't excite you, an extra ~$95K/yr may not be worth starting over somewhere new."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "sign-on repayment period and proration",
+   "whether the sign-on is paid all at once or in parts",
+   "RSU vesting schedule, frequency, and cliff",
+   "how the RSU dollar grant converts into shares",
+   "next Meta stock vest date",
+   "Meta annual bonus timing and eligibility"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. If you'd be happy in the role, I'd take it."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing on money again would likely get you little and could cost some goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$758K ($240K + $48K + $270K + $200K)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 | ~$476K | $552K | **$758K** ($240K + $48K + $270K + $200K)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The Meta stock you'd give up is already in the Meta column above"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on is more than a refund for what you leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-04T17:22:32+00:00"
+}

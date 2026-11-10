@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Google has offered you a respectable median package, not a premium package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is only **$104,000 ahead over four years**, or about **$26,000/year\u2014a 5% premium**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would **negotiate aggressively rather than accept or walk away now**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "recent data puts reported L6 PM TC at roughly $514K median and $671K at the 90th percentile nationally"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the reported Bay Area median for a Google L6 Senior PM\u2014roughly **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "recent data puts reported L6 PM TC at roughly $514K median and $671K at the 90th percentile nationally"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Do not count unspecified refresh grants when deciding.** Treat them as potential upside\u2014not part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at the equivalent broad seniority level at Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably stay if Google only adds something like a $25K\u2013$50K sign-on while leaving the recurring package mostly unchanged"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity and sign-on may have greater flexibility in Google's compensation process",
+    "quote": "equity and sign-on may have greater flexibility in Google\u2019s compensation process"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages",
+   "first vest date",
+   "grant-date mechanics",
+   "bonus eligibility for first year",
+   "repayment terms on sign-on"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base: $265,000** - **New-hire equity: $1.30 million** - **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "I would also be walking away from approximately $200K of Meta equity vesting"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity | $1.20M / 4 = $300K annualized"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Recurring annualized TC: approximately $643K** - Plus $150K sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "to compensate for transition risk and forfeited vesting/timing"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:27:34+00:00"
+}

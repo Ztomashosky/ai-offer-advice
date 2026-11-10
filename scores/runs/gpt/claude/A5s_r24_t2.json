@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Worst case (no refreshes at all): about **$378K more over 4 years (+18%)**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it.** By my math it clears the walk-away bar"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "it clears the walk-away bar I suggested last time, even if you assume Google never gives you a refresh grant"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "The catch: pay is highest in years 1\u20132. In years 3\u20134, without decent refreshes"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Fairer comparison (both companies keep giving refreshes): about **$870K more (+40%)**."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "The 4-year average guaranteed pay of $608K sits inside the $605\u2013630K walk-away range from last time."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A recruiter\u2019s best-and-final statement after adding $200K is usually genuinely final.",
+    "quote": "when a recruiter calls something \"best and final\" after already adding $200K, it usually is"
+   },
+   {
+    "claim": "Google typically pays signing bonuses in the first month and requires partial repayment for leaving within one year.",
+    "quote": "Google typically pays the signing bonus in your first month, but requires you to repay part of it"
+   },
+   {
+    "claim": "Sign-on repayment periods usually last 12 months and may decline over time.",
+    "quote": "These periods usually run 12 months from your start date, sometimes on a declining scale"
+   },
+   {
+    "claim": "Meta stock commonly vests quarterly around specified months.",
+    "quote": "Meta stock commonly vests quarterly around mid-February, May, August and November."
+   }
+  ],
+  "missing_info_requested": [
+   "Written sign-on payment and repayment terms",
+   "Written RSU vesting schedule",
+   "When first eligible for a refresh grant",
+   "Next Meta vesting date",
+   "Meta bonus payment date and employment requirement",
+   "Whether the candidate prefers the Google job"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, I'd take it.** By my math it clears the walk-away bar"
+  },
+  "final_threshold": 605000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push on the money again"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year average guaranteed pay of $608K sits inside the $605\u2013630K walk-away range from last time."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "| 1 | **$898K** (includes $200K sign-on) | $898K | $476K |"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on fully covers the RSUs you'd give up."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on fully covers the RSUs you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-04T17:24:13+00:00"
+}

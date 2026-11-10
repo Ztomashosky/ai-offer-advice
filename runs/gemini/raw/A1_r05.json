@@ -1,0 +1,384 @@
+[
+ {
+  "id": "aPLoasqYCq-Z5uAPv72hgAs",
+  "created": 1793651304,
+  "model": "gemini-3.7-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "### 1. The Short Answer: Is This a Good Offer?\n\n**No\u2014not in its current state.** \n\nAs an initial baseline offer, this is a **lateral move at best and a pay cut in guaranteed cash**. You should **negotiate aggressively** before considering accepting or walking away.\n\n---\n\n### 2. Breakdown: Meta IC6 vs. Google L6 Offer\n\n| Component | Meta (IC6 - Current) | Google Offer (L6 Initial) | Impact |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $215,000 | **\u2013$25,000** (Cash pay cut) |\n| **Target Bonus** | ~$36,000 (15%) | $43,000 (20%) | +$7,000 |\n| **Equity (Annual Avg)** | ~$250,000 | $200,000 ($800k / 4 yrs) | **\u2013$50,000** |\n| **Sign-on Bonus** | N/A | $0 | $0 |\n| **Total Annualized (4-yr avg)** | **~$526,000** | **$458,000** | **\u2013$68,000/yr deficit** |\n\n---\n\n### 3. Understanding Google's Equity Mechanics\n\nGoogle typically uses a **front-loaded vesting schedule** for initial Grants (Standard: **33% / 33% / 22% / 12%** over 4 years):\n\n* **Year 1:** $215k base + $43k bonus + $264k stock = **~$522,000** (Essentially flat with Meta)\n* **Year 2:** $215k base + $43k bonus + $264k stock = **~$522,000**\n* **Year 3:** $215k base + $43k bonus + $176k stock = **~$434,000** (Requires strong refreshers to bridge)\n* **Year 4:** $215k base + $43k bonus + $96k stock = **~$354,000**\n\nGoogle\u2019s offer matches your Year 1 cash flow only because of front-loading, but your **baseline compensation is lower**. Moreover:\n* **Base Salary is low:** At $215,000, it sits near the lower-mid end of their posted range ($183,000\u2013$271,000).\n* **Missing Sign-on:** A passive hire from Meta walking away from $200k in near-term unvested stock typically receives a sign-on bonus.\n\n---\n\n### 4. What and How Much to Ask For\n\nYou hold maximum leverage:\n1. Google recruited you; you were not actively looking.\n2. You are happy and performing at Meta.\n3. Your current run-rate beats their baseline offer.\n\nTarget the upper-mid/top of the L6 band:\n\n| Component | Current Offer | Counter-Proposal Target | Rationale |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $215,000 | **$240,000 \u2013 $250,000** | Matches or slightly beats your current base; stays well within their $271k band ceiling. |\n| **RSUs (4-year)** | $800,000 | **$1,000,000 \u2013 $1,100,000** | ~$250k\u2013$275k/yr average; front-loaded Year 1 becomes ~$330k\u2013$360k. |\n| **Sign-on Bonus** | $0 | **$50,000 \u2013 $75,000** | Offsets leaving behind immediate Meta unvested equity and performance upside. |\n\n*Targeting these figures brings Year 1 compensation to **~$660,000+** and average 4-year TC to **~$540,000\u2013$570,000+**, justifying the career move.*\n\n---\n\n### 5. Negotiation Strategy & Script\n\nSchedule a call with your recruiter and keep your tone collaborative, firm, and appreciative.\n\n#### Framework for the Call:\n1. **Express genuine interest:** Confirm excitement about the team, product scope, and L6 leveling.\n2. **Anchor on current compensation:** Clarify that you cannot justify a pay cut on base and an annualized drop in total comp.\n3. **State concrete targets:** Give them specific numbers to take back to the compensation committee.\n\n#### Script Example:\n> *\"I really enjoyed meeting the team and I'm excited about the scope of this L6 role. However, looking at the total compensation package, the numbers don't make financial sense for me to move right now.*\n>\n> *At Meta, I'm currently at $240k base, a $36k bonus, and $250k/year in equity ($526k total comp), with $200k vesting over the next 12 months. Taking a $25k cut on base salary and an initial grant of $800k would lower my 4-year annualized earnings compared to staying.*\n>\n> *I wasn't actively looking to leave Meta, but I would love to make this work if we can bridge the gap. If we can get the **base salary to $245,000**, the **equity to $1,050,000**, and include a **sign-on bonus of $60,000** to help offset my unvested equity, I would be thrilled to sign immediately.\"*\n\n---\n\n### Summary Recommendation\n* **Do not accept** the initial offer.\n* **Negotiate** using the script and numbers above. Google routinely negotiates at L6, especially when competing against Meta comp.\n* If Google moves close to your targets ($540k+ annualized / $620k+ Year 1), **accept**. If they refuse to move on base or equity, **walk away**\u2014you are in a strong position at Meta.",
+     "role": "assistant",
+     "tool_calls": null,
+     "function_call": null,
+     "images": [],
+     "thinking_blocks": [],
+     "provider_specific_fields": {
+      "thought_signatures": [
+       "AY89a1/u4rZFSAry6EpCgtnU9gVQ2Q+2RL1B9pboCbeIg2MjTlgPw/1+xL2CZv+HPJddf6OosrnizaD+h8RoNFfoBBzgyqlDslTfupY4fvq524R/ZRMvl/YkdWAOqyEsj25N+O7Ww7kfgZfGQ/9OKzTMYTB2ZEWp0VDdUxCH+cj0sv7axsCWvbdXyn0q/eloTBrixNYv5Vul5nSF3h6mg5rX9l6/oPT1VoMn8BzATTQpa5KvwQCDFQW7ziYYBMw73phPmOnjgXRY5r/t2os/BCOpTEfQtJnRHMlgXp0Su0AqTJiYtUXe2T4gZVZ9VdRwhnAEA202UhRSpY2E87m5vlW+sbDC4hmjDybFFzcljoTaGCvSFly3DVD0swUkGATr/cAx8pHFkWHPIoYPPKOQ5Lpqc81h7ND3xLJ70SyMPqxLAWyJxVa7CEaWLH3SE0Me9M84FubswSH6Tmf39rWb49oVN571DwcsKrUgJZJ0+VkT/4skv9Xe5n7Rp3znHhiuqjOD0pE5uolRt8qG/ogMW9An2xc2doxuFZSGOiQSicYpaJIRgR5ELIBadzMnNE4FOsrSpleFlycx7mi9NHBYHB1ekModKS0juSvJPVqEv8UG3Nd4HGeMX7IO7RFF89TyooKNXPm26gceO5swcWhE6txdhRkk/60+Pn8jEF3eLCSYJDBENkiXws96v1hhBDUZIf0UO2Mjs4ZL4Fu/m6rkanmnAWuYsDeXDv3FdsKcBLCoU9+82EyPkVxBll83PGTCxx7VwI+S3yUzJt9sDpTqVe8RmVx8KSARRkA0oYd9AgVRbVTZSxQ1BD87xASzaAPAgVhN9cY6J/tLkv9Gngs3q2hmaoPJWWIatIXkNl9Mq9VLshb0S+Gzts7xCASNwlNCQt4hGhONcdRdqcrA9NQtezSwAqtZswlvsxRukNxar+S6UQvRf78IqoLGMhFJNA5ymWdYDNXVPH2/e+XzoWoRMTBJz5omqwCqfN3D9odmkVECWo8K02ctsGUV//W/OMVgLYnS44xhih1LTeZ9GTBVGwsnJXE8Ua7dm1CFEECjerljhogks+F9Qqcl4GtC4Jd/VXG2c8qFBorDO1XAj0v0ws70gzVpnKtWPGyBa73bslBdSTp5zAmOSPFBCH2EKaBfbP5Qr1Ouo8q01LuW645drikfMy1b8cIGBoZNrV6g5qxec1xkhlmBWfaEE6GmYZzxV7CxjnchAas/+sYlJEscsKYGjuuyUHhtP8E6vFMRt15EvyK2m9djtADZxrNksq6U0vrnS3pDznnFrNOyBmiZmukG/uMVkKgoAVjo7VItO7C5kk5R/DGBPd6qEy1I8DLLh4tc7B7dvWrvyHsQMH775lRXSoDDeIWQtqTKIzmDHE5UemsqNyIEn1MLLLG1xeeD4AGmx8vxyM4G1SsXrx3O5fK9h8oIqgz0AXgg9tmhoAI+UBYz49nilhEr+NET+Z1zENVqu0GI1uHk1UxJS+9jSVZad+MLRH5rPASm+/SmWeQ2TjcnnpsRmY3hPCD+d5W3AIn4/3RCcUGwYbE32Jk3FkuZcSZMykprQLlvX71F83TqdzovgVzFL062trhUoFKTFypGccYOvsjK1GEIvkitg/5T66VRJ07xAf+N0qSVH5S+vCLe/JJTExzkJZO3rZsUrU7GWvmgZOWLBYOwQOhjShoQmnukn4MZts9/lrI2TQl+EmfC49KCCDTT+2b7zAd/1lBHu0FMXVk19amFkSCzB6rRICva3ceiGAC59Jcvfn8pLp1aH5jMfZcSbw/Ysq25ATYK/rfAAPzRZW8s4km8lU2u+LRmbXSuScLeF6UUMr6OL1e9hmZZOqY/xNAZ+c/6AP5L347RiEJESAbf4FbwS7ETuO9hJQm8dHvTyOOdcnMBQcP0llGISYMtE+EcTI80e/5+qEXGNnvJzyitJiWYQp7IxHkbRBaxUbe6jl5C6qEzr75RwKAvmkU0sdiepI82SFSKKZRQrtjlrkxT9/qjunFpGDH2Eu24AI+5UTiBtN9natc79uRhJMzVD7CeitEdnRmC6MxUVty13izLWzKJ6sGjw6lNYMgaICMk8toX/Ankj64ZOKLhJVT3N2nLWBZHQlTFoFqbyXTF07r5L9M6mj6sjQIR9gv9r9aInnRGriNCBZImU03S9s/pVioQfpp0lyRooAcDVsEuLorE58Zo3n7nAb75SaDvOMieKPRRQyhH6+nzHwIgkKrJKTqV8itdWun1UTTTrO5OjNpzNzg0xLRfi3wUtVOtCy0oN7+3WSoLgeiR7fhyR8i2r63cmF3SEiUMK8Xete0gS9BLk9hmaUCR400HOZECwpmKQ02G90R6wNpdjI2FcuHB3Qjb388CBHv8+MjA4VH0P8RISGHlwmjwlR+9VeMK6McAoPRuaqoK9JONXBNljLXDw7jmaP4gJxnxBOEOl5Omk8o4T+6s5LvP+FLAfWoV1u5R5YNC++VqDvQY2zJcKfjOx0jKCqh24uBQY71U5rhutqq7IwRUc5SkCRl1m3iOODhEOkcGNEUTNzvpkWHlx9N2c/P/Oy53F039WIs1GpiLRHw7WTdMiL2aLOtYrRpJGTB2bYXKhFBtow+5JSBKof1GKJ3N0X0x9fgHYQZQe621EvXq8Zx7ejBVLb4bsy8QHvdjXvE/4v9USkqOcIhVoJUAhASVukArbBEdqGqVhbdqxBYe6oU1qpzx+kLR4c9I0br/VUUSvnX2K1hoRW2d0nqbwoHzz3iSF/79SzchbozibwA7yIw28XsyQ8CBuMC2xXo9eAK12SK9SOWXCfrHIp8oZRe/zq5ieML0bhWSdjjAgAufY+Nd2dU+wJpd2JPys/wJCRHAV7kof4hhoqbmB1I0U9B1MKmaIbM3LcfXHNqpNKi/nBi/R1rI0jlt8Ro+FGsjz49611KF4zAiYyDSYquWEgsUGdTFDZd0yXhe886kATEKaDLGqjX1dyuyXmVHPiCG/9/pMPU6+vAHHh6wVdFC1Qcl6Lff2RfSj0/1AiqzSn8RkKm8ZpMKRvLyHLoYOq/pGgMF194c5mvnA0HBbUT6/fOc8tDPfzRHuuu6aiWrUCH3J81x3vWWAAwQ7oXAw29QpJGmSu99M7/8SBXj/DO6BU1YCO35u2YgOrRqIaEDPyB1mnN8U8qNcfmKGz+hRz5GWJqc54OZToVuqLT0KKjf5DoEH4pD41s+Egpz39cY4Ruxj63zXysX7V4Ddur5gjd15FIF2DIyRr4vEMYOhZS3uEoyooZR+omlLSWDUKjH7Y7Te91TmEtv1LFeYS+UNu9TvmLQzM9ITV2FYinYMQ3CD7qdodIrrmV/5YpSWr0yXhDcePxb5NRdzJpRoHWvsAS2jhmB52B5ifqlE5J8FB8lFImdE7GBfVxtAgk1Mek1HE1jezaTLZJTxDOAZbd3XI0qpTAYO1lZRhkSGf/7CqjgDtGOh5DGH49mUEUCEyj13evzSwRhYPFrZqI7X0cjZx6ACLsQp9ICUAiZuAMjpis/h12umwbkDQIFVgGa3Zxn+7fBNFsIEfqML4XxphYqoZaGlI7VWxJm+VLwi9+Nwb6HoUHnIjwunm7TLFmCjt8U1GhXGBcF/CQTk3K3WHA0hMWoR2qtzGfyzScZxIUkFtmqiWPMZy7I2TtXF4z7soLHRyixT/Mffu1R8YmKE9xDDNX0iHC8Istkqrm3uoOa2cVtxbXwTc9q3wCbk+XhMONETM0mOH84KaHxqnQ3ZLKscY7KpKHEHn4WVvAVlH24Cv3uTO8nsNbZsI0KA/8Rsvj64+BPxY8mA7yatvSDhJzaw26aY179zPAcJ166izqWGNdb9x0/gmM3Ldr24fSHyVS18kZIaDUhKfuxJtDn9G3c9+i0bJnj2DQGnjlq48osGGq7Sn+IvRUcZ07rVmLL/xXsQiN8X+3iIPRmqNeyPZI6XxluvcAY9aKXj1UH7PztXLv6vUX500tkQMeSiuP8zqV7XdaWBYmeQrMZqYeMWe4pMcf6h/IA1HsC/XGtMS7qmml7QZeUHWG8ax5gwHRpjloe3Q5dwjwiXpLTVsbyDHCCf+m165NbnilShmMCaSGdZpNOmKvvHmwt+HYMsFSx5NtN2Hng4wfok4fl0GHxucGrH/V2Wh2b0Non6xB/pO88SmcIfAkl17NxYYQWvjkoJ/LsRBCXJqybqq7aIS4Egj0IPBsvBdw0WAgk8EuFtKvqOqOjTc+5b7F5ppkC7/EDhwH4/GqWvDq3YP7Asgn8gkBfs8Hw4Hkzfl46ebvBX9pRkeriCb07A09rT5ypwhktdG/704LV5PywKAtBsZ+ehM2ICZpK8UYJ+8jTexDLLSD6wqonj8dIUCmLAs5YiAK+UisALKceueo7xT0lwQ98wYily4HKG73MBQ0hqj0iF2K4GVtIKZZoY23jmf44Sg8rQbFAWuk5rue6oeUqui/RSueJ/FD+OXM+LO2un8es/W6rpWtAzqjEMneZ5cUZn6PyexbW/qLPboluyJZyV/NbYLCZuz3Ab1bChl/hzrhjCrjdLFXnOlDYFl3rtqS4qgiKg9XZNJkL7s9SR6/fnOZk4fuqCZ/iLGzTspHlxgKKssyLDq2DA9eMerbKqnjUL5balT6VwqjwqhPmVm2+Z9b4bae4cOk0OyCmSel121ZfzFCCENGyBh9OSkdDT7KXDAdLaX3xe402z56iNSSJ/wSpH+IL810Pjcv918GjFy6503YeJoP+cSw8Qc70CJpCLK0P6qnaDnrNht0bCnV2+SxLDu6Bi2st65gT+Op+EC2xs3LtaFEEnJR0gkues8ezFNMH/gHQJn9wI8NrPMAut7fLs1iXC51vMyJx4DaIJTJD1TJDcKDCr20hiNpboxLCG18IyddJRKHi17tudVgpxVoY/pGHE1Uub3ZewqJLyteUvNDYq71N2fIjLdzsg5rzlRTzERdYkyxE3CV0+vwuCM0KLXCt3wVu0tat5iV5bFxOtPysrk0rPL/NVaJVzABYvstst29rWwEHTNjaBkEqbLQVquqhMIx63cIJYjDqvG6e3KVR4Q2BB//ebryjSUlfA2jCuyFM3zoukwNwvSze7HTilqb3J3/YY3Ra9zonfCMpB8hTLXZ7xRd61fINaMeemdfua+6+0QPVfubSS1EKFPVjbNd9m2NZiLC0S+USkR4gs7rHlZOWDZDpzI3WBk3EeSx/40aNtc7lrftYQIWRwnuY9biTlr8jUI37Gq46/tg0Z+GhSRtDQCzoxB6d7Q9RCTTmyBdsn7LYJYsIGBIyLxyR8ITbHWL0gKURfvqf7xne41UVQOLqOwIpa3EVFh83KIC0Xqr3AKydvfaR9fXcg2OtXCPIbJO4itQy6+c5guKCesWmD6cbULGVtATDanyVU9FVVSVAPu6cJ20dCv9ofnEb9oHnuOggo9jhkf6MPmh0eJc0Q8QpJ/Xg9WNAhZt71YaUNk40EzvdtSRW8ZkZzTRendSVQJWkOdqrW0vRSMUm7NyXPaoahP5DdqKREWUzwcVeDWlKQe6biy634vU5pb4M4BqtQJL55ptxuT6+M41CTXyPiPly6G24cmGvSQY/FwWgXhNutalcPuYtqzmg0RpA0PYLDkuEW1rqvEeECoQwZGP9l8rIng=="
+      ]
+     },
+     "annotations": [
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 79,
+        "start_index": 48,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 180,
+        "start_index": 85,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 776,
+        "start_index": 686,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 962,
+        "start_index": 835,
+        "title": "vestedfinance.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg=="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1061,
+        "start_index": 967,
+        "title": "vestedfinance.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg=="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1129,
+        "start_index": 1064,
+        "title": "vestedfinance.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg=="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1236,
+        "start_index": 1132,
+        "title": "vestedfinance.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg=="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1303,
+        "start_index": 1239,
+        "title": "vestedfinance.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg=="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1424,
+        "start_index": 1305,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 1687,
+        "start_index": 1555,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 2334,
+        "start_index": 2200,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 2467,
+        "start_index": 2338,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      },
+      {
+       "type": "url_citation",
+       "url_citation": {
+        "end_index": 4127,
+        "start_index": 4049,
+        "title": "productinterview.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw="
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "completion_tokens": 3408,
+   "prompt_tokens": 361,
+   "total_tokens": 3769,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": null,
+    "reasoning_tokens": 1844,
+    "rejected_prediction_tokens": null,
+    "text_tokens": 1564,
+    "image_tokens": null,
+    "video_tokens": null
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": null,
+    "cache_write_tokens": null,
+    "cached_tokens": null,
+    "text_tokens": 361,
+    "image_tokens": null,
+    "video_tokens": null,
+    "web_search_requests": 2
+   },
+   "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [
+   {
+    "webSearchQueries": [
+     "Google L6 PM levels fyi compensation",
+     "Google RSU vesting schedule 33 33 22 12"
+    ],
+    "searchEntryPoint": {
+     "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTTt7KB-FKe4XMDaVpYEV1SSikJvC0sec1dekPaXixlESEEpSngUHrixMsJp58R4CyD41RD2RBmwXsqoysNvaR1c2gup-QnYrM2QaeHWKBtulH_2tZK38SS2azxxVWPRCdT_nXoJNyrs_QKrHkvduvrvKi888A8Yq5j4HkupQER3ip7ai2mmcpaKB_mrE48dqPTyvyR7rhQdbfe4NUUz40meIS7kwXJk9j\">Google RSU vesting schedule 33 33 22 12</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFUXllscWknn8tFJmsYjhbABBqDXpAqns9Z5Le-PsUzUtCTOM7tehm_b6Y5k3fTyopK0Flvbhrb9aTm_dwXZLD_U8Iys6f3IVrrwkscS4zDWkCflZpUJVV4XtSsWF1OCT4BfJVdwqG3a203avdl8QlOZW60T-1Y6-HtedvzAxZw4QW4jIb41lebTrkCKXryrwXzZPkFgoiFA15DX0bcerRIIz4G30s\">Google L6 PM levels fyi compensation</a>\n  </div>\n</div>\n"
+    },
+    "groundingChunks": [
+     {
+      "web": {
+       "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdfjKXVz7eV7FFymzZ75jWMjn55skAY58yS_P_88xRJ-R7MgzfoDikUTBQZglQhBdHWLO6O3tZOoKPfi7zAHg9TIWdRxkbeFFSXD02hTva8G4DU2NpryMAxWXd8mAkSlR81Lq_yH55Xggb-jjTXdqc0c1pRBOEPw=",
+       "title": "productinterview.com",
+       "domain": "productinterview.com"
+      }
+     },
+     {
+      "web": {
+       "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQU_6oGCDcNwpFXMBPey3jWqeAMI8a_SHmH-2UDxpU5RAQJhbIq4LXe5sdSO8efi9erpp213TVjFc5lxZmsiA2vB7HsciI0WdHDf2_JCmYSjr04N3xQZKrUpvHtoZu5ghEAALJIHd0AaGNqF3lPnRUlOS3VIghUlQml7FLJzW4u1U-hqEI",
+       "title": "interviewkickstart.com",
+       "domain": "interviewkickstart.com"
+      }
+     },
+     {
+      "web": {
+       "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6F3jwtED0QBhZToTy1rpw4a_4C7kJeh11PP422iJ-u3LRURHq7SCRBVGIMyhpjk-rY49mGj95w_nLDl10gAMWQGjLXmUdTuvHXTuY1QP03Qy-gn0bpyEqP3JZGItasRBOXwhPnuhhuSYWxcyX8FRNoP455vwXcPrcNyUzy7ipfq5wNOFNibzQ7QBYrlAhCPGz5nl9tJJuDD0wVrmzmOlRyHgEp9kfxg==",
+       "title": "vestedfinance.com",
+       "domain": "vestedfinance.com"
+      }
+     },
+     {
+      "web": {
+       "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaGMLc9iTuQoa2vTUzPitzgAhi3-Q_lXo5wgIY0bAY_z9rSr9giGE41r5AK2gpeeG4ZXYaIts9tCCBbMw2sjrL9VwzBjtYDtrZu0nnLcuIM-MyDJGhZIPhl2P30CKhyGMSYQh57lUUPmpAMI2uOXZ9WrNSuEOLQKJC1jvwq7GEy2c=",
+       "title": "consiliowealth.com",
+       "domain": "consiliowealth.com"
+      }
+     }
+    ],
+    "groundingSupports": [
+     {
+      "segment": {
+       "startIndex": 48,
+       "endIndex": 79,
+       "text": "**No\u2014not in its current state"
+      },
+      "groundingChunkIndices": [
+       0,
+       1
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 85,
+       "endIndex": 180,
+       "text": "As an initial baseline offer, this is a **lateral move at best and a pay cut in guaranteed cash"
+      },
+      "groundingChunkIndices": [
+       0,
+       1
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 686,
+       "endIndex": 776,
+       "text": "| **Total Annualized (4-yr avg)** | **~$526,000** | **$458,000** | **\u2013$68,000/yr deficit"
+      },
+      "groundingChunkIndices": [
+       0,
+       1
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 835,
+       "endIndex": 962,
+       "text": "Google typically uses a **front-loaded vesting schedule** for initial Grants (Standard: **33% / 33% / 22% / 12%** over 4 years)"
+      },
+      "groundingChunkIndices": [
+       2,
+       3
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 967,
+       "endIndex": 1061,
+       "text": "**Year 1:** $215k base + $43k bonus + $264k stock = **~$522,000** (Essentially flat with Meta)"
+      },
+      "groundingChunkIndices": [
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 1064,
+       "endIndex": 1129,
+       "text": "**Year 2:** $215k base + $43k bonus + $264k stock = **~$522,000**"
+      },
+      "groundingChunkIndices": [
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 1132,
+       "endIndex": 1236,
+       "text": "**Year 3:** $215k base + $43k bonus + $176k stock = **~$434,000** (Requires strong refreshers to bridge)"
+      },
+      "groundingChunkIndices": [
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 1239,
+       "endIndex": 1303,
+       "text": "**Year 4:** $215k base + $43k bonus + $96k stock = **~$354,000**"
+      },
+      "groundingChunkIndices": [
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 1305,
+       "endIndex": 1424,
+       "text": "Google\u2019s offer matches your Year 1 cash flow only because of front-loading, but your **baseline compensation is lower"
+      },
+      "groundingChunkIndices": [
+       0,
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 1555,
+       "endIndex": 1687,
+       "text": "**Missing Sign-on:** A passive hire from Meta walking away from $200k in near-term unvested stock typically receives a sign-on bonus"
+      },
+      "groundingChunkIndices": [
+       0
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 2200,
+       "endIndex": 2334,
+       "text": "| **RSUs (4-year)** | $800,000 | **$1,000,000 \u2013 $1,100,000** | ~$250k\u2013$275k/yr average; front-loaded Year 1 becomes ~$330k\u2013$360k"
+      },
+      "groundingChunkIndices": [
+       0,
+       2
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 2338,
+       "endIndex": 2467,
+       "text": "| **Sign-on Bonus** | $0 | **$50,000 \u2013 $75,000** | Offsets leaving behind immediate Meta unvested equity and performance upside"
+      },
+      "groundingChunkIndices": [
+       0
+      ]
+     },
+     {
+      "segment": {
+       "startIndex": 4049,
+       "endIndex": 4127,
+       "text": "Google routinely negotiates at L6, especially when competing against Meta comp"
+      },
+      "groundingChunkIndices": [
+       0,
+       1
+      ]
+     }
+    ]
+   }
+  ],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [
+   [
+    {
+     "category": "HARM_CATEGORY_HATE_SPEECH",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 1.734861e-05,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE"
+    },
+    {
+     "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.0012916403,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.0767615
+    },
+    {
+     "category": "HARM_CATEGORY_HARASSMENT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 0.0006650149,
+     "severity": "HARM_SEVERITY_LOW",
+     "severityScore": 0.13411687
+    },
+    {
+     "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+     "probability": "NEGLIGIBLE",
+     "probabilityScore": 1.6348493e-05,
+     "severity": "HARM_SEVERITY_NEGLIGIBLE",
+     "severityScore": 0.050980955
+    }
+   ]
+  ],
+  "vertex_ai_citation_metadata": []
+ }
+]

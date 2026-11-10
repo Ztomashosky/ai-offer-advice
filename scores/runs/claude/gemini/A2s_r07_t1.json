@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is already a **strong, above-median offer for a Google L6 PM**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it becomes an exceptional financial upgrade over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate (Do Not Accept As-Is, Do Not Walk Away)"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Pushes annualized equity to $300k/yr ($1.2M total)."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refresh grants do stack, they are tied to performance ratings and are not guaranteed to fully offset the drop."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge entirely, you can comfortably stay at Meta without regret."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting is standard 33/33/22/12",
+    "quote": "*Actual Google front-loaded vesting (standard 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10%):*"
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses at L6",
+    "quote": "Google frequently uses sign-on bonuses at L6 ($50k\u2013$100k+) to bridge transition costs"
+   },
+   {
+    "claim": "first offer rarely at top of approval threshold",
+    "quote": "their first offer rarely sits at the top of their approval threshold"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "A sign-on bonus of **$85,000** to bridge unvested equity and timing differences"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Straight annualized average ($235k + $47k + $270k)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Front-loaded GSUs give you a massive Year 1 boost."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$85,000** to bridge unvested equity and timing differences"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:07:37+00:00"
+}

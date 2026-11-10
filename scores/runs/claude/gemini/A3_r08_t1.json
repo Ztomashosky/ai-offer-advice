@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptional, top-decile offer for a Senior PM (L6) at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You will take home nearly **double** your Meta compensation in Year 1 ($954k vs $526k)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate once with a \"Closing Counter.\""
+  },
+  "intensity": 2,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 225000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "The median L6 initial equity grant is typically between $800k and $1M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "standard Google L6 PM packages in the Bay Area typically land between **$480,000 and $580,000 in annualized total compensation"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Estimated Refresher Vest\\*** | *(Already recurring)* | \u2014 | ~$25,000+ | ~$60,000+ | ~$100,000+"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google refresher grants vest evenly over 4 years (25%/yr) and stack over time to offset the Year 3/4 drop from the initial grant."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "you should still accept it"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google utilizes a **front-loaded vesting schedule** for initial RSU grants (typically 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "zero risk of rescind for asking",
+    "quote": "there is virtually zero risk of an offer being rescinded by asking for an adjustment."
+   },
+   {
+    "claim": "comp committees unlock higher if guaranteed signature",
+    "quote": "compensation committees will typically only unlock higher numbers if they know it guarantees an immediate signature."
+   },
+   {
+    "claim": "L6 sign-on range",
+    "quote": "L6 sign-ons are generally $50,000\u2013$100,000 unless aggressively bridging unvested equity."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "your only meaningful lever is **equity (RSUs)** with a minor nudge on **sign-on**."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$1,500,000** (+$160,000 over 4 years)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Ask for **$1,500,000** (+$160,000 over 4 years)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1 Cash Flow:** You will take home nearly **double** your Meta compensation in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "framing it as fully neutralizing the risk of walking away from your upcoming Meta vesting cycles"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:16:36+00:00"
+}

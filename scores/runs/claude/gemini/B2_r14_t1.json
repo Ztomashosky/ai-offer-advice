@@ -1,0 +1,175 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an **above-average to strong offer**, particularly on equity"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "leaving my current role for an L6 position with this compensation package would represent a lateral step financially"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "Meta IC6 PM total comp frequently spans **$580,000 to $800,000+** per year"
+  },
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should **negotiate aggressively** or **walk away / push for L7 calibration**"
+  },
+  "intensity": {
+   "value": 2,
+   "quote": "Ask for **$255,000 \u2013 $260,000** (closer to the $271k maximum)"
+  },
+  "base_ask_low": {
+   "value": 255000,
+   "quote": "Ask for **$255,000 \u2013 $260,000**"
+  },
+  "base_ask_high": {
+   "value": 260000,
+   "quote": "Ask for **$255,000 \u2013 $260,000**"
+  },
+  "base_expected_low": {
+   "value": null,
+   "quote": ""
+  },
+  "base_expected_high": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_ask_low": {
+   "value": 1250000,
+   "quote": "Ask for **$1,250,000 over 4 years**"
+  },
+  "equity_ask_high": {
+   "value": 1250000,
+   "quote": "Ask for **$1,250,000 over 4 years**"
+  },
+  "equity_expected_low": {
+   "value": null,
+   "quote": ""
+  },
+  "equity_expected_high": {
+   "value": null,
+   "quote": ""
+  },
+  "signon_ask_low": {
+   "value": 80000,
+   "quote": "Sign-on Bonus:** Ask for **$80,000 \u2013 $100,000**"
+  },
+  "signon_ask_high": {
+   "value": 100000,
+   "quote": "Sign-on Bonus:** Ask for **$80,000 \u2013 $100,000**"
+  },
+  "signon_basis": {
+   "value": "forfeiture",
+   "quote": "to offset leaving your unvested Meta RSUs"
+  },
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Your offer ($552k annualized average) sits around the 70th\u201375th percentile for L6"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Median Total Comp:** ~$510,000 \u2013 $540,000/yr"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "relying on refreshes to prevent a compensation drop in Year 3/4 introduces performance and macroeconomic risk"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Was L7 considered by the hiring committee, and what would it take to bridge that gap?"
+  },
+  "level_claim": {
+   "value": "down_level",
+   "quote": "An IC6 candidate entering as L6 represents a down-level in career scope"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to negotiate or make minimal adjustments (e.g., +$10k stock, no sign-on):** **Walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule",
+    "quote": "Google typically uses a **front-loaded vesting schedule** (commonly 38% / 32% / 20% / 10%"
+   },
+   {
+    "claim": "standard Google sign-on for L6 peers",
+    "quote": "It is standard for Google to offer a **$50,000 \u2013 $100,000+** signing bonus for L6 candidates"
+   },
+   {
+    "claim": "Meta IC6 maps to Google L7",
+    "quote": "Meta IC6 generally maps closer to **Google L7 (Senior Staff / Group PM)** than L6"
+   },
+   {
+    "claim": "Meta equity vesting schedule",
+    "quote": "Meta\u2019s equity, by contrast, vests evenly at **25% per year** with quarterly vesting"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": {
+   "value": null,
+   "quote": ""
+  },
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary:** Ask for **$255,000 \u2013 $260,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "compensate for the equity I\u2019d be walking away from"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "bringing annualized equity to ~$312k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "signing bonus for L6 candidates coming from peer Tier-1 companies (especially Meta), specifically to offset unvested stock and bridge compensation"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "to offset leaving your unvested Meta RSUs"
+  }
+ },
+ "bad_quotes": [
+  "verdict_vs_current_basis"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:51:54+00:00"
+}

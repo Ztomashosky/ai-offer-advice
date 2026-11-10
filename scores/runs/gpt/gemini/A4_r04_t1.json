@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptionally strong, top-tier offer\u2014well into the 95th+ percentile for a Google L6 Senior Product Manager."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer represents a ~30%\u201335% jump in 4-year annualized earnings and nearly double your Year 1 take-home."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Option A: Accept Enthusiastically (Recommended)"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Focus on closing the gap on base to the top of the band or rounding up equity"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Typical L6 Senior PM compensation at Google in the Bay Area sits between $450,000 and $550,000/year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Plan your personal cash-flow projections assuming the base/bonus floor rather than the Year 1 peak."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google generally uses a specific front-loaded vesting schedule for new-hire equity grants.",
+    "quote": "Google generally uses a front-loaded vesting schedule for new-hire equity grants:"
+   },
+   {
+    "claim": "Google's compensation committee intentionally priced the offer to buy out the candidate's Meta equity.",
+    "quote": "Google's compensation committee has already preemptively priced this offer to buy out your Meta equity and eliminate any hesitation."
+   },
+   {
+    "claim": "The offered equity and sign-on are already at Google's ceiling.",
+    "quote": "your equity/sign-on are already at the ceiling."
+   },
+   {
+    "claim": "Negotiating hard can create friction with Google's leadership or compensation committees.",
+    "quote": "Pushing too hard without leverage can create friction with leadership or compensation committees."
+   },
+   {
+    "claim": "Google refreshers fill the later-year equity gap and depend on ratings and share price.",
+    "quote": "Google uses annual refreshers to fill this gap, but refreshers depend on performance ratings and Alphabet share price."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing",
+   "Sign-on clawback timeline",
+   "Imminent Meta vesting dates",
+   "Meta bonus payout dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "round the equity grant to $1.45M (or increase base salary to $270,000 to reach the top of the band)"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "would it be possible to round the equity grant to $1.45M (or increase base salary to $270,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-Hire GSUs: $1,340,000 over 4 years ($335,000/yr straight-line average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google 4-Year Average (excl. sign-on): ~$647,000/year"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Total Annualized Comp: ~$526,000 ($476,000 over the next 12 months)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $200,000 sign-on bonus is top-of-market and covers your unvested Meta RSUs for the next 12 months dollar-for-dollar."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:20:49+00:00"
+}

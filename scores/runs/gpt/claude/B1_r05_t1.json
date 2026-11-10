@@ -1,0 +1,142 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer for the market"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "I can't tell you whether to switch yet, because the real comparison isn't Halvern against the market."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should negotiate rather than accept it as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "ask for about $1.25M, roughly 15% more. Equity is often the most flexible part"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows LinkedIn Senior PMs in the SF Bay Area at a median total compensation of $438,988"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes start over. At Halvern you'd have zero refreshes stacked in year 1, and they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "I'd want Halvern to come out at least 15\u201320% ahead to justify the risk"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A make-whole request is the easiest type of request for a company to approve.",
+    "quote": "\"Make me whole\" is the easiest request for a company to approve."
+   },
+   {
+    "claim": "Equity is often the most flexible offer component at public companies.",
+    "quote": "Equity is often the most flexible part of the offer at public companies."
+   },
+   {
+    "claim": "The candidate will lose all unvested Varrowby equity upon leaving.",
+    "quote": "Your actual annual vesting may be well above your original grant, and you lose all of it when you leave."
+   },
+   {
+    "claim": "A sign-on bonus is the most likely negotiation win.",
+    "quote": "Sign-on bonus (the most likely win, since they offered none)"
+   }
+  ],
+  "missing_info_requested": [
+   "current base salary",
+   "current target bonus",
+   "equity vesting each year",
+   "total unvested equity",
+   "unvested-equity vesting schedule",
+   "Varrowby bonus payment timing",
+   "Halvern RSU cliff and vesting shape",
+   "Halvern share-conversion methodology",
+   "typical Halvern refresh size for strong performers",
+   "historical Halvern bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a $255K base, $1.25M in RSUs, and an $X sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "ask for your forfeited 2026 bonus plus the Varrowby equity that would have vested in the next 12 months"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "an $X sign-on to cover the bonus and equity I'd leave behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T17:08:54+00:00"
+}

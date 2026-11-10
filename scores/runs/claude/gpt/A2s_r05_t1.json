@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good market-rate Google L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26,000, or about 5%, above your stated Meta TC of $526,000**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate all three components.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Current compensation data puts Google Bay Area L6 Senior PM median TC at approximately **$551,000**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google Bay Area L6 Senior PM median TC at approximately **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**For your decision, value refreshers at zero.** Treat them as upside\u2014not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "good market-rate Google L6 offer"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google leaves it essentially unchanged, **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "offer could deteriorate in years 3-4",
+    "quote": "the offer could look great in Years 1\u20132 but deteriorate substantially in Years 3\u20134 unless refreshers fill the gap"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting percentages by year",
+   "first equity vest date",
+   "stock price/averaging period",
+   "bonus proration",
+   "refresh eligibility timing",
+   "historical refresh ranges for L6 PM",
+   "sign-on repayment terms",
+   "acceptance deadline extension"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Negotiate all three components.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You already make $240,000 base."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.3 million equity, or $325,000 annualized"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "that is mostly a timing advantage, not necessarily a sustainably higher compensation level"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$200,000 sign-on bonus to help offset the equity and position I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:41:03+00:00"
+}

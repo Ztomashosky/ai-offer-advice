@@ -1,0 +1,37 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 7,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T13:01:34+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T13:02:19+00:00",
+   "reply": "I can't tell you whether to take it yet, because the most important number is missing: what you make at Varrowby now, including unvested equity you'd give up by leaving. What I can say is that the offer is strong by market standards, and you're in a very good position to negotiate. You should negotiate, not accept as-is.\n\n## How good is the offer?\n\n**First-year target pay:** $235K base + $47K bonus + $270K stock ($1.08M \u00f7 4) = **about $552K per year.**\n\nFor comparison, reported pay for Senior PMs at public software companies in the Bay Area:\n- At C3.ai, the median is $383,600, and the range (10th\u201390th percentile) is $310K \u2013 $470K.\n- At LinkedIn, the median is $438,988, and the 90th percentile is about $543K.\n\nSo $552K is near or above the top of the range for this title. Those reported numbers also include stock refreshes that long-time employees have built up, which makes a new-hire offer at this level even more impressive.\n\n**The base salary has room to grow.** The posted range is $183K\u2013$271K, so the midpoint is $227K. Your $235K is only a little above the midpoint, which leaves $36K of room within their own posted range.\n\n## Why your current pay decides this\n\n1. **Forfeited stock and bonus.** If you have unvested Varrowby stock, or a bonus you'd lose by leaving before payout, that money is gone. Halvern offered no sign-on bonus, so nothing covers that loss right now.\n2. **Refreshes on both sides.** At Varrowby you've probably built up overlapping refresh grants. At Halvern you'd start with only the new-hire grant, and refreshes aren't guaranteed. Compare what you'd actually receive each year at each company, not just the headline numbers.\n3. **The bar for leaving.** You're happy and weren't looking. A move involves risk: a new team, a new manager, and starting over on reputation. Most people want a clear raise, often 20% or more in total yearly pay, before that's worth it.\n\n## What to ask for\n\nYou have strong leverage because you're happy where you are and can walk away. Public companies almost never withdraw an offer because of a polite, specific counteroffer.\n\n**1. A sign-on bonus or extra stock to cover what you'd lose (most important if you have unvested stock).**\n- Add up the unvested Varrowby stock that would have vested in your first year or so at Halvern, plus any bonus you'd lose.\n- Ask for that amount as a cash sign-on, extra RSUs, or both.\n- Even if you'd lose very little, asking for a $30\u201350K sign-on is reasonable, since they offered none.\n\n**2. Base salary of $260K.**\n- That's still under their posted maximum, so it's easy for them to approve. They may settle around $250\u2013255K.\n- It also raises your bonus, which is 20% of base.\n\n**3. More RSUs, about $1.25\u20131.3M total (+15\u201320%), if your current pay supports it.**\n- Base this on what you'd give up, not on wanting more.\n\nLead with whichever item matters most for your situation. Asking for all three is fine as long as you tie it to what leaving costs you.\n\n**Possible script:**\n> \"I'm excited about the role, and I wasn't looking to leave Varrowby, where I'm happy and well paid. To make this move work, I'd need a base of $260K, a sign-on of $[X] to offset the unvested equity and bonus I'd forfeit, and an RSU grant of $1.3M. If we can get there, I'm ready to sign.\"\n\n## Questions to ask the recruiter first\n- **Vesting schedule:** Is there a one-year cliff? Is it even (25% a year) or weighted toward later years?\n- **Share count:** How is $1.08M converted into shares (for example, a 30-day average price)? How volatile is Halvern's stock?\n- **Refreshes:** What's a typical refresh as a percentage of the new-hire grant for good performers? When does the first one come?\n- **Bonus:** What has it actually paid out in recent years compared with the 20% target?\n- **Level and scope:** Does \"Senior PM\" here match or exceed the level you're at now?\n- **Benefits:** 401(k) match and employee stock purchase plan (ESPP).\n\n## My take\n- **If the offer beats your current yearly pay by a lot (about 20% or more)** after accounting for forfeited stock: negotiate as above, then accept if they meet you most of the way.\n- **If it's only a little higher, or lower,** once forfeitures and your existing refreshes are counted: negotiate hard, especially for the sign-on. Be ready to walk away, or take the offer to Varrowby to see if they'll increase your pay to keep you.\n\nIf you share your current base, bonus, unvested stock, and refresh history, I can calculate the comparison and give you exact numbers to ask for.",
+   "searches": [
+    {
+     "query": "levels.fyi senior product manager San Francisco total compensation 2026"
+    },
+    {
+     "query": "levels.fyi senior product manager San Francisco total compensation"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 22857,
+    "output": 3296,
+    "web_searches": 2
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T13:02:19+00:00"
+}

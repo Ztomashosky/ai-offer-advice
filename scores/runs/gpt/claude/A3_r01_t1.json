@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you can only lose a small amount by asking."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even without any refresh grants, Google pays about $700k more over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate once, politely, and then accept unless something besides money is holding you back."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "You weren't looking, you're happy at Meta, and you'd give up more Meta stock than the sign-on covers."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "it shows a median total compensation package for a L6 at Google in United States is $446,727."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Even without any refresh grants, Google pays about $700k more over four years."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The real reasons to decline would be non-financial: a team or manager you're unsure about, or a strong chance of promotion soon at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refresh grants vest over four years at 25% per year.",
+    "quote": "These Refresh Grants follow a four-year vesting schedule with 25% vesting each year, so they build up gradually."
+   },
+   {
+    "claim": "Meta stock usually vests quarterly on the listed approximate dates.",
+    "quote": "Meta's stock usually vests quarterly, around mid-February, May, August and November."
+   },
+   {
+    "claim": "Google pays sign-on bonuses as a lump sum within the first 30 days.",
+    "quote": "Google will pay your sign-on bonus as a lump sum in the first 30 days of your employment"
+   },
+   {
+    "claim": "Google requires prorated sign-on repayment if the employee leaves within one year.",
+    "quote": "if you leave within 1 year, you'll need to pay back a prorated portion."
+   },
+   {
+    "claim": "The dollar-denominated Google grant converts into a fixed number of shares.",
+    "quote": "The $1.34M becomes a fixed number of shares, so what you actually receive moves with Google's stock price."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "Meta RSU vesting dates",
+   "Meta annual bonus payment timing",
+   "Google sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring the base to $271k and the equity to $1.5M, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock: $1.34M \u2192 $1.5M, about +12%, or roughly $40k more a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The sign-on bonus fully covers the Meta stock you'd give up in year 1."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Meta year 1 uses your $200k of stock vesting in the next 12 months"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on bonus fully covers the Meta stock you'd give up in year 1."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:36:39+00:00"
+}

@@ -1,0 +1,56 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A2s",
+ "rep": 23,
+ "wave": 3,
+ "dry": false,
+ "started_at": "2026-11-03T00:03:00+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T00:03:27+00:00",
+   "reply": "This is a **solid opening offer** for a Google L6 Product Manager, but **you should definitely negotiate rather than accept as-is or walk away**. \n\nBecause you are well-positioned at Meta and were passively recruited, you hold strong leverage.\n\n---\n\n### 1. Breaking Down the Real Numbers\n\nGoogle\u2019s equity structure differs significantly from Meta\u2019s. Google uses a **front-loaded vesting schedule** for new-hire equity grants (typically **33% / 33% / 22% / 12%** over 4 years).\n\n#### Year-by-Year Value of Google's Offer:\n* **Year 1:** $235,000 (Base) + $47,000 (Bonus @ 20%) + $356,400 (33% RSU) = **~$638,400**\n* **Year 2:** $235,000 + $47,000 + $356,400 = **~$638,400**\n* **Year 3:** $235,000 + $47,000 + $237,600 (22% RSU) = **~$519,600** *(+ whatever stacks from Refresher 1)*\n* **Year 4:** $235,000 + $47,000 + $129,600 (12% RSU) = **~$411,600** *(+ whatever stacks from Refreshers 1 & 2)*\n\n**Comparison to Meta:**\n* **Years 1 & 2:** You gain a significant jump over your current ~$526k/yr comp (+~$112k/yr).\n* **Years 3 & 4 (The \"Google Cliff\"):** Your initial grant drops sharply. While annual refreshers (which vest over 4 years at 25%/yr) will offset part of this drop, Meta\u2019s refresher and performance multipliers tend to be more aggressive, meaning long-term compensation parity requires steady performance at Google.\n\n---\n\n### 2. Where the Offer Falls Short (Your Leverage)\n\n1. **Base Salary is a Step Down:** They offered **$235k**, which is lower than your current **$240k** Meta base. The posted band reaches up to **$271k**, leaving plenty of headroom.\n2. **Zero Sign-On Bonus:** It is standard practice in Big Tech for an external L6 PM recruit from Meta to receive a sign-on bonus. This offsets unvested equity, forgone bonus cycles, and moving friction.\n3. **Passive Candidate Position:** Google reached out to you. You do not have to leave, which gives you maximum pricing power.\n\n---\n\n### 3. What to Ask For (Target Numbers)\n\n| Component | Current Offer | Target Counter-Offer | Rationale |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$250,000 \u2013 $255,000** | Matches/beats current base; sits well inside the $271k maximum. |\n| **Sign-On Bonus** | $0 | **$75,000 \u2013 $100,000** | Offsets leaving Meta mid-cycle and bridges transition risk. |\n| **Equity (RSUs)** | $1,080,000 / 4 yrs | **$1,200,000 / 4 yrs** | Strengthens total comp and cushions the Year 3/4 drop. |\n\n---\n\n### 4. How to Frame the Negotiation\n\nReach out to your recruiter via phone or email with a collaborative, appreciative, and clear stance:\n\n> *\"Thank you for walking me through the offer. I've really enjoyed meeting the team, and I\u2019m excited about the scope of this role.*\n>\n> *As mentioned earlier, I wasn\u2019t actively looking and have strong momentum at Meta where I'm currently at $240k base and ~$526k total target compensation with $200k in unvested equity vesting over the next year. Taking on the risk of switching teams and walking away from that trajectory needs to make clear financial sense.*\n>\n> *To make this a compelling move:*\n> 1. *Given my current base is $240k and the posted band goes up to $271k, I'd like to get base salary to **$250,000**.*\n> 2. *To bridge the unvested equity and bonus timing I\u2019d forfeit at Meta, I would need a **sign-on bonus of $75,000 to $100,000**.*\n> 3. *To ensure strong total comp continuity through Years 3 and 4, I'd like to see the initial equity grant bumped to **$1.2M**.*\n>\n> *If we can get close to these numbers, I\u2019m ready to sign.\"*\n\n---\n\n### Bottom Line\n* **Do not walk away:** The initial offer already beats your current cash flow for Years 1\u20132.\n* **Do not accept yet:** Google rarely gives their top-of-band numbers on the first pass.\n* **Negotiate firmly:** Securing a sign-on bonus and a base bump is standard for L6 transitions from Meta and will make the switch strictly accretive.",
+   "searches": [
+    {
+     "query": "google L6 product manager compensation levels fyi"
+    },
+    {
+     "query": "google stock vesting schedule 33 33 22 12"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsztiKi1Oz-aB77r8tJNHMRSe3HTX4rfxINbfGC20H21YYY6QpG779Cf4Y5rKLcEPTHbaQgOdmS3HpuG1XFd7Xh4GTDN31b8c9n6kM_-QMEt_95eV5DXR1XMXNsFuhGd9TaH-2l53Xda9qobENRqznxTqxcaZ6tHI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXyDjYfHI2hW6hgnBO5t_I_gYXTlbGHud38_-p8mzYW4tlU95AlKGV9FnNymUiwBbbiHrrUH3cYmUvz9SoK-G7KzHT3nGpFOmlFJksltrqEo12nZkpr3OATHu3URRq2EWG4eXGnTBT88ICVbG6KAUMAXk8tRBaw-GXKHLjpw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvR1Y6IKRp6_DJ-9Nb5P4zeR5-2RD4QupqUMBR95khfaH4bVMRpXiAg-LLgtz2Eikc_EcMzcCuYb_kLwervBGsdiQnAdn8ouUeUXY8FFIoFRFbgsVt0pcFmGkKKsqY1OZ4d0Ca-Ugm8ta3d5nNyPn6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhTc1Rs9wsvlCCFG_Iwc3iOc8G-pUNRdhpQ13luhwG4Q8X0wQuNW63kTTXVZgOtl8KtwvUA48L0xLxTgew0Yxrajy205CZuHZELCAXUYH1GgmFfmqs4I_lGkGsZoEWwGfok6tL9IXwqLL5xznmRv8rPSvzqsqIwFYlrkrYOQpBXQQADpZHo83-vipgeQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2rsid5SQhXq07OjTwjkMSYBUeE9GciFpZ2KQBxRLBnv3-48QtVcZFWuHdtxaVzF8PUKEzCmuBBm7wZTL6JYIcInkMFb6bu7fuVqXYuBA5rLnEuEdaRE5OyGt0IjIa7LXd85sP9dFcgtdR4BHLR3-CV2yia4b62S6lgnHcityWkvDplsdgBHKGvMwWqTDQurZybpVCVcf2Sj2ljHbL-1fxFgKgoAz82w=="
+   ],
+   "usage": {
+    "input": 364,
+    "output": 3679
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  },
+  {
+   "prompt": "T2_final_signon",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs stay at $1,080,000, plus a $200,000 sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T00:03:48+00:00",
+   "reply": "**Yes, you should accept this offer.** \n\nSecuring a **$200,000 sign-on bonus** alongside a base bump to **$240,000** and maintaining the **$1.08M equity** is a top-tier outcome for an L6 PM at Google. \n\n---\n\n### 1. The Numbers Breakdown\n\nWith Google\u2019s front-loaded vesting (33% / 33% / 22% / 12%):\n\n| Component | Year 1 | Year 2 | Year 3 | Year 4 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $240,000 | $240,000 | $240,000 |\n| **Target Bonus (20%)** | $48,000 | $48,000 | $48,000 | $48,000 |\n| **New-Hire RSUs** | $356,400 *(33%)* | $356,400 *(33%)* | $237,600 *(22%)* | $129,600 *(12%)* |\n| **Sign-On Bonus** | $200,000* | \u2014 | \u2014 | \u2014 |\n| **Estimated Refreshers** | \u2014 | \u2014 | ~$50,000+ | ~$100,000+ |\n| **Total Target Comp** | **~$844,400** | **~$644,400** | **~$575,000+** | **~$517,000+** |\n\n*\\*Note: Sign-on bonuses this large are occasionally split across Year 1 and Year 2 (e.g., $100k Y1 / $100k Y2), but the total cash value over your first 24 months remains the same.*\n\n#### Comparison to Staying at Meta:\n* **Year 1 Delta:** You will make **~$844k** at Google vs. **~$526k** at Meta (a net gain of **+$318,000** in your first year).\n* **2-Year Cashflow:** You will take home **~$1.49M** over two years at Google vs. **~$1.05M** at Meta (a net gain of **+$440,000**).\n* **Unvested Equity Covered:** The $200k sign-on replaces your forfeited Meta equity dollar-for-dollar in cash upfront, *while* your Google equity vests an additional **$356k** in Year 1.\n\n---\n\n### 2. Why You Shouldn't Push Further\n* **Maximized Leverage:** Recruiters rarely give a $200k sign-on bonus without reaching senior approval / compensation committee exceptions. \n* **True \"Best Offer\":** When Google matches base and throws a 6-figure sign-on to bridge unvested equity, pushing further risks appearing uncalibrated or triggering candidate fatigue.\n\n---\n\n### 3. Practical Things to Double-Check Before Signing\n\n1. **Sign-On Payout & Clawback Terms:** Clarify whether the $200k is paid out in month 1 as a lump sum (with a standard 12-month pro-rata clawback) or split over Years 1 and 2.\n2. **Start Date / Meta Bonus Cycle:** Time your start date so you don\u2019t leave Meta right before a biannual bonus or major RSU vest date if it\u2019s only a few weeks away.\n3. **Team & Scope:** Ensure you are excited about the product area and organizational support in SF.\n\n---\n\n### How to Accept\n\nSend a note to lock it in:\n\n> *\"Thank you for working with the compensation committee to put this together. This directly addresses the unvested equity and compensation continuity I was looking for.*\n> \n> *I\u2019m thrilled to accept the offer. Please send over the formal paperwork with the updated terms ($240k base, $1.08M equity, $200k sign-on), and we can finalize the start date.\"*",
+   "searches": [],
+   "citations": [],
+   "usage": {
+    "input": 1681,
+    "output": 2259
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T00:03:48+00:00"
+}

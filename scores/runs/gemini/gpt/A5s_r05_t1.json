@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Initial offer: Fair, but not compelling enough for your situation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000, or 5%, above your stated Meta run rate of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. I would not accept the initial offer as-is, and I would not walk away before giving Google one serious counter."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "aim for roughly a 15%\u201320% premium over your $526K Meta run rate without depending on refreshes."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported data puts Google L6 PM median compensation around $514,000 nationally and approximately $606,000 in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These benchmarks mix new offers and existing employees with stacked refreshes, so they aren't perfectly comparable."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "don't value those refreshes at 100 cents on the dollar."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Assuming a $250,000 refresh every year, each vesting evenly over four years and beginning early enough to produce this schedule."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Assuming a $250,000 refresh every year, each vesting evenly over four years and beginning early enough to produce this schedule."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Stay at Meta: If Google makes little or no movement and you are choosing primarily on compensation."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact new-hire vesting schedule and first vest date",
+   "When you first become eligible for a refresh grant",
+   "Whether a refresh awarded in a given year begins vesting immediately or later",
+   "Whether the $250,000 illustration is a grant-date amount or expected annual vesting amount",
+   "How bonus proration works in your first year"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "package of $260,000 base, $1.4 million in new-hire equity, and a $100,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "moving the grant from $1.08 million to $1.3 million adds $55,000 of annualized compensation for four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring target compensation before refreshes: **$662K**\n- First-year target including sign-on: **$762K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the sign-on addresses transition costs and the compensation you are leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T22:02:13+00:00"
+}

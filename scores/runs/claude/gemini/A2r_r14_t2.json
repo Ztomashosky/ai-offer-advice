@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "A $1.28M equity grant at Google L6 is in the upper quartile (75th\u201385th percentile) for the role"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$82,000/yr (+15.6%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "from a pure compensation perspective, this clears the threshold to accept"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "upper quartile (75th\u201385th percentile) for the role"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A $1.28M equity grant at Google L6 is in the upper quartile (75th\u201385th percentile) for the role"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "$281,600** equity (22%) + *refreshers* = **~$570,000+"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If your current scope at Meta has clear visibility toward IC7"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standardly uses front-loaded vesting 33/33/22/12",
+    "quote": "Google standardly uses **front-loaded vesting** (typically **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "Google generally holds firm after moving equity and matching base",
+    "quote": "Google generally holds firm once equity is moved up by $200k and base is matched"
+   },
+   {
+    "claim": "pushing further risks offer rescission",
+    "quote": "pushing further without competing offers risks offer rescission or fatigue"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "If you are open to a new challenge and **compensation is your primary driver**, **accept the offer**."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "this clears the threshold to accept"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,280,000 (vesting over 4 years)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Instead of paying a cash sign-on bonus, Google increased your equity grant"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "effectively replaces the near-term unvested Meta stock you walked away from"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "effectively replaces the near-term unvested Meta stock you walked away from"
+  }
+ },
+ "bad_quotes": [
+  "rsu_annualized"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 14,
+ "turn": 2,
+ "at": "2026-11-02T23:14:25+00:00"
+}

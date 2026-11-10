@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good market offer, but not yet a compelling \u201cleave a job you like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google advantage: **$104,000 over four years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate aggressively but credibly.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an anchor, not necessarily your expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data for Google L6 PMs shows approximately:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "self-reported and mixes new offers with existing employees"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Risk-adjusted planning case:** perhaps 50% of the illustration"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5/steady state | ~$250,000 | **~$532,000**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter's illustration:"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they hold firm at **$235,000 / $1.08 million / no sign-on**, I would probably **stay at Meta**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google may have more flexibility on equity than base",
+    "quote": "Google may have more room on equity than base, so stay flexible about the mix."
+   },
+   {
+    "claim": "refresh depends on manager discretion and higher-level review",
+    "quote": "annual equity refreshes depend on factors including performance, role and location, with manager discretion and higher-level review"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-grant vesting percentages and dates",
+   "Exact first vest date",
+   "Whether first bonus is prorated",
+   "First refresh-eligibility cycle",
+   "Refresh vesting schedule",
+   "Grant-date stock-price methodology"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **Initial RSUs: $1.3 million** - **Sign-on bonus: $200,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You have approximately $200,000 of Meta equity scheduled to vest over the next 12 months."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity: $1.08 million - **Four-year total: $2.208 million** - **Average: $552,000 per year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on**, because it is certain and compensates for switching/forfeiture risk"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it is certain and compensates for switching/forfeiture risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T01:12:11+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a solid initial offer, but not a compelling one for someone who wasn't actively looking."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "immediate cash flow bump from your current ~$526,000 at Meta to **~$638,400** (+21%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Verdict: Negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 80000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "$1.08M in RSUs is right around the 50th\u201360th percentile for Google L6 PMs in the Bay Area"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "$1.08M in RSUs is right around the 50th\u201360th percentile for Google L6 PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refresher grants (which typically vest 25% per year) will help backfill this, they are tied to performance ratings and are not guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge at all, you are in a great spot to comfortably stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google uses a **front-loaded vesting schedule (33% / 33% / 22% / 12%)** for initial RSU grants"
+   },
+   {
+    "claim": "sign-on and equity are the easiest levers",
+    "quote": "the easiest levers for recruiters to move are **Sign-on Bonus** (one-time cash budget) and **Equity (GSUs)**"
+   },
+   {
+    "claim": "base increases require strict band calibration",
+    "quote": "Base salary increases require strict band calibration"
+   },
+   {
+    "claim": "L6 equity can stretch to $1.2M-$1.35M",
+    "quote": "L6 equity grants can stretch up to $1.2M\u2013$1.35M for competitive hires"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "the easiest levers for recruiters to move are **Sign-on Bonus** (one-time cash budget) and **Equity (GSUs)**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Strong Alternative (BATNA):** You are happy at Meta with strong existing compensation ($526k/yr)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSU Vesting | $356,400 *(33%)* | $356,400 *(33%)* | $237,600 *(22%)* | $129,600 *(12%)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus** (one-time cash budget)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on ($80k ask):** Compensates for the unvested Meta RSUs you forfeit in the immediate short term"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:17:02+00:00"
+}

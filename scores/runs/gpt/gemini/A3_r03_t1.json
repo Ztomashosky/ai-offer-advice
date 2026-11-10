@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptionally strong offer for a Google Senior Product Manager (L6)."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a +$121,000/yr or ~23% increase over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate first."
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "you have no urgent reason to leave. This gives you maximum leverage."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "The median total compensation (TC) for an L6 PM in the Bay Area is typically around $500,000\u2013$530,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While performance-dependent, standard performance at L6 yields refresh grants that cushion this drop."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a front-loaded RSU vesting schedule.",
+    "quote": "Google typically uses a front-loaded vesting schedule"
+   },
+   {
+    "claim": "Google structures front-loaded equity to make the initial years more lucrative.",
+    "quote": "Google uses front-loaded equity to make initial years lucrative"
+   },
+   {
+    "claim": "Google annual refresh grants are specifically intended to bridge the third- and fourth-year vesting decline.",
+    "quote": "Google grants annual refreshers (which vest incrementally over subsequent years) specifically to bridge the drop-off"
+   },
+   {
+    "claim": "Standard L6 performance yields refresh grants that cushion the vesting decline.",
+    "quote": "standard performance at L6 yields refresh grants that cushion this drop"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity (Primary Lever): Ask for $1.5M \u2013 $1.6M in RSUs over 4 years"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for $1.5M \u2013 $1.6M in RSUs over 4 years"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$260k base + $52k bonus (20%) + $335k/yr equity = ~$647,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 vs. Ongoing Reality"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:12:47+00:00"
+}

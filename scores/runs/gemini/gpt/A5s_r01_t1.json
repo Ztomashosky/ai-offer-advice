@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a respectable, market-normal L6 offer, but not a compelling \u201cleave a job I like\u201d offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only **$26,000, or 5%, above** your Meta run rate of $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept this offer as-is purely for compensation."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Approximately $668,000 is below the reported L6 90th percentile of roughly $696,000."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current reported Google L6 PM compensation averages about **$566,000**, including approximately $251,000 base, $269,000 first-year stock, and $47,000 bonus/sign-on"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "For your decision, I would value it at **no more than 50% of the recruiter\u2019s illustration**."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the $1.08 million new-hire grant finishes, $250,000 of annual refresh grants plus $282,000 cash compensation produces steady-state compensation of about **$532,000**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Once the $1.08 million new-hire grant finishes, $250,000 of annual refresh grants plus $282,000 cash compensation produces steady-state compensation of about **$532,000**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk/stay at Meta if they leave the offer essentially unchanged and compensation is the principal decision factor."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Additional new-hire RSUs are usually the largest negotiation lever.",
+    "quote": "Usually the largest negotiation lever."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire equity vesting schedule",
+   "First refresh eligibility date",
+   "First-year bonus proration and payment timing",
+   "First equity vest date and grant pricing date",
+   "Whether sign-on/make-whole can be provided for forfeited Meta compensation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000 - **New-hire RSUs: $1,400,000** - **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "A package that would make the move compelling would be $265,000 base, $1.4 million in new-hire equity, and a $150,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your guaranteed annualized Google compensation, excluding discretionary refreshes, is about **$552,000**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year compensation before refreshes: **$668K** - First-year compensation including sign-on: **$818K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on compensates for transition risk, uncertain refreshes, bonus timing and equity you leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:56:51+00:00"
+}

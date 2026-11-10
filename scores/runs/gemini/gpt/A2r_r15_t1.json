@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is **market-competitive but not compelling enough to pull a happy, highly paid IC6 out of Meta**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Against your current normalized Meta compensation of approximately $526,000, that is only:"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don\u2019t accept this offer as-is, but don\u2019t walk away before giving Google a chance to improve it."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Current Levels.fyi data puts Bay Area Google L6 PM compensation around **$551,000 annually**, while broader US data shows a median around $514,000 and a 90th percentile around $671,000."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data puts Bay Area Google L6 PM compensation around **$551,000 annually**, while broader US data shows a median around $514,000 and a 90th percentile around $671,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "The data is self-reported and mixes new offers with existing employees, so use it directionally."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat expected refreshes as upside, not as justification for accepting a weaker guaranteed package."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they stay near the present package, I would probably decline unless you independently prefer the role, manager, scope, or career trajectory."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact initial-equity vesting schedule",
+   "First vest date and vesting frequency",
+   "How the GSU share count is determined",
+   "Refresh eligibility and proration based on start date",
+   "Typical modeled refresh for an L6 PM",
+   "Bonus proration and first payout date",
+   "Whether a sign-on has repayment conditions",
+   "Whether the start date can accommodate an upcoming Meta vest or bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Lead with **$260,000 base / $1.4 million RSUs / $100,000 sign-on**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a four-year annualized basis, it is almost exactly the reported Bay Area median"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That is approximately $594,000 recurring, or about $606,500 annually if the sign-on is spread over four years."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Also, your $200,000 in upcoming Meta vesting is not necessarily all \u201clost\u201d: Google\u2019s first-year vesting is replacing it."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:24:06+00:00"
+}

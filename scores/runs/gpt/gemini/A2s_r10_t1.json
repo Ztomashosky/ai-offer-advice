@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, the headline numbers are strong for an L6 PM, but the structure has nuances you must account for."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 TC: **~$638,400** (vs. your ~$476k\u2013$526k at Meta)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should definitely negotiate. You are in the strongest possible position:"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "To buffer against the front-loaded drop-off in Years 3 and 4."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google relies on annual refreshers to backfill this dip, but refreshers are performance-dependent and vest over multiple years."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard new-hire grants use specific front-loaded vesting schedules.",
+    "quote": "Google standard new-hire GSU grants are front-loaded (typically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%** vesting monthly)"
+   },
+   {
+    "claim": "Google routinely uses sign-on bonuses to bridge transitions and buy out compensation.",
+    "quote": "Google routinely uses sign-on bonuses to bridge transitions and buy out near-term unvested equity/bonuses."
+   },
+   {
+    "claim": "Google will not withdraw an offer because an L6 candidate negotiates professionally.",
+    "quote": "Google will not pull an offer because an L6 candidate professionally negotiates with clear data points."
+   },
+   {
+    "claim": "Google refresh grants are performance-dependent.",
+    "quote": "refreshers are performance-dependent and vest over multiple years."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Even if Google only moves on the **base salary (to ~$250k+)** and adds a **$40k\u2013$60k sign-on**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity (at 33%): ~$356,400"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "adds a **$40k\u2013$60k sign-on**, your Year 1 comp will approach **~$700k**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving Meta means walking away from my upcoming bonus and near-term vesting shares"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:20:09+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a **strong initial offer** for an L6 Product Manager at Google"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "annualized TC is **~$552,000/yr** vs. your current Meta TC of **~$526,000/yr**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet. You should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "A $1.08M initial grant for L6 PM is around the 75th percentile for Google initial bands."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "around the 75th percentile for Google initial bands"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "your compensation will drop in Years 3 and 4 unless you receive strong annual refreshers"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "performing well in an equivalent senior role (Meta IC6)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away yet. You should negotiate"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting",
+    "quote": "Google typically uses a **front-loaded vesting schedule**"
+   },
+   {
+    "claim": "recruiters most flexible on signon and equity",
+    "quote": "recruiters typically have the most flexibility with **Sign-on Bonus** and **Equity (RSUs)**"
+   },
+   {
+    "claim": "75th percentile for Google initial bands",
+    "quote": "is around the 75th percentile for Google initial bands"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary | $235,000 | **$250,000 \u2013 $255,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "annualized TC is **~$552,000/yr** vs. your current Meta TC"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "an offer with no sign-on bonus leaves money on the table"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets unvested equity/upcoming bonus timeline at Meta and covers first-year transition risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:28:39+00:00"
+}

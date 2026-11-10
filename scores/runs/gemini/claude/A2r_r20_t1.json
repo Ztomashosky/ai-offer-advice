@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't a strong reason to leave a job you're happy in."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Against your $526K at Meta, that's about $26K more, or roughly 5%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 262000,
+  "base_ask_high": 262000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Tie the ask to the Meta stock you'd give up and the refresh pipeline you'd have to rebuild."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Similar L6 roles in the Bay Area show median pay around $485,400 (product design managers), so this offer seems at or above market."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "years 3\u20134 drop well below what you make now unless refreshes fill the gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move from about 5%. Staying where you're happy, with your refresh pipeline intact, is worth more than $26K a year."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually where Google has the most room to move",
+    "quote": "Stock: this is usually where Google has the most room to move."
+   },
+   {
+    "claim": "Recruiters can approve sign-on bonuses more easily than base increases",
+    "quote": "Recruiters can usually approve this more easily than base increases."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule for the new-hire grant",
+   "First-year bonus proration policy",
+   "Timing and vesting of the first refresh grant",
+   "Share calculation method / averaging window",
+   "Start date flexibility around Meta bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To get me to yes, I'd need a base of $262K, a new-hire grant of $1.4M and a $100K sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Average per year over 4 years: $235K base + $47K bonus + $270K stock = about $552K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "roughly 17\u201320% above Meta, plus a one-time sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving Meta before its annual bonus pays out could cost you that year's ~$36K. Leaving before refresh season means giving up that grant too."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-04T16:26:50+00:00"
+}

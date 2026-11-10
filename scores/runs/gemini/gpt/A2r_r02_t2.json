@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is now a solid market offer rather than a lowball."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$82,000 more per year on average"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "I would take it\u2014provided you\u2019re at least reasonably positive about the role, manager, and team."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median reported for Bay Area Google L6 PM compensation"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should make the decision assuming **zero refreshes**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "first vest date",
+   "refresh eligibility date"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Accept the Google offer after confirming the exact vesting schedule, first vest date, and refresh eligibility date."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not reopen negotiations with Google after they explicitly said \u201cbest offer,\u201d"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs: **$1,280,000 over four years**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on would be preferable because it is immediate and not exposed to stock-price risk, but the additional $200,000 grant is still real economic value."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200,000 of Meta RSUs is not an additional $200,000 loss on top of staying compensation. It is already captured when you compare Meta\u2019s future vesting"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 2,
+ "turn": 2,
+ "at": "2026-11-02T21:28:10+00:00"
+}

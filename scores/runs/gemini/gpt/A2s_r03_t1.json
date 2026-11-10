@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Bay Area Google L6 PM median TC around **$551K**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only **$26K/year, or about 5%, above your current $526K run rate**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would **negotiate rather than accept or walk away now**."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 270000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "it is roughly around the reported upper end of L6 compensation, and you are a successful Meta IC6 who was recruited"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median TC around **$551K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as upside, not part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you are a successful Meta IC6 who was recruited rather than an active candidate."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they stay near **$235K / $1.08M / $0**, I would probably remain at Meta unless the Google role is materially better"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Start-date timing may be easier for recruiters to accommodate than higher compensation",
+    "quote": "Start-date timing can be worth tens of thousands of dollars and may be easier for the recruiter to accommodate than additional compensation."
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule (38/32/20/10 vs even)",
+   "vesting commencement date and first vest date",
+   "first annual-refresh eligibility date",
+   "share conversion mechanism (trailing average vs specific date)",
+   "historical L6 refresh range at meets/exceeds ratings"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**$265K base, $1.30M in new-hire equity, and a $100K sign-on bonus.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| Annualized initial equity | ~$250K current run rate | $270K |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That front-loading is great initially, but it creates a substantial **year-four cliff** unless refreshes fill it."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving requires a meaningful premium over my current position and the equity I would be walking away from."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:38:48+00:00"
+}

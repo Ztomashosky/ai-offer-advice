@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an **exceptional outcome** and effectively at the top of Google\u2019s L6 band"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**+$318k to +$368k (+60%+)**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should strongly consider taking it.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With standard annual refreshers added in Years 2\u20134, your actual average over 4 years will likely sit between **$630,000 and $680,000/year**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 4:** **~$417,600** ($240k base + $48k bonus + $129.6k equity + Refreshers #1, #2, & #3)"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Further counter-offering is unlikely to yield more and risks goodwill. **Sign the offer.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google sign-on bonuses typically carry a 1-year or 2-year prorated repayment clause",
+    "quote": "Google sign-on bonuses typically carry a 1-year or 2-year prorated repayment clause if you leave voluntarily"
+   },
+   {
+    "claim": "$200k sign-on for an L6 PM is very rare",
+    "quote": "A $200,000 sign-on bonus for an L6 PM is very rare and represents Google using its maximum discretion"
+   },
+   {
+    "claim": "Google front-loads 33/33/22/12",
+    "quote": "Google\u2019s 33/33/22/12 vesting"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment structure (lump sum or split)",
+   "Clawback/repayment terms",
+   "Meta bonus payout timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Sign the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Further counter-offering is unlikely to yield more"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Baseline Average:** **~$608,000/year** (excluding any refreshers or stock appreciation)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp** | **~$476k \u2013 $526k** | **$844,400**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": "they effectively allowed you to double-dip in Year 1"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google didn't just replace your $200k of unvested Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T21:05:11+00:00"
+}

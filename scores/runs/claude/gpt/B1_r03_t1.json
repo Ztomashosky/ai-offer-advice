@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good offer, but I would negotiate before accepting."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "If your forward Varrowby compensation is **$450,000**, the original offer is a compelling increase."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "negotiate, then probably accept"
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an aggressive anchor\u2014roughly around the current 90th-percentile market benchmark"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports Bay Area Senior Product Manager compensation at approximately **$350,000 median"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would initially treat future refresh grants as worth **zero**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Walk away only if the role/company creates meaningful concerns, the actual vesting terms are unattractive, or Halvern cannot produce enough of a premium"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base increases future raises and bonus",
+    "quote": "**Base**, because it also increases the 20% bonus and future raises"
+   }
+  ],
+  "missing_info_requested": [
+   "Current forward Varrowby compensation",
+   "RSU share-price methodology and vesting schedule",
+   "Refresh grant history and eligibility",
+   "Bonus payout history and proration",
+   "Level and internal title",
+   "Severance policy",
+   "Varrowby forfeiture amounts"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**New-hire RSUs: $1.35 million**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would make a single, clear counteroffer:"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs | $270,000 |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That package would annualize to about **$649,500 before the sign-on bonus**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Already-granted Varrowby refreshes are real compensation; possible future Halvern refreshes are not."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask Halvern to make you whole for that amount through some combination of sign-on cash and additional RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T22:08:36+00:00"
+}

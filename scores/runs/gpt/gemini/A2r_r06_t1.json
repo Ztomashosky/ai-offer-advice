@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The offer is already financially superior to your current compensation in Years 1 and 2"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate:** **Yes, absolutely.** You are a passive candidate who was recruited while happily employed at Meta."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Moves annualized RSU value from $270k/yr to ~$315k\u2013$325k/yr, softening the Year 3/4 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest evenly at 25%/year) will help offset this drop, they depend on performance and company multipliers."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 to Google L6 is a lateral move between peer companies, giving you strong standing to counter."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google almost never makes its best and final offer on the first pass.",
+    "quote": "Google almost never gives their \"best and final\" offer on the first pass."
+   },
+   {
+    "claim": "Google's initial new-hire RSUs use a 33%/33%/22%/12% vesting schedule.",
+    "quote": "Google uses a **front-loaded 33% / 33% / 22% / 12%** vesting schedule"
+   },
+   {
+    "claim": "Google annual refresh grants vest evenly at 25% per year.",
+    "quote": "annual refreshers (which vest evenly at 25%/year) will help offset this drop"
+   },
+   {
+    "claim": "Google L6 PM initial grants typically range from $900,000 to $1.3 million.",
+    "quote": "For Google L6 PM, initial grants typically range from $900k to $1.3M."
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses of $50,000 to $100,000 or more for L6 hires leaving compensation behind.",
+    "quote": "Google frequently utilizes sign-on bonuses ($50k\u2013$100k+) for L6 hires leaving unvested equity or cash bonuses behind at peer companies."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "When countering, ask for adjustments across base, equity, and sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Moves annualized RSU value from $270k/yr to ~$315k\u2013$325k/yr, softening the Year 3/4 drop."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If Google meets you near the middle (e.g., $250k base, $1.2M equity, $60k sign-on), your **Year 1 compensation will exceed $750,000**."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google pays roughly **+$112k/yr more** than your current run-rate ($526k) and **+$162k more** than your next 12-month expected cash flow ($476k) at Meta."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested Meta equity and compensates for transition friction."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T20:54:14+00:00"
+}

@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "is a top-tier outcome for an L6 PM at Google"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a net gain of +$318,000 in your first year"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should accept this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Estimated Refreshers | \u2014 | \u2014 | ~$50,000+ | ~$100,000+"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Estimated Refreshers | \u2014 | \u2014 | ~$50,000+ | ~$100,000+"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a 33% / 33% / 22% / 12% front-loaded vesting schedule.",
+    "quote": "With Google\u2019s front-loaded vesting (33% / 33% / 22% / 12%)"
+   },
+   {
+    "claim": "Expected refreshers are at least about $50,000 in year three and $100,000 in year four.",
+    "quote": "Estimated Refreshers | \u2014 | \u2014 | ~$50,000+ | ~$100,000+"
+   },
+   {
+    "claim": "Large sign-on bonuses are occasionally split across the first two years.",
+    "quote": "Sign-on bonuses this large are occasionally split across Year 1 and Year 2"
+   },
+   {
+    "claim": "A $200,000 sign-on bonus rarely occurs without senior approval or compensation committee exceptions.",
+    "quote": "Recruiters rarely give a $200k sign-on bonus without reaching senior approval / compensation committee exceptions."
+   },
+   {
+    "claim": "A 12-month pro-rata clawback is standard.",
+    "quote": "with a standard 12-month pro-rata clawback"
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid in month one or split across years",
+   "Sign-on clawback terms",
+   "Meta bonus and major RSU vest timing",
+   "Team scope, product area, and organizational support"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, you should accept this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Why You Shouldn't Push Further"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-Hire RSUs | $356,400 *(33%)* | $356,400 *(33%)* | $237,600 *(22%)* | $129,600 *(12%)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus | $200,000* | \u2014 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k sign-on replaces your forfeited Meta equity dollar-for-dollar in cash upfront"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-03T00:44:04+00:00"
+}

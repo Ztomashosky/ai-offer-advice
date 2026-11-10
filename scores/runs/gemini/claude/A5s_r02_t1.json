@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't strong enough on its own to justify leaving a job you're happy in."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The guaranteed gain is small. It's about $76K in year 1, or about 16% more than your next 12 months at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as is, and don't walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Equity is usually the easiest part for Google to raise. It's also what makes the move worth it."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, the median yearly compensation package for Google PMs in San Francisco Bay Area totals $510K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Your Meta pay of about $250K a year in RSUs already includes refreshes, and Google's illustrated long-term refresh level of $250K a year is about the same."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Accept if the guaranteed pay reaches about $590K+ a year with a meaningful sign-on bonus"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google's illustrated long-term refresh level of $250K a year is about the same. So the real extra money at Google is mostly the new-hire grant in years 1\u20134."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google's illustrated long-term refresh level of $250K a year is about the same."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Your offer is fine for L6, not exceptional."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the easiest part for Google to raise.",
+    "quote": "Equity is usually the easiest part for Google to raise."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule in writing",
+   "Meta bonus payout date/terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make this move I'd need a base of $260K, a new-hire grant of $1.4M, and a $75K sign-on to cover the Meta bonus and vesting I'd give up."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "So the real extra money at Google is mostly the new-hire grant in years 1\u20134."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A realistic result is about $650\u2013670K in year 1 and about $590\u2013600K a year in guaranteed pay."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus you lose, the gap before your first vests, and the prorated Google bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-03T16:53:41+00:00"
+}

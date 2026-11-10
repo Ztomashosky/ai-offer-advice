@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Google responded with what is essentially top-of-market for an L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is an extra **+$530,000 in your pocket** over 24 months"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "You should strongly consider accepting this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "essentially top-of-market for an L6 Product Manager"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Years 3 and 4 at Google do not account for annual stock refresh grants or merit increases, which will narrow/eliminate that gap"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "You should strongly consider accepting this offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads equity 38/32/20/10",
+    "quote": "Because Google front-loads equity (38% in Year 1, 32% in Year 2)"
+   },
+   {
+    "claim": "L6 new-hire equity bands cap around $1M-$1.1M",
+    "quote": "hard caps on new-hire equity bands for L6 (typically topping out right around $1M\u2013$1.1M)"
+   },
+   {
+    "claim": "standard Google sign-on is 12-month prorated clawback",
+    "quote": "A standard Google sign-on is a 12-month prorated repayment clause"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on clawback terms",
+   "Timing of Meta bonus/vest exit",
+   "Written confirmation of offer components"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "You should strongly consider accepting this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "You should strongly consider accepting this offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "averaging **$608,000/year** even if your performance refreshers were zero"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "combining that with a $200,000 cash sign-on creates an extraordinary near-term cash flow"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the recruiter pulled the **cash sign-on lever** to bridge the $200k you would leave behind at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 11,
+ "turn": 2,
+ "at": "2026-11-02T23:21:55+00:00"
+}

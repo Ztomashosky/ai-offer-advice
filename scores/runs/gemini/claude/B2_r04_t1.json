@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "So the first year is strong, but over four years the offer only matches or beats that median if you get good refreshes."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "I can't tell you if this is a good deal without your Meta numbers."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as it stands, and don't walk away yet. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "The four-year average is about $552K before refreshes. For comparison, the median total compensation at L6 is $606,937 per year on Levels.fyi."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the median total compensation at L6 is $606,937 per year on Levels.fyi."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Since the recruiter told you refreshes aren't guaranteed, don't count on them."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": "current_comp",
+  "unsupported_claims": [
+   {
+    "claim": "Google offers almost all follow 38/32/20/10 vesting",
+    "quote": "Google's offers now almost all (99%) follow the 38/32/20/10 GSU vesting structure"
+   },
+   {
+    "claim": "Stock is the most flexible lever at Google",
+    "quote": "stock is usually the most flexible part of a Google offer."
+   },
+   {
+    "claim": "Meta cut annual distribution of stock awards in Feb 2026",
+    "quote": "In February 2026, Reuters reported that Meta reduced its annual distribution of stock options by about 5%"
+   }
+  ],
+  "missing_info_requested": [
+   "confirmation of Google vesting schedule in writing",
+   "Meta total compensation breakdown over the next 4 years",
+   "unvested Meta equity and bonus timeline",
+   "written confirmation of 20% bonus target"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I could commit to joining at a $260K base, $1.4M in stock, and a $100K sign-on bonus to cover what I'd forfeit."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I can't tell you if this is a good deal without your Meta numbers."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100K of stock adds $38K to year 1."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 pays above the market median, but the stock is weighted toward the early years, so pay drops in years 3 and 4"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Tie the sign-on bonus to real costs. Use the Meta stock you'd lose by leaving, plus any bonus you'd miss by leaving before payout."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T17:15:01+00:00"
+}

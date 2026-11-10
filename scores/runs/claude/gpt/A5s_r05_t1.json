@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It is a **good market offer**, but not a compelling"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only **$26,000, or 5%, above your stated Meta run rate of $526,000**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. I would not accept the initial offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is deliberately an opening anchor, not necessarily the minimum you would accept"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM median compensation around **$514,000 nationally** and approximately **$606,000 in the Bay Area**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These benchmarks mix new offers and existing employees with stacked refreshes, so they aren't perfectly comparable"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "don't value those refreshes at 100 cents on the dollar"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After initial grant ends | $0 | ~$250K | **~$532K**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Assuming a $250,000 refresh every year, each vesting evenly over four years"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Stay at Meta:** If Google makes little or no movement and you are choosing primarily on compensation"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is usually the most important long-term lever",
+    "quote": "equity is usually the most important long-term lever"
+   },
+   {
+    "claim": "Google PM sign-on bonuses are negotiable",
+    "quote": "Google PM sign-on bonuses are negotiable"
+   }
+  ],
+  "missing_info_requested": [
+   "new-hire vesting schedule and first vest date",
+   "when eligible for a refresh grant",
+   "whether illustration is grant-date or annual vesting amount",
+   "bonus proration first year",
+   "sign-on tied to forfeited Meta equity",
+   "sign-on repayment obligation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'm flexible on the exact mix, with equity and transition compensation being the most important components"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "my current compensation is approximately $526,000 annually"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "moving the grant from $1.08 million to $1.3 million adds $55,000 of annualized compensation for four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring target compensation before refreshes: **$662K**\n- First-year target including sign-on: **$762K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Don't frame the $200,000 as though Google must replace every dollar; frame it as part of your opportunity cost"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the sign-on addresses transition costs and the compensation you are leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T22:01:47+00:00"
+}

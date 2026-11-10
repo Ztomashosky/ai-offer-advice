@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a decent offer, but not a strong one for someone who wasn't looking."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "That's only about 5% more than your $526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as written, and don't turn it down yet. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A realistic result averages about $600K\u2013625K a year plus a sign-on, roughly 15\u201320% above what you make now."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Neither company guarantees refreshes, so assume they roughly cancel out."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Levels.fyi shows a Meta L6 Product Manager at $578K, so your $526K is under the median."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Something like \"under about $580K a year on average, I stay\" would be reasonable."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually the easiest lever for Google to increase",
+    "quote": "Stock is usually the easiest thing for Google to increase."
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule in writing",
+   "Meta bonus payout date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260K base, $1.4M in stock and a $75K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can get to a $260K base, $1.4M in stock and a $75K sign-on, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$235K base + $47K bonus + $270K stock ($1.08M \u00f7 4) = $552K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A realistic result averages about $600K\u2013625K a year plus a sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Point to the Meta bonus you'd forfeit and the refresh you'd be giving up. Recruiters often treat a sign-on bonus at Google as a way to cover the pay you leave behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-04T16:06:07+00:00"
+}

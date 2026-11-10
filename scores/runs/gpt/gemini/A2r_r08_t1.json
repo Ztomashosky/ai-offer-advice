@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The overall grant size is solid, but the initial package has gaps that make it premature to accept as-is"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "making Year 1 TC roughly **$638k** ($235k base + $47k bonus + $356k equity)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Present a structured counter that targets the upper quartile of Google\u2019s L6 PM band:"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Protects total compensation against the Year 3\u20134 front-loading cliff and matches top-of-band L6 offers."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refreshers help fill this gap over time, refreshers take several cycles to stack significantly."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at **Meta IC6**, a peer level with high internal visibility and strong compensation."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on base or sign-on: **Stay at Meta.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's initial equity grants typically use one of two specified front-loaded vesting schedules.",
+    "quote": "Google\u2019s initial equity grants typically follow a front-loaded vesting schedule"
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses to bridge unvested equity and bonus timing for Meta hires.",
+    "quote": "Google frequently uses sign-on bonuses to bridge unvested equity and performance bonus timing when hiring from Meta."
+   },
+   {
+    "claim": "Google can adjust both base and equity within its L6 PM compensation bands.",
+    "quote": "Google\u2019s compensation bands for L6 PM have headroom to adjust both base and equity"
+   },
+   {
+    "claim": "Sign-on bonuses are routinely approved for lateral moves between FAANG companies.",
+    "quote": "sign-on bonuses are routinely approved for lateral FAANG moves."
+   },
+   {
+    "claim": "The proposed equity range matches top-of-band Google L6 offers.",
+    "quote": "matches top-of-band L6 offers."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "get the base salary to **$255,000**, include a **$80,000 sign-on bonus** to bridge the transition, and increase the equity grant to **$1.25M**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "your Year 1 equity is **~$356k**, making Year 1 TC roughly **$638k**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Because Google front-loads new-hire grants, by Year 4 your initial grant equity drops to ~$108k\u2013$130k/yr."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving $200k+ in unvested Meta RSUs and walking into a $0 sign-on bonus is leaving money on the table."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T20:57:35+00:00"
+}

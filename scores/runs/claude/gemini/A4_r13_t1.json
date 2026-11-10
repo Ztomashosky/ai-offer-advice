@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is an exceptional offer.** It sits firmly in the **top decile"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "~$697,000/year** (vs. your current **$526,000/year** at Meta)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you can make a single, low-friction, high-confidence ask"
+  },
+  "intensity": 1,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Standard L6 equity grants typically fall between $600,000 and $900,000 over 4 years"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard L6 equity grants typically fall between $600,000 and $900,000 over 4 years"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshes granted at the end of Years 1, 2, and 3 will gradually backfill the step-down"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "**Walk Away?** Absolutely not."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses 33/33/22/12 front-loaded vesting",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial new-hire equity: **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "equity is the easiest lever for the compensation committee",
+    "quote": "**equity** is the easiest lever for the compensation committee"
+   },
+   {
+    "claim": "L6 sign-on bonuses range $50k-$100k",
+    "quote": "Most L6 sign-on bonuses range from $50,000 to $100,000"
+   },
+   {
+    "claim": "GSUs vest monthly standard for L6",
+    "quote": "Verify that your GSUs vest **monthly** (standard for L6 at Google)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on lump-sum timing and clawback duration",
+   "GSU vesting cadence"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**equity** is the easiest lever for the compensation committee, followed by a slight base adjustment"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Request a bump from **$1.34M \u2192 $1.45M \u2013 $1.5M** over 4 years"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "an extra ~$25k\u2013$40k/year in front-loaded stock"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus** | $200,000 | \u2014 | \u2014 | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $200,000 sign-on fully protects you against any Meta unvested cliff"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:32:39+00:00"
+}

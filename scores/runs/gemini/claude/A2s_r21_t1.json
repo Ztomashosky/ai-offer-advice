@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is reasonable but below typical pay for this level"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "about 5% above Meta's average and 16% above your actual next 12 months."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: **negotiate. Don't accept as-is, and don't walk away.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Moving the 4-year average from $270K to ~$330K+ puts you close to the L6 median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts median total compensation at L6 at $605,720 per year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Compare offers using the 4-year average, not the year-1 number."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "whether Google's level and scope match your current IC6 role."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they barely move (you'd still be around $552K) and you'd only be switching for money."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is where Google has the most flexibility",
+    "quote": "equity is where Google has the most flexibility and where you trail the market."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule of the RSU grant",
+   "Meta bonus payout date",
+   "Meta refresh grant trends",
+   "Google level and scope alignment"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three of these together, in one conversation:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Moving the 4-year average from $270K to ~$330K+ puts you close to the L6 median."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That's roughly $630K+ in year 1 and about $580K a year averaged over 4 years."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "and a $75K sign-on to cover the bonus I'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-04T16:54:12+00:00"
+}

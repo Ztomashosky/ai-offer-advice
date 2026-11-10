@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong L6 offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Four-year premium versus holding Meta at $526K: approximately $684K pre-tax"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate, not walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "The equity increase does more to improve the later years, while base is recurring and also increases the target bonus."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported data puts Google L6 PM compensation around $514K nationally and $551K in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes should therefore be treated as upside, not included in your guaranteed comparison."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I\u2019d probably accept even if Google makes only a modest improvement."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting percentages and first vest date",
+   "Whether vesting is monthly or quarterly",
+   "How the number of shares is determined and the grant-date timing",
+   "Sign-on payment date and clawback terms",
+   "Earliest refresh eligibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $271,000\n- New-hire equity: $1,600,000\n- Sign-on: $250,000"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "A package that would make me comfortable committing would be a $271K base, $1.6M new-hire equity grant and $250K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your $1.34M grant annualizes to $335K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your offer annualizes to $647K before the sign-on, or $697K including the sign-on amortized over four years."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on essentially replaces the $200K of Meta equity you expect to vest over the next 12 months. That is a clean and compelling make-whole"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:48:16+00:00"
+}

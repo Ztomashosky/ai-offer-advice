@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a decent offer, not a great one, and you should negotiate before deciding."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "As it stands, the offer roughly matches what you'd earn by staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "It's a decent offer, not a great one, and you should negotiate before deciding."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1180000,
+  "equity_expected_high": 1330000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Makes up for the unvested Meta stock you'd lose and the risk on refreshes."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Meta will also keep giving you refreshes, so on refreshes the two roughly cancel out."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move much. As it stands, the offer roughly matches what you'd earn by staying at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses are often the easiest item for companies to approve",
+    "quote": "Sign-on bonuses are often the easiest item for companies to approve."
+   },
+   {
+    "claim": "Big tech companies have the most room on stock and sign-on and least on base",
+    "quote": "Big tech companies usually have the most room on stock and sign-on bonuses and the least on base."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "typical L6 refresh for a solid performer",
+   "confirmation that 20% bonus is standard L6 target",
+   "total unvested Meta stock amount"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make this move work, I'd need about $260K base, $1.35M in stock, and a $75K sign-on to cover what I'd be giving up."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "about $2.21M, or $552K a year on average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Base $235K + target bonus $47K + new-hire stock only. No refreshes."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "What you'd give up: all your unvested Meta stock (the $200K over the next 12 months plus anything vesting later)"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T16:33:39+00:00"
+}

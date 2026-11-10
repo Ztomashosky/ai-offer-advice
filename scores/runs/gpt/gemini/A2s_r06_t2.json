@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional outcome and a major win."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over your first two years at Google, you will clear roughly **~$1.5M to ~$1.58M**, compared to **~$1.05M** if you stayed at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept it.** This is an exceptional outcome and a major win."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Refreshers (Est.)** | $0 | + ~$25,000 \u2013 $40,000"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google L6 sign-on without a formal competing offer is rare.",
+    "quote": "Getting a **$200,000 cash sign-on bonus** at Google L6 without a formal competing counteroffer is rare."
+   },
+   {
+    "claim": "Google's standard equity vesting is front-loaded on one of two specified schedules.",
+    "quote": "Assuming Google\u2019s standard front-loaded vesting (typically 38%/32%/20%/10% or 33%/33%/22%/12%):"
+   },
+   {
+    "claim": "Google means that no further movement is possible when it labels an offer best and final.",
+    "quote": "When Google bumps base and adds a $200k sign-on bonus stating it is their \"best and final,\" they mean it."
+   },
+   {
+    "claim": "Google normally pays sign-ons in the first one or two paychecks, with a typically prorated 12-month clawback.",
+    "quote": "Confirm that the $200k is paid out in your first 1\u20132 paychecks as a lump sum (standard at Google) and verify the clawback duration (typically 12 months prorated)."
+   },
+   {
+    "claim": "Google's standard grant vesting is monthly after the first month.",
+    "quote": "Confirm whether the $1.08M grant vests monthly (standard after month 1) on the 38/32/20/10 or 33/33/22/12 schedule."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payout timing",
+   "Sign-on clawback duration and proration",
+   "Meta bonus payout timing and possible Google start-date adjustment",
+   "Exact RSU vesting schedule",
+   "RSU vesting frequency"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Unless you strongly dislike the specific Google team or project scope compared to your current Meta work, **this is an offer you should sign.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Yes, you should accept it.** This is an exceptional outcome and a major win."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming Google\u2019s standard front-loaded vesting (typically 38%/32%/20%/10% or 33%/33%/22%/12%):"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus** | $200,000 | $0"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "They effectively converted your unvested Meta RSUs into guaranteed, upfront cash while keeping the $1.08M equity intact"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They effectively converted your unvested Meta RSUs into guaranteed, upfront cash while keeping the $1.08M equity intact"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 6,
+ "turn": 2,
+ "at": "2026-11-02T21:07:13+00:00"
+}

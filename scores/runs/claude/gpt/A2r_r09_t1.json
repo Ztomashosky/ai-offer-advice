@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good Google L6 offer, but I would negotiate rather than accept it immediately"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year, or approximately 5%, above your $526K Meta run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate aggressively but professionally. Do not walk away before negotiating"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "The **$552K four-year average is approximately market-median**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google Bay Area L6 Senior PM median total compensation around **$551K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "a recent U.S. dataset showed approximately **$514K median and $671K at the 90th percentile**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Because refreshers are not guaranteed, I would not include them in the minimum guaranteed comparison"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "decline the unchanged offer unless the job itself is materially better than your current one"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire schedule is 38/32/20/10",
+    "quote": "Google\u2019s current new-hire schedule is commonly reported as **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "base drives target bonus multiplier",
+    "quote": "Base also drives the target bonus, so raising base has a recurring multiplier"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact annual vesting percentages",
+   "Monthly vs quarterly vesting",
+   "First vest date",
+   "Share conversion of $1.08M",
+   "Refresh cycle eligibility"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **New-hire RSUs: $1,300,000** - **Sign-on bonus: $100,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "the proposed Google base would represent a reduction"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That produces a normalized four-year average of **$600K**, before sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "with a meaningful first-year make-whole"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Actual next 12 months using $200K of vesting equity: **$476K**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "any Meta vest you give up between departure and Google\u2019s first vest"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:16:27+00:00"
+}

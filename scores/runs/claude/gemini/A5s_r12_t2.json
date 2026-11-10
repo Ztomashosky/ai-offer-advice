@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "For an L6 Product Manager in the Bay Area, this is now a top-tier, 90th+ percentile package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a net gain of **~$600,000 to $700,000**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "The Bottom Line: **Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For an L6 Product Manager in the Bay Area, this is now a top-tier, 90th+ percentile package."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Projected Refreshes (Stacking)"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Projected Refreshes (Stacking) | **Total Estimated TC**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Projected Refreshes (Stacking)"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "best offer means comp committee maxed out",
+    "quote": "it generally means compensation committee approval was maxed out for that level"
+   },
+   {
+    "claim": "standard front-loaded vesting",
+    "quote": "Assuming Google\u2019s standard front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "clawback typically 12 months prorated",
+    "quote": "Verify the clawback period (typically 12 months prorated"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment terms and clawback period",
+   "Vesting schedule (front-loaded vs quarterly)"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "The Bottom Line: **Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "No Further Negotiation Upside"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial RSU Vest | $356,400 (33%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus | $200,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "they fully made you whole on your unvested $200,000 in cash upfront"
+  }
+ },
+ "bad_quotes": [
+  "rsu_annualized",
+  "year1_vs_recurring"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 2,
+ "at": "2026-11-02T23:40:29+00:00"
+}

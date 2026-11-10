@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "it\u2019s a fair standard offer\u2014not a compelling \u201cpry you away from Meta\u201d offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Difference: only **$26K/year, or about 5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as-is, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Google\u2019s offer is around the reported Bay Area median for an L6 PM, approximately $551K"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the reported Bay Area median for an L6 PM, approximately $551K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "**Value refresh grants at zero when deciding whether to accept.**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "**No meaningful movement:** Walk away comfortably."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most flexible lever",
+    "quote": "Likely the most flexible and financially meaningful component."
+   },
+   {
+    "claim": "Google standard new-hire vesting is 38/32/20/10",
+    "quote": "Google\u2019s current standard new-hire vesting schedule is reportedly **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "share pricing basis",
+   "grant and first vest dates",
+   "refresh eligibility and proration",
+   "bonus proration",
+   "sign-on repayment conditions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**Equity**\n   - Likely the most flexible and financially meaningful component."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would counter with:\n\n- **Base: $265,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$235K base + $47K bonus + $270K annualized equity = **$552K**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "annualized recurring target compensation of:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This compensates for transition risk, delayed grant timing, forfeited Meta equity/bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:28:24+00:00"
+}

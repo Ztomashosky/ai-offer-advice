@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good, market-rate Google L6 offer\u2014but not yet a compelling offer"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Compared with your approximately $526,000 current run-rate, that is: - $26,000 more per year - Approximately 5% higher"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate aggressively but credibly."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an anchor, not necessarily the expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports roughly $551,500 median annual compensation. A recent US dataset reported an L6 median base around $240,000 and median annual stock around $230,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as zero in your decision model until granted."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "This is a good, market-rate Google L6 offer\u2014but not yet a compelling offer for someone who is happy at Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes little or no movement, staying at Meta is financially reasonable, particularly if compensation is the main motivation."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule percentages by year",
+   "First vest date and frequency",
+   "Grant-date share conversion pricing methodology",
+   "First bonus proration rules",
+   "First refresh-review eligibility date and typical refresh ranges"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260,000 base, $1.35 million equity and $200,000 sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Increasing the grant from $1.08 million to $1.3 million adds $220,000 of four-year value, or $55,000 annually on a straight-line basis."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That package would have a normalized recurring value around: - $260,000 base - $52,000 target bonus - $337,500 annualized equity - $649,500 recurring annual TC - Plus the one-time signing bonus"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 sign-on directly corresponds to documented Meta equity vesting you are walking away from."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:57:03+00:00"
+}

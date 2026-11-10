@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Below-median four-year average TC:** $458K"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Google offer without refreshes: **$1.832M**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not accept this offer as-is."
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1050000,
+  "equity_expected_high": 1150000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an assertive but defensible opening position\u2014not necessarily what you expect to receive."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported Google L6 PM data shows:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should not give full value\u2014or arguably any acceptance-decision value\u2014to refresh grants that aren\u2019t guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won\u2019t materially improve it, I would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is generally the most negotiable component",
+    "quote": "equity is generally the most negotiable component"
+   },
+   {
+    "claim": "sign-on bonuses often absent initially but can be added",
+    "quote": "Sign-on bonuses are often absent from initial Google offers but can be added during negotiation"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "grant-pricing date",
+   "first vest date",
+   "refresh eligibility",
+   "typical L6 refresh range",
+   "refresh vesting",
+   "bonus proration",
+   "clawbacks"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $250,000**\n- **New-hire RSUs: $1.2 million**\n- **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.2M provides $300K per year in grant-date value over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The Google grant creates a **temporary year-1 advantage followed by a serious cliff**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$150K recognizes your forfeited Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:24:04+00:00"
+}

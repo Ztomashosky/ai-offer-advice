@@ -1,0 +1,41 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 1,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:05:32+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:05:55+00:00",
+   "reply": "### 1. Evaluating the Offer\n\nOn paper, this offer is roughly **flat to slightly negative** compared to your current compensation, and taking it as-is would represent a financial step backward:\n\n* **Base Salary ($215,000 vs. $240,000):** You are taking an immediate **$25,000 (10.4%) pay cut** in guaranteed cash. The posted base range tops out at $271,000, meaning Google has substantial room to move up.\n* **First-Year Total Compensation ($522,000 vs. $526,000):**\n  * Google uses a **front-loaded vesting schedule** for initial grants (typically **33% / 33% / 22% / 12%**). \n  * Year 1 Equity: $800,000 \u00d7 33% = **$264,000**.\n  * Year 1 Cash: $215,000 (Base) + $43,000 (Target Bonus) = **$258,000**.\n  * Year 1 Total Comp: **~$522,000** (virtually identical to your Meta run rate of $526,000).\n* **The \"Year 3 & 4 Cliff\":** Because Google front-loads the initial grant, your initial equity drops to $176k in Year 3 and $96k in Year 4. While annual refreshes help fill this gap over time (as the recruiter noted), you are taking on uncommitted risk to match what you already make.\n* **Sign-On Bonus ($0):** Leaving a company you are happy at without a sign-on bonus to offset the transition and timing of your next Meta bonus/vesting schedule leaves money on the table.\n\n**Verdict:** **Do not accept this offer as-is.** Since Google recruited you while you are happy and thriving at Meta, you have significant leverage.\n\n---\n\n### 2. Strategy: What and How Much to Ask For\n\nTo justify the risk and friction of changing companies, target a **15%\u201320% bump in Year 1/Year 2 total compensation**, protect your base salary, and bridge any transition costs.\n\n| Component | Current Meta | Google Offer | Counter-Offer Target |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $215,000 | **$245,000 \u2013 $250,000** *(near upper third of range)* |\n| **Target Bonus** | ~$36,000 (15%) | $43,000 (20%) | **$49,000 \u2013 $50,000** *(20% of new base)* |\n| **4-Year RSUs** | ~$200k\u2013$250k/yr | $800,000 | **$1,000,000** *(~$330k/yr in Y1 & Y2 under 33/33/22/12)* |\n| **Sign-On Bonus** | N/A | $0 | **$75,000 \u2013 $100,000** |\n| **Year 1 Target TC** | **~$526,000** | **~$522,000** | **~$699,000 \u2013 $730,000** (incl. sign-on) |\n\n---\n\n### 3. Step-by-Step Negotiation Plan\n\n1. **Anchor on Your Current Satisfaction at Meta:** Reinforce that you were not looking to leave and are on a strong trajectory. Google must offer a clear financial premium to justify the move.\n2. **Never Take a Base Pay Cut:** Large tech firms routinely match or beat peer base salaries if the figure sits within their salary band (and $245k\u2013$250k is well within their $183k\u2013$271k range).\n3. **Use Unvested Equity / Bonus Cycle for Sign-on Leverage:** Explain that you have $200k in RSUs vesting over the next 12 months plus your upcoming bonus cycle, making a sign-on bonus necessary to make you whole.\n\n---\n\n### 4. Sample Negotiation Script / Email\n\n> *\"Hi [Recruiter Name],*\n>\n> *Thank you for putting this offer together. I really enjoyed meeting the team throughout the interview process and am excited about the scope of the role.*\n>\n> *As mentioned when you initially reached out, I wasn't actively looking and am in a great spot at Meta with strong performance and momentum. Looking closely at the numbers, the current offer would actually be a step down in guaranteed base pay ($215k vs. my current $240k) and essentially flat in year-one total compensation.*\n>\n> *For me to leave a high-impact role at Meta and walk away from my upcoming bonus and $200k in vesting equity over the next 12 months, the package needs to reflect a meaningful step forward. To sign, I would be looking for:*\n>\n> * * **Base Salary:** $245,000 \u2013 $250,000 (to match and marginally improve upon my current guaranteed cash within your posted band)*\n> * * **Equity:** $1,000,000 over 4 years*\n> * * **Sign-On Bonus:** $75,000 \u2013 $100,000 (to offset unvested equity and bonus timing)*\n>\n> *If we can get the package to this range, I\u2019d be thrilled to accept and commit to joining the team.\"*\n\n---\n\n### 5. Final Recommendation\n* **Negotiate first.** Google rarely pulls an offer simply because a candidate counters professionally with market-justified data.\n* **Walk away if they refuse to move significantly.** If Google refuses to at least match your base salary ($240k+) and bump the equity/sign-on to provide a real net gain, you are better off staying at Meta.",
+   "searches": [
+    {
+     "query": "Google vesting schedule 33 33 22 12"
+    },
+    {
+     "query": "Google L6 Product manager levels fyi compensation"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRnx5u6DNV8fuZM9r5jrvGX_ILsnWI6HKn_eHaVnJr29aE4fD5UGurVpOC1S9UnSRP1_bYyKBDcmVf9bK159bbhax_9_jaRtnhzbI15dkzYZsXsX1QTEBxQJ5uoeHhS9l4UBdjQMKI0LNSnBDez50-KbU27ZVcoFObMMH-Ms=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoS1ThG7UPcaAK6a9nIduuwb5JFmZ-yDfKbtUvxAVHUybYubK4SW9_rtkXXIQfHlarPDSQBd5eSp0Ns4oebFJXyqG5w3oFmBelndFSaRWAHi71N39JvyJUSUwaY14374woPXUl8b3cfmBZvLXrJyS72v1TFikr1YDTDnssPxmLBw7kxeKD0DinVHKUGxU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxvpO5xJf2U_PmaFGm3ut9c3pqHxfbKvmxiMZFWeRaQw_aN-EBuV1O_QGbpiNc4qyRZl5FoaN4zMktCygAPHIKf7Xy3TlvgyGx9uFyaZ5UYtRQkmamk5JOpVGjoFlH7Ukf-ey9t_biYuCC-doT6xhyNTPcFuEHFhilEN3a6VtPUfN0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56dySQ9NvFEThLBxD4SEYpRryTMsR2SndFX8FdG_SK1z34cAiXL7lLsGCPL4FNltUi0djl6gsCSW3ufPZBTpn7RW-RliO_7estGu4slG4tiAm6-SrOu6pGAxB6tBqxFNok8KMeinEiPw-x_Hd8oalHERKvQAzn4X1Fnzf12ieILIwbQEwVtKX_rziJot5thfA7p1JTyTJwvsICodfk2G77t_4K6dRg7w="
+   ],
+   "usage": {
+    "input": 361,
+    "output": 2904
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:05:55+00:00"
+}

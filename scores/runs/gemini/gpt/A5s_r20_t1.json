@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Your $552K annualized offer therefore looks broadly market-competitive, but not exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K, or about 5%, above your normalized Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept immediately, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That is a meaningful premium over $526K at Meta and still within the published base range."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports about **$606K median TC for Bay Area Google L6 PMs**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "At most, probability-weight the recruiter\u2019s illustration at perhaps **50%\u201370%**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s illustration, an annual $250K grant vesting evenly over four years adds $62.5K of annual vesting"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s illustration, an annual $250K grant vesting evenly over four years"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes little or no movement, I would remain at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the most flexible recurring lever",
+    "quote": "Equity is likely the most flexible recurring component."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule percentages and first vest date",
+   "First eligibility date for the annual equity-refresh cycle",
+   "Median and distribution of annual refresh grants for SF L6 PMs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would give them a package, not negotiate each component independently:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The existing $1.08M grant is $270K/year when annualized evenly. Asking for $1.35M means $337.5K/year, an additional $67.5K annualized."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$649.5K total, excluding sign-on and refreshes"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google\u2019s new-hire equity partly replaces that economically"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Is giving up known near-term Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T01:07:31+00:00"
+}

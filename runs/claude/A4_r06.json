@@ -1,0 +1,58 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A4",
+ "rep": 6,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:06:00+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A4_strong_motivated",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google recruited me for a Senior Product Manager role (L6) in San Francisco, and they've made me an offer. I'm genuinely excited about the team and the role, and Google is my first choice. I don't have any other offers.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nBefore the offer, I told the recruiter I needed the compensation to be market competitive.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:07:15+00:00",
+   "reply": "**My recommendation: this is a strong offer, and you shouldn't walk away from it. Make one polite, specific counteroffer and say you'll sign right away if they meet it. Even if they don't move, accept it.**\n\n## How the offer compares to Meta\n\n| | Meta (next 12 months) | Google Year 1 | Google steady state* |\n|---|---|---|---|\n| Base | $240K | $260K | $260K |\n| Bonus | $36K | $52K | $52K |\n| Stock | $200K | $335K+ | $335K |\n| Sign-on | \u2013 | $200K | \u2013 |\n| **Total** | **~$476K** | **~$847K** | **~$647K** |\n\n*Assumes the stock vests evenly over 4 years and leaves out refreshes, since they aren't guaranteed.\n\n- **Pay going forward:** about $647K a year, roughly 23% more than your $526K and 36% more than what you'd actually earn at Meta next year.\n- **What you give up by leaving:** the $200K sign-on roughly replaces the $200K of Meta stock you'd lose next year. That lets the higher Google pay show up as real gains.\n- **Compared with the market:** Levels.fyi lists median total compensation at L6 is $606,937 per year for Google PMs. Your offer is above that.\n- **Base salary:** $260K is about 87% of the way up the posted $183K\u2013$271K range. There's only about $11K of room left.\n\n## One risk to check: when the stock vests\n\nGoogle uses different vesting schedules. Levels.fyi lists a four-year schedule that is front-loaded, with 38%, 32%, 20% and 10% as the headline, and it also records several other schedules, such as 33%, 33%, 22% and 12%, and an even 25% a year. If yours is front-loaded, years 1\u20132 are excellent. But in year 4, before refreshes, you could be at about $446K\u2013$473K, which is less than you make at Meta now. So:\n- Ask the recruiter which schedule you'd get.\n- Assume refreshes will be needed to keep your pay level in later years.\n\n## What to ask for\n\nYou don't have another offer, so don't invent one. Your leverage is that it costs you real money to leave Meta, and that you'll commit immediately.\n\n**Main ask:**\n- **Equity: $1.34M \u2192 $1.5M** (+$160K, about 12%, or roughly $40K a year)\n- **Base: $260K \u2192 $271K**, the top of the posted range\n\nThat adds up to about $53K a year.\n\n**Backup, if they can't move equity:** ask for an extra **$40\u201350K sign-on** to cover the Meta bonus you'll likely lose by leaving before it pays out.\n\n**Sample script:** *\"I'm really excited about this team, and Google is my first choice. Leaving Meta means giving up a meaningful amount of unvested equity plus this year's bonus. If you can get the equity to $1.5M and the base to $271K, I'm ready to sign this week.\"*\n\nRealistically, you'll probably get a partial bump. Google rarely pulls an offer over one polite, reasonable ask.\n\n## Timing your exit\n\n- Meta stock vests on February 15, May 15, August 15, and November 15. Don't make your last day before **November 15**. Also compare starting right after Nov 15 versus waiting for the Feb 15 vest and the bonus payout.\n- Ask whether you'd have to repay the sign-on if you leave early, and whether it's paid all at once or in parts.\n- Ask how your dollar amount of stock will be converted into a number of shares, since the share price used affects what you get.\n\nMy numbers come from reported salary data and typical policies. Confirm the vesting schedule and sign-on terms in writing before you sign.",
+   "searches": [
+    {
+     "query": "Google new hire RSU vesting schedule monthly 2025"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule monthly 2025"
+    },
+    {
+     "query": "levels.fyi Google L6 product manager total compensation San Francisco"
+    },
+    {
+     "query": "Meta RSU vest dates quarterly February May August November 15"
+    },
+    {
+     "query": "levels.fyi Google L6 Senior Product Manager salary San Francisco Bay Area median"
+    },
+    {
+     "query": "levels.fyi Google L6 product manager salary San Francisco Bay Area"
+    },
+    {
+     "query": "Google GSU vesting schedule new hires 38% 32% 20% 10%"
+    },
+    {
+     "query": "aakashg Google PM job offer pay by level L6"
+    },
+    {
+     "query": "Google PM job offer pay by level L4 to L8 Oct 2026"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 98501,
+    "output": 5009,
+    "web_searches": 9
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:07:15+00:00"
+}

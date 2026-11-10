@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a good offer, and on paper it pays more than staying."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even with no Google refreshes, the guaranteed Google package beats Meta with continued refreshes by about $154K over 4 years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You shouldn't accept it as it stands, and you shouldn't walk away either. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "You'd be giving up a reliable, stacking Meta refresh stream for refreshes the recruiter says aren't guaranteed."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "the offer is still financially ahead of staying, but only clearly so for 4 years and only if refreshes come through."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, steady-state pay is about the same as Meta's."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, even vesting, $250K/yr refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Walk away only if they lower the offer, or if non-pay factors like the team or your manager don't feel right."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the part of a Google offer with the most room to move.",
+    "quote": "Equity is usually the part of a Google offer with the most room to move."
+   }
+  ],
+  "missing_info_requested": [
+   "Which vesting schedule applies to the new-hire grant",
+   "Meta annual bonus payout date",
+   "How the RSU grant is converted into shares"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one counter that covers all three parts"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google, even vesting, no refreshes | 552 | 552 | 552 | 552"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "After year 4 the advantage disappears. Once the new-hire grant finishes, steady-state pay is about the same as Meta's."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It covers the bonus and stock you'd forfeit by leaving Meta, plus the cost of switching."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-04T17:06:16+00:00"
+}

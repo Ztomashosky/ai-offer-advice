@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "4-year average: $608k, about 16% above what you're paid now ($526k)."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. This offer is worth accepting, as long as the job itself appeals to you."
+  },
+  "intensity": 2,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "years 3 and 4 fall below your current pay unless Google gives you refresh grants."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you're unsure about the work itself, an extra ~$80k a year on average is still a reasonable price to stay"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta stock usually vests quarterly.",
+    "quote": "Meta stock usually vests every quarter."
+   },
+   {
+    "claim": "Meta stock often vests mid-month in February, May, August, and November.",
+    "quote": "often mid-month in Feb, May, Aug and Nov"
+   },
+   {
+    "claim": "Meta usually pays bonuses around March and generally requires employment on the payout date.",
+    "quote": "Meta usually pays bonuses around March, and you generally have to be employed on the payout date"
+   },
+   {
+    "claim": "Offers are rarely withdrawn over a modest sign-on request.",
+    "quote": "Offers are rarely withdrawn over a request like that."
+   },
+   {
+    "claim": "When Google labels an offer its best offer, it usually is final.",
+    "quote": "But when Google says \"best offer,\" it usually means it."
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule in writing",
+   "Exact Meta equity vesting dates",
+   "Meta bonus payout date and eligibility policy",
+   "Whether Google's first-year bonus will be prorated",
+   "Whether Google will allow a later start date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. This offer is worth accepting, as long as the job itself appeals to you."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "You can try one polite request: \"Is there any flexibility for even a modest sign-on?\""
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-year average: $608k, about 16% above what you're paid now ($526k)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1: $132k to $452k more, depending on the schedule."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google raised the stock by $200k, which roughly covers the $200k of Meta stock you'd give up"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the $200k of Meta stock you'd give up in the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 2,
+ "at": "2026-11-04T16:08:19+00:00"
+}

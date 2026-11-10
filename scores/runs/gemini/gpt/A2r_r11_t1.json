@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is market-competitive, not a lowball"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "As currently structured, the Google offer is only a modest increase on a normalized four-year basis"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t walk away yet, but I would not accept this offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "At $1.4M, the average is $350K per year, producing approximately:"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data puts Google L6 Senior PM compensation around $606,000 in the Bay Area, although reported figures can mix first-year, refresh, and existing-employee compensation."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although reported figures can mix first-year, refresh, and existing-employee compensation."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Treat refreshes as upside until you know typical L6 PM ranges and your eligibility timing."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": "lateral",
+  "walkaway_tied_to": "offer",
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses a front-loaded 38/32/20/10 vesting schedule for new-hire equity.",
+    "quote": "Google commonly uses a front-loaded 38% / 32% / 20% / 10% schedule for new-hire equity, though alternate schedules exist."
+   },
+   {
+    "claim": "Equity is often one of the more flexible components in senior PM negotiations.",
+    "quote": "Equity is often one of the more flexible components in senior PM negotiations."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire vesting schedule (e.g. 38/32/20/10)",
+   "Vesting frequency / first vest date",
+   "GSU share determination / stock price averaging date",
+   "Bonus proration policy for year 1",
+   "Refresh grant eligibility timing and typical L6 ranges"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would ask for:\n\n- **$260,000 base**\n- **$1.4 million new-hire equity**\n- **$200,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The current $1.08M grant is $270K per year on a simple four-year average. At $1.4M, the average is $350K per year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That would produce normalized recurring compensation of roughly:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame this as a make-whole request, not just an extra perk. You have approximately $200K scheduled to vest at Meta over the coming 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:19:03+00:00"
+}

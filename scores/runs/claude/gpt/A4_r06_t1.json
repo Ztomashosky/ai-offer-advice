@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good L6 PM offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "meaningfully ahead of your current compensation over the first several years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, then probably accept."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1400000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That would be a reasonable approximately 7.6% increase in four-year package value\u2014not an absurd re-trade."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM median compensation in the Bay Area around **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "nationwide L6 PM analysis showed approximately **$514,000 median** and **$671,000 at the 90th percentile**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "mix tenured employees with newer offers, so they are directional rather than exact"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "treated as upside, not guaranteed compensation"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Is L6 the correct long-term scope?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Ask the hiring manager what L6 success looks like"
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The actual role or manager is materially less attractive than you thought."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most flexible/valuable lever",
+    "quote": "Equity is the most valuable lever because the sign-on is already very strong and temporary."
+   },
+   {
+    "claim": "Google has formal annual refresh process with discretion",
+    "quote": "Google does have a formal annual process for determining salary, bonus, and equity refresh awards"
+   }
+  ],
+  "missing_info_requested": [
+   "exact GSU vesting schedule",
+   "when equity is priced/granted",
+   "refresh eligibility timing",
+   "refresh vesting schedule",
+   "sign-on repayment terms",
+   "bonus proration year 1",
+   "L6 scope vs L7"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for **$271,000 base**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$271,000 base**."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Annualized initial equity:** $335,000."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$697,000/year averaged over four years**, including sign-on.\n- **$647,000/year averaged over four years**, excluding sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "the existing sign-on already directly addresses it"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "fully covering the approximately $200,000 of Meta equity you would forfeit over the next year"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T21:54:35+00:00"
+}

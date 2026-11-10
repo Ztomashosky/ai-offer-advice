@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a fair, roughly market-median Google L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only $26K, or about 5%, above your stated Meta run rate of $526K"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an anchor, not necessarily your minimum."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 Senior PM compensation is approximately $514K\u2013$551K at the median"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "treating future refresh grants as uncertain\u2014the current package is only a modest increase"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the role is definitively L6, not merely using a \u201cSenior PM\u201d title."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google will not move meaningfully, staying at Meta is the financially rational default."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google commonly uses front-loaded 38/32/20/10 vesting",
+    "quote": "Google commonly uses a front-loaded **38% / 32% / 20% / 10%** schedule"
+   },
+   {
+    "claim": "sign-on can come from a different budget",
+    "quote": "Sign-on compensates you for switching risk and can often come from a different budget."
+   },
+   {
+    "claim": "equity has greatest four-year impact",
+    "quote": "Equity has the greatest four-year impact."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-equity vesting percentages and vest dates",
+   "GSU share count price determination",
+   "Refresher eligibility based on start date",
+   "Bonus proration",
+   "Sign-on repayment obligations",
+   "Confirm L6 level",
+   "Location band effects"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google cannot grant all three, prioritize"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "my current annual compensation is approximately $526,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Increasing equity from $1.08M to $1.30M adds **$220K over four years**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Including sign-on across four years: **$656K average**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": "I also have approximately $200,000 of Meta equity vesting over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:36:45+00:00"
+}

@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a good offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the money that's actually guaranteed is only slightly more than what you make now"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate. Don't accept as is, and don't walk away before you've asked for more."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Google's later-year pay depends on refreshes nobody will promise. A larger grant is what protects you against that uncertainty."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "The large gains in years 2\u20134 depend on refreshes, and those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "| Google, refreshes as the recruiter described | $552K | $615K | $677K | $740K | ~$532K |"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "| Google, refreshes as the recruiter described | $552K | $615K | $677K | $740K | ~$532K |"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, you'd be leaving for roughly $25K\u201375K more in year 1, minus the switching costs"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta usually vests quarterly, including in mid-November.",
+    "quote": "Meta usually vests quarterly, including mid-November"
+   },
+   {
+    "claim": "Google's first-year bonus will probably be prorated based on start date.",
+    "quote": "Google's first-year bonus will probably be prorated by your start date"
+   },
+   {
+    "claim": "Google has used specific front-loaded new-hire vesting schedules.",
+    "quote": "Google has been reported to front-load new-hire grants, with schedules listed as 38% in the first year"
+   },
+   {
+    "claim": "Sign-on bonuses are easier to approve because they are one-time payments.",
+    "quote": "Sign-on bonuses are one-time payments, so they're easier to approve."
+   },
+   {
+    "claim": "Google would require sign-on repayment if the candidate leaves within one or two years.",
+    "quote": "Expect to repay it if you leave within a year or two."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus payment date and continued-employment eligibility",
+   "Upcoming Meta RSU vest dates",
+   "Google new-hire equity vesting schedule in writing",
+   "Candidate's guaranteed year-1 walk-away threshold"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for everything in one conversation instead of adding requests one at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$235K + $47K + $270K/yr = about $552K/yr for 4 years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That's roughly $690K in year 1 and about $615K/yr after that, without counting refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your next 12 months at Meta are $476K from grants you already have."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd be giving up a bonus and unvested equity, and Google's offer has no sign-on at all."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:51:42+00:00"
+}

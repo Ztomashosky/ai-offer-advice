@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a competitive market offer, but not a compelling \u201cleave a job you like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "So the Google offer is only $26,000 per year, or about 5%, above your current normalized compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept it as-is."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That gives you a roughly 19% premium over your current $526,000 run rate\u2014much more appropriate for leaving a position you like."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current third-party Bay Area data puts median Google L6 PM compensation around $551,000, essentially identical to your $552,000 offer."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, value refreshes as upside\u2014not as part of the guaranteed offer."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "But notice what happens after the initial grant ends: at a $250,000 steady-state refresh level, Google settles around: - $235,000 base - $47,000 bonus - $250,000 equity - $532,000 total"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter's illustrative scenario:"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes only a token improvement, I would stay at Meta, unless the role is substantially better for your career or happiness."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact annual vesting percentages",
+   "First vest date",
+   "Vesting frequency",
+   "Whether the equity grant is converted into shares based on a fixed grant-date price",
+   "When you first become eligible for a refresh",
+   "When the first refresh begins vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Anchor: $260,000 base, $1.35 million RSUs, and $150,000 sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "and the $1.08 million grant is evaluated as $270,000 per year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "counting the sign-on over four years and excluding refreshes"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on, to compensate for switching risk and Meta equity you are walking away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:58:18+00:00"
+}

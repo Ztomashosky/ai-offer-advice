@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good market-level offer, but it is not compelling enough"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "That is fairly close to my current compensation and includes a substantial decline in years three and four."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate\u2014not accept or walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Given my current package, the upcoming equity vest, and the risk involved in leaving a role where I\u2019m performing well, I\u2019d like to see whether we can get to $265K base, $1.4M in new-hire equity"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Public October 2026 data puts Google L6 PM median compensation around $514K nationally and approximately $551K in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would assign them $0 of guaranteed value when deciding."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "L6 Senior PM is a credible lateral match to Meta IC6."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Base remains around $235K\u2013$245K\n- Equity remains near $1.08M\u2013$1.15M\n- There is no sign-on"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact new-hire vesting schedule and first vest date",
+   "Share count establishment timing",
+   "First refresh eligibility timing and typical range/schedule",
+   "Bonus proration details",
+   "Sign-on repayment provisions",
+   "Start date flexibility around Meta vest dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one coordinated package request:\n\n- **Base: $265,000**\n- **New-hire RSUs: $1,400,000**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Above the reported median annual L6 stock figure when averaged over four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Four-year average before sign-on: $612.5K\n- Four-year average including sign-on: $625K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:17:55+00:00"
+}

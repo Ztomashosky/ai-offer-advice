@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's now close to the L6 median of about $595K"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it's a clear raise over staying"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "It's now close to the L6 median of about $595K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "about $608K/yr before any refresh grants"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you'd honestly be happier staying, you have two options"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta has a mid-November vest that the candidate should remain through.",
+    "quote": "Don't leave before the mid-November Meta vest."
+   },
+   {
+    "claim": "Meta's July\u2013December bonus is paid the following spring and requires continued employment.",
+    "quote": "The July\u2013December bonus is paid next spring and requires you to still be employed."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "Whether the first Google bonus is prorated",
+   "Meta H2 bonus eligibility rules",
+   "Google start-date flexibility"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Could you cover that with a one-time sign-on?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "It's spread over 4 years, so it adds about $50K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Could you cover that with a one-time sign-on?"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The one gap is my Meta H2 bonus, about $X, which I'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-04T16:33:38+00:00"
+}

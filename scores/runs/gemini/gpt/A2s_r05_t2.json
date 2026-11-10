@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "revised offer, when the sign-on is spread over four years, is right around the current reported median."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Compared with your current normalized Meta TC of $526,000:\n\n- **Average annual premium:** $82,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Final offer: **Accept, provided the job itself is attractive and the written clawback terms are reasonable.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Levels.fyi data puts Bay Area Google L6 PM median compensation at roughly **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "excludes future refresh grants, promotions, stock-price changes, and bonus variation at both companies."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule",
+   "Expected first vesting date",
+   "When and how sign-on is paid",
+   "Sign-on clawback period and terms",
+   "First annual bonus proration",
+   "First year eligible for equity refresh"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes\u2014I would lean toward taking it, assuming you like the role, manager, and team reasonably well."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "If they explicitly say this is final, I would not make another numerical counter."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That is an average of **$608,000 per year**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Excluding the sign-on:\n\n- Google recurring annualized TC: **$558,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google fully addressed the near-term forfeiture with the **$200,000 sign-on**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-02T21:41:56+00:00"
+}

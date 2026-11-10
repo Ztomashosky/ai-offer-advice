@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a solid, market-rate Google L6 offer, not an obviously bad one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only a $26,000\u2014or 5%\u2014annual premium"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the current offer as-is, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "making clear that a merely lateral financial offer will not induce you to leave."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Bay Area data puts reported median Google L6 PM compensation around $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "though those figures mix new hires and existing employees with refresh grants."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you should not value non-guaranteed refreshes as though they are already yours."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "That begins to look like a genuine switching premium rather than a lateral move."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Their final position remains close to $235,000 / $1.08 million / $0 sign-on"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants often follow a 38/32/20/10 vesting schedule",
+    "quote": "Google new-hire grants are often reported as front-loaded at 38% / 32% / 20% / 10%"
+   },
+   {
+    "claim": "Equity and sign-on are more flexible than base salary",
+    "quote": "Equity and sign-on are likely to be more flexible than base."
+   },
+   {
+    "claim": "Bonus percentage of 20% is standardized for L6",
+    "quote": "I would not spend negotiation capital on the bonus percentage; 20% is likely standardized for the level."
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire GSU vesting schedule",
+   "first vest date",
+   "share determining method",
+   "bonus proration terms",
+   "refresh cycle eligibility and timing",
+   "confirmation of role, team, manager, and location",
+   "sign-on repayment provisions"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would counter with:\n\n- Base: $260,000\n- New-hire equity: $1,350,000\n- Sign-on bonus: $150,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google\u2019s four-year target value, assuming target bonuses and no stock-price changes, is:\n\n- Base: $940,000\n- Target bonuses: $188,000\n- New-hire equity: $1,080,000\n- Total: $2,208,000\n- Average: $552,000 per year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year average: $618,500\n- Including sign-on amortized over four years: $643,500"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "There is no sign-on bonus despite leaving meaningful unvested Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:29:01+00:00"
+}

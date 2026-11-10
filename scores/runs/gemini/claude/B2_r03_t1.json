@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but not a great one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "If you're around that median, this offer is a modest raise on paper, not a big one."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: Negotiate. It's a fair offer, but not a great one."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Justify it with the unvested Meta stock you'd forfeit and the stacked refreshes you'd give up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data for Google L6 (Senior PM) shows an average annual total comp of $590,867, with a 10th\u201390th percentile range of $450K\u2013$692K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "plus a conservative estimate of future refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta's L6 Product Manager in the Bay Area shows $510K total"
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Since you're happy where you are, I'd only move if Google clearly wins over four years, by something like 15\u201320%"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually where Google has the most room.",
+    "quote": "Equity is usually where Google has the most room."
+   },
+   {
+    "claim": "Google often front-loads new-hire grants: 33% / 33% / 22% / 12%, vesting monthly with no cliff",
+    "quote": "Google often front-loads new-hire grants: 33% / 33% / 22% / 12%, vesting monthly with no cliff"
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule",
+   "First-year bonus and refresh eligibility details",
+   "Current Meta base, bonus target, and vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push on all three asks at once rather than one at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity ($1.08M over 4 years, or $270K/year on average): This is reasonable."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total (before refreshes)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Also list what you'd lose by leaving: unvested stock and any bonus you'd miss by leaving before the payout date."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T17:14:17+00:00"
+}

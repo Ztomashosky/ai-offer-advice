@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "You successfully extracted near top-of-market value for a Google L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Your Year 1 compensation jumps by **44% to 60%** over your current Meta package."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Y1 Refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads equity vesting",
+    "quote": "Google typically vests new-hire RSUs on a front-loaded schedule (usually **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "clawback terms typical",
+    "quote": "Note the clawback terms (typically a 1- or 2-year prorated repayment if you leave voluntarily)."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout schedule and clawback terms",
+   "vesting cadence and annual split",
+   "start date timing vs Meta vests"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "sign the offer and congratulate yourself on a successful negotiation."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "overstates",
+   "quote": "**Equity Vesting** | ~$250,000 | **$356,400** (33%) | $356,400 + Y1 Refreshes"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Guaranteed Cash Replaces Variable Equity:**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "you are getting it in **liquid cash** upfront instead of waiting for Meta stock to vest over 12 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-02T23:42:14+00:00"
+}

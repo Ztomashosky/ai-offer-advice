@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong final offer, and I'd take it if the role and team appeal to you."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this offer clearly beats staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Check the four terms above, time your exit around your next Meta vest, and accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Not included: refreshes from either company."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If something non-financial gives you pause, like the specific team, your manager, or the scope of the role, take that seriously."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Most sign-on bonuses have repayment requirements lasting one to two years.",
+    "quote": "Most sign-on bonuses must be paid back (often prorated) if you leave within 1\u20132 years."
+   },
+   {
+    "claim": "Meta RSUs typically vest quarterly in the middle of specified months.",
+    "quote": "Meta RSUs vest quarterly, typically mid-month in Feb/May/Aug/Nov."
+   },
+   {
+    "claim": "Google generally accommodates start-date requests without difficulty.",
+    "quote": "Google usually accommodates start dates without trouble."
+   },
+   {
+    "claim": "Meta and Google refresh grants roughly offset one another.",
+    "quote": "Meta refreshes and Google refreshes roughly offset each other."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on repayment terms",
+   "sign-on payment timing",
+   "RSU vesting schedule",
+   "confirmation of level and title",
+   "Meta vesting schedule",
+   "Meta bonus payment timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Check the four terms above, time your exit around your next Meta vest, and accept."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Since they've called it their best offer, don't push on pay again."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Four-year average: about $608K a year, up from $552K in the first offer and above your current $526K, which is falling."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Assumes the sign-on is paid entirely in year one."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "That covers the full $200K of near-term stock you'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-03T16:34:12+00:00"
+}

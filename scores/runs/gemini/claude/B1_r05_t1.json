@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer for the market, and you should negotiate rather than accept it as-is."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "It's Halvern against what you'd give up at Varrowby, and you haven't told me that."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should negotiate rather than accept it as-is."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "RSUs: ask for about $1.25M, roughly 15% more. Equity is often the most flexible part of the offer"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows LinkedIn Senior PMs in the SF Bay Area at a median total compensation of $438,988"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "they aren't guaranteed. Without them, your pay drops sharply in year 5, when the new-hire grant runs out."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "I'd want Halvern to come out at least 15\u201320% ahead to justify the risk of a new role"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Make me whole is the easiest request for a company to approve.",
+    "quote": "\"Make me whole\" is the easiest request for a company to approve."
+   },
+   {
+    "claim": "Equity is often the most flexible part of the offer at public companies.",
+    "quote": "Equity is often the most flexible part of the offer at public companies."
+   }
+  ],
+  "missing_info_requested": [
+   "current base",
+   "target bonus",
+   "annual equity vesting amount",
+   "total unvested equity and vesting schedule",
+   "Varrowby bonus payout timing",
+   "cliff / vesting schedule details for Halvern grant"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for one package, all at once:"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base: ask for $255K. That's in the upper part of their posted range without being the cap."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "ask for your forfeited 2026 bonus plus the Varrowby equity that would have vested in the next 12 months."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for your forfeited 2026 bonus plus the Varrowby equity that would have vested in the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T17:09:22+00:00"
+}

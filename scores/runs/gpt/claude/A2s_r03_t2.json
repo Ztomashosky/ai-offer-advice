@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The money is now a real reason to move, about $330K more over 4 years with most of it up front."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. Financially this meets the bar we set, so take it if you're excited about the role and team."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Refresh grants have to fill that gap, and at Meta yours have already been building up for years."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refresh grants have to fill that gap, and at Meta yours have already been building up for years."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs usually vest quarterly around specific dates.",
+    "quote": "Meta RSUs usually vest quarterly around the 15th of February, May, August and November."
+   },
+   {
+    "claim": "Google can usually move a start date by a few weeks.",
+    "quote": "Google can usually move a start date by a few weeks."
+   },
+   {
+    "claim": "Sign-on repayment obligations usually shrink with tenure.",
+    "quote": "Usually the repayment shrinks the longer you stay, but check your offer letter."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "sign-on payment timing and clawback terms",
+   "next Meta RSU vest date",
+   "Meta bonus payout date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. Financially this meets the bar we set, so take it if you're excited about the role and team."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing for more is unlikely to get you anything now"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock per year (avg) | ~$250K | $270K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The money is now a real reason to move, about $330K more over 4 years with most of it up front."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K sign-on fully replaces the Meta stock you'd give up."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on fully replaces the Meta stock you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 2,
+ "at": "2026-11-03T16:27:11+00:00"
+}

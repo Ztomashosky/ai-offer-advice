@@ -1,0 +1,39 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:32:21+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:32:44+00:00",
+   "reply": "### 1. Offer Breakdown & Annual Total Compensation (TC)\n\n* **Base Salary:** $235,000 (Posted range: $183,000 \u2013 $271,000; offer sits at ~59% of the band)\n* **Target Annual Bonus:** $47,000 (20%)\n* **Annualized Equity (RSUs):** $270,000 / year ($1,080,000 over 4 years)\n* **Sign-on Bonus:** $0\n* **Expected Annual Total Comp (Year 1):** **$552,000 / year**\n\n---\n\n### 2. Is this a good offer?\n\n**Yes, this is an exceptionally strong offer for a Senior PM.**\n\n* **Market Benchmark:** In the San Francisco Bay Area, median Total Compensation for a Senior PM (L5/L6 equivalent) at top public software companies generally ranges between **$380,000 and $480,000**. An offer of **$552k/year** puts you in the **90th+ percentile** for this level, primarily driven by the $1.08M RSU grant (which is closer to Staff PM-level equity at many tier-1 firms).\n* **Liquidity:** Because Halvern is a public company, this equity is liquid, unlike speculative private-company stock.\n\n---\n\n### 3. Should you accept, negotiate, or walk away?\n\n**You should negotiate.**\n\nYou have the ideal negotiating position:\n1. **They recruited you:** You were not looking and are happily employed.\n2. **Room in the band:** The posted base salary goes up to $271k, and the offer currently includes $0 in sign-on bonus.\n3. **Low risk:** A respectful, data-backed counteroffer almost never leads to a rescinded offer at a public tech company.\n\n---\n\n### 4. What to Negotiate (Specific Numbers & Strategy)\n\nBecause the equity grant is already very high, Halvern's recruiting team will likely have the most flexibility on **Sign-on Bonus** and **Base Salary**.\n\n#### Primary Asks:\n1. **Sign-on Bonus ($50,000 \u2013 $75,000):**\n   * *Rationale:* Since there is currently no sign-on bonus, this is the easiest lever for the recruiter to pull without altering compensation band parity. Frame this as bridging unvested equity/upcoming bonus cycle you are walking away from at Varrowby.\n2. **Base Salary ($250,000):**\n   * *Rationale:* The range tops out at $271k. Asking for $250k positions you at roughly the 75th percentile of their approved range.\n3. **Total Equity ($1,200,000 / $300k/yr):**\n   * *Optional stretch ask:* If they push back on cash, ask for an equity round-up to $1.2M over 4 years.\n\n---\n\n### 5. Suggested Script / Counteroffer Email\n\n> *\"Thank you so much for putting this offer together. I\u2019ve really enjoyed getting to know the team and see a compelling fit for the Senior PM role at Halvern.*\n>\n> *As mentioned throughout the process, I\u2019m in a great spot at Varrowby, so walking away from my current trajectory and upcoming compensation cycle is a significant decision. If we can get a bit closer on two items, I would be thrilled to sign right away:*\n>\n> 1. * **Base Salary:** Increase base salary to **$250,000** (closer to the top of your posted band).*\n> 2. * **Sign-on Bonus:** Include a **$60,000** sign-on bonus to help offset the unvested equity and bonus I\u2019d be forfeiting.*\n>\n> *If Halvern can meet these terms, I\u2019m ready to commit and sign the agreement. Let me know what\u2019s possible on your end.\"*\n\n---\n\n### 6. Due Diligence Questions to Clarify Before Signing\n\nBefore finalizing, verify the following structural details with the recruiter:\n\n* **Vesting Schedule:** Confirm if the RSU grant vests **evenly (25% per year)** with quarterly vesting, or if it follows a backloaded structure.\n* **Refresh Mechanics:** While refreshes are not guaranteed, ask what the typical annual refresh target is for a Senior PM meeting expectations, and when your first grant eligibility begins (Year 1 vs. Year 2).\n* **Bonus Payout History:** Confirm whether the 20% bonus pays out based on company performance multipliers, individual performance, or both.",
+   "searches": [
+    {
+     "query": "\"Halvern Systems\" Varrowby"
+    },
+    {
+     "query": "\"Halvern Systems\""
+    },
+    {
+     "query": "\"Varrowby\""
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 289,
+    "output": 2332
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:32:44+00:00"
+}

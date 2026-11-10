@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but not a great one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years you'd earn only about 5\u20137% more"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate before deciding. Don't accept as is, and don't walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Google's L6 PM median total pay is about $607K on Levels.fyi. An offer averaging about $552K is below that median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google's L6 PM median total pay is about $607K on Levels.fyi."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "The median includes people who have been there longer and have stacked refreshes"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "by years 3\u20134 you'd likely be earning less than at Meta unless Google's refreshes fill the gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't get above roughly $600K on average, staying is a perfectly good choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google offers or lets candidates choose between alternative vesting schedules",
+    "quote": "Google has tried schedules like 33/33/22/12 and 36/28/20/16 before landing on its current schedule of 38/32/20/10, and some candidates are even offered a choice of vesting schedule."
+   },
+   {
+    "claim": "Having no sign-on is the easiest thing for Google to fix",
+    "quote": "Having no sign-on is the easiest thing for them to fix."
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule in writing / whether candidate can choose schedule",
+   "Typical L6 refresh grant sizes and timing of first grant",
+   "Dates of next Meta bonus and RSU vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need about $260K base, $1.4M in equity, and a $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That's about $350K/yr on average and brings the package to about the L6 median."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 looks great (+$216K), but that's mostly because the stock vests early, not because the package is bigger."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers Meta bonus and vesting you'd give up, and softens the drop in years 3\u20134."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-04T16:42:50+00:00"
+}

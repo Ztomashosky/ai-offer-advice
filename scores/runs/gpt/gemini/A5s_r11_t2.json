@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Since compensation is now resolved at top-tier L6 levels, the decision comes down to scope and career goals:"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this is a ~$230,000+ windfall over your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider taking this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If you meet expectations and receive ~$200k\u2013$250k in annual refreshers"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "your total compensation will hover steadily between $550k and $620k in Years 2 through 4."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If you meet expectations and receive ~$200k\u2013$250k in annual refreshers"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard equity vesting is typically front-loaded using specified schedules.",
+    "quote": "Google standard vesting is typically front-loaded at **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**."
+   },
+   {
+    "claim": "Google relies heavily on annual refresh grants to bridge declines in initial-grant vesting.",
+    "quote": "Google relies heavily on **annual refreshers** to bridge this gap."
+   },
+   {
+    "claim": "A one-year sign-on clawback is standard and a two-year clawback should be monthly-prorated after year one.",
+    "quote": "A 1-year clawback is standard; a 2-year clawback should be prorated monthly after Year 1"
+   },
+   {
+    "claim": "Google PM work requires broader alignment, policy reviews, and executive approval.",
+    "quote": "Requires broader cross-functional alignment, policy reviews, and executive buy-in."
+   }
+  ],
+  "missing_info_requested": [
+   "The sign-on bonus clawback period and repayment terms",
+   "The exact monthly or quarterly RSU vesting schedule",
+   "Whether a Meta RSU vest or annual bonus payout is imminent"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, you should strongly consider taking this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Next Steps Before You Sign"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Year 1 Equity Vest** | ~$200,000 \u2013 $250,000 | $270,000 *(even)* / ~$356,000 *(front-loaded)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without the sign-on bonus, your compensation will normalize to **~$558,000 \u2013 $644,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google effectively **reimbursed you in liquid cash**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 2,
+ "at": "2026-11-02T23:39:12+00:00"
+}

@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but it isn't a strong reason to leave a job you're happy in."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Against your $526K at Meta, that's about $26K more, or roughly 5%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 262000,
+  "base_ask_high": 262000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Tie the ask to the Meta stock you'd give up and the refresh pipeline you'd have to rebuild."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Similar L6 roles in the Bay Area show median pay around $485,400"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "These figures exclude any refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move from about 5%."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has the most compensation flexibility in stock.",
+    "quote": "this is usually where Google has the most room to move."
+   },
+   {
+    "claim": "Recruiters can usually approve sign-on bonuses more easily than base increases.",
+    "quote": "Recruiters can usually approve this more easily than base increases."
+   },
+   {
+    "claim": "A base request below the posted maximum is easy for Google to defend.",
+    "quote": "$262K is below the $271K top of the range, so it's easy for them to defend."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire grant vesting schedule",
+   "Whether the first-year bonus is prorated",
+   "Timing and vesting of the first refresh grant",
+   "Stock-price or averaging window used to set shares",
+   "Whether the start date can be delayed until after the Meta bonus"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $262K, a new-hire grant of $1.4M and a $100K sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To get me to yes, I'd need a base of $262K, a new-hire grant of $1.4M and a $100K sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$235K base + $47K bonus + $270K stock = about $552K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "you'd average about $615\u2013630K/yr, roughly 17\u201320% above Meta, plus a one-time sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $526K counts $250K/yr of stock, but only about $200K actually vests in the next 12 months."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You may lose money you've already earned. Leaving Meta before its annual bonus pays out could cost you that year's ~$36K."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-04T16:26:31+00:00"
+}

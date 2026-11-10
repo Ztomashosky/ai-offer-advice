@@ -1,0 +1,43 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 5,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:44:15+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:45:08+00:00",
+   "reply": "**Short answer:** As offered, this is a pay cut for a move to the same level. Negotiate, and be ready to walk away if Google can't at least match what you make now.\n\n## The numbers\n\n| | Meta (stay) | Google, equity vests evenly | Google, equity vests front-loaded (33/33/22/12) |\n|---|---|---|---|\n| Base | $240K | $215K | $215K |\n| Bonus | $36K | $43K | $43K |\n| Stock vesting in year 1 | ~$250K | $200K | $264K |\n| **Year 1 total** | **~$526K** | **$458K (\u2212$68K)** | **$522K (\u2212$4K)** |\n| Year 4 stock (from this grant only) | \u2014 | $200K | $96K |\n\nWhat drives this:\n\n1. **Ask how the stock vests. Your year 1 depends on it.** Google has used several different schedules. One guide says that for new-hire grants, the standard structure is 33% in year one, 33% in year two, 22% in year three, and 12% in year four. Levels.fyi data shows others, including 38/32/20/10 and even 25% a year. If yours vests evenly, you lose about $68K in year 1. If it's front-loaded, year 1 is roughly a wash, but your pay drops sharply in years 3\u20134 unless refresh grants fill the gap. Those refreshes aren't guaranteed, as your recruiter said.\n2. **It's the same level.** Meta IC6 and Google L6 are equivalent, so there's no promotion here to make up for less money.\n3. **Your base is below the middle of the range.** $215K sits under the midpoint of $183K\u2013$271K (about $227K). As an experienced IC6 they recruited, you should be in the upper half.\n4. **You'd give up money by leaving.** You'd walk away from about $200K of Meta stock vesting next year, and maybe a year's bonus, depending on when Meta pays it relative to your exit. Meta's $250K a year in stock likely already includes stacked refreshes, which continue if you stay. At Google, you'd get no refresh stock in your first year.\n5. **You have strong leverage.** You weren't looking, you're happy, and staying put is a credible alternative. Google came to you. That's the best position to negotiate from.\n\n## What to ask for\n\nAim high, and be specific:\n\n| Item | Current | Ask | Reasonable place to land |\n|---|---|---|---|\n| Base | $215K | **$255K** | $240\u2013250K |\n| Bonus (20% of base) | $43K | rises with base (~$51K) | ~$49K |\n| New-hire stock | $800K | **$1.2M** | $1.0\u20131.1M |\n| Sign-on bonus | $0 | **$75K** (split over years 1\u20132 is fine) | $40\u201360K |\n\nIf you land in the middle of those ranges, your year 1 comes to roughly $570\u2013620K, depending on the vesting schedule. That's about 10\u201315% above Meta, which is a sensible premium for switching jobs when you didn't want to.\n\n**What to say to the recruiter (roughly):**\n> \"I'm excited about the role, but I wasn't looking and I'm happy at Meta. My current total comp is about $526K a year, I'd be walking away from about $200K in stock vesting over the next 12 months plus my annual bonus, and this is a lateral move. To make the switch, I'd need base at $255K, a new-hire grant of $1.2M, and a $75K sign-on to cover what I'd forfeit. If you can get close to that, I'm ready to sign.\"\n\nTips:\n- **Stock and sign-on bonuses usually have more room than base.** Base is capped by the posted range. If they push back on base, ask them to move the stock or sign-on instead.\n- **Get the vesting schedule in writing**, and compare offers year by year, not just by the total grant.\n- **Bring documents.** Your Meta equity statement showing upcoming vests makes the \"money I'd give up\" argument concrete.\n- **Time your start date** to begin after your next Meta stock vest and, if possible, after your bonus pays out.\n- Don't make up a competing offer. Your current job is your real alternative, and it's strong.\n\n## Decide your walk-away point now\n\nI'd walk away if Google won't get your **guaranteed year 1 to at least ~$550K, with years 2\u20134 (not counting refreshes) not falling well below $526K.** Refreshes are a bonus if they come, so don't count on them when deciding. Since compensation matters a lot to you and you're happy at Meta, there's little reason to take a lateral move for less.\n\n**Bottom line:** Don't accept as is. Negotiate firmly. Ask for about $255K base, a $1.2M stock grant and a $75K sign-on. Accept if they meet your walk-away point, and stay at Meta if they don't.",
+   "searches": [
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google RSU vesting schedule new hire 2025"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 Product Manager salary San Francisco Bay Area levels.fyi"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 49419,
+    "output": 3658,
+    "web_searches": 4
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:45:08+00:00"
+}

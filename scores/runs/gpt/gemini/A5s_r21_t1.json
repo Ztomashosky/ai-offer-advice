@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is an average initial offer, but it is not compelling enough to leave Meta as a happy IC6."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "this offer does not provide enough premium to justify the risk and friction of switching companies."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Google L6 PM equity grants often reach **$1.2M to $1.4M+** for strong candidates."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While Google\u2019s stacked refreshes are valuable, **Meta also gives annual stackable refreshes.**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A $0 sign-on is standard for an *opening* offer, but unacceptable for a lateral hire at L6."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google frequently uses sign-on bonuses to bridge forfeited equity and bonus timing when recruiting from Meta.",
+    "quote": "Google frequently uses sign-on bonuses to bridge unvested equity and performance bonus timing when poaching from Meta."
+   },
+   {
+    "claim": "Google L6 PM equity grants often reach $1.2M to $1.4M or more.",
+    "quote": "Google L6 PM equity grants often reach **$1.2M to $1.4M+** for strong candidates."
+   },
+   {
+    "claim": "Google new-hire grants typically use one of two specified front-loaded vesting schedules.",
+    "quote": "Google new-hire grants typically follow a **front-loaded vesting schedule**"
+   },
+   {
+    "claim": "Google rarely rescinds an offer after a reasonable professional counteroffer.",
+    "quote": "Google will rarely pull an offer for making a reasonable, professional counter-proposal."
+   },
+   {
+    "claim": "Google expects L6 candidates to negotiate.",
+    "quote": "Google values Meta PM talent and expects an L6 candidate to negotiate."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the offer letter specifies front-loaded or even 25% annual vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary:** $255,000 (to avoid taking a step back on fixed compensation)."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Equity:** $1,350,000 over 4 years."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity ($1.08M / 4 years):** While $270k/year on paper is solid"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "target annualized compensation well above Meta\u2019s baseline, while securing upfront cash"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "securing upfront cash to offset any unvested stock or bonus you forfeit by leaving"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:53:07+00:00"
+}

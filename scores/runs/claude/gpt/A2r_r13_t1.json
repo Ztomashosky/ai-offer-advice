@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a **good, market-competitive Google L6 offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only about **5% above your current stated run rate**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the current offer immediately, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "median annual stock of approximately **$230K**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "puts Google L6 Senior PM median compensation at approximately **$514K nationally**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as **upside, not guaranteed compensation**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If the offer remains close to:\n\n- $235K base\n- $1.08M equity\n- no sign-on\n\nI would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants front-loaded 38/32/20/10",
+    "quote": "Google\u2019s new-hire grants are commonly reported as front-loaded **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm vesting schedule in writing",
+   "typical L6 PM refresher range",
+   "eligibility and proration of first refresh"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base: $260,000**\n- **New-hire equity: $1,400,000**\n- **Sign-on: $200,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.4M produces a four-year average of $350K/year in initial equity."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The recurring package would average approximately **$662K/year** before sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "your total-comp comparison already captures the economic value of staying versus leaving"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $200K sign-on to help offset the equity I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:20:55+00:00"
+}

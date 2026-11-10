@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Against your Meta run rate of $526K, that's a gain of about 16%, up from about 5% before."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, assuming you're happy with the role, team and manager."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 36000,
+  "signon_ask_high": 36000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "A strong first performance cycle at Google matters, because refreshes are what fill that gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Base and equity are fixed once a best offer is stated, but small sign-on bonuses tied to specific losses can still get approved.",
+    "quote": "\"Best offer\" usually means base and equity are fixed. A small sign-on tied to a specific loss sometimes still gets approved."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "Meta bonus plan terms / payout timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, assuming you're happy with the role, team and manager."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "The one remaining gap is my 2026 Meta bonus, about $36K, which I'll forfeit by leaving before it pays out. Is a sign-on to cover that possible?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| RSUs per year (average) | $270K | $320K |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is clearly better under any schedule: $130K\u2013$300K more than your actual next 12 months at Meta."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "That's true even after you give up the $200K of Meta RSUs, because the $476K figure already includes them."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The one remaining gap is my 2026 Meta bonus, about $36K, which I'll forfeit by leaving before it pays out. Is a sign-on to cover that possible?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-04T16:19:51+00:00"
+}

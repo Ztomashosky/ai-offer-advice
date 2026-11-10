@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong offer**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "an increase of over **80%** compared to your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate, but strategically:"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "This gives you an additional buffer against the Year 3/4 drop-off."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "A typical Google L6 PM total compensation averages **$500,000\u2013$600,000/yr**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google designs it this way expecting annual equity refreshers (which vest evenly at 25%/year) to stack on top and fill that gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "at the L6/IC6 level anywhere in the Bay Area."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they hold firm and say this is their \"best and final,\" **you should still accept it**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard new-hire equity vesting schedule is 33%, 33%, 22%, and 12%.",
+    "quote": "Google\u2019s standard 4-year new-hire equity vests **33% in Year 1, 33% in Year 2, 22% in Year 3, and 12% in Year 4**."
+   },
+   {
+    "claim": "Meta typically vests RSUs evenly at 25% annually.",
+    "quote": "Unlike Meta (which typically vests RSUs evenly at 25% per year)"
+   },
+   {
+    "claim": "Google refresh grants vest evenly and are designed to fill the initial-grant drop-off.",
+    "quote": "Google designs it this way expecting annual equity refreshers (which vest evenly at 25%/year) to stack on top and fill that gap."
+   },
+   {
+    "claim": "Equity is the easiest compensation lever for big-tech compensation committees.",
+    "quote": "Equity is the easiest lever for big tech compensation committees."
+   },
+   {
+    "claim": "The standard Google L6 sign-on bonus is $50,000 to $100,000.",
+    "quote": "$200k is already high for L6 (standard is $50k\u2013$100k)."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms",
+   "sign-on payout timing and structure"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary:** $270,000 (near the top of the advertised range)"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Counter at **$1.5M over 4 years** (approx. $375k/yr)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Counter at **$1.5M over 4 years** (approx. $375k/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus** | \u2014 | $200,000 *(one-time)* | \u2014 | $50,000 *(amortized)*"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "offset the unvested equity and trajectory I\u2019d be walking away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:13:45+00:00"
+}

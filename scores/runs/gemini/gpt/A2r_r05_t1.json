@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "So this is respectable, but not an obvious top-of-band L6 offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "above your stated normal Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Google would need to provide roughly $605,000 annually. At the offered base, that requires a four-year equity grant of approximately"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately **$606,000 median Bay Area compensation for Google L6 PMs**."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A separate recent US dataset puts L6 PM median compensation around $514,000 and the 90th percentile around $671,000."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value refresh grants at zero in your downside case"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Can you help me understand how the committee mapped my current scope to L6, and whether L7 was considered?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Meta IC6 and Google L6 are not mechanically identical."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google makes little or no movement and the roles are otherwise comparable."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vest percentage breakdown across years 1-4",
+   "First vest date",
+   "Grant share price conversion timing",
+   "First refresh eligibility timing",
+   "First annual bonus proration terms",
+   "Clawback / repayment terms on sign-on or equity"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move compelling, I\u2019d like to see whether we can get to $260,000 in base, $1.4 million in new-hire equity, and a $125,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.08 million grant sounds large, but annualized it is $270,000."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "compensates for a slightly lower recurring number with a substantial sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google may respond that its first-year equity replaces your Meta vesting. That is partly fair"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the ongoing premium is relatively modest given the risk and forfeited compensation involved in making a move."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:30:58+00:00"
+}

@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Compared with the market, the offer is decent but not top of range."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In guaranteed money, Google pays about $76k (+16%) more in year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Before you sign, ask the recruiter for more money."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi reports a median of $607K for Google L6 PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports a median of $607K for Google L6 PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure includes current employees whose refresh grants have stacked up and whose stock has risen"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Use guaranteed pay, not refresh grants that might not come."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After year 4, Google settles near $532k a year, about what you make now."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "After year 4, Google settles near $532k a year, about what you make now."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has the most negotiating room on equity.",
+    "quote": "Equity is where Google usually has the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact Google RSU vesting schedule",
+   "How the grant's dollar value is converted into shares",
+   "When the Meta bonus pays",
+   "Any Meta bonus lost by leaving before payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Specifically, a $1.35M equity grant, a $100k sign-on to offset what I'd leave behind at Meta, and a $255k base."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Every extra $100k of grant adds $25k a year for four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of that comes from the one-time new-hire grant."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "$240k + $36k + $200k = **$476k**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $100k sign-on to offset what I'd leave behind at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T17:03:59+00:00"
+}

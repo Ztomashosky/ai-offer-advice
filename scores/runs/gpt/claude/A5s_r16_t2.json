@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this one comes to about **$378K**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take it, as long as you actually want the job.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Google, with the recruiter's refresh example** | $758K | $621K | $683K | $746K | **$2.81M**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**Google, with the recruiter's refresh example** | $758K | $621K | $683K | $746K | **$2.81M**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "**Google, with the recruiter's refresh example** | $758K | $621K | $683K | $746K | **$2.81M**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If they don't, staying is still a perfectly good choice, because you're already well paid where you are."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "sign-on repayment period and whether repayment is full or prorated",
+   "whether the sign-on is paid as a lump sum or installments",
+   "timing of the next Meta RSU vest",
+   "Google RSU cliff, vesting frequency, and whether vesting is even over four years"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, take it, as long as you actually want the job.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "don't ask for more money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google's final offer pays $240K base, a $48K target bonus and $270K/yr in RSU vesting"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the guaranteed gain comes in year 1. After that, the guaranteed edge is about $32K/yr."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "**Meta, stay** | $476K | $526K | $526K | $526K | **$2.05M**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it fully covers the $200K of Meta stock you'd lose."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 16,
+ "turn": 2,
+ "at": "2026-11-04T17:11:47+00:00"
+}

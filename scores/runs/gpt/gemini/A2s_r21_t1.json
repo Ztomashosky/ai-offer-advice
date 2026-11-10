@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, it is a solid baseline offer, but it is not a top-of-band offer for an L6 PM in the Bay Area."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "While Years 1 and 2 represent a jump over your Meta compensation, your Year 4 compensation drops below your current Meta floor"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate. You have the strongest possible leverage:"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "your Year 4 compensation drops below your current Meta floor unless refreshes cover the gap"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "your Year 4 compensation drops below your current Meta floor unless refreshes cover the gap (which are performance-dependent and never guaranteed)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The 20% target bonus is standard for Google L6.",
+    "quote": "Target Bonus (20% / $47,000): Standard for Google L6."
+   },
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% front-loaded vesting schedule in the US.",
+    "quote": "Google typically uses front-loaded vesting (typically 33% / 33% / 22% / 12% in the US)."
+   },
+   {
+    "claim": "A zero sign-on is Google's standard initial positioning when recruiting a Meta IC6.",
+    "quote": "Leaving a $0 sign-on bonus on the table when poaching an IC6 from Meta is standard initial positioning by Google recruiters"
+   },
+   {
+    "claim": "Sign-on is the easiest compensation lever to move.",
+    "quote": "but it is the easiest lever to move."
+   },
+   {
+    "claim": "Google refresh grants are performance-dependent.",
+    "quote": "unless refreshes cover the gap (which are performance-dependent and never guaranteed)."
+   }
+  ],
+  "missing_info_requested": [
+   "Written confirmation of the GSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Present all three requests (Base, Equity, Sign-on) together so they have room to trade off"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity ($1,080,000 / 4 years): This averages to $270,000/year on paper"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus ($0): Leaving a $0 sign-on bonus on the table"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested Meta RSUs ($200k vesting in next 12 months) and missing your upcoming Meta bonus cycle."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:40:44+00:00"
+}

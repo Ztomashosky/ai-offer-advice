@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is below the going rate."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Over four years, the offer pays less than you make at Meta now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as it stands, and don't walk away yet. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1000000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "On Levels.fyi, median total compensation at L6 is $606,937 per year, while this offer averages $458k a year."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, median total compensation at L6 is $606,937 per year"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "a 4-year average of roughly $550k or more, before refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "you can say no if Google won't reach about $550k or more a year averaged over four years."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually the easiest part of a Google offer to move.",
+    "quote": "Stock is usually the easiest part of a Google offer to move."
+   },
+   {
+    "claim": "Google often asks candidates for proof of current compensation.",
+    "quote": "Share your Meta numbers, since Google often asks for proof."
+   }
+  ],
+  "missing_info_requested": [
+   "Google vesting schedule in writing",
+   "Typical refresh size for strong L6 performers",
+   "Total unvested Meta equity"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $255k. That's within the posted range, and it raises your target bonus to $51k."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If Google agrees to all of it, your 4-year average is about $606k, right at the L6 median."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "your real Meta pay for the next year is about $476k"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Justify it with the Meta stock you'd give up: everything unvested, not just the next $200k."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:05:51+00:00"
+}

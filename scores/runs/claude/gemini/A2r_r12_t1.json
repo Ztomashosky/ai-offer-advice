@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "it is a strong baseline offer, but you should not accept it as-is"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your Year 1 cash flow will jump from **$526k to ~$692k** (a **+31% increase**)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "negotiate on three specific components"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "an equity grant of **$1.25M** would ensure strong alignment with long-term retention"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For L6 roles, sign-on bonuses typically range from **$50,000 to $100,000+**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refresher grants are designed to backfill this drop, but as the recruiter noted, refreshers depend on performance ratings"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away:** They want you, and you have strong leverage"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loaded vesting schedule 38/32/20/10",
+    "quote": "**38% in Year 1, 32% in Year 2, 20% in Year 3, and 10% in Year 4**"
+   },
+   {
+    "claim": "Google holds sign-on as negotiation lever",
+    "quote": "Google frequently excludes sign-on bonuses from opening offers, holding them as a primary lever during negotiation"
+   },
+   {
+    "claim": "L6 sign-on range",
+    "quote": "For L6 roles, sign-on bonuses typically range from **$50,000 to $100,000+**"
+   },
+   {
+    "claim": "refreshers vest over 4 years 25%/year",
+    "quote": "which Google typically vests over 4 years (25%/year)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "negotiate on three specific components"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "The current base of $235k is below my current $240k base at Meta"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Initial RSUs/GSUs** | ~$250,000 | $410,400 (38%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total Year 1 with Target Counter:** ~$830,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving Meta means walking away from upcoming vests and performance grants. To bridge that transition, I\u2019m requesting a **$100,000 sign-on bonus**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:10:34+00:00"
+}

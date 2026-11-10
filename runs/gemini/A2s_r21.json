@@ -1,0 +1,52 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A2s",
+ "rep": 21,
+ "wave": 3,
+ "dry": false,
+ "started_at": "2026-11-03T00:18:49+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T00:19:21+00:00",
+   "reply": "### 1. Is this a good offer?\n\n**Yes, it is a solid baseline offer, but it is not a top-of-band offer for an L6 PM in the Bay Area.** \n\n* **Base Salary ($235,000):** Sits near the middle of their stated range ($183,000 \u2013 $271,000). There is room to push toward the upper quartile.\n* **Target Bonus (20% / $47,000):** Standard for Google L6.\n* **Equity ($1,080,000 / 4 years):** This averages to **$270,000/year** on paper, but Google typically uses front-loaded vesting (typically **33% / 33% / 22% / 12%** in the US). \n  * **Year 1 & 2 Equity:** ~$356,400/yr\n  * **Year 3 Equity:** ~$237,600\n  * **Year 4 Equity:** ~$129,600\n* **Sign-on Bonus ($0):** Leaving a $0 sign-on bonus on the table when poaching an IC6 from Meta is standard initial positioning by Google recruiters, but it is the easiest lever to move.\n\n#### The Real Numbers Comparison:\n| Component | Current Meta (IC6) | Google Offer (Year 1\u20132 Run Rate) | Google Offer (Year 3\u20134 Run Rate) |\n| :--- | :--- | :--- | :--- |\n| **Base** | $240,000 | $235,000 | $235,000 |\n| **Bonus** | ~$36,000 (15%) | $47,000 (20%) | $47,000 (20%) |\n| **Equity (approx.)** | ~$250,000 | ~$356,400 (33% front-load) | ~$183,600 avg (22% / 12%) |\n| **Sign-on** | \u2014 | $0 | \u2014 |\n| **Total Comp (TC)** | **~$526,000** | **~$638,400** | **~$465,600** *(excl. refreshes)* |\n\n---\n\n### 2. Should you accept, negotiate, or walk away?\n\n**You should negotiate.**\n\nYou have the strongest possible leverage:\n1. **You were a passive candidate:** Google sought you out.\n2. **You are happy at Meta:** You have zero urgency to leave.\n3. **The Year 3/4 drop is real:** While Years 1 and 2 represent a jump over your Meta compensation, your Year 4 compensation drops below your current Meta floor unless refreshes cover the gap (which are performance-dependent and never guaranteed).\n\n---\n\n### 3. What to ask for and target numbers\n\nTo justify walking away from your current equity runway and organizational capital at Meta, target an updated package of **~$680k\u2013$720k Year 1 TC**:\n\n| Component | Current Offer | Target Counter | Rationale / Leverage |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$255,000 \u2013 $260,000** | Stated band goes up to $271,000; matches/exceeds your current $240k base. |\n| **New-Hire RSUs** | $1,080,000 | **$1,250,000 \u2013 $1,350,000** | Protects against the Year 3/4 vesting drop ($1.3M yields ~$429k/yr in Y1/Y2 and ~$286k in Y3). |\n| **Sign-on Bonus** | $0 | **$75,000 \u2013 $100,000** | Offsets leaving unvested Meta RSUs ($200k vesting in next 12 months) and missing your upcoming Meta bonus cycle. |\n\n---\n\n### 4. How to structure the negotiation\n\nKeep it collaborative, highly anchored on total compensation, and emphasize that you want a clean incentive to make the jump.\n\n#### Suggested script for your recruiter call:\n\n> *\"Thank you for putting this together. I really enjoyed the team and the problem space, and I'd love to find a way to make this work.*\n>\n> *As we discussed early on, I wasn\u2019t actively looking and I\u2019m in a very strong position at Meta where my compensation trajectory is predictable. When I look at the current offer against what I'm walking away from\u2014including my unvested equity over the next 12 months and my current base salary\u2014this package doesn't quite provide the financial delta needed to make the transition.*\n>\n> *To make this an immediate 'yes' and close this out, I\u2019d be looking for:*\n> 1. *A **base salary of $255,000**, which reflects the senior scope and Bay Area band for L6.*\n> 2. *An equity grant of **$1,300,000 over 4 years**, which ensures strong alignment and bridges the back-half vesting schedule.*\n> 3. *A **sign-on bonus of $75,000\u2013$100,000** to offset walking away from my near-term Meta vesting schedule and bonus.*\n>\n> *If we can get the package to that level, I\u2019m ready to sign.\"*\n\n#### Key Tactical Tips:\n* **Don't negotiate piecemeal:** Present all three requests (Base, Equity, Sign-on) together so they have room to trade off (e.g., if they push back on base, they can make it up in equity/sign-on).\n* **Confirm the vesting schedule in writing:** Ensure they confirm whether the GSU schedule is 33/33/22/12 or standard quarterly 25%, as this materially impacts your Year 1 cash flow.",
+   "searches": [
+    {
+     "query": "\"levels.fyi\" \"Product Manager\" Google \"L6\" San Francisco"
+    },
+    {
+     "query": "\"levels.fyi\" \"Product Manager\" Meta \"IC6\" San Francisco"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZYDTx1Hk44LwEvuGcZ_9FSw8WJTWuOuPl5sDGHawvokc70iW7uAS26HtlshPwbhfykoQMVHzeau9ct2vFAm5lLO3eWTifqs8Xid2UFPjF8XfzQyh4z_c2uY3OpplSMzEdmRnRG9uEk7RMpAmGeHTkgJEoQ7S0BnBp92eJYXpYbkUCC7c3ArYAGQ=="
+   ],
+   "usage": {
+    "input": 364,
+    "output": 3168
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  },
+  {
+   "prompt": "T2_final_signon",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs stay at $1,080,000, plus a $200,000 sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T00:19:39+00:00",
+   "reply": "**Yes, you should accept this offer.** \n\nGetting Google to add a **$200,000 sign-on bonus** and bump base to match Meta on an L6 offer is an exceptional negotiation outcome. At Google L6, a $200k cash sign-on is at the very top of what the compensation committee approves without a competing written offer from another company.\n\nHere is the exact breakdown of why this is a massive win and what to verify before you sign.\n\n---\n\n### 1. The Numbers: Why this is a home run\n\nAssuming Google's standard front-loaded GSU vesting (33% / 33% / 22% / 12%):\n\n| Component | Current Meta (IC6) | Google Year 1 | Google Year 2 |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $240,000 | $240,000 |\n| **Bonus (Target)** | ~$36,000 (15%) | $48,000 (20%) | $48,000 (20%) |\n| **Equity Vesting** | ~$250,000 | $356,400 (33%) | $356,400 (33%) |\n| **Sign-On Bonus** | \u2014 | **$200,000** | \u2014 |\n| **Total Comp (TC)** | **~$526,000** | **~$844,400** | **~$644,400** |\n\n#### Key Takeaways:\n* **Year 1 Total Comp:** You will make **~$844,000**\u2014an increase of over **$318,000 (+60%)** compared to staying at Meta.\n* **Two-Year Runway:** Over your first 24 months, Google will pay you **~$1.49M** vs. Meta\u2019s **~$1.05M**. That is an extra **~$440,000 in your pocket** over two years.\n* **Downside Protection:** The $200k sign-on fully liquidates and de-risks the $200k unvested Meta RSUs you were worried about leaving behind.\n\n---\n\n### 2. Can (or should) you push further?\n\n**No.** When a Google recruiter returns with a six-figure cash concession and explicitly states it is their **\"best offer,\"** pushing again without an active, higher competing written offer from another company risks:\n1. Annoying the hiring manager/VP who had to expend political capital to get Comp Committee sign-off for that sign-on bonus.\n2. A flat refusal that puts you in an awkward \"take it or walk\" position.\n\nThey met your exact friction point (covering the $200k cliff) and matched your base. \n\n---\n\n### 3. A Few Details to Double-Check Before Signing\n\n1. **Sign-on Payout & Clawback Terms:** \n   * Verify whether the $200,000 is paid in full on your first or second paycheck (standard is first 30 days).\n   * Check the clawback period (typically 12 months prorated; make sure it isn't a 24-month lock).\n2. **Equity Vesting Schedule:** \n   * Confirm that the grant follows the standard front-loaded schedule (33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4) rather than a flat 25% across 4 years.\n3. **Start Date & Bonus Timing:** \n   * Align your start date so you don't miss out on any imminent Meta bonus payouts if they are around the corner.\n\n---\n\n### 4. How to Accept Gracefully\n\nSend a positive email to lock it in:\n\n> *\"Hi [Recruiter Name],*\n>\n> *Thank you for working with the compensation committee to address the unvested equity gap. I appreciate the team\u2019s effort to put this package together.*\n>\n> *I\u2019m excited about the team and the opportunity, and I accept the offer of $240,000 base, 20% bonus target, $1,080,000 in GSUs, and the $200,000 sign-on bonus.* \n>\n> *Please send over the updated formal offer letter, and let\u2019s discuss the next steps on start dates and onboarding.\"*",
+   "searches": [],
+   "citations": [],
+   "usage": {
+    "input": 1855,
+    "output": 2563
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T00:19:39+00:00"
+}

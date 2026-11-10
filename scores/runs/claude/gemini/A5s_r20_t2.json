@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "a top-of-market concession"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$232,000 to +$318,000 (+44% to +60%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A $200,000 sign-on bonus is at the extreme high end of what Google compensation committees approve for L6"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Pushing further on base or equity at this stage carries diminishing returns"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "$200k sign-on is extreme high end approved for L6",
+    "quote": "A $200,000 sign-on bonus is at the extreme high end of what Google compensation committees approve for L6"
+   },
+   {
+    "claim": "Google standard vesting front-loaded",
+    "quote": "Google standard GSU vesting is often front-loaded (33% Y1 / 33% Y2 / 22% Y3 / 12% Y4)"
+   },
+   {
+    "claim": "standard clawback period",
+    "quote": "What is the clawback period? (Standard is typically 12 months for Year 1 payouts)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout structure and clawback",
+   "equity vesting schedule",
+   "team and scope alignment"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Accept the offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Accept the offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years, your guaranteed floor at Google (assuming target bonus and stock price parity) is approximately **$2.5M+**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$200k in **guaranteed cash**, you fully neutralize your lost Meta RSUs in Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You Got Full Cash Replacement for Paper Risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-03T00:51:56+00:00"
+}

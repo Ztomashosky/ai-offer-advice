@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a **reasonable market offer for a Google L6 PM**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only about **5% above your current compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept the offer as-is. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1300000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "It is near the upper end of reported L6 compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately **$551K median Bay Area compensation for Google L6 PM**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A separate recent U.S. dataset showed $240K median base and about $514K median TC"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refresh grants as **upside, not guaranteed compensation**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at the equivalent level at Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google stays near **$552K with no sign-on**, I would stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "more new-hire equity likely highest-impact lever",
+    "quote": "**More new-hire equity** \u2014 likely the highest-impact component."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "first vest date",
+   "whether first annual refresh is full/prorated/unavailable"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000 - New-hire equity: $1,500,000 - Sign-on bonus: $200,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are giving up approximately $200K of near-term Meta vesting."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, assuming flat stock prices and excluding refreshes"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "annualized recurring compensation of approximately:"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on bonus** \u2014 explicitly tied to your Meta vesting and switching cost."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:57:49+00:00"
+}

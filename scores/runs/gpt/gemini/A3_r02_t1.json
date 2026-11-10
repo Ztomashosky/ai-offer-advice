@@ -1,0 +1,136 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a top-of-band, exceptional offer for a Google L6 Product Manager."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, this is a significant step up from your current package."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate first, then plan to accept"
+  },
+  "intensity": 3,
+  "base_ask_low": 270000,
+  "base_ask_high": 270000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 225000,
+  "signon_ask_high": 225000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "You should frame your negotiation around risk premium and career stability rather than entitlement"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Median total compensation for Google L6 PMs in the Bay Area typically sits between $500,000 and $580,000/year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "those stacking refreshers are designed to bridge that drop and keep your compensation above $600k+."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard new-hire equity uses a front-loaded 33%/33%/22%/12% vesting schedule.",
+    "quote": "Google\u2019s standard new-hire equity (GSUs) does not vest evenly. Instead, it uses a front-loaded 33% / 33% / 22% / 12% schedule"
+   },
+   {
+    "claim": "Google refresh grants vest evenly at 25% per year over four years.",
+    "quote": "Google gives annual equity refreshers (which vest evenly at 25%/yr over 4 years)."
+   },
+   {
+    "claim": "Steady performance will produce refreshers designed to keep compensation above $600,000.",
+    "quote": "With steady performance (Consistently Meets / Exceeds), those stacking refreshers are designed to bridge that drop and keep your compensation above $600k+."
+   },
+   {
+    "claim": "A single counter-offer would not risk rescission of the offer.",
+    "quote": "You can make a single, high-leverage counter-offer without risking the offer being rescinded."
+   }
+  ],
+  "missing_info_requested": [
+   "team and product scope",
+   "charter and engineering headcount",
+   "sign-on clawback terms",
+   "first-year bonus timing and proration"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "your primary negotiation levers are Equity (GSUs) and Sign-on Bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for $270,000 (bringing you to the top of the posted band)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Ask to increase the grant from $1.34M to $1.50M over 4 years (~$40k/yr increase)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your offer averages ~$697,000/year across 4 years (or ~$954,000 in Year 1 when factoring in the front-loaded vest and sign-on bonus)."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 cash sign-on completely offsets 100% of the Meta equity you would walk away from in your next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:12:08+00:00"
+}

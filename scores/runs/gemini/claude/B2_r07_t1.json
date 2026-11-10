@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair, roughly market-rate offer for Google L6."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "The offer is about even with what a typical Meta IC6 PM earns."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate firmly, and if Google won't move, walking away is a perfectly good result."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 265000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is usually where companies have the most room. Equity separates good offers from great ones."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "One 2026 estimate puts them at about $495k total compensation, including a base salary of $212k."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Because refreshes stack, this is often large by IC6."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "The later years depend on refreshes, and the recruiter said those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Your current level at Meta: Levels.fyi shows L6 Product Manager $578K for Meta."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Walk away unless Google covers what you'd forfeit at Meta and still leaves you about 15\u201320% ahead."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually where companies have the most room to negotiate",
+    "quote": "This is usually where companies have the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "current Meta pay and unvested stock schedule",
+   "vesting schedule",
+   "typical refresh size/timing",
+   "sign-on clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask in writing for one total package, not one item at a time."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Stock (new-hire grant) | $1.08M | $1.4M\u20131.5M"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "plus $270K a year in stock if the grant vests evenly."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all of it, you'd be at roughly $670K a year on average, plus a one-time sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You shouldn't take a loss to switch. \"Make me whole\" requests are standard and easy to justify."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T17:17:45+00:00"
+}

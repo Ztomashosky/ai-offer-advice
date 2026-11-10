@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "The final offer is also strong relative to current reported Google L6 PM compensation: recent self-reported data places median L6 PM compensation around $514,000"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Financially, the package now offers a legitimate switching premium: 1. Same base 2. Higher target bonus 3. 28% more annualized initial equity than your current $250,000 run rate 4. 15.6% higher annualized total compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Assuming the Google role, manager and scope are at least comparable to Meta, I would accept."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "recent self-reported data places median L6 PM compensation around $514,000, although those figures mix existing employees and new offers."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "recent self-reported data places median L6 PM compensation around $514,000, although those figures mix existing employees and new offers."
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Also recognize that maintaining Meta\u2019s current $250,000 annual equity run rate likely depends partly on Meta refreshers, so neither long-term run rate is completely guaranteed"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Treat future refreshers as upside, not guaranteed compensation"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "create a substantial year-four cliff. Google\u2019s annual compensation process includes equity refresh determinations based on factors such as performance, location and role"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A roughly 16% increase at the same nominal level is large enough to take seriously."
+  },
+  "walkaway_tied_to": "none",
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting percentages and dates",
+   "Share-conversion / grant-date methodology",
+   "Refresher eligibility timing and proration",
+   "First-year bonus proration rules",
+   "Start date flexibility"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "take it if you like the role and team reasonably well"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would not push compensation again after they explicitly said this is final."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If the $1.28 million grant vested evenly, that would be approximately $320,000 of Google equity in year one, versus $200,000 of Meta equity."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The revised offer has crossed from \u201cnot enough to leave a job you like\u201d to financially compelling. I would not walk away solely because there is no sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You would give up approximately $200,000 of Meta RSUs during the next 12 months, but you would receive Google RSUs during that period."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-03T00:52:37+00:00"
+}

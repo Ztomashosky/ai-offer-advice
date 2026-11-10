@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your offer averages below that median and has no sign-on bonus."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "If you're a typical IC6, this offer may pay you *less* over 4 years than staying, before counting what you'd lose by leaving."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate. Don't take the offer as written, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1280000,
+  "equity_expected_high": 1430000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi lists Google L6 PM median total pay at about **$607K**, and a median sign-on bonus of about **$60K** for Google PMs. Your offer averages below that median"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists Google L6 PM median total pay at about **$607K**, and a median sign-on bonus of about **$60K** for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Anecdotes put a typical L6 refresh around $150\u2013200K, vesting over 4 years, and the first one often doesn't add much until year 2 or 3. Even with average refreshes, year 4 lands around $500\u2013550K."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "decide your minimum: roughly **15\u201320% above what you'd earn by staying**, averaged over 4 years and after counting forfeited stock and bonus."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire stock usually vests 33/33/22/12 front-loaded.",
+    "quote": "Google's new-hire stock usually vests front-loaded: **33% in year 1, 33% in year 2, 22% in year 3 and 12% in year 4**"
+   },
+   {
+    "claim": "Equity is usually where Google moves most.",
+    "quote": "Equity is usually where Google moves most."
+   }
+  ],
+  "missing_info_requested": [
+   "Confirmation from recruiter on specific vesting schedule",
+   "Candidate's actual Meta compensation and unvested equity/bonus numbers"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "**Stock is your main ask.** Every extra $100K adds about $33K to each of years 1 and 2."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "To make the move, I'd need the equity at around $1.5M and a $100K sign-on bonus to cover the Meta stock and bonus I'd forfeit. Base around $260K would round it out."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock is your main ask. Every extra $100K adds about $33K to each of years 1 and 2."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The 4-year average is about $552K a year. The $638K in years 1\u20132 is the high point, not your ongoing pay."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "What you'd lose by leaving Meta. List these before you reply: 1. Unvested Meta stock you'd give up over the next 12 months"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B2",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T17:12:51+00:00"
+}

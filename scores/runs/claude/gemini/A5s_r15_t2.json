@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is their best offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you are taking home **\\$230,000 to \\$318,000 more in Year 1** than staying at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should strongly consider accepting**, provided the team and product domain appeal to you."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "These figures exclude equity refreshers and stock appreciation at both companies."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "the financial friction and transition risk of leaving Meta have been fully compensated"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Standard Google clawback is 12 months pro-rated",
+    "quote": "Standard Google clawback is 12 months (pro-rated). Ensure it is not a 24-month clawback."
+   },
+   {
+    "claim": "Google front-loaded vesting schedule 33/33/22/12",
+    "quote": "front-loaded schedule (33% / 33% / 22% / 12%) or a standard 25% linear schedule"
+   },
+   {
+    "claim": "Meta PMs find Google's consensus-driven culture a shift",
+    "quote": "Meta PMs often find Google\u2019s consensus-driven culture a shift from Meta's faster-moving execution model"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment timing and clawback terms",
+   "vesting schedule type",
+   "team and scope alignment"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "**Yes, you should strongly consider accepting**, provided the team and product domain appeal to you."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "the financial friction and transition risk of leaving Meta have been fully compensated"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (4-Yr)** | ~\\$1,000,000 | \\$1,080,000 | \\$270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "It fully replaces the \\$200,000 in unvested Meta RSUs in **liquid cash** while keeping your base pay whole"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It fully replaces the \\$200,000 in unvested Meta RSUs in **liquid cash**"
+  }
+ },
+ "bad_quotes": [
+  "verdict_vs_market"
+ ],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 15,
+ "turn": 2,
+ "at": "2026-11-02T23:45:16+00:00"
+}

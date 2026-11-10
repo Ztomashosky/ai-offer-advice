@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "you're about $55K a year under the typical L6 package."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Over 4 years, if neither company gave you new grants, it's close: about $2.21M at Google versus roughly $2.05M at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: negotiate. It's a good offer, but not a great one"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Stock: $1.35M (about $338K a year on average) brings you to roughly the L6 median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi puts the median total compensation at L6 at $607,326 per year for Google Senior PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "unless Google's refresh grants fill the gap. The two offers only come out even if Google refreshes about as well as Meta does."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are the same level, so you're not getting a promotion to make up for the risk."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't improve years 3\u20134 (the stock grant) and you aren't excited about the role itself."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses are one-time costs and often the easiest thing to get approved at Google.",
+    "quote": "Sign-ons are one-time costs for Google, so they're often the easiest thing to get approved."
+   }
+  ],
+  "missing_info_requested": [
+   "Confirmation of Google RSU vesting schedule",
+   "Meta bonus payout date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $260K, an equity grant of $1.35M, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock: $1.35M (about $338K a year on average) brings you to roughly the L6 median."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-ons are one-time costs for Google"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "and a $100K sign-on to cover the Meta equity and bonus I'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-04T16:11:33+00:00"
+}

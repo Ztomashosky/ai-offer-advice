@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard initial offer (roughly 50th percentile for Google L6 PM)"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "financially it is not compelling enough to justify leaving Meta IC6."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Counter with the numbers above."
+  },
+  "intensity": 2,
+  "base_ask_low": 245000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1050000,
+  "equity_ask_high": 1100000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "to beat my current trajectory."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Although Google gives annual refreshers, they vest over 4 years (25%/yr) and rarely compensate fully"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "won't at least beat your current total comp and match your base, **walk away**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The offer is roughly the 50th percentile for Google L6 product managers.",
+    "quote": "It is a standard initial offer (roughly 50th percentile for Google L6 PM)"
+   },
+   {
+    "claim": "Google typically uses one of two specified front-loaded new-hire equity vesting schedules.",
+    "quote": "Google uses a **front-loaded vesting schedule** for new-hire equity grants"
+   },
+   {
+    "claim": "Google refresh grants vest 25% annually over four years.",
+    "quote": "they vest over 4 years (25%/yr)"
+   },
+   {
+    "claim": "Refresh grants rarely offset the new-hire grant's later-year decline except for top performers.",
+    "quote": "rarely compensate fully for the steep 33% $\\rightarrow$ 12% drop unless you are a top-tier performer receiving outsized grants."
+   },
+   {
+    "claim": "Google recruiters expect senior PM candidates, especially those from Meta, to negotiate.",
+    "quote": "Google recruiters expect senior PM candidates (especially from Meta) to push back."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To bridge this gap and make the move compelling, I would need:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized Stock (Straight-Line)** | ~$250,000/yr | $200,000/yr ($800k / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp of ~$680k\u2013$700k** (including sign-on) and an ongoing annualized average of **~$570k\u2013$600k/yr"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets transition friction and forfeit of unvested Meta stock in the immediate cycle."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T20:42:36+00:00"
+}

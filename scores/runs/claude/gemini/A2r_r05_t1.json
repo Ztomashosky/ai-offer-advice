@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a **solid standard first offer for an L6 PM at Google**, but it leaves significant room on the table"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your take-home total compensation at Google would be ~**$112,000/year higher** than your baseline at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet. You should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "protecting against the Year 3\u20134 drop"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM compensation bands reach well above this initial calibration (top of band often pushes $600k\u2013$650k+ annualized)"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers stack to offset this, recruiter refreshes are performance-dependent and never contractually guaranteed"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 (Current) | Google L6 (Offer)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away yet. You should negotiate."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses 33/33/22/12 vesting",
+    "quote": "Google utilizes a front-loaded **33% / 33% / 22% / 12%** four-year vesting schedule"
+   },
+   {
+    "claim": "sign-on requires no band approval",
+    "quote": "requires no permanent budget band approval from compensation committees"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "bring the **base salary to $250,000**, add a **$80,000 sign-on bonus**, and adjust the equity grant to **$1.25M**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Increases your average annual equity from $270k/yr to ~$315k\u2013$325k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total Comp | **~$526,000** | **~$638,400**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$0 in sign-on bonus to compensate for leaving your existing unvested pipeline"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T20:51:51+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, it is a strong offer on paper, but it is not a \"blowout\" offer for a Meta IC6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "your steady-state stacked TC is likely already between **$550k and $700k+**."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**You should negotiate.** \n\nBecause you are happy at Meta and were passive when Google contacted you"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_inferred",
+   "quote": "to guarantee long-term comp parity with Meta IC6."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "If you have been at Meta for 2+ years, your steady-state stacked TC is likely already between **$550k and $700k+**."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google refreshers are performance-dependent, typically do not begin significantly impacting your cash flow until Year 2/3, and may not fully offset the drop-off"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google frequently gives sign-on bonuses to L6 hires from certain large technology companies.",
+    "quote": "Google frequently offers sign-on bonuses for L6 hires coming from Meta/Apple/Amazon, especially when buying out unvested equity or unvested annual bonus cycles."
+   },
+   {
+    "claim": "Google generally uses one of two specified front-loaded vesting schedules.",
+    "quote": "Google typically uses a **front-loaded vesting schedule** (commonly 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10%)"
+   },
+   {
+    "claim": "Google refresh grants are performance-dependent and generally do not materially affect cash flow until years two or three.",
+    "quote": "Google refreshers are performance-dependent, typically do not begin significantly impacting your cash flow until Year 2/3"
+   },
+   {
+    "claim": "Google base bands have strict ceilings and L6 bonus percentages are fixed.",
+    "quote": "When negotiating with Google, base salary bands have strict ceilings, bonus percentages are fixed by level (20% for L6)"
+   },
+   {
+    "claim": "Equity and sign-on bonuses are Google's two main negotiation levers.",
+    "quote": "the two main levers are **Equity** and **Sign-on Bonus**."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "the two main levers are **Equity** and **Sign-on Bonus**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Top-of-band L6 grant (~$310k\u2013$325k/yr equivalent) to guarantee long-term comp parity with Meta IC6."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving behind your unvested Meta RSUs and upcoming Meta bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:51:22+00:00"
+}

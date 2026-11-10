@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Your offer averages $458K over four years, which is below both."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "As offered, this is a pay cut on base and over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "don't accept this offer as written. Negotiate, and be ready to walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1150000,
+  "equity_ask_high": 1150000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "This makes the 4-year average beat what you have now, even with no refreshes."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports that the median yearly compensation package in San Francisco Bay Area totals $510K across all Google PM levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Don't count any refreshes when you compare."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get there, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire equity typically front-loads on a 33/33/22/12 vesting schedule",
+    "quote": "The split often quoted is 33/33/22/12."
+   },
+   {
+    "claim": "Equity has the most negotiation room at Google",
+    "quote": "Equity is usually where Google has the most room. One negotiation firm says the equity band larger than for other components"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "how stock price is set to convert dollar grant into shares",
+   "status of upcoming Meta bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need base around $255K, a new-hire grant around $1.15M, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "This makes the 4-year average beat what you have now, even with no refreshes."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus | **$100K** (could be split over 2 years) | $50\u201375K | Covers equity and bonus you'd give up at Meta"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers equity and bonus you'd give up at Meta, plus a prorated first-year bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:08:18+00:00"
+}

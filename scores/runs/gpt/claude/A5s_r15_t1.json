@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but not a strong one, so negotiate."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 is about +$76k compared with what you'd actually get by staying"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That median includes people already carrying refreshes, but it still shows there's room."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "For Google L6 PMs in the SF Bay Area, Levels.fyi reports that median total compensation at L6 is $605,720 per year."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That median includes people already carrying refreshes, but it still shows there's room."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If you got all of that, year 1 would be about $756k including the sign-on, with $556k a year from year 5 if refreshes hold."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "When the new-hire grant runs out in year 5, Google drops to about $532k, which is roughly your Meta pay today."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, with the recruiter's illustrative refreshes | $552k | $615k | $677k | $740k | $532k"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't move at all, it's reasonable to walk away or stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta RSUs vest quarterly on specified dates.",
+    "quote": "Meta RSUs vest 1/16th a quarter on Feb, May, Aug and Nov 15."
+   },
+   {
+    "claim": "Meta pays annual bonuses in March.",
+    "quote": "At Meta bonuses are paid annually in March."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "How Google's first-year bonus is prorated",
+   "When the candidate would first be eligible for a refresh",
+   "Meta bonus plan terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for more equity and a sign-on bonus first, and a higher base second."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your year 1 is $552k."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all of that, year 1 would be about $756k including the sign-on, with $556k a year from year 5"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving now means giving up my 2026 bonus and upcoming vests"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-04T17:09:32+00:00"
+}

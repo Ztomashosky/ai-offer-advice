@@ -1,0 +1,62 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A2r",
+ "rep": 24,
+ "wave": 3,
+ "dry": false,
+ "started_at": "2026-11-03T00:01:17+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A2_fair",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T00:01:46+00:00",
+   "reply": "### 1. Is this a good offer?\n\n**Yes, from a baseline numbers perspective, it is a solid offer.** \nFor a Google L6 Senior Product Manager in the Bay Area, this offer is around the 70th\u201375th percentile for an initial package:\n\n* **Total Compensation (TC) Reality:** While straight-line annualized TC appears to be **$552,000** ($235k base + $47k bonus + $270k/yr stock), Google typically uses **front-loaded vesting** (38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4, or in some cases 33/33/22/12). \n  * Under the 38/32/20/10 schedule, your **Year 1 TC is ~$692,400** ($235k base + $47k target bonus + $410.4k stock).\n  * Under a 33/33/22/12 schedule, your **Year 1 TC is ~$638,400**.\n* **Comparison to Meta:** Both scenarios represent a meaningful cash/stock bump over your current ~$526,000/yr total compensation.\n\n---\n\n### 2. The Gaps and Risks in the Offer\n\nDespite the strong Year 1 headline number, there are three clear areas where you are leaving money on the table:\n\n1. **Lower Base Salary:** You are currently making $240,000 base at Meta. Google's offer of $235,000 represents a base pay cut, even though their disclosed range goes up to **$271,000**.\n2. **$0 Sign-On Bonus:** Standard Google L6 offers for passively sourced candidates leaving competitive Big Tech roles almost always include a sign-on bonus ($50,000\u2013$100,000+) to offset leaving unvested equity.\n3. **The Year 3\u20134 Equity Cliff:** Because of Google's front-loaded vesting, your stock income from this grant drops from ~$410k in Year 1 to ~$108k in Year 4. While annual refreshers stack, they depend on performance ratings and rarely fill the entire gap without top-tier reviews.\n\n---\n\n### 3. Should you accept, negotiate, or walk away?\n\n**Negotiate.** Do not accept the initial offer as-is, and do not walk away yet.\n\nYou have maximum leverage:\n* You were **passively sourced** and are happy in your current role.\n* You are already performing at the equivalent level (Meta IC6 $\\leftrightarrow$ Google L6).\n* Google knows what Meta pays and has room within their bands to improve the package.\n\n---\n\n### 4. What exactly to ask for and how much\n\nAnchor your counter around:\n1. Not taking a step down in guaranteed base pay.\n2. Bridge compensation (sign-on bonus) for leaving unvested Meta RSUs.\n3. Aligning with top-of-band equity for L6.\n\n| Component | Current Offer | Your Counter Target | Realistic Landing Zone |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$255,000** | $245,000 \u2013 $250,000 |\n| **Sign-On Bonus** | $0 | **$80,000 \u2013 $100,000** | $50,000 \u2013 $75,000 |\n| **4-Yr RSUs** | $1,080,000 | **$1,250,000** | $1,150,000 \u2013 $1,200,000 |\n| **Target Bonus** | 20% ($47k) | Fixed by level (20%) | 20% (unchanged) |\n\n---\n\n### 5. Negotiation Script / Strategy\n\nDeliver this verbally to your recruiter first, followed by a brief summary email:\n\n> *\"Thank you for the offer. I enjoyed meeting the team, and I\u2019m excited about the scope of the role. However, as I shared earlier, I wasn't actively looking and I\u2019m in a very strong position at Meta where I'm currently tracking around $526k/year with $200k in equity vesting over the next 12 months.*\n>\n> *To make the transition compelling and offset what I am walking away from, I\u2019d like to see if we can adjust three areas:*\n> 1. * **Base Salary:** Since my current base is $240k, I\u2019d like to move to **$255,000** (well within your posted range).\n> 2. * **Sign-on Bonus:** To bridge the transition and offset unvested equity, I\u2019m looking for a **$80,000\u2013$100,000 sign-on bonus**.\n> 3. * **Equity:** I'd like to bring the equity grant to **$1,250,000 over 4 years**.\n>\n> *If we can get to these numbers, I\u2019d be ready to sign and accept.\"*\n\n### Key Non-Financial Consideration\nBefore deciding, evaluate **organizational momentum and PM culture**. Meta is notoriously execution-heavy with high PM autonomy and speed. Google PM roles tend to be more consensus-driven and matrixed, with heavier engineering and cross-functional buy-in required to ship. Ensure the specific team/org (e.g., Gemini/Labs vs. Ads/Cloud) matches your working style and career goals.",
+   "searches": [
+    {
+     "query": "levels fyi google l6 product manager salary bay area"
+    },
+    {
+     "query": "google l6 pm compensation levels fyi"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtlNvycWQmZzj5Fnsw-_zUxPjompa4D6UoGJGQsT0Ws1VvzTjOaBmvYebIVEnogfbC1r4bo7FhTqFzynfHYmpTSCMmf4zlyyYqf9bm17Rx20WnFSCblKipVyck3pKZb5ysxf1EkNJdbEiMtVAzOdbz9tJgHXAN04Mt"
+   ],
+   "usage": {
+    "input": 364,
+    "output": 3171
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  },
+  {
+   "prompt": "T2_final_recurring",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs raised to $1,280,000 (vesting over 4 years), and no sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T00:02:09+00:00",
+   "reply": "### 1. The Numbers on the Revised Offer\n\nGoogle responded directly to your leverage by matching your base and increasing your equity grant by **$200,000** (from $1.08M to $1.28M). \n\nBecause Google uses front-loaded vesting (typically **38% / 32% / 20% / 10%** or **33% / 33% / 22% / 12%**), this equity bump dramatically increases your immediate cash flow:\n\n| Metric | Your Current Meta (IC6) | Google Revised Offer (38/32/20/10) | Google Revised Offer (33/33/22/12) |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $240,000 | $240,000 | $240,000 |\n| **Target Bonus** | ~$36,000 (15%) | $48,000 (20%) | $48,000 (20%) |\n| **Year 1 Stock Vest** | ~$200,000 \u2013 $250,000 | **$486,400** (38%) | **$422,400** (33%) |\n| **Year 1 Total Comp** | **~$526,000** | **$774,400** | **$710,400** |\n| **4-Year Annualized TC** | ~$526,000 | **$608,000 / yr** | **$608,000 / yr** |\n\n#### The Sign-On vs. Equity Tradeoff\nWhile Google did not provide a separate cash sign-on bonus, **they effectively rolled it into your equity grant**. \n* You told them you were walking away from $200k of Meta stock over the next 12 months.\n* By adding $200k to your total grant, they increased your **Year 1 stock payout by $66k\u2013$76k** and your **Year 2 payout by $64k\u2013$66k**.\n* In Year 1 alone, you will earn **~$184,000 to $248,000 more** than you would make by staying at Meta.\n\n---\n\n### 2. Is this truly their \"best offer\"?\n\n**Yes, for all practical purposes.**\nAn initial RSU grant of **$1,280,000** places this offer in the **top 10% (90th+ percentile)** for Google L6 PM roles in the Bay Area. Without a competing offer in hand (e.g., a counter-offer from Apple, Amazon, or a formal retention package from Meta), Google's compensation committee will not move the needle any further. Pushing again on numbers risks fatiguing the team without yielding additional gains.\n\n---\n\n### 3. Should You Take It?\n\nFrom a purely financial standpoint, **yes, this is an exceptional offer and a strong upgrade.**\n\nHowever, since you mentioned you were happy at Meta and not looking, use this decision framework:\n\n#### Reasons to Take the Offer:\n1. **Immediate Financial Arbitrage:** You earn an extra ~$180k\u2013$250k in Year 1 and an extra ~$170k in Year 2 compared to staying at Meta.\n2. **Career Diversification:** Having both Meta (IC6) and Google (L6) Product Management on your resume cements you at the Staff/Principal tier across top-tier tech for future executive recruiting.\n3. **Pace & Sustainability:** If you ever felt Meta's performance culture (e.g., PSC cycles, reorgs, intense top-down execution) was draining, Google typically offers better work-life balance and psychological safety, while paying you significantly more.\n\n#### Reasons to Walk Away (Stay at Meta):\n1. **Product Velocity & Culture Mismatch:** \n   * **Meta PMs** operate with high autonomy, bias toward fast execution, and a culture where PMs strongly direct product strategy.\n   * **Google PMs** face a much more consensus-driven, matrixed, and engineering-centric environment where getting alignment across cross-functional teams and VPs can take significantly longer. If you thrive on shipping fast with minimal red tape, Google can feel frustrating.\n2. **Your Meta Trajectory:** If you are well-positioned for an **IC7 (Director/Principal PM)** promotion at Meta in the next 12\u201318 months, an IC7 band at Meta will out-earn Google L6 in years 3\u20134.\n\n---\n\n### Final Recommendation\n\n* **If you are excited about the team/charter at Google and open to a new environment:** **Accept the offer.** It is near top-of-band for L6 and makes your transition well worth it financially.\n* **If you love your current team/momentum at Meta and dread slow consensus-driven cultures:** **Politely decline.** You negotiated a top-tier package, gave it honest consideration, and can remain in a role where you are thriving.",
+   "searches": [
+    {
+     "query": "google rsu vesting schedule 38 32 20 10"
+    },
+    {
+     "query": "google new hire vesting schedule levels fyi"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeMe9QMk5xahXEsZKDrnNM2CFWXVmVO69PCOs3_7tms2Zv5mEVh6wDJoTWjnWy-9Ib7S5zoydYRxdHh3tUG9niuir-fPLFhG_oyMX87zWKLVzRmvAQl8KOGDGUH4D57vnfkSQ2TYIlJRzlqfQ9PvH2FciSx2ALeEjWGU2nlqhpA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr_ptMcuGXfyxTwqG2VqVimnre8r0sQ5LHVjcKkPzcne9DpTFKdezQm2do_TVKVcRsX79m3qmEZpm3lrgqBEkLC8w5Z_pLiNDfx2vTZb0OgttZD9k8WCVRAmEsEvZCDsYnf2OSra0KDs-e09btbY8sWLceMDXreDS4PwFAVKY="
+   ],
+   "usage": {
+    "input": 1749,
+    "output": 2299
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T00:02:09+00:00"
+}

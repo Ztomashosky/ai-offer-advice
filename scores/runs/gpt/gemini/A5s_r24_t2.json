@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This shifts the offer from a lateral move into a **top-of-market package** for an L6 PM."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "secure an extra ~$670k+ over 4 years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should strongly lean toward taking it.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Assumes Google standard refresh stacking illustration of ~$250k/4yr per cycle and stable stock prices."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Here is what your actual compensation trajectory looks like compared to staying at Meta:"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Assumes Google standard refresh stacking illustration of ~$250k/4yr per cycle and stable stock prices."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You are on an immediate fast-track to Director/IC7 (where L7 comp exceeds $800k\u2013$1M+), or you genuinely dislike the product area/team"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A lump-sum sign-on payment in Year 1 is standard.",
+    "quote": "Lump sum in Year 1 is standard, but verify"
+   },
+   {
+    "claim": "Sign-on clawbacks are usually prorated for departures before 12 months.",
+    "quote": "Usually pro-rated if you leave before 12 months"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on bonus payout timing and whether it is split across years",
+   "Sign-on bonus clawback policy",
+   "Equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "**Yes, you should strongly lean toward taking it.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Yes, you should strongly lean toward taking it.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity $270k + Sign-on $200k"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 alone gives you an extra $232,000 in liquid compensation"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google effectively gave you a 1:1 cash replacement for your unvested Meta cliff"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-03T00:58:37+00:00"
+}

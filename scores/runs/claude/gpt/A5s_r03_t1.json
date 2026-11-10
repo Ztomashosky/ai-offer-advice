@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a respectable L6 offer with a strong initial grant"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Only **$26,000, or 5%, above** your normalized Meta compensation of $526,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an opening position, not necessarily your expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "approximately **$606,000 reported Bay Area median for Google L6 PM compensation**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Recent broader market data places median Google L6 PM base around $240,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that crowdsourced figure mixes new offers and tenured employees and should be treated as directional"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "about **$646,000** under the recruiter\u2019s refresh assumption\u2014but a large portion depends on refreshes"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Steady state afterward | ~$532,000"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "With $250,000 annual refresh grants, assuming each refresh vests evenly over four years"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Google will not meaningfully improve the offer"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vest schedule for the $1.08 million grant",
+   "When you first become eligible for a refresh",
+   "Vest schedule for refresh grants",
+   "Whether $250,000 is a target, a median, or anecdotal",
+   "How performance ratings affect refresh size"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **New-hire RSUs: $1.4 million** - **Sign-on bonus: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity: $270,000/year on a straight-line basis"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "plus the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta forward compensation is closer to $476,000 than $526,000"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:59:08+00:00"
+}

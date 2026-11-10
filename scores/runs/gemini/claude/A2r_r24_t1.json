@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "At $552K a year, this offer is below the typical L6 package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Right now the offer is only slightly better than staying"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is, and don't walk away. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi says median total compensation at L6 is $595,042 per year, and that figure includes people whose refreshes have stacked up. At $552K a year, this offer is below the typical L6 package."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi says median total compensation at L6 is $595,042 per year, and that figure includes people whose refreshes have stacked up."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "that figure includes people whose refreshes have stacked up."
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "The $526K figure assumes future Meta refresh grants, which aren't guaranteed either."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "over years 1\u20134 without counting refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you're already at the same level at a direct competitor."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, the current offer isn't worth giving up a job you like"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has more room to move on stock than on base.",
+    "quote": "Google usually has more room to move on stock than on base."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make this an easy yes, I'd need a base of $255K, an equity grant of $1.4M, and a $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $100K of grant adds $25K/yr on average."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "at least about $600K in guaranteed year-1 pay, and an average of at least about $560K/yr over years 1\u20134 without counting refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "What you'd really get from Meta next year is about $476K, not $526K. That's $240K base + $36K bonus + the $200K of RSUs vesting in the next 12 months."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "the Meta bonus you'd forfeit, the vests you'd give up, and the fact that you'd lose Meta's stacked refreshes"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-04T16:33:08+00:00"
+}

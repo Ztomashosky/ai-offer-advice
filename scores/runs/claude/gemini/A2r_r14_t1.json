@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard initial offer, but it is not compelling enough to leave Meta."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google's offer ($552k) is only **~5% higher** than your Meta run-rate ($526k)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "pushes the equity component into the 75th+ percentile for L6"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "At Google L6, top-of-band total compensation packages regularly reach **$600,000 \u2013 $650,000+ annualized**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Year 3 and Year 4 drop off steeply unless refresher grants are substantial"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to move significantly on equity or sign-on bonus, you are in the ideal position to politely decline"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google often front-loads equity vesting",
+    "quote": "Google often utilizes front-loaded equity vesting (e.g., 33%/33%/22%/12% or 38%/32%/20%/10%)"
+   },
+   {
+    "claim": "Google expects a counter at L6",
+    "quote": "Google expects a counter-offer at L6."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base salary closer to **$255,000\u2013$260,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity: $1,080,000 over 4 years (~$270,000/yr average)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on Bonus: $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets the $200,000 of Meta RSUs you forfeit in the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:13:29+00:00"
+}

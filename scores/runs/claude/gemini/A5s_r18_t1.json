@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard, middle-of-the-band initial offer for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Net gain:* ~$26,000 (~5% increase)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1280000,
+  "equity_ask_high": 1280000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "An equity grant of **$1,280,000** over 4 years."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": "Google knows what Meta pays top-tier Senior PMs"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Take recruiter refresh illustrations with a grain of salt."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are direct equivalents"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "it is not strong enough to justify leaving Meta as a happy IC6"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google routinely uses sign-on bonuses to bridge the gap for passive candidates",
+    "quote": "Google routinely uses sign-on bonuses to bridge the gap for passive candidates leaving unvested equity"
+   },
+   {
+    "claim": "Google often uses front-loaded vesting",
+    "quote": "Google often utilizes front-loaded vesting (e.g., 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "Meta refresh program carries higher upside",
+    "quote": "Meta's refresh program for IC6 PMs is similarly structured and often carries higher performance bonus upside"
+   }
+  ],
+  "missing_info_requested": [
+   "Confirm Google's vesting schedule (front-loaded vs annual)"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "ask for an adjustment across **Base**, **Equity**, and a **Sign-on Bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,280,000** ($320k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus of **$100,000** to offset forfeited near-term equity"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$100,000** to offset forfeited near-term equity at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:47:45+00:00"
+}

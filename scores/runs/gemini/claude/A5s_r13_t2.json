@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Financially this is a strong final offer, and it meets the targets I gave you last time"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On money alone, this is clearly the better choice: about $378K more over four years even if you never get a refresh"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. If the team and role feel right, take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With the illustrated refreshes, the advantage is about $750K."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, $250K/yr refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Sign-on clawback terms and repayment schedule",
+   "Sign-on payment timing (lump sum vs split)",
+   "RSU vesting schedule (25%/yr vs 38/32/20/10)",
+   "Meta bonus payout and RSU vest dates"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. If the team and role feel right, take it."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "pushing for more money now would gain little and could cost goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "base + 20% target bonus + equity, with even 25%/yr vesting"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes vesting, your pay falls to about $288K plus whatever refreshes you've built up."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "my earlier comparison had already counted that loss, because the Meta column only paid you $476K in year 1 if you stayed. So the $200K sign-on doesn't just cover what you're losing. It's an extra $200K on top of a package that was already ahead."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-04T17:07:25+00:00"
+}

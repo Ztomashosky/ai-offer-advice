@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "below the middle of the posted range ($183K\u2013$271K, midpoint ~$227K). For an experienced IC6 moving from Meta, that's low."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Over four years it's a pay cut unless Google's refresh grants make up the gap, and those aren't guaranteed."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: don't accept this offer as it stands. Negotiate, and be willing to walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": null,
+  "equity_ask_low": 1100000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 950000,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "matching your $526K over four years without counting refreshes takes about $225K a year in stock, roughly $900K total."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Accept if the four-year average without refreshes reaches roughly $525K\u2013$550K or more"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Each new refresh vests over several years, so it only adds a slice of its value each year. Refreshes could take until about year 3 to fill the gap"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For an experienced IC6 moving from Meta, that's low."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Decline if they won't go much past about $900K in stock with a base under $240K. You'd be taking a likely pay cut for a role you weren't looking for."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The bonus percentage is fixed by level and cannot be negotiated.",
+    "quote": "The bonus percentage is usually fixed by level, so don't spend effort on it."
+   }
+  ],
+  "missing_info_requested": [
+   "which vesting schedule applies",
+   "how often stock vests (monthly or quarterly)",
+   "when Meta bonus pays out",
+   "exact unvested Meta stock on exit date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make a move work, I'd need a base around $250K, a new-hire grant around $1.15M, and a sign-on to cover what I'd forfeit at Meta."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The grant averages $200K a year, which is less than the ~$250K a year you get now."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 looks good, but only because of the vesting schedule. The grant averages $200K a year"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The offer doesn't cover anything you'd give up by leaving. That includes unvested Meta stock beyond what you'd get anyway, and any bonus you'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-03T16:03:30+00:00"
+}

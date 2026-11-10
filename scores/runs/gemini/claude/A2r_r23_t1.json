@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a solid offer but not a great one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years, it averages about $552K, roughly 5% above your current $526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This is usually where big tech companies have the most room to move, and it's what fixes the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google's pay falls in years 3\u20134 unless refreshes make up the difference, and the recruiter told you those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, you'd be taking on more risk and starting over to earn about 5% more over four years, and possibly less in years 3\u20134."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is usually where big tech companies have the most room to move",
+    "quote": "Stock: This is usually where big tech companies have the most room to move"
+   }
+  ],
+  "missing_info_requested": [
+   "Which vesting schedule applies (monthly or quarterly)",
+   "Typical refresh amounts for an L6",
+   "Sign-on bonus payback terms",
+   "Flexibility of the start date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $260K, a stock grant of $1.4M, and a $100K sign-on to cover what I'm leaving behind."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, it averages about $552K, roughly 5% above your current $526K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Pick your minimum now. For example, a four-year average of at least $600K plus a sign-on that covers what you'd lose."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Use your next 12 months at Meta, not the $526K average. Leaving means giving up the RSUs that haven't vested yet, so the real comparison is"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on: This covers the bonus and vesting you'd lose by leaving, and it shouldn't be hard for them to approve."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-04T16:31:21+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a respectable opening offer for a Google L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "it is essentially a lateral financial move from Meta IC6"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should negotiate aggressively."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1280000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This brings your annualized stock to ~$320k\u2013$340k/yr, ensuring Years 3 and 4 remain competitive after the front-loaded initial vest tapers off."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Poaching an IC6 from Meta typically warrants a $50k\u2013$100k+ sign-on."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Unless performance refreshers are exceptionally high, your compensation will decline over time."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google refuses to bridge the gap"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The L6 PM bonus percentage is standard and non-negotiable.",
+    "quote": "Standard across all L6 PMs (non-negotiable percentage)."
+   },
+   {
+    "claim": "Google generally uses specified front-loaded vesting schedules.",
+    "quote": "Google generally uses a front-loaded vesting model (typically 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10%)"
+   },
+   {
+    "claim": "Google bonus payouts tend to remain close to target.",
+    "quote": "Google\u2019s bonus payouts tend to stick much closer to target."
+   },
+   {
+    "claim": "Google commonly uses sign-on bonuses to bridge forfeited compensation gaps.",
+    "quote": "Google commonly uses sign-on bonuses to bridge this gap."
+   },
+   {
+    "claim": "An ask of $255,000 or more avoids hard HR approval walls.",
+    "quote": "$255k+ positions you in the upper tier of the band without hitting hard HR approval walls."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Negotiate for an $80k+ sign-on, ~$1.3M equity, and ~$255k+ base."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,080,000 (4 years) | ~$270,000/yr annualized."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are leaving unvested Meta equity on the table and taking on transition risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:49:41+00:00"
+}

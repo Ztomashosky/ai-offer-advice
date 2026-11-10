@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "averages about 16% more over four years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it if the money is your main reason for switching."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "No refreshes are included."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you'd really rather stay at Meta, an extra ~$80K a year on average is a fair price to turn down"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google L6 refreshes usually fill the later-year compensation gap.",
+    "quote": "Refreshes usually fill that gap at L6"
+   },
+   {
+    "claim": "Sign-on bonuses usually have a roughly 12-month repayment obligation.",
+    "quote": "Sign-on bonuses usually have to be paid back, fully or partly, if you leave within about 12 months."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly on the listed schedule.",
+    "quote": "Meta RSUs usually vest quarterly in mid-February, May, August and November."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms",
+   "whether the sign-on is paid as a lump sum or split across two years",
+   "vesting schedule in writing",
+   "exact Meta RSU vest dates",
+   "Google start-date flexibility",
+   "Meta bonus payment timing",
+   "candidate's preference between the role and team at Google versus Meta"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it if the money is your main reason for switching."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn't push for more money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year total is the same either way, but year 1 differs by about $55K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is much higher: about $370\u2013420K more than staying, because the sign-on and front-loaded vesting stack together."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it fully covered what you said you'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 20,
+ "turn": 2,
+ "at": "2026-11-04T16:53:04+00:00"
+}

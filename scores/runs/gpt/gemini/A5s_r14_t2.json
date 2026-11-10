@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is an exceptional offer. You should take it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year-1 Stock = **~$758,000** *(a ~44% raise over Meta)*"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "accept the offer and sign."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, your base comp (excluding refreshes and stock movement) totals **~$2.43M**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The only reason **not** to take this offer is if you strictly prefer Meta's PM operating model"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google L6 sign-on is at the top of Google's compensation exception band.",
+    "quote": "A **$200,000 cash sign-on bonus** at Google L6 is essentially at the top of their compensation exception band."
+   },
+   {
+    "claim": "Google exhausted its standard L6 approval bands.",
+    "quote": "they have exhausted standard L6 approval bands."
+   },
+   {
+    "claim": "The standard sign-on clawback is 12 months and is often prorated.",
+    "quote": "standard is 12 months, often prorated if you leave early"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment timing",
+   "Sign-on clawback period and proration",
+   "Exact GSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, this is an exceptional offer. You should take it."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "No. When Google gives a $200,000 sign-on bonus and states it is their best offer"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-Hire RSUs (4-Yr) | ~$1,000,000 | $1,080,000 | **$1,080,000**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Over 4 years, your base comp (excluding refreshes and stock movement) totals **~$2.43M** (averaging **~$608k/year**)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "They gave you a **dollar-for-dollar cash buyout** of your unvested Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 14,
+ "turn": 2,
+ "at": "2026-11-02T23:43:51+00:00"
+}

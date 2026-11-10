@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a **strong initial offer** for a Google L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your actual Year 1 and Year 2 compensation will be ~**$638k/yr**, providing an immediate ~$112k/yr boost"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "do not walk away\u2014you should negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Google rarely puts their best possible offer on the table in the first round"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google relies on annual refreshers to fill this gap, but as the recruiter noted, refreshers depend on company performance cycles"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "do not walk away\u2014you should negotiate"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses 33/33/22/12 front-loaded vesting",
+    "quote": "Google standardly uses a **front-loaded vesting schedule** (33% / 33% / 22% / 12%)"
+   },
+   {
+    "claim": "Google frequently offers sign-on bonus",
+    "quote": "Google frequently offers a sign-on bonus to offset this."
+   },
+   {
+    "claim": "401k match details",
+    "quote": "Google offers a 50% match on 401(k) contributions up to the IRS maximum with immediate vesting"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "bridging the base gap, securing guaranteed cash upfront (sign-on), and maximizing equity"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If we can get the base salary to **$260,000**, add a **$75,000 sign-on bonus**, and increase the equity to **$1.25M**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Annual Avg TC** | **~$526,000** | **~$552,000**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "securing guaranteed cash upfront (sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Leaving unvested stock and an established track record at Meta carries transition risk. Google frequently offers a sign-on bonus to offset this."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 22,
+ "turn": 1,
+ "at": "2026-11-03T00:41:39+00:00"
+}

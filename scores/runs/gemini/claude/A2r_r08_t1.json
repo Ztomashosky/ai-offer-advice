@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Compared with the market, the offer looks low. Levels.fyi reports that median total compensation at L6 is $605,720 per year for Google PMs."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Over four years it's only slightly better than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My take: don't accept it as it stands, and don't walk away yet. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "This brings your 4-year average to about $625K or more, in line with the L6 median, and softens the year-4 drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports that median total compensation at L6 is $605,720 per year for Google PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That median includes people with several years of stacked refreshes, but the new-hire grant still looks light."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "decide on your minimum. A reasonable one is a 4-year average of about $575K or more (excluding refreshes)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you shouldn't take a pay cut to move at the same level."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get there, staying at Meta is a perfectly good choice"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually where Google has the most flexibility",
+    "quote": "Equity is usually where Google has the most room to move."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule confirmation with Google recruiter",
+   "Next Meta RSU vest date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need a base of $258K, an RSU grant of $1.4M, and a $90K sign-on to cover what I'm leaving behind."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "This brings your 4-year average to about $625K or more, in line with the L6 median"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Companies often approve this more easily than higher ongoing pay."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This covers the Meta bonus you'd forfeit plus any RSU vest you'd miss."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:21:54+00:00"
+}

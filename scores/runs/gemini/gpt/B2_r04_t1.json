@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is **market-reasonable, not exceptional** for a Bay Area Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Reported Meta IC6 PM compensation is around **$595,000**, although your actual forward vesting and refresh history matter much more than that benchmark."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as-is, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "This is intentionally an anchor, not necessarily the minimum you will accept. It puts the package around the upper end of reported L6 compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current reported compensation data puts Google L6 PM median compensation in the Bay Area at approximately **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "a broader recent U.S. data set shows a $514,000 median and approximately $671,000 at the 90th percentile."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not use hypothetical refreshes to justify accepting a weak guaranteed package."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "leaving my current IC6 position and forfeiting unvested compensation."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "If they make only a token improvement and your Meta forward compensation is around $600,000 or more, I would stay"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact RSU vesting percentage and cadence",
+   "grant dollar-to-share conversion date",
+   "first refresh grant eligibility timing",
+   "comp cycle / bonus proration details",
+   "compensation forfeiture rules if leaving early",
+   "sign-on clawback period",
+   "actual Meta forward vesting and bonus numbers"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Negotiate toward $260,000 base, $1.35 million RSUs and $100,000 sign-on.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The grant averages **$270,000/year** over four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**$649,500 average annual target TC**, excluding sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on should ideally be a **make-whole**, based on compensation you will actually forfeit during the first 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T22:14:48+00:00"
+}

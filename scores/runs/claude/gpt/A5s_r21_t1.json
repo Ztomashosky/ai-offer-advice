@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is respectable and roughly market-normal for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Difference: **$26,000/year, or about 5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t walk away yet, but I would not accept this offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 125000,
+  "signon_ask_high": 125000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an aggressive but defensible opening request"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM compensation around the mid-$500Ks"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as upside when deciding, not as guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "once the new-hire grant is gone and four annual $250,000 refresh grants are fully stacked, compensation would settle around"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "it depends on receiving a $250,000 refresh grant every year"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if:"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google may have more flexibility on equity and sign-on than base",
+    "quote": "In practice, Google may have more flexibility on equity and sign-on than base"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire equity vesting schedule",
+   "Bonus proration",
+   "First refresh eligibility cycle and vest dates",
+   "Whether start date can be adjusted to avoid forfeiting Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000** - **New-hire equity: $1.35 million** - **Sign-on bonus: $125,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are a passive candidate with a strong alternative."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.25M equity, or $312.5K/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "First-year target including sign-on: approximately **$780.5K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on, especially to cover bonus proration, vesting-timing gaps and transition risk"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T01:08:33+00:00"
+}

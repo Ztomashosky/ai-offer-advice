@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, it is a strong baseline offer, but you should not accept it as-is."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your Year 1 cash flow will jump from $526k to ~$692k"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not reject the offer or walk away outright; negotiate on three specific components"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Refresher grants are designed to backfill this drop, but as the recruiter noted, refreshers depend on performance ratings and company allocation."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "For L6 roles, sign-on bonuses typically range from $50,000 to $100,000+."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Excludes future annual refresher grants, which Google typically vests over 4 years (25%/year)."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a 38/32/20/10 front-loaded vesting schedule for initial equity grants.",
+    "quote": "Google typically uses a front-loaded vesting schedule for initial equity grants: 38% in Year 1, 32% in Year 2, 20% in Year 3, and 10% in Year 4."
+   },
+   {
+    "claim": "Google refresh grants typically vest over four years at 25% per year.",
+    "quote": "Google typically vests over 4 years (25%/year)."
+   },
+   {
+    "claim": "Google frequently omits sign-on bonuses from opening offers and holds them as a primary negotiation lever.",
+    "quote": "Google frequently excludes sign-on bonuses from opening offers, holding them as a primary lever during negotiation."
+   },
+   {
+    "claim": "L6 sign-on bonuses typically range from $50,000 to over $100,000.",
+    "quote": "For L6 roles, sign-on bonuses typically range from $50,000 to $100,000+."
+   },
+   {
+    "claim": "Google refresh grants depend on performance ratings and company allocation.",
+    "quote": "refreshers depend on performance ratings and company allocation."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "negotiate on three specific components"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial RSUs/GSUs | ~$250,000 | $410,400 (38%) | $345,600 (32%) | $216,000 (20%) | $108,000 (10%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total Year 1 with Target Counter: ~$830,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Walking away from Meta means leaving behind unvested equity and upcoming performance refreshers."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:10:55+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "it is a strong, above-median initial offer for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "It is a lateral move financially, not a clear upgrade"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Above the median initial grant for L6 (~$800k\u2013$950k)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Above the median initial grant for L6 (~$800k\u2013$950k)"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refreshers will stack, the recruiter is correct: refreshers depend on performance ratings and company budgets"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "It is a lateral move financially, not a clear upgrade"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away only if they refuse to budge entirely"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting",
+    "quote": "Google uses a **front-loaded vesting schedule** (most commonly **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "bonus non-negotiable",
+    "quote": "Standard and non-negotiable for L6"
+   },
+   {
+    "claim": "Comp committee views sign-on as separate pool",
+    "quote": "Google's Compensation Committee views sign-on bonuses as a separate budget pool"
+   },
+   {
+    "claim": "initial $0 sign-on is a test",
+    "quote": "making an initial $0 sign-on standard procedure for Google to test if you'll accept"
+   },
+   {
+    "claim": "substantial room on equity",
+    "quote": "Google has substantial room to stretch equity at L6"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter for higher equity, an improved base, and a sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Your Counter Target"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "On a flat 4-year average, annualized TC is **~$552,000/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on bonus of **$80,000** to bridge the transition"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$80,000** to bridge the transition and forfeited Meta incentives"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:44:18+00:00"
+}

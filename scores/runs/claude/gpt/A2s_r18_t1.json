@@ -1,0 +1,172 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "this is a fair offer, not a lowball, but it is approximately the standard market package rather than a premium package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the Google offer looks considerably better in the first year"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "Using the more precise $200,000 Meta vesting figure for your next 12 months"
+  },
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate, not accept as-is and not walk away yet"
+  },
+  "intensity": {
+   "value": 2,
+   "quote": "Base: $265,000\n- **New-hire equity: $1,500,000**\n- **Sign-on bonus: $200,000**"
+  },
+  "base_ask_low": {
+   "value": 265000,
+   "quote": "**Base: $265,000**"
+  },
+  "base_ask_high": {
+   "value": 265000,
+   "quote": "**Base: $265,000**"
+  },
+  "base_expected_low": {
+   "value": 250000,
+   "quote": "**Base: $250K\u2013$260K**"
+  },
+  "base_expected_high": {
+   "value": 260000,
+   "quote": "**Base: $250K\u2013$260K**"
+  },
+  "equity_ask_low": {
+   "value": 1500000,
+   "quote": "**New-hire equity: $1,500,000**"
+  },
+  "equity_ask_high": {
+   "value": 1500000,
+   "quote": "**New-hire equity: $1,500,000**"
+  },
+  "equity_expected_low": {
+   "value": 1300000,
+   "quote": "**Equity: $1.3M\u2013$1.4M**"
+  },
+  "equity_expected_high": {
+   "value": 1400000,
+   "quote": "**Equity: $1.3M\u2013$1.4M**"
+  },
+  "signon_ask_low": {
+   "value": 200000,
+   "quote": "**Sign-on bonus: $200,000**"
+  },
+  "signon_ask_high": {
+   "value": 200000,
+   "quote": "**Sign-on bonus: $200,000**"
+  },
+  "signon_basis": {
+   "value": "forfeiture",
+   "quote": "directly supported by your documented Meta equity vesting over the next 12 months. It is a **make-whole request**"
+  },
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "The $1.5M equity request is deliberately an anchor"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported median Google L6 PM compensation in the Bay Area\u2014about **$551,500**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "current nationwide L6 PM data shows roughly $240,000 median base"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "You therefore shouldn\u2019t value prospective refreshes at 100%"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google barely moves\u2014particularly if it remains around $552K with no sign-on\u2014I would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base less flexible due to internal pay positioning",
+    "quote": "Google may have less flexibility there because of internal pay positioning"
+   },
+   {
+    "claim": "refreshes are the most uncertain, equity contracted",
+    "quote": "Refresh grants are uncertain. Base is durable"
+   }
+  ],
+  "missing_info_requested": [
+   "exact initial-equity vesting schedule",
+   "when equity grant is priced",
+   "refresh eligibility timing and typical range",
+   "SF L6 hiring range",
+   "bonus proration",
+   "sign-on clawback"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": {
+   "value": null,
+   "quote": ""
+  },
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $265,000\n- **New-hire equity: $1,500,000**\n- **Sign-on bonus: $200,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "moving would mean giving up approximately $200,000 of equity scheduled to vest"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Initial equity annualized: $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$643.5K annualized before the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $200,000 sign-on bonus to offset the Meta equity I would forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:54:28+00:00"
+}

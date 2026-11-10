@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a good market offer, but not yet a compelling \u201cleave a job I like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only about **$26,000 more per year**, or **5% above your current compensation**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would **negotiate\u2014not accept immediately and not walk away yet**."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 125000,
+  "signon_ask_high": 125000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "That is around the upper end\u2014but still close to the reported L6 90th-percentile TC of approximately $671,000."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data places median Bay Area Google L6 PM compensation at roughly **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as **upside**, not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "they refuse meaningful movement and you are genuinely happy at Meta. Staying for roughly similar four-year compensation is a completely rational decision."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact new-hire GSU vesting percentages and first vest date",
+   "Date and stock price used to convert dollar grant into shares",
+   "Eligibility for next refresh cycle and proration rules",
+   "How refresh grants vest",
+   "Bonus proration",
+   "Sign-on repayment obligation terms",
+   "Official work location and SF vs Bay Area compensation policy"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I\u2019d be ready to move forward if we could bring the package closer to a $260,000 base, $1.4 million equity grant, and a $125,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your $1.08 million is solid but produces only $552,000 average annual TC."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At roughly $600,000\u2013$625,000 annualized plus $75,000\u2013$125,000 sign-on, the financial case becomes substantially stronger."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Position it as compensation for leaving a strong situation and forfeiting near-term Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T01:00:46+00:00"
+}

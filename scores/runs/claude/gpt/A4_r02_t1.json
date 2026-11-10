@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good L6 offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$121K more recurring annual TC, approximately a 23% increase."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, then probably accept."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 260000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1550000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "I would anchor at $1.55M, with an internal target of at least $1.45M\u2013$1.50M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median compensation around $606K"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "self-reported and mix established employees with new offers"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Value the signed offer without assuming refreshers"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You need compensation above roughly $650K to justify leaving"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on designed to make up for 12 months of Meta vesting",
+    "quote": "The $200K sign-on appears designed to make up for your next 12 months of Meta vesting."
+   },
+   {
+    "claim": "Google new-hire grants use 38/32/20/10",
+    "quote": "Google new-hire grants commonly use a front-loaded 38% / 32% / 20% / 10% schedule"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule",
+   "Sign-on payment structure and clawback terms",
+   "Equity refresh eligibility timing",
+   "GSU share count determination method"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "If the base is constrained, equity is my highest-priority lever."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for $1.55M in equity"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "A $1.55M request is a $210K increase in the four-year grant, or only $52.5K annualized."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring annualized TC | $526K | $647K"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on that exactly covers the approximately $200K of Meta RSUs you said would vest"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:51:51+00:00"
+}

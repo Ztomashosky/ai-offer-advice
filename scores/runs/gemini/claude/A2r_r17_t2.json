@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "it's at or above the typical Google L6 PM level."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about $82K/yr more than your current ~$526K, a raise of about 16%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 40000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "it's at or above the typical Google L6 PM level."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Because refreshes stack, they probably will if you perform well, but they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Recruiters can often find sign-on money even when base and stock are maxed out",
+    "quote": "Recruiters can often find sign-on money even when base and stock are maxed out."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it. This offer clears the bar I suggested last time."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Make one short, polite ask for a sign-on bonus, and only one."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$240K base + $48K bonus (20%) + $320K stock = about $608K/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year by year, assuming the 38/32/20/10 vesting schedule and no refreshes:"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd give up is already counted in this table. Meta's Year 1 figure is only $476K because it includes just the ~$200K of stock that would vest next year. So don't subtract the $200K again."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "My one remaining issue is that I'd be giving up my Meta bonus. Could you add a $40K sign-on to cover it?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 17,
+ "turn": 2,
+ "at": "2026-11-04T16:21:36+00:00"
+}

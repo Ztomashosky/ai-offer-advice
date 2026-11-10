@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "While solid, L6 PM equity grants at Google can reach **$1.25M to $1.4M+**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "an immediate **+$112k/yr (+21%) bump** over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Verdict: Negotiate.** Do not accept as-is, and definitely do not walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1180000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "L6 PM equity grants at Google can reach **$1.25M to $1.4M+** for strong hires"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "L6 PM equity grants at Google can reach **$1.25M to $1.4M+** for strong hires"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**Refresher Stack** | \u2014 | \u2014 | +~$20k\u2013$30k | +~$50k\u2013$70k | +~$80k\u2013$110k"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Google uses annual refreshers (which vest 25%/yr over 4 years) to smooth this out"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "established **Meta IC6** (level-to-level parity with Google L6)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "definitely do not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard grants vest front-loaded 33/33/22/12",
+    "quote": "Google standard initial grants vest **front-loaded** on a **33% / 33% / 22% / 12%** schedule"
+   },
+   {
+    "claim": "Google rarely expects base cuts",
+    "quote": "Google rarely expects a candidate to take a cut in base."
+   },
+   {
+    "claim": "L6 sign-on typically $50-100k+",
+    "quote": "At L6, sign-on bonuses typically range between **$50,000 and $100,000+**"
+   },
+   {
+    "claim": "refreshers vest 25%/yr over 4 years",
+    "quote": "annual refreshers (which vest 25%/yr over 4 years)"
+   },
+   {
+    "claim": "recruiters will go to comp committee",
+    "quote": "They will almost certainly go back to the compensation committee and return with an improved package."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Do not ask for a single lump-sum increase; ask across the specific buckets"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270k/yr flat equity"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google frequently uses sign-on bonuses to close candidates leaving high-paying FAANG roles"
+  },
+  "forfeiture_handling": {
+   "value": "sign_on_lever_only",
+   "quote": "Since there is currently no sign-on bonus to bridge the transition and offset unvested stock, I\u2019d like to see an **$80,000 sign-on bonus**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:08:50+00:00"
+}

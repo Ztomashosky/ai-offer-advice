@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "your offer is broadly **around market median**, not a premium or top-of-band package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is offering only about **$26,000 more per year**, or **5% above your current compensation**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would **negotiate\u2014not accept immediately and not walk away yet**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 125000,
+  "signon_ask_high": 125000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "still close to the reported L6 90th-percentile TC of approximately $671,000"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent compensation data places median Bay Area Google L6 PM compensation at roughly **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshers as **upside**, not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "**Walk if:** they refuse meaningful movement and you are genuinely happy at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity has the greatest ability to change the package",
+    "quote": "Equity has the greatest ability to change the package."
+   }
+  ],
+  "missing_info_requested": [
+   "exact GSU vesting schedule",
+   "grant conversion date and stock price",
+   "refresh eligibility and proration",
+   "bonus proration",
+   "sign-on repayment terms",
+   "work location classification"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "If they won\u2019t move on everything, prioritize:\n\n1. **RSUs**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Google is offering only about **$26,000 more per year**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your $1.08 million is solid but produces only $552,000 average annual TC."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on compensates for the immediate transition. Base is recurring"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Position it as compensation for leaving a strong situation and forfeiting near-term Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T01:00:21+00:00"
+}

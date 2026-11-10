@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and I'd accept it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even with no changes, this offer pays you far more than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Before you do, make one short, polite request for a little more."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 280000,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "to cover the Meta bonus and stock you'd give up. If they say they can't change the sign-on, offer an alternative"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the median total pay for a Google Senior PM in the Bay Area is $540,985"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "refreshes aren't guaranteed, so treat any you get as a bonus."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google has used both equal and front-loaded equity vesting schedules.",
+    "quote": "Google has used both equal and front-loaded schedules."
+   },
+   {
+    "claim": "Google adopted a 33-33-22-12 front-loaded vesting schedule in summer 2021.",
+    "quote": "In Summer of 2021, they decided on a new, front-loaded, vesting schedule, reported as 33-33-22-12."
+   },
+   {
+    "claim": "Meta RSUs vest on four specified quarterly dates.",
+    "quote": "Meta RSU's vest quarterly on February 15th, May 15th, August 15th, and November 15th."
+   },
+   {
+    "claim": "A polite one-time negotiation almost never causes an offer to be withdrawn.",
+    "quote": "Asking politely once almost never gets an offer pulled."
+   }
+  ],
+  "missing_info_requested": [
+   "Google new-hire RSU vesting schedule",
+   "whether leaving forfeits the 2026 Meta bonus",
+   "sign-on repayment period",
+   "whether the sign-on is paid at once or over two years",
+   "amount of near-term Meta compensation forfeited"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make **one bundled request:**\n- **Base salary: $260k \u2192 $271k**, the top of the posted range.\n- **Sign-on bonus: $200k \u2192 $250k**, to cover the Meta bonus and stock you'd give up."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can bring the base to $271k and the sign-on to $250k, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google (equal vesting) | $260k + $52k + $335k + $200k sign-on = **~$847k**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 pays about $370k more, mostly from the sign-on bonus and the new stock grant."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Meta (next 12 months) | $240k + $36k + $200k = **~$476k**"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on bonus: $200k \u2192 $250k, to cover the Meta bonus and stock you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:47:27+00:00"
+}

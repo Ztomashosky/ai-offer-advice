@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Against the market, $608K a year sits well above the Google L6 PM median of about $514K and close to the 75th percentile (about $621K)."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years you'd earn about $380K more ($2.43M vs. $2.05M). That's around 18%, up from roughly 5% in the first offer."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes. On compensation alone, this is now a good offer and you should take it, after you check three things first."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 35000,
+  "signon_ask_high": 35000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Against the market, $608K a year sits well above the Google L6 PM median of about $514K and close to the 75th percentile (about $621K)."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes aren't guaranteed, but almost every Google employee in good standing gets them."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "a lateral move means rebuilding trust and visibility from scratch."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost every Google employee in good standing receives equity refresh grants",
+    "quote": "Refreshes aren't guaranteed, but almost every Google employee in good standing gets them."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule in writing",
+   "When Meta pays 2026 bonus",
+   "Next Meta vest date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. On compensation alone, this is now a good offer and you should take it, after you check three things first."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "If my start date means forfeiting my Meta bonus, could you add a sign-on of about $35K to cover it?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.28M in RSUs, which averages $320K a year in stock."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Meta's year one ($476K) includes that vest. Even with the least favorable vesting schedule, Google's year one is $132K higher."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd give up is already built into this comparison. Meta's year one ($476K) includes that vest."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "If my start date means forfeiting my Meta bonus, could you add a sign-on of about $35K to cover it?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 5,
+ "turn": 2,
+ "at": "2026-11-03T16:18:10+00:00"
+}

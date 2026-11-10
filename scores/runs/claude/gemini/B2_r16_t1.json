@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this is a **strong L6 (Senior PM) offer** for Google"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "this initial offer is likely not compelling enough to make the jump as-is"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should **negotiate** rather than accept or walk away immediately."
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Top of band for L6 PM equity can reach ~$1.3M\u2013$1.4M."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "An established IC6 PM at Meta with stacked refreshers commonly earns **$550,000 to $700,000+** total compensation"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Above the median new-hire equity for L6 PMs."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": "An established IC6 PM at Meta with stacked refreshers commonly earns"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "you would need substantial refresher grants starting in Year 1 to avoid a dip in Years 3 and 4"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google L6 vs. Your Current Meta IC6 Position"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move, staying at Meta remains the stronger financial and professional choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a specific front-loaded vesting schedule",
+    "quote": "Google uses a **33% / 33% / 22% / 12%** vesting schedule over four years"
+   },
+   {
+    "claim": "Google bonus payouts stick near target",
+    "quote": "Google bonus payouts tend to stick much closer to the target (1.0x)"
+   },
+   {
+    "claim": "Google frequently grants sign-on when asked",
+    "quote": "Google frequently grants sign-on bonuses to lateral Big Tech hires when asked."
+   },
+   {
+    "claim": "Meta bonus multiplier range",
+    "quote": "can exceed target significantly (often 1.2x\u20131.5x+ of the 20% bonus target)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Sign-on Bonus** | $0 | **$75,000 \u2013 $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Offsets unvested Meta RSUs, bonus transition, and bridge risk."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Pushes Years 1 & 2 equity to ~$412k\u2013$445k/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 compensation will exceed **$700,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets unvested Meta RSUs, bonus transition, and bridge risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:53:19+00:00"
+}

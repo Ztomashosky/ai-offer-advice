@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very strong L6 PM offer. I would not walk away over compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Without the one-time sign-on, the package annualizes to **$647,000**, about **23% above** your stated $526,000 Meta run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, professionally, and\u2014assuming you like the role, manager, and scope\u2014probably accept."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1650000,
+  "equity_ask_high": 1700000,
+  "equity_expected_low": 1550000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 300000,
+  "signon_ask_high": 300000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "The initial grant determines how exposed you are to the Year 3\u20134 compensation decline.\n- Refreshes are not guaranteed."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported market data puts US Google L6 PM median compensation around $514,000, with the 90th percentile around $671,000; reported median base is approximately $240,000 and median annual stock approximately $230,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google confirms that equity refreshes are part of its annual compensation process, but they are modeled using factors such as performance, location, and role and remain subject to managerial and compensation review. They should not be treated as guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "The Google title is L6 but the actual responsibilities feel smaller."
+  },
+  "walkaway_tied_to": "none",
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants commonly vest 38/32/20/10.",
+    "quote": "Recent reporting indicates that Google new-hire grants commonly vest **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule",
+   "when equity value converts to shares",
+   "first share vesting timing/cliff",
+   "eligibility for next annual refresh cycle",
+   "standard L6 PM refresh structure",
+   "first annual bonus proration",
+   "sign-on repayment and clawback terms",
+   "start date flexibility around Meta vest calendar",
+   "exact role scope and funding"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity should be the main request because:\n\n- It is the largest long-term component."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "bring the base to the top of the posted range at $271,000, increase the new-hire equity grant to $1.7 million, and increase the sign-on to $300,000."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Without the one-time sign-on, the package annualizes to **$647,000**, about **23% above** your stated $526,000 Meta run rate."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without the one-time sign-on, the package annualizes to **$647,000**, about **23% above** your stated $526,000 Meta run rate."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on is your easiest \u201cmake-whole\u201d lever. But recognize that Google has already given you $200,000, exactly matching the Meta RSUs you say will vest over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:46:23+00:00"
+}

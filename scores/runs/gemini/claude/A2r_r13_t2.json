@@ -1,0 +1,116 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is above-market pay and a big near-term raise."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "first two years are far ahead of Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Take it, as long as you actually want the job."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 30000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Without refreshes, year 4 drops to about $416K, which is probably below Meta."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Take it, as long as you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [
+   "sign-on bonus of $30K-$40K to cover lost Meta bonus"
+  ],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Is a modest sign-on, around $30\u201340K, possible to cover that? If not, I'll still sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| **4-year average** | ~$552K | **~$608K** | +$56K/yr |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 is about $300K ahead of Meta. Year 2 is likely $150K+ ahead."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd give up isn't an extra cost. It's already in the \"Meta if you stay\" column. Don't count it twice."
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-04T16:14:26+00:00"
+}

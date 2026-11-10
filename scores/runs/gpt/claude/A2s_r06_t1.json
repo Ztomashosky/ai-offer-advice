@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "For an L6 in SF, this offer looks reasonable but not top of band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Four-year average: about $552K/year, roughly 5% above your current ~$526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I think it's a good offer and you should negotiate before deciding."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "It also helps offset the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the median yearly Product Manager package at Google in the US totals $520K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "count them as upside, not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Walk away if the role itself doesn't excite you."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta bonuses are paid the following year, typically by March 31.",
+    "quote": "bonuses are paid in a lump sum the following year, typically by March 31."
+   },
+   {
+    "claim": "Meta employees must remain employed through the bonus payment date.",
+    "quote": "Employees must remain employed through the payment date to receive a bonus."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly on the listed schedule.",
+    "quote": "Meta usually vests quarterly around mid-November, February, May and August."
+   },
+   {
+    "claim": "Base salary is usually the hardest offer component to change.",
+    "quote": "Raise base too, but it's usually the hardest number to move."
+   },
+   {
+    "claim": "Google usually has the most negotiating room in equity.",
+    "quote": "This is usually where Google has the most room."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's exact RSU vesting schedule in writing",
+   "The candidate's exact upcoming Meta vesting schedule",
+   "Whether an upcoming Meta refresh would be forfeited",
+   "Whether the role itself excites the candidate"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Lead with equity and a sign-on bonus. Raise base too"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Four-year average: about $552K/year, roughly 5% above your current ~$526K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus: ask for $75\u2013100K (expect $40\u201375K). This is your strongest argument because it's concrete"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Moving means forfeiting my ~$36K 2026 bonus and upcoming equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:31:35+00:00"
+}

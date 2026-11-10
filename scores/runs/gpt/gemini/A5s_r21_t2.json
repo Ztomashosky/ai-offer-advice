@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a **major win**."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "your **Year 1 compensation will be significantly higher than Meta**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Unless you are 6 months away from an IC7 promotion at Meta, the upside, cash de-risking, and career prestige make this worth taking."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "With your initial grant plus standard stacking refreshes (~$60k/yr added each year), your steady-state comp in Years 2\u20134 will average **~$580k\u2013$650k/yr**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "With your initial grant plus standard stacking refreshes (~$60k/yr added each year), your steady-state comp in Years 2\u20134 will average **~$580k\u2013$650k/yr**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "standard stacking refreshes (~$60k/yr added each year)"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Treat this as their true ceiling for an L6 lateral hire."
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Unless you are 6 months away from an IC7 promotion at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The sign-on is near the top of what Google's compensation committee typically approves.",
+    "quote": "is near the top of what Google's compensation committee typically approves."
+   },
+   {
+    "claim": "The offer required executive compensation approval.",
+    "quote": "they have escalated this to executive comp approval."
+   },
+   {
+    "claim": "The final offer is Google's true ceiling for an L6 lateral hire.",
+    "quote": "Treat this as their true ceiling for an L6 lateral hire."
+   },
+   {
+    "claim": "Google's standard sign-on clawback is one year and prorated.",
+    "quote": "Standard is a 1-year prorated clawback, but confirm it isn't 2 years"
+   },
+   {
+    "claim": "Standard Google refreshes add about $60,000 of annual vesting each year.",
+    "quote": "standard stacking refreshes (~$60k/yr added each year)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment schedule",
+   "sign-on clawback term",
+   "equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Unless you are 6 months away from an IC7 promotion at Meta, the upside, cash de-risking, and career prestige make this worth taking."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Pushing for more equity or base at this stage carries diminishing returns and risks frustrating the hiring manager."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Confirm whether the $1.08M vests front-loaded (e.g., 33%/33%/22%/12%) or evenly (25%/25%/25%/25%)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Once the sign-on expires, your target cash will be $288k ($240k base + $48k bonus)."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "completely removes the financial risk of leaving your unvested Meta RSUs on the table."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 2,
+ "at": "2026-11-03T00:53:57+00:00"
+}

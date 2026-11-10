@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "The offer is below typical pay for this level."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "averaged over four years it's only a little better than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as-is, and don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi shows Google L6 Product Managers at about $607K median total comp."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows Google L6 Product Managers at about $607K median total comp."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "What the offer is worth, assuming 38/32/20/10 and no refreshes"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Probably stay if they barely move."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers use the 38/32/20/10 vesting structure.",
+    "quote": "almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure"
+   },
+   {
+    "claim": "Meta gives equity refresh grants.",
+    "quote": "Meta also gives refreshes, so \"refreshes stack\" isn't an advantage unique to Google."
+   },
+   {
+    "claim": "Google's target bonus percentage is fixed by level and generally cannot be negotiated.",
+    "quote": "The 20% target is set by level and generally can't be negotiated"
+   },
+   {
+    "claim": "Sign-on is usually the easiest compensation item to obtain.",
+    "quote": "Sign-on is usually the easiest item to get."
+   },
+   {
+    "claim": "Google sign-on bonuses use a separate budget and approval chain.",
+    "quote": "sit in a separate budget that does not require the same approval chain as raises to base or stock."
+   }
+  ],
+  "missing_info_requested": [
+   "The Google new-hire grant vesting schedule in writing",
+   "How Google refresh grants vest",
+   "The typical refresh for an L6 PM who meets expectations"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $260K, a GSU grant of $1.35M, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, Google pays only about $26K/yr more."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of the gain comes early. By years 3\u20134 you'd earn less than at Meta"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "~$476K (you said $200K vests in the next 12 months)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the Meta bonus and stock you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-04T16:58:49+00:00"
+}

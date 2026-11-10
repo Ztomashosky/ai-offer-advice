@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, it is a solid offer, but it is not top-of-band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1: Base ($235k) + Bonus ($47k) + Equity (~33\u201338% = $356k\u2013$410k) = **~$638k \u2013 $692k**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet\u2014you should negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 80000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Top-of-band L6 PM equity packages can reach $1.2M\u2013$1.3M+ in competitive scenarios."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Top-of-band L6 PM equity packages can reach $1.2M\u2013$1.3M+ in competitive scenarios."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual performance refreshes stack over time to backfill this, your guaranteed baseline drops considerably."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses one of two specified front-loaded GSU vesting schedules.",
+    "quote": "Google typically uses a front-loaded vesting schedule (either **38% / 32% / 20% / 10%** or **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "Sign-on and equity are Google's easiest compensation levers to change.",
+    "quote": "When negotiating with Google, the easiest levers to move are **Sign-on Bonus** and **Equity**, followed by **Base Salary**."
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses to bridge equity and incentive timing gaps.",
+    "quote": "Google frequently uses one-time sign-on bonuses to bridge unvested equity gaps and incentive timing."
+   },
+   {
+    "claim": "Google has invested substantial hiring committee resources in clearing the candidate.",
+    "quote": "Google has already invested substantial hiring committee resources into clearing you for an L6 PM bar."
+   },
+   {
+    "claim": "Google rarely withdraws offers after polite market-calibrated counters from strong passive candidates.",
+    "quote": "Google rarely pulls an offer for a polite, market-calibrated counter from a strong passive candidate."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "When negotiating with Google, the easiest levers to move are **Sign-on Bonus** and **Equity**, followed by **Base Salary**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The Equity Grant ($1.08M over 4 years)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google frequently uses one-time sign-on bonuses to bridge unvested equity gaps and incentive timing."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "there isn't a sign-on component to help offset the unvested equity and bonus I\u2019d be walking away from."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 13,
+ "turn": 1,
+ "at": "2026-11-02T23:24:56+00:00"
+}

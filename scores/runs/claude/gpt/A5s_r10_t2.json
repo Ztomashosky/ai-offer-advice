@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "is essentially a median L6 package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google premium: approximately **$328K\u2013$378K over four years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If the roles are approximately equal in attractiveness, take Google."
+  },
+  "intensity": {
+   "value": 0,
+   "quote": "I wouldn\u2019t reopen the headline compensation negotiation after they\u2019ve said \u201cbest offer.\u201d"
+  },
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median Bay Area Google L6 PM compensation at roughly **$606K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would treat the extra $375K entirely as upside\u2014not as part of the decision case"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "steady-state TC would be:\n\n> $240K + $48K + $250K = **$538K**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If you received a $250K refresh each year, each vesting 25% annually"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Materially worse role, manager, or scope: stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on may contain clawback requiring gross repayment",
+    "quote": "Whether you must repay the gross or net amount"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment timing",
+   "clawback provisions",
+   "exact RSU vesting schedule",
+   "refresh eligibility",
+   "bonus proration",
+   "start date flexibility"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "I would lean toward taking it\u2014provided you like the manager, team, and scope"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn\u2019t reopen the headline compensation negotiation after they\u2019ve said \u201cbest offer.\u201d"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the $1.08M grant vests evenly at $270K annually"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The sign-on is one-time. Before refreshes, the recurring package is"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "assuming subsequent years return to $526K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Economically replaces the Meta equity you\u2019re forfeiting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 10,
+ "turn": 2,
+ "at": "2026-11-02T23:37:51+00:00"
+}

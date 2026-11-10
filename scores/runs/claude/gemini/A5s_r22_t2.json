@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "is top-of-market for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You lock in an extra **~$450,000\u2013$500,000 in total compensation over your first two years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Accept the offer.** Google has stretched to the top of their L6 band"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "assume target performance refreshers (~$250k/4-yr grants) stack as described by the recruiter"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Calculations for Years 2\u20134 assume target performance refreshers (~$250k/4-yr grants) stack"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "assume target performance refreshers (~$250k/4-yr grants) stack as described by the recruiter"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If you decide to turn this down, it should be strictly for **career/cultural reasons**, not compensation"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard vesting 33/33/22/12",
+    "quote": "Google\u2019s standard equity schedule vests 33% in Yr 1, 33% in Yr 2, 22% in Yr 3, and 12% in Yr 4"
+   },
+   {
+    "claim": "Meta moves faster on promotions",
+    "quote": "Meta generally moves faster on promotions for high performers"
+   },
+   {
+    "claim": "sign-on is top of market",
+    "quote": "is top-of-market for a Google L6 PM"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on disbursement and clawback terms",
+   "equity vesting schedule confirmation",
+   "start date and Meta bonus alignment"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.** Google has stretched to the top of their L6 band to win you over"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Accept the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Calculations for Years 2\u20134 assume target performance refreshers"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200,000 sign-on is liquid cash, completely eliminating market volatility risk"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": "Google effectively **paid you twice** for that equity"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "$200k in upfront cash to offset your next 12 months of unvested Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 22,
+ "turn": 2,
+ "at": "2026-11-03T00:55:06+00:00"
+}

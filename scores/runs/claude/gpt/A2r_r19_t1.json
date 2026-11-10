@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Fair for Google L6; insufficiently differentiated for someone happy at Meta whose priority is compensation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "only $26K/year, or about 5%, above your stated $526K Meta run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: **Negotiate**"
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 255000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "which is appropriate as an opening ask\u2014not necessarily your expected settlement"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "reported Bay Area Google L6 PM median compensation was approximately **$551K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Broader US L6 data shows a median around $514K and a 90th percentile around $671K"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "That makes them expected upside\u2014not contractual compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are performing at an equivalent senior level at a direct peer."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google holds firm at the original package, I would **politely decline**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "refreshes depend on discretionary factors",
+    "quote": "managers have discretion. That makes them expected upside\u2014not contractual compensation"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule percentages Years 1-4",
+   "first vest date",
+   "stock-price averaging period for share count",
+   "bonus proration",
+   "first refresh eligibility",
+   "modeled refresh for standard rating",
+   "sign-on repayment terms",
+   "confirm L6 recorded in HR system"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $265K base, $1.4M equity and $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.25M equity, or $312.5K/year normalized"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A sign-on helps with Year 1, but it should not hide weak recurring compensation."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 19,
+ "turn": 1,
+ "at": "2026-11-03T00:45:10+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "That suggests L6 should come in above the overall median, and on average your offer barely does."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On average the offer is only slightly better than staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this offer as it stands, and don't walk away yet. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "If you got the realistic targets, the 4-year average would be about $630\u2013650K a year."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, Google PM pay in the Bay Area has a median yearly compensation package of $510K across all levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Those aren't guaranteed, but neither are Meta's. Refreshes at both companies roughly cancel out"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't get close to your number, staying is a perfectly good outcome."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity usually gives Google the most room to move.",
+    "quote": "This usually gives Google the most room to move."
+   },
+   {
+    "claim": "Google often finds a one-time sign-on easier than increasing base.",
+    "quote": "Google often has an easier time paying a one-time sign-on than raising base."
+   },
+   {
+    "claim": "Recruiters usually verify compensation figures.",
+    "quote": "Give your current pay and unvested equity if asked, and don't overstate them. Recruiters usually verify."
+   }
+  ],
+  "missing_info_requested": [
+   "Google's exact RSU vesting schedule in writing",
+   "unpaid Meta bonus amount",
+   "total unvested Meta equity"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a base of $260K, $1.4M in RSUs and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Each extra $80K of grant adds about $20K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google often has an easier time paying a one-time sign-on than raising base."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real Meta number for next year is about $476K, not $526K."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Present this as covering the bonus and RSUs you'd give up by leaving."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-04T16:56:53+00:00"
+}

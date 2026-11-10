@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It\u2019s a good Google offer, but not a strong enough \u201cleave a job I\u2019m happy with\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the current package represents only a modest premium over staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the initial offer, but don\u2019t walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Looking at the Google offer over the full four years rather than only the front-loaded first year, the current package represents only a modest premium over staying."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported U.S. Google PM data places L6 median compensation around:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These figures mix existing employees and offers and are self-reported, so treat them as directional."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as **possible upside**, not part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "is already an IC6 PM at Meta,"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would probably decline, given that you are happy and the initial four-year premium is only about 5%."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is generally one of the more flexible components and sign-on bonuses frequently appear only after negotiation",
+    "quote": "Equity is generally one of the more flexible components in senior technology offers, and sign-on bonuses frequently appear only after negotiation rather than in the initial offer."
+   }
+  ],
+  "missing_info_requested": [
+   "exact new-hire GSU vesting schedule",
+   "expected first vest date",
+   "bonus proration details",
+   "first equity refresh eligibility and timing",
+   "refresh grant vesting schedule",
+   "grant-date share conversion price",
+   "sign-on clawback terms",
+   "role calibration as L6 and promotion path to L7"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would make an ambitious but defensible counter:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "while your annualized initial equity of $270K is above it."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year average excluding sign-on: **$612.5K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "partially protecting against compensation timing and forfeited Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:44:18+00:00"
+}

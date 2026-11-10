@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a **reasonable market offer but not a compelling \u201cleave a job you like\u201d offer**."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "Over four years, the guaranteed package trails what you can reasonably expect by staying at Meta unless refresh grants materialize."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept this offer as written.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1000000,
+  "equity_ask_high": 1000000,
+  "equity_expected_low": 950000,
+  "equity_expected_high": 1000000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That gives you roughly an 11% nominal premium over the illustrative Meta four-year total."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data for Google L6 PMs in the Bay Area reports approximately:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, value refresh grants at **zero**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Confirm that L6 is final and whether there was any L7 discussion."
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are not receiving a promotion relative to your current IC6 level."
+  },
+  "walkaway_tied_to": "offer",
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Written vesting schedule for new-hire RSUs",
+   "When first eligible for refresh grant",
+   "Whether first refresh is prorated",
+   "Vesting schedule for refresh grants",
+   "Typical refresh grant ranges for SF L6 PMs by rating",
+   "When refresh grants begin vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Open with:** $250,000 base, $1,000,000 in RSUs, and a $100,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If Google\u2019s schedule is instead straight-line at 25% annually, the offer is only **$458K per year**, making it inferior even in year one."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "My priorities are improving the recurring base and addressing both the four-year compensation gap and the equity I\u2019m leaving behind."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "addressing both the four-year compensation gap and the equity I\u2019m leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:21:44+00:00"
+}

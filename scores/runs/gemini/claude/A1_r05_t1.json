@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "As offered, this is a pay cut for a move to the same level."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, and be ready to walk away if Google can't at least match what you make now."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "My current total comp is about $526K a year, I'd be walking away from about $200K in stock vesting over the next 12 months plus my annual bonus"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "Meta's $250K a year in stock likely already includes stacked refreshes, which continue if you stay."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes are a bonus if they come, so don't count on them when deciding."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 and Google L6 are equivalent, so there's no promotion here to make up for less money."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "I'd walk away if Google won't get your guaranteed year 1 to at least ~$550K, with years 2\u20134 (not counting refreshes) not falling well below $526K."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock and sign-on bonuses usually have more room to negotiate than base salary.",
+    "quote": "Stock and sign-on bonuses usually have more room than base."
+   }
+  ],
+  "missing_info_requested": [
+   "equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for about $255K base, a $1.2M stock grant and a $75K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If yours vests evenly, you lose about $68K in year 1. If it's front-loaded, year 1 is roughly a wash"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "guaranteed year 1 to at least ~$550K, with years 2\u20134 (not counting refreshes) not falling well below $526K."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "and a $75K sign-on to cover what I'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:07:19+00:00"
+}

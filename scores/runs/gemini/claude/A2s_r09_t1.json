@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "Still, it suggests this offer is below the typical L6 package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years, this averages about $552K/yr before refreshers. That's only about 5% more than your $526K run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept as it stands. Ask for more."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi reports median total compensation at L6 is $605,720 per year for Google Senior PMs."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports median total compensation at L6 is $605,720 per year for Google Senior PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "Treat that as a rough guide, since it's self-reported and mixes tenured employees with new hires."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, this averages about $552K/yr before refreshers."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you're already at the same level at a peer company."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't move from $235K and $1.08M with no sign-on, turning it down is completely reasonable."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Stock is the easiest part of the offer for Google to increase",
+    "quote": "It's the easiest part of the offer for Google to increase."
+   },
+   {
+    "claim": "Google moves most on stock and sign-on and least on base",
+    "quote": "Google usually moves most on stock and sign-on and least on base, so push hardest on those two."
+   }
+  ],
+  "missing_info_requested": [
+   "Google grant vesting schedule and monthly/quarterly cadence",
+   "Share price calculation method and date",
+   "Meta unvested equity/bonus payout dates",
+   "Typical L6 refresher amount for meeting expectations"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Google usually moves most on stock and sign-on and least on base, so push hardest on those two."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years, this averages about $552K/yr before refreshers. That's only about 5% more than your $526K run rate"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At the realistic midpoint (about $252K base, $1.25M stock, $50K sign-on), the 4-year average comes to about $627K/yr before refreshers."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "What you'd really earn at Meta in the next 12 months is: $240K base + $36K bonus + $200K vesting = about $476K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It's normal to get one when you're giving up unvested stock and possibly a pending bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-04T16:34:49+00:00"
+}

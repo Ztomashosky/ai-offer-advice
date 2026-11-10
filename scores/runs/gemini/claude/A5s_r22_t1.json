@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is fair but not great"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The guaranteed gain in year 1 is about $76K, or roughly 16%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "don't accept it as written, and don't walk away. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "Covers your unvested Meta stock and the risk of switching."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "According to Levels.fyi, the median total compensation package for a Senior PM at Google is $590,867."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Don't count the refresh \"ramp\" as a reason to switch."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google, with the recruiter's example refreshes | $552K | $615K | $677K | $740K | ~$532K"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonus is often the easiest item for Google to approve",
+    "quote": "It's often the easiest item for Google to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "total unvested Meta RSUs by year",
+   "exact Google vesting schedule",
+   "how dollar grant is converted to share count",
+   "Google bonus multiplier range"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to $260K base, a $1.3M grant, and a $100K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Adds about $30\u201355K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "roughly $604K a year guaranteed, plus the sign-on in year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "walking away from [$X] in unvested Meta equity plus my annual bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 22,
+ "turn": 1,
+ "at": "2026-11-04T17:20:28+00:00"
+}

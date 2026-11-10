@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Short version: the offer is fair, but not good enough for someone who wasn't looking"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years Google pays about $150K more, roughly 7\u20138%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as written and don't walk away yet. Make one confident counter."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "At the ask, Google pays about $650K/yr on average plus the sign-on, around 25% above staying at Meta."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports a median yearly compensation package in the US of $449K across all Google PM levels"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "your Meta numbers already include refreshes, and the Google numbers include none."
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "the Google numbers include none. If Google refreshes come through, they stack on top."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "For example: \"Unless the 4-year average is above about $590K, I stay.\""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is where Google has the most flexibility at L6.",
+    "quote": "Equity is where Google has the most flexibility at L6."
+   },
+   {
+    "claim": "Google refresh grants will not vest in year one.",
+    "quote": "the fact that Google refreshes won't be vesting in year 1."
+   },
+   {
+    "claim": "Sign-on clawbacks are usually prorated over 12\u201324 months.",
+    "quote": "Sign-on clawback terms, usually prorated if you leave within 12\u201324 months."
+   }
+  ],
+  "missing_info_requested": [
+   "new-hire RSU vesting schedule and vesting frequency",
+   "how the RSU dollar amount converts to shares",
+   "first refresh eligibility and typical L6 refresh amount",
+   "sign-on clawback terms",
+   "Meta bonus payout date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one counter, covering everything at once"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I'd need $260K base, $1.35M in RSUs, and a $100K sign-on"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If RSUs vest evenly (25%/yr) | $552K | $552K | $552K | $552K | $2.21M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google pays about $650K/yr on average plus the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your RSU vesting in the next year is $200K, so staying pays about $476K next year"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-04T16:16:49+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is **reasonable market compensation for a Google L6 PM**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google without refreshers is only $26,000 higher"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t walk away yet, but don\u2019t accept the current offer purely for compensation.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Levels.fyi currently reports a much lower median sign-on across PM submissions"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi data puts Bay Area Google L6 PM median compensation around $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "the no-refresh scenario is the appropriate basis for setting your reservation price"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5 steady state | $282,000 | About $532,000"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "With $250K annual refresh grants"
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Only raise L7 if the scope and interview feedback plausibly support it"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Don\u2019t trade an actionable L6 negotiation for an implausible re-level request"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google leaves the package at $235K / $1.08M / $0 sign-on, I would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "refreshers depend on review and are discretionary",
+    "quote": "refresh recommendations depend on factors including performance, location and role, with management and compensation-team review"
+   }
+  ],
+  "missing_info_requested": [
+   "exact annual vesting percentages for the new-hire grant",
+   "expected first vest date",
+   "when first eligible for annual equity-refresh cycle"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base:** $260,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "I have roughly $200K of Meta equity vesting over the next 12 months"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized new-hire equity: $337,500"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on: Seek $100,000\u2013$200,000. It is immediate and not dependent on future refresh decisions."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200,000 Meta vest is not necessarily a separate $200,000 loss on top of your compensation comparison; it is part of what you would earn by staying"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it is entirely legitimate to use it to justify a make-whole request"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 16,
+ "turn": 1,
+ "at": "2026-11-02T23:44:36+00:00"
+}

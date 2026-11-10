@@ -1,0 +1,46 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A1",
+ "rep": 8,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T15:06:56+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A1_weak",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $215,000\n- Target annual bonus: 20% of base ($43,000)\n- New-hire RSUs: $800,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T15:07:54+00:00",
+   "reply": "**Short answer:** Don't accept this as it stands, and don't walk away yet. Negotiate. This offer is a pay cut for a move to the same level (Meta IC6 is roughly equal to Google L6). Because you're happy where you are and weren't looking, you're in a strong position to ask for a lot.\n\n## The numbers\n\n| | Meta (stay) | Google offer |\n|---|---|---|\n| Base | $240K | $215K |\n| Bonus | ~$36K | $43K (target) |\n| Equity | ~$250K/yr average ($200K in the next 12 months) | $800K \u00f7 4 = $200K/yr average |\n| **Annual total** | **~$526K average / ~$476K next 12 months** | **~$458K average** |\n\n- **Your base drops by $25K.** That's the only part of the pay that's guaranteed.\n- **Over four years you'd average about $68K/yr less** than your current Meta pay ($458K vs. $526K).\n- **Year 1 depends on how the stock vests, and you need to ask.** Google has used several schedules. Levels.fyi lists 38% in year 1, 32% in year 2, 20% in year 3, and 10% in year 4, as well as 33/33/22/12 and even 25% per year. Year 1 at Google would come to:\n  - 25% vesting: ~$458K, which is $18K below your next 12 months at Meta\n  - 33% vesting: ~$522K\n  - 38% vesting: ~$562K\n  \n  Front-loading only moves money into the early years. The total is still $800K, so years 3\u20134 get much thinner unless refreshes fill the gap.\n- **Refreshes don't help Google here.** Meta also gives refreshes, so they roughly cancel out. Google's aren't guaranteed, and your first one probably wouldn't start vesting until after year 1. Judge the offer on the guaranteed part.\n- **Check your Meta bonus timing.** If you leave before your annual bonus pays out, you lose that ~$36K. That's a real cost of switching, and a sign-on bonus should cover it.\n\n**Market check:** Levels.fyi shows that the median yearly total compensation for a Google Product Manager in the San Francisco Bay Area is $510,000, across all levels. One Levels.fyi page puts Google's Senior PM figure for San Francisco at $530,000. A senior PM offer at about $458K is below where it should be. Your base is also below the middle of the posted $183K\u2013$271K range, which leaves clear room to go up.\n\n## What to ask for\n\n| Item | Ask for | Least you should accept |\n|---|---|---|\n| Base | **$255K** | $240K (match Meta) |\n| New-hire RSUs | **$1.2M** over 4 years | ~$950K |\n| Sign-on bonus | **$100K** (often paid over years 1\u20132) | ~$50K (covers your Meta bonus and the year-1 gap) |\n\nAt the full ask, you'd get $255K base, about $51K bonus and $300K/yr in equity, so about **$606K/yr**. That's a ~15% raise over Meta, which is a normal premium for leaving a job you're happy in. At the minimums, you'd get about $528K/yr plus a sign-on, roughly a lateral move. That's only worth it if you really want the role itself.\n\nEquity and sign-on bonuses usually have more room to move than base, so push hardest on those. Also ask which vesting schedule applies to your grant.\n\n## How to say it\n\n> \"I'm genuinely excited about the role, but I wasn't looking and I'm happy at Meta. My current comp is about $526K a year: $240K base, ~$36K bonus and ~$250K a year in vesting equity. As written, this offer is a meaningful cut at the same level. To make the move, I'd need around $255K base, $1.2M in RSUs and a $100K sign-on to cover the bonus and equity I'd leave behind. If you can get close to that, I'm ready to sign.\"\n\n- Share your real Meta numbers. Recruiters often ask for proof, and inflating them can backfire.\n- Ask for everything in one message rather than one item at a time.\n- Get the final terms, including the vesting schedule, in writing.\n\n## When to walk away\n\nDecline if Google won't move the guaranteed pay to at least what you make at Meta now: base of $240K or more, roughly $525K+/yr on average, and a sign-on that covers your forfeited bonus. Since pay matters a lot to you and you like your job, there's no good reason to accept a cut. Staying is a perfectly good outcome.\n\nOne caution: you could take a strong Google offer to Meta and ask them to match it. Only do that if you'd actually be willing to leave, because it can change how your managers see you.",
+   "searches": [
+    {
+     "query": "Google new hire RSU vesting schedule 2025"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule"
+    },
+    {
+     "query": "Google L6 product manager salary levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 Senior Product Manager salary San Francisco Bay Area levels.fyi"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 51032,
+    "output": 4057,
+    "web_searches": 5
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T15:07:54+00:00"
+}

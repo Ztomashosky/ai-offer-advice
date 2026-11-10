@@ -1,0 +1,145 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On paper this is a strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Whether it's actually a good deal for *you* depends on one thing you haven't told me: your current compensation at Varrowby."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't take it as is, and don't walk away. **Negotiate.**"
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "This is worth about $40K\u2013$55K a year and helps cover the years before refreshes add up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists the median total compensation for a Senior Product Manager at LinkedIn in San Francisco Bay Area at about $439K"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "A new job carries real risks: a new manager, a vesting cliff, and refreshes that aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "accept if Halvern's **first two years** of pay (including any sign-on) beat what you'd realistically earn by staying at Varrowby"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Halvern provides no refresh grants in the first year.",
+    "quote": "Year 1 has no refreshes, but your current job probably does."
+   },
+   {
+    "claim": "Sign-on bonuses usually come from a separate budget from base salary.",
+    "quote": "usually comes from a separate budget from base pay."
+   },
+   {
+    "claim": "The top of a salary range is usually reserved for incumbents.",
+    "quote": "The very top of a range is usually kept for people already in the role"
+   },
+   {
+    "claim": "The bonus percentage is usually fixed by level.",
+    "quote": "It's usually fixed by level."
+   },
+   {
+    "claim": "A commitment to sign helps the recruiter obtain internal approval.",
+    "quote": "Saying you're ready to sign helps the recruiter get approval internally."
+   }
+  ],
+  "missing_info_requested": [
+   "current base salary",
+   "current bonus",
+   "current yearly equity vesting and timing of older grants",
+   "value of equity and bonus forfeited by leaving",
+   "Halvern RSU vesting schedule and any cliff",
+   "method used to convert grant value into shares",
+   "whether the first-year bonus is prorated",
+   "historical bonus payout versus target",
+   "typical Halvern refresh grant for a strong performer"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all of these together, in one conversation"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "accept if Halvern's **first two years** of pay (including any sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd lose money by leaving. That means unvested Varrowby equity, plus any bonus you'd forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T17:10:01+00:00"
+}

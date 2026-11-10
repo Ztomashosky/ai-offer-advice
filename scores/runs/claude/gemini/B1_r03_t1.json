@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is already an exceptionally strong offer for a Senior PM"
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Verdict:** **Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A round number of $1.2M is an incremental ~11% ask on equity"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Typically $150k\u2013$250k/yr at Tier-1 tech"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "confirm how well total comp holds up in Years 2\u20134"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "Senior PM (L5 / Senior IC level)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "you stay comfortably where you are"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-ons come from separate pool and easiest to approve",
+    "quote": "Sign-ons come from a separate one-time recruiting pool, don't affect team parity, and are the easiest lever for recruiters to approve."
+   },
+   {
+    "claim": "moving to 250k stays within approved band",
+    "quote": "Moving from $235k to $250k stays well within their approved band"
+   },
+   {
+    "claim": "recruiters often add 100k-120k stock",
+    "quote": "recruiters often compromise by adding $100k\u2013$120k in stock over 4 years"
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule",
+   "equity valuation date",
+   "refresh grant size and timeline"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "focusing on three distinct levers"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "target a total Year 1 compensation of **~$620,000\u2013$640,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,080,000 / 4 yrs ($270k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Total Year 1"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $50,000 sign-on bonus to offset what I\u2019m leaving behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:38:19+00:00"
+}

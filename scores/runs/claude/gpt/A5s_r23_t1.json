@@ -1,0 +1,132 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "That makes this a fair median offer\u2014not a premium offer for someone Google recruited away"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Compared with your actual next 12 months at Meta: Google is approximately **$76,000 higher**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t walk away yet, but I would not accept the current offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an assertive but defensible opening"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median Google L6 PM compensation around **$551,500**, almost exactly your offer"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "I would value the refresh illustration at perhaps **50% for decision-making purposes**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "With the full refresh illustration**, Google beats it by approximately **$479K over four years**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "You receive the illustrative $250,000 refresh after each year"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they do not move at all:** I would probably stay at Meta, given that you are happy there"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the largest negotiable lever",
+    "quote": "Equity is likely the largest negotiable lever"
+   },
+   {
+    "claim": "Google uses front-loaded vesting schedules",
+    "quote": "Google has used multiple schedules, including front-loaded schedules such as 38%/32%/20%/10%"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting schedule in writing",
+   "First refresh eligibility date",
+   "Historical median refresh for L6 PMs",
+   "Refresh distribution percentages",
+   "Whether refreshes depend on rating/budget/org",
+   "Bonus and refresh proration",
+   "Sign-on split and repayment terms",
+   "Meta vest date accommodation / make-whole"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000**\n- **New-hire equity: $1,300,000**\n- **Sign-on bonus: $100,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would counter with:\n\n- **Base: $260,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.2M equity, or $300K annually"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year-one compensation: $737K**\n- **Recurring pre-refresh target: $637K**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your actual next-12-month Meta compensation sounds closer to **$476K**, given the $200K scheduled vesting"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Whether upcoming Meta vest dates can be accommodated through your start date or a make-whole payment"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T01:10:58+00:00"
+}

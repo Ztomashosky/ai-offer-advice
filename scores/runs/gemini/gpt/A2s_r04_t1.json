@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a **strong first-year offer with a good initial equity grant**, but it is not clearly compelling over four years"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is roughly: - **$216K ahead in Year 1** versus your next-12-month Meta vesting schedule. - **$26K/year ahead on four-year average** versus your stated $526K run rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the first offer, but don\u2019t walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "The front-loaded grant creates a substantial Year 3\u20134 decline unless refreshes materialize."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Levels.fyi data for Google L6 PMs in the Bay Area shows: - Average total compensation: approximately **$551K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "value unspecified Google refresh grants at **zero for purposes of deciding whether to join**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "If they remain near the original $2.208M four-year package and the role is only a lateral career move."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk: If they remain near the original $2.208M four-year package and the role is only a lateral career move."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact initial-grant vesting percentages and vesting frequency",
+   "Date and stock-price conversion methodology",
+   "Bonus proration terms",
+   "Eligibility and timing for future refresh cycles",
+   "Sign-on installment schedule and repayment terms",
+   "Work location and in-office expectations",
+   "Exact month-by-month Meta vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would ask for: - **$260,000 base** - **$1.35 million in new-hire RSUs** - **$200,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google is roughly: - **$216K ahead in Year 1** versus your next-12-month Meta vesting schedule. - **$26K/year ahead on four-year average** versus your stated $526K run rate."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google\u2019s front-loading makes the offer look much better in Years 1 and 2 than it does over the whole grant. Without refreshers, compensation also falls to approximately **$390K in Year 4**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $200,000 sign-on bonus to offset the equity I\u2019m leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:40:19+00:00"
+}

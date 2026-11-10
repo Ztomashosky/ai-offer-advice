@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On pay alone, this offer clearly beats staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate once, then accept,"
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "helps cover the later-year drop."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median total package of $446,727 for an L6 at Google (product design managers)."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Staying ahead depends on refresh grants, and as the recruiter said, those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard new-hire grant schedules are front-loaded (33/33/22/12 or 36/28/20/16)",
+    "quote": "The usual schedule is 33% in year one, 33% in year two, 22% in year three, and 12% in year four."
+   },
+   {
+    "claim": "Equity is the most flexible part of the package",
+    "quote": "This is the most flexible part of the package and helps cover the later-year drop."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule used for the new-hire equity grant",
+   "Sign-on bonus payout structure and clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need the equity closer to $1.5M and the base at $271K."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Using 33/33/22/12 and not counting any refresh grants:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "| Sign-on bonus | $200K | \u2013 | \u2013 | \u2013 |"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "It's $200K, which is about the stock you'd lose by leaving Meta in the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:42:11+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, This is a Very Strong Offer \u2014 Accept It"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 Total Comp** | **~$526,000** | **~$758,000 \u2013 $844,400** | **+44% to +60% increase**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Since compensation is your primary driver, **accept the offer**."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "puts your Year 1 compensation near the top 5\u201310% percentile for L6 Product Managers in the Bay Area."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Year 3:** **~$550k \u2013 $600k** *(GSU drops to 22%, but 2 years of stacked refreshes kick in)*"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Be mindful of how your compensation trajectory looks over the next 3\u20134 years"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 L6 sign-on is near the approval ceiling absent an L7 down-level or competing written offer.",
+    "quote": "A $200k sign-on bonus at L6 is near the ceiling of what compensation committees approve without an L7 down-leveling or a competing written offer."
+   },
+   {
+    "claim": "Google's standard equity vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Confirm if your offer uses Google\u2019s standard front-loaded schedule (**33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4**)"
+   },
+   {
+    "claim": "A sign-on payout on the first or second paycheck is standard.",
+    "quote": "Confirm whether the $200k is paid in a single lump sum on your first or second paycheck (standard)"
+   },
+   {
+    "claim": "Sign-on clawbacks are typically 12 months and occasionally prorated over 24 months.",
+    "quote": "verify the clawback window (typically 12 months, occasionally prorated across 24 months)."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payout timing",
+   "Sign-on clawback terms",
+   "New-hire RSU vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Since compensation is your primary driver, **accept the offer**."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Before formally accepting, clarify these two procedural points with your recruiter"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "*(or $270,000 if flat 25%)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Even with the sign-on dropping off after Year 1, your average annualized compensation over the 4-year cycle"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google is replacing that with **$200,000 in liquid cash**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 10,
+ "turn": 2,
+ "at": "2026-11-02T23:37:45+00:00"
+}

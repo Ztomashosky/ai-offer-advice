@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very strong L6 PM offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "about **23% above** your stated $526,000 Meta run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My recommendation: **negotiate, then likely accept**"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 271000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1650000,
+  "equity_ask_high": 1700000,
+  "equity_expected_low": 1550000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 300000,
+  "signon_ask_high": 300000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "US Google L6 PM median compensation around $514,000, with the 90th percentile around $671,000"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "US Google L6 PM median compensation around $514,000, with the 90th percentile around $671,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "They should not be treated as guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You are materially less excited about the product or manager."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "base ceiling limits movement",
+    "quote": "The posted base ceiling limits how much base can move."
+   },
+   {
+    "claim": "equity largest long-term component",
+    "quote": "It is the largest long-term component."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "equity conversion date",
+   "first vest timing",
+   "refresh eligibility",
+   "refresh structure for L6",
+   "bonus proration",
+   "sign-on clawback terms",
+   "start date adjustment",
+   "role scope"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity should be the main request because"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would ask for:\n\n- **Base: $271,000**\n- **New-hire RSUs: $1,650,000\u2013$1,700,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Do not evaluate the $1.34 million as automatically being $335,000 every year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without the one-time sign-on, the package annualizes to **$647,000**"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google has already given you $200,000, exactly matching the Meta RSUs you say will vest over the next 12 months"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on is your easiest \u201cmake-whole\u201d lever."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:45:58+00:00"
+}

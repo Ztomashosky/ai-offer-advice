@@ -1,0 +1,39 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 13,
+ "wave": 2,
+ "dry": false,
+ "started_at": "2026-11-02T22:47:12+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T22:47:36+00:00",
+   "reply": "### 1. Is this a good offer?\n\n**Yes, it is a strong offer on paper, but it is not a \"blowout\" offer for a Meta IC6 PM.**\n\nHere is the financial breakdown:\n* **Base Salary ($235k):** Solid, but sits right around the 60th percentile of Google's SF band ($183k\u2013$271k).\n* **Equity ($1.08M over 4 years):** This is above the median for Google L6 PMs (typically ~$800k\u2013$950k) and sits near the 75th percentile. \n* **Sign-on Bonus ($0):** Google frequently offers sign-on bonuses for L6 hires coming from Meta/Apple/Amazon, especially when buying out unvested equity or unvested annual bonus cycles.\n\n#### Understanding Google\u2019s Vesting Model vs. Meta\nGoogle typically uses a **front-loaded vesting schedule** (commonly 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10%):\n* **Year 1:** ~$235k (Base) + $47k (Bonus) + ~$356k (33% Stock) = **~$638k TC**\n* **Year 2:** ~$235k + $47k + ~$356k = **~$638k TC**\n* **Year 3:** ~$235k + $47k + ~$238k (22% Stock) = **~$520k TC** *(plus any refreshers)*\n* **Year 4:** ~$235k + $47k + ~$130k (12% Stock) = **~$412k TC** *(plus any refreshers)*\n\nAt Meta (IC6), annual refreshers stack uniformly over 4 years (25% per year). If you have been at Meta for 2+ years, your steady-state stacked TC is likely already between **$550k and $700k+**. Google\u2019s recruiter pitch about *\"refresher grants that stack\"* is standard, but Google refreshers are performance-dependent, typically do not begin significantly impacting your cash flow until Year 2/3, and may not fully offset the drop-off from Year 2 to Year 4 unless you receive top ratings.\n\n---\n\n### 2. Should you accept, negotiate, or walk away?\n\n**You should negotiate.** \n\nBecause you are happy at Meta and were passive when Google contacted you, you hold maximum leverage. You have zero downside in pushing for top-of-band numbers.\n\n---\n\n### 3. What to ask for and exact targets\n\nWhen negotiating with Google, base salary bands have strict ceilings, bonus percentages are fixed by level (20% for L6), and the two main levers are **Equity** and **Sign-on Bonus**.\n\n| Component | Current Offer | Target Counter-Offer | Rationale |\n| :--- | :--- | :--- | :--- |\n| **Base Salary** | $235,000 | **$255,000 \u2013 $260,000** | Pushes toward the upper boundary of their posted $271k band. |\n| **Sign-on Bonus** | $0 | **$75,000 \u2013 $100,000** | Offsets leaving behind your unvested Meta RSUs and upcoming Meta bonus. |\n| **4-Year Equity** | $1,080,000 | **$1,250,000 \u2013 $1,300,000** | Top-of-band L6 grant (~$310k\u2013$325k/yr equivalent) to guarantee long-term comp parity with Meta IC6. |\n\n---\n\n### 4. How to frame the negotiation\n\nKeep it collaborative, grounded in your unvested Meta equity, and clear on what it will take to move.\n\n#### Suggested Negotiation Script / Email:\n\n> *\"Thank you for extending this offer. I really enjoyed meeting the team throughout the interview process and am excited about the impact of the role.*\n>\n> *As mentioned early on, I wasn\u2019t actively looking and am very well-positioned at Meta. Looking at my current trajectory, between my stacked refresher grants and upcoming vesting milestones, my total compensation is already very strong and predictable over the next few years.*\n>\n> *For me to walk away from my current unvested equity and make this transition an easy 'yes,' we would need to close the gap on a few areas:*\n>\n> 1. ***Sign-on Bonus:** A sign-on bonus of **$100,000** to help offset my unvested Meta equity and forfeited bonus cycle.*\n> 2. ***Equity:** An increase in the RSU grant to **$1.25M** over 4 years to ensure long-term comp parity after the Year 2 front-loaded vesting taper.*\n> 3. ***Base Salary:** A base salary adjustment to **$255,000**, reflecting the upper end of the posted band for this level.*\n>\n> *If we can get the package to these terms, I am prepared to sign immediately.\"*",
+   "searches": [
+    {
+     "query": "Google L6 Product manager levels fyi compensation"
+    },
+    {
+     "query": "Google L6 PM salary levels fyi"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0IEZwBOYTeRhWOdO8O9QG2JDjg3J10ZSgzr-6bk4VlexkqZyB-6PWqkSZMc5BqlQ8w-GajeShk90vL8v6t92Tl8jtgE8FsdXJP9mc5j0mjXVhulF_jGvudlPat4fMp4NE4QnS8CYMWkmN1gGVSc13-L_WyAvNo-aUTNUIBM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYStctIC81pqlt7-fZ4L8lPkC37M24Lk4V9pfmuAsi_676aYm6XFRefLf325c4z-vNA5fSeRw3sf0OIMrwwT-lwY7Rnq98v_oIIYIzFAP8lHuF4M8e4aEnKTk67LkSklb_XOSMHTRoS-EZrmWXsdcJKuLAzy20yn6F"
+   ],
+   "usage": {
+    "input": 282,
+    "output": 2881
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T22:47:36+00:00"
+}

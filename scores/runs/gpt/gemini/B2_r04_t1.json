@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, it is in the upper quartile of the L6 band."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "your IC6 momentum and equity refreshes will likely out-earn this package over a 3-to-4-year horizon."
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 265000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Offsets the Year 3/4 front-load cliff and accounts for senior scope."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they are tied to performance ratings (GRAD) and are not guaranteed to fully compensate for the Year 3/4 drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "down_level",
+   "quote": "Google is effectively down-leveling you or bringing you in at the absolute ceiling of L6."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on base, equity, or sign-on, you are better off staying at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google L6 PM new-hire equity usually tops out around $900K\u2013$1M without special approval.",
+    "quote": "standard L6 bands typically top out around $900k\u2013$1M without special approval"
+   },
+   {
+    "claim": "Google regularly uses sign-on bonuses for unvested equity or senior candidates.",
+    "quote": "Google regularly uses sign-on bonuses to bridge unvested equity or close senior candidates."
+   },
+   {
+    "claim": "Meta IC6 typically maps to Google L7, while Google L6 maps to Meta IC5.",
+    "quote": "Meta IC6 (Principal / Lead PM) typically maps to Google L7 (Group PM / Principal PM)."
+   },
+   {
+    "claim": "Google's standard four-year vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Google standardly uses a front-loaded 33% / 33% / 22% / 12% 4-year vesting schedule."
+   },
+   {
+    "claim": "Google refresh grants are tied to performance ratings.",
+    "quote": "they are tied to performance ratings (GRAD)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "push the offer to top-of-band and secure a sign-on bonus to offset the unvested equity"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "**Base Salary** | $235,000 | **$255,000 \u2013 $265,000** | Top of the posted $271k band; reflects your current IC6 base compensation."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Years 1 & 2: Base ($235k) + Bonus ($47k) + Equity ($356.4k) = **~$638k/year**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "a $0 sign-on bonus makes the first-year transition financially difficult."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You are walking away from unvested Meta RSUs, strong internal capital, and an impending bonus cycle."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:45:40+00:00"
+}

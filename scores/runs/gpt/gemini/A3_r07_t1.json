@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong, top-of-band offer** for an L6 Product Manager at Google."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this offer represents a **~35% to 80%+ increase in total compensation** over Meta across your first 4 years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "### 4. Recommendation: Negotiate (Lightly)"
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "**Equity:** Ask to round the 4-year grant to an even **$1,500,000** (+$160,000 total / ~$40k/yr)."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Median L6 PM stock grants are typically between $600,000 and $900,000 over 4 years ($150k\u2013$225k/yr)."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "By Year 3 and 4, stacking 2\u20133 annual refresher grants is designed to fill the gap"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically front-loads initial GSU vesting according to the stated schedules.",
+    "quote": "Google typically utilizes a **front-loaded vesting schedule** for initial GSUs"
+   },
+   {
+    "claim": "Google grants refresh equity annually, typically in Q1 during its performance cycle.",
+    "quote": "Google grants equity refreshes annually (typically in Q1 during the performance cycle)."
+   },
+   {
+    "claim": "Google refresh grants generally vest evenly over four years or may be front-loaded.",
+    "quote": "Google refreshes generally vest evenly over 4 years (25%/yr) or front-load depending on the policy year."
+   },
+   {
+    "claim": "Stacked refresh grants are designed to keep ongoing compensation above $600,000\u2013$650,000.",
+    "quote": "designed to fill the gap and keep your ongoing total compensation above $600k\u2013$650k/yr."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for the top of the band: **$271,000** (+$11,000)."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for the top of the band: **$271,000** (+$11,000)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$1,500,000** (+$160,000 total / ~$40k/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Year 1** | ~$476,000 | **~$954,200** | $260k Base + $52k Bonus + $442.2k RSU (33%) + $200k Sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "**Year 1** | ~$476,000 | **~$954,200** | $260k Base + $52k Bonus + $442.2k RSU (33%) + $200k Sign-on"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $200k upfront bonus is designed to offset your upcoming $200k Meta vest and eliminate any hesitation."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:16:21+00:00"
+}

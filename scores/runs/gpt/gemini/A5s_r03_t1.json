@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It is a solid baseline initial offer for a Google L6 PM, but it is not compelling enough for you to accept as-is."
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "Total Compensation (TC) is virtually lateral"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Decision: Accept, Negotiate, or Walk Away? **Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Provides a meaningful ~20\u201325% premium over Meta to justify moving."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not let the recruiter replace guaranteed initial equity/cash with illustrations of future performance refreshers."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Tech companies expect senior PM candidates (L6/IC6) to counter."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google frequently gives $50,000\u2013$100,000 or more in sign-on bonuses to L6 hires, especially recruits from Meta.",
+    "quote": "Google frequently uses sign-on bonuses ($50k\u2013$100k+) for L6 hires, especially when poaching from Meta."
+   },
+   {
+    "claim": "A zero sign-on bonus is a standard initial anchor rather than a final figure.",
+    "quote": "Offering $0 is standard for an initial anchor, not a final number."
+   },
+   {
+    "claim": "Google typically uses a 38/32/20/10 front-loaded vesting schedule for new-hire grants.",
+    "quote": "Google typically front-loads new-hire GSU grants (**38% Year 1, 32% Year 2, 20% Year 3, 10% Year 4**)."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the new-hire equity grant uses a 38/32/20/10 front-loaded vesting schedule or straight-line 25% annual vesting"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "*A **base salary of $255,000** (to reflect my current base and experience within the posted band).*\n> 2. *An **equity grant of $1,280,000** over 4 years.*"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "A **base salary of $255,000**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Shifts annualized equity from ~$270k to ~$312k\u2013$325k/yr."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Focus on Year 1 & 2 guarantees"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets transition friction and bridges unvested momentum at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:28:06+00:00"
+}

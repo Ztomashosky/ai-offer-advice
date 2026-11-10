@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional, top-of-market offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "~$954,000 at Google vs. $526,000 at Meta (+81%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Recommendation: Accept (or do a single, ultra-low-friction close)."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 25000,
+  "signon_ask_high": 25000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "If we can adjust the equity grant to **$1.45M** (or increase the sign-on by **$25,000**)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Median L6 PM new-hire equity is typically **$700,000\u2013$900,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard L6 sign-on bonuses typically range from $50,000 to $100,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Estimated Refresher Vest | \u2014 | ~$10,000 | ~$50,000+ | ~$100,000+"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded 33/33/22/12 vesting",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial equity grants (typically **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "Comp Ops requires competing offer letters to break band caps",
+    "quote": "Google\u2019s Compensation Committee (Comp Ops) almost always requires competing offer letters"
+   },
+   {
+    "claim": "$200K sign-on reserved for buyouts of strong unvested equity",
+    "quote": "$200,000 is exceptionally high and reserved for buyouts of strong unvested Meta/Apple/Amazon equity"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "single, soft closing ask on equity or sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If we can adjust the equity grant to **$1.45M** (or increase the sign-on by **$25,000**)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "GSUs (Equity Vest) | $442,200 *(33%)* | $442,200 *(33%)* | $294,800 *(22%)* | $160,800 *(12%)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Ongoing Years 1\u20132 (Excl. Sign-on):** **~$754,000/yr**"
+  },
+  "forfeiture_handling": {
+   "value": "added_on_top",
+   "quote": "Your $200,000 unvested Meta RSUs over the next 12 months are **100% reimbursed in cash immediately** via the $200,000 sign-on bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:11:03+00:00"
+}

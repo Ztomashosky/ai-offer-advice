@@ -1,0 +1,139 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is at market, not above it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Averaged over four years, the offer is only about 5% above what you make now."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept this as it stands, and don't walk away either. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 248000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "At the current numbers, the 4-year value is roughly flat with what I have now"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median total compensation package for a Senior PM at Google in San Francisco Bay Area of $540,985."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Years 3\u20134 drop sharply unless refreshes fill the gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "It's a move to the same level, not a promotion."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't go beyond about $1.15M in stock with a meaningful sign-on bonus"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants usually vest unevenly.",
+    "quote": "Google's new-hire grants usually vest unevenly."
+   },
+   {
+    "claim": "Google refresh grants vest over four years at 25% per year.",
+    "quote": "Refresh grants vest on a four-year vesting schedule with 25% vesting each year"
+   },
+   {
+    "claim": "Meta stock usually vests quarterly around specified dates.",
+    "quote": "Meta stock usually vests quarterly, around the 15th of Feb/May/Aug/Nov."
+   },
+   {
+    "claim": "Leaving before the Meta bonus payment probably forfeits the bonus.",
+    "quote": "If you leave before then, you probably lose the ~$36K."
+   },
+   {
+    "claim": "Google stock and sign-on have more negotiating room than base.",
+    "quote": "Base is limited by the posted range, while stock and sign-on have more room."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule",
+   "date and amount of the next Meta stock vest",
+   "Meta bonus payment timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Push hardest on stock and the sign-on. Base is limited by the posted range"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "leaving means giving up unvested Meta equity and my annual bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Averaged over four years, the offer is only about 5% above what you make now."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "roughly $745K in year 1 and about $610K averaged over four years"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on bonus is how you get compensated for these losses."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-03T16:34:49+00:00"
+}

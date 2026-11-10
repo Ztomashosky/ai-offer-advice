@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **respectable first offer, but it is not top-of-band for Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "financially neutral at best, and a pay cut in the back half"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet. Negotiate firmly."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "cushions the Y3/Y4 vesting drop"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "your stacked refreshers likely place your current Meta run-rate around **$600k\u2013$750k+ TC**"
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "followed by a noticeable dip in Years 3\u20134 unless refresh grants are top-tier"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6 $\\rightarrow$ Google L6 is a lateral move."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to budge, you can comfortably stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google uses a **front-loaded vesting schedule** (typically 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "Google does not rescind offers for counters",
+    "quote": "Google does not rescind offers for polite, well-reasoned compensation counters."
+   },
+   {
+    "claim": "Google bonus multipliers more modest than Meta",
+    "quote": "Google's company performance multipliers tend to be more modest than Meta's historically generous"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "ask for adjustments across **Base, Equity, and Sign-on**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "you are walking away from unvested Meta equity"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "~$356k/year in equity $\\rightarrow$ **~$638k Total Compensation"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "which represents a compelling premium over staying at Meta"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$80,000** to offset unvested stock left behind"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "B2",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:52:38+00:00"
+}

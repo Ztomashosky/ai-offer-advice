@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is above-market pay and a big near-term raise."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the first two years are far ahead of Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Take it, as long as you actually want the job."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 30000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Your 4-year average is now above the typical pay for a Google L6 PM"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "expect to stay 4+ years and doubt Google's refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "The only strong reason to stay is if you're not excited about the job"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta usually vests quarterly on dates around the middle of February, May, August, and November.",
+    "quote": "Meta usually vests quarterly, around the 15th of Feb, May, Aug and Nov."
+   },
+   {
+    "claim": "Meta typically pays its annual bonus around March.",
+    "quote": "Meta typically pays its annual bonus around March."
+   },
+   {
+    "claim": "Leaving Meta before the annual bonus payout probably forfeits the bonus.",
+    "quote": "Leaving before then probably means losing the ~$36K."
+   },
+   {
+    "claim": "Meta refresh grants are not guaranteed.",
+    "quote": "Meta's refreshes aren't guaranteed either."
+   },
+   {
+    "claim": "Google converts the dollar-denominated grant to shares using a particular date and price.",
+    "quote": "The $1.28M is a dollar amount converted to shares, so check the date and price they use."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta stock vest date",
+   "Meta annual bonus payout date",
+   "Google RSU vesting schedule",
+   "Grant share-conversion date and price"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Take it, as long as you actually want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "One small, polite ask is reasonable and low-risk"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your 4-year average is now above the typical pay for a Google L6 PM"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "They gave you a much bigger stock grant instead of a sign-on bonus."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd give up isn't an extra cost. It's already in the \"Meta if you stay\" column."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "leaving Meta now means losing my annual bonus. Is a modest sign-on, around $30\u201340K, possible to cover that?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 13,
+ "turn": 2,
+ "at": "2026-11-04T16:13:55+00:00"
+}

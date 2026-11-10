@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **solid baseline offer** for a Google L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Total Comp (Y1)** | **~$526,000** | **~$552,000 \u2013 $638,000**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "The Verdict: Negotiate"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "Top-of-band L6 PM equity grants at Google can range between $1.2M and $1.35M"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Top-of-band L6 PM equity grants at Google can range between $1.2M and $1.35M"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "You should treat Google's refresh potential as neutral, not as a premium over Meta."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A lateral move from Meta IC6 to Google L6 without a promotion"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "not worth the switching risk unless you get a clear financial upside"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on easiest bucket without equity committee approval",
+    "quote": "Sign-on bonuses are the easiest bucket for Google recruiters to pull from without needing special equity committee approvals"
+   },
+   {
+    "claim": "Google almost always leaves room",
+    "quote": "Google almost always leaves room for these two items in their first offer"
+   },
+   {
+    "claim": "standard L6 offers include sign-on",
+    "quote": "Standard L6 offers frequently include $50k\u2013$100k+"
+   },
+   {
+    "claim": "Google front-loaded vesting",
+    "quote": "Google typically vests GSUs front-loaded (33% Y1 / 33% Y2 / 22% Y3 / 12% Y4"
+   }
+  ],
+  "missing_info_requested": [
+   "whether equity schedule is front-loaded or flat"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Stand firm on the **sign-on bonus** and **base bump**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "carry no risk of walking away"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity Grant (GSUs): Ask for $1,250,000 over 4 years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "lacks an upfront incentive to offset unvested Meta stock"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A sign-on bonus of **$75,000** to bridge the unvested equity gap"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:51:16+00:00"
+}

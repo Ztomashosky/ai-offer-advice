@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "essentially the top-of-band concession they will make without an L7 downleveling fight."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the money is now clearly in Google\u2019s favor"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Accept the offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "By Years 3 and 4, the combination of refreshes and your base/bonus will keep you well above your current Meta run-rate"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Estimated Refreshes\\* | *(Included in Meta)* | $0 | ~$60,000 | ~$125,000 | ~$190,000"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Unless you are on an immediate promotion track to Director/IC7 at Meta within the next 6 months or truly dislike the specific Google team"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's standard equity vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Assuming standard Google front-loaded equity vesting (33% / 33% / 22% / 12% per year)"
+   },
+   {
+    "claim": "Google typically pays the sign-on as a one-year lump sum.",
+    "quote": "the typical 1-year lump sum sign-on bonus"
+   },
+   {
+    "claim": "Google has a standard 12-month prorated sign-on clawback.",
+    "quote": "confirm it has a standard 12-month prorated clawback (standard at Google)."
+   },
+   {
+    "claim": "This is the maximum concession available without an L7 leveling dispute.",
+    "quote": "essentially the top-of-band concession they will make without an L7 downleveling fight."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payout schedule",
+   "Sign-on clawback terms",
+   "Equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Accept the offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Accept the offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Even if your equity vests evenly at 25%/year ($270k/yr), Year 1 is **~$758,000**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200k sign-on bonus bridges the gap while your annual refreshes start stacking."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Even after factoring out the $200k of Meta equity you forfeit"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-02T21:34:55+00:00"
+}

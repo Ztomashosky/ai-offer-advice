@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "this offer is roughly **flat to slightly negative** compared to your current compensation, and taking it as-is would represent a financial step backward"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "virtually identical to your Meta run rate of $526,000"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate first.** Google rarely pulls an offer simply because a candidate counters professionally"
+  },
+  "intensity": 2,
+  "base_ask_low": 245000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1000000,
+  "equity_ask_high": 1000000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "**$1,000,000** *(~$330k/yr in Y1 & Y2 under 33/33/22/12)*"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While annual refreshes help fill this gap over time (as the recruiter noted), you are taking on uncommitted risk"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they refuse to move significantly"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a front-loaded 33/33/22/12 vesting schedule",
+    "quote": "Google uses a **front-loaded vesting schedule** for initial grants (typically **33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "Large tech firms routinely match base within band",
+    "quote": "Large tech firms routinely match or beat peer base salaries if the figure sits within their salary band"
+   },
+   {
+    "claim": "Google rarely pulls an offer for a professional counter",
+    "quote": "Google rarely pulls an offer simply because a candidate counters professionally"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base Salary:** $245,000 \u2013 $250,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$1,000,000** *(~$330k/yr in Y1 & Y2 under 33/33/22/12)*"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$215,000 (Base) + $43,000 (Target Bonus) = **$258,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "making a sign-on bonus necessary to make you whole"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T20:39:47+00:00"
+}

@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It\u2019s a respectable Google L6 offer, but not a compelling *switching* offer"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It only beats your current normalized Meta compensation by about **$26,000/year, or 5%**, averaged over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. I would not accept this offer as-is if compensation is a major priority and you are genuinely happy at Meta."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "My current compensation is approximately $526,000 annually, and I have a known equity vesting schedule there."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google L6 PM compensation in the Bay Area is currently reported around **$606,000 annually**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although these figures mix employees, offers, refresh grants, and potentially sign-ons, so it is not a perfect comparison."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, value Google refreshes at **zero** until you have them."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "Whether there is any flexibility on level\u2014not because L6 appears wrong, but because level drives future compensation bands."
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "not because L6 appears wrong, but because level drives future compensation bands."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Current offer unchanged: Decline unless the role itself is substantially better for your career or happiness."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule for the $1.08M grant",
+   "Whether the grant is denominated in dollars or shares",
+   "First refresh eligibility date",
+   "Whether first refresh is prorated",
+   "Normal vesting schedule for refresh grants",
+   "Whether annual bonus is prorated in first year"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "$265,000 base, $1.4 million in new-hire GSUs, and a $100,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer\u2019s four-year average is $552,000."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Looking at the Google offer over the full four years, rather than just the front-loaded first two years"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-03T00:48:30+00:00"
+}

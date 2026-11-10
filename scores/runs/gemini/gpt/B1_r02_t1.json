@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but I would negotiate it rather than accept immediately."
+  },
+  "verdict_vs_current": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not walk. Start with $265,000 base, $1.35 million RSUs, and $75,000 sign-on."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Equity is 25% above the initial grant."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately $350,000 median total compensation and $480,000 at the 75th percentile for Bay Area Senior Product Managers."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes are not guaranteed: Treat them as upside\u2014not as part of the offer\u2019s dependable value."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If they hold firm, the original package is still objectively strong."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule",
+   "Stock-price averaging period and grant approval timeline",
+   "Bonus proration and historical payout percentages",
+   "Historical refresh grant rates and medians",
+   "Internal level code and band placement",
+   "Current compensation and unvested equity at Varrowby"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Start with $265,000 base, $1.35 million RSUs, and $75,000 sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Start with $265,000 base, $1.35 million RSUs, and $75,000 sign-on."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "At $270,000 annualized, it accounts for almost half the package."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "At those numbers, recurring target compensation would be approximately $655,500 annually, excluding the one-time sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Sign-on compensates you for switching risk and anything forfeited at Varrowby."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T22:08:11+00:00"
+}

@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is an **above-average opening offer** for an L6 Senior/Staff PM at Google in the Bay Area"
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Years 1 & 2:** At **~$638k/yr**, this is a substantial step up from your current **$526k/yr** at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should not accept it as-is, nor should you walk away"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1120000,
+  "equity_expected_high": 1160000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "strong L6 PM packages frequently land between **$1.15M and $1.25M**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "strong L6 PM packages frequently land between **$1.15M and $1.25M**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Annual performance refreshes (which vest over 4 years) are intended to backfill this gap, but as the recruiter noted, they are performance-dependent."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a 33%/33%/22%/12% front-loaded vesting schedule for this grant.",
+    "quote": "A critical detail with Google's offer is their **front-loaded equity vesting schedule (33% / 33% / 22% / 12%)**."
+   },
+   {
+    "claim": "Google refresh grants are intended to backfill the later-year compensation decline.",
+    "quote": "Annual performance refreshes (which vest over 4 years) are intended to backfill this gap"
+   },
+   {
+    "claim": "A sign-on bonus is easy for recruiters to approve.",
+    "quote": "Easy for recruiters to approve because it is a one-time budget line item"
+   },
+   {
+    "claim": "Google almost never rescinds offers after polite counteroffers from passive candidates.",
+    "quote": "Google almost never rescinds offers for polite, well-reasoned counter-offers from passive candidates."
+   }
+  ],
+  "missing_info_requested": [
+   "first performance review timing",
+   "refresh cycle timing and cadence"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "When countering, ask for adjustments across three specific buckets"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08M over 4 years (~$270k/yr annualized) is solid for L6"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "it is a one-time budget line item and does not permanently inflate base or band equity limits"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "there isn't a sign-on bonus to bridge the transition and forfeited near-term vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-02T21:03:32+00:00"
+}

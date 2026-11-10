@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a **solid opening offer** for a Google L6 Product Manager"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You gain a significant jump over your current ~$526k/yr comp (+~$112k/yr)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should definitely negotiate rather than accept as-is or walk away"
+  },
+  "intensity": 2,
+  "base_ask_low": 250000,
+  "base_ask_high": 255000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Strengthens total comp and cushions the Year 3/4 drop"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest over 4 years at 25%/yr) will offset part of this drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "for an external L6 PM recruit from Meta"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away:** The initial offer already beats your current cash flow"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "front-loaded vesting schedule** for new-hire equity grants (typically **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "sign-on is standard for external L6 PM from Meta",
+    "quote": "It is standard practice in Big Tech for an external L6 PM recruit from Meta to receive a sign-on bonus"
+   },
+   {
+    "claim": "Google rarely gives top-of-band on first pass",
+    "quote": "Google rarely gives their top-of-band numbers on the first pass"
+   },
+   {
+    "claim": "Meta refreshers more aggressive",
+    "quote": "Meta\u2019s refresher and performance multipliers tend to be more aggressive"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Securing a sign-on bonus and a base bump is standard for L6 transitions"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$356,400 (33% RSU) = **~$638,400**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "To bridge the unvested equity and bonus timing I\u2019d forfeit at Meta"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This offsets unvested equity, forgone bonus cycles, and moving friction"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 23,
+ "turn": 1,
+ "at": "2026-11-03T00:43:05+00:00"
+}

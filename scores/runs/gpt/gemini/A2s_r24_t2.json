@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Yes, this is a very strong offer. You should take it"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google is paying you **+$328,000 more over the 4-year cycle**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "You should take it (or use it for a retention counter at Meta)."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "**~$525,600** *(+refreshes)* | **~$417,600** *(+refreshes)*"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google signing bonus without a competing interview is rare and top-tier for L6 discretionary budget.",
+    "quote": "is rare and represents the top tier of their L6 discretionary budget."
+   },
+   {
+    "claim": "Google's standard front-loaded vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Google\u2019s front-loaded vesting (standard **33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "The standard sign-on clawback is 12 months prorated.",
+    "quote": "What is the clawback period? (Standard is 12 months prorated)."
+   },
+   {
+    "claim": "Meta frequently matches or gives retention grants to top performers with competing Big Tech L6 offers.",
+    "quote": "Meta frequently matches or provides retention grants for top performers holding competing Big Tech L6 offers."
+   },
+   {
+    "claim": "The final offer is at the ceiling for an L6 PM initial entry.",
+    "quote": "this is at the ceiling for an L6 PM initial entry."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the sign-on is paid within 30\u201360 days or split across two years",
+   "The sign-on clawback period",
+   "Whether equity vests 33/33/22/12 or 25/25/25/25",
+   "Timing of Meta's next vest date relative to the Google start date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Recommendation: Accept the Google offer if you are excited about the team and product area."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Yes, this is a very strong offer. You should take it"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Total Compensation:** **~$2.43M** (an average of **~$608,000/year**)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus** | $200,000 | $0 | $0 | $0"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k sign-on completely replaces the unvested Meta RSUs you walk away from"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 24,
+ "turn": 2,
+ "at": "2026-11-03T00:45:37+00:00"
+}

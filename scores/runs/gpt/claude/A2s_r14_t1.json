@@ -1,0 +1,142 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, but not a great one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over 4 years you'd earn only about 5\u20137% more"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Bottom line: Negotiate before deciding. Don't accept as is, and don't walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Google's L6 PM median total pay is about $607K on Levels.fyi. An offer averaging about $552K is below that median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Google's L6 PM median total pay is about $607K on Levels.fyi."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "The median includes people who have been there longer and have stacked refreshes"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The recruiter said refreshes aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You're an experienced L6 and currently paid $240K"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I'd negotiate firmly and only move if they improve it a lot."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google's current vesting schedule is 38/32/20/10 after previously using other schedules.",
+    "quote": "Google has tried schedules like 33/33/22/12 and 36/28/20/16 before landing on its current schedule of 38/32/20/10"
+   },
+   {
+    "claim": "Some Google candidates can choose their vesting schedule.",
+    "quote": "some candidates are even offered a choice of vesting schedule."
+   },
+   {
+    "claim": "Google's vesting split can differ between grants.",
+    "quote": "The exact split can differ between grants"
+   },
+   {
+    "claim": "Meta refresh grants are not guaranteed.",
+    "quote": "Meta refreshes aren't either"
+   },
+   {
+    "claim": "A sign-on bonus is the easiest component for Google to change.",
+    "quote": "Having no sign-on is the easiest thing for them to fix."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact Google vesting schedule in writing",
+   "Whether the candidate can choose between vesting schedules",
+   "Typical L6 refresh grant amount",
+   "Timing of the first Google refresh grant",
+   "Next Meta bonus date",
+   "Next Meta stock vest dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need about $260K base, $1.4M in equity, and a $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "That's about $350K/yr on average and brings the package to about the L6 median."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$100K (or $50K in each of years 1 and 2)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "| 1 | $410K | **$692K** | ~$476K |"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers Meta bonus and vesting you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-04T16:42:24+00:00"
+}

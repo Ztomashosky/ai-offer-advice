@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Top-of-market L6 package"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "catapults your near-term earnings well above market"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should accept this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "$200k sign-on bonuses at L6 are rare and reserved for competitive buyouts"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "4-Year Guaranteed Total:** **~$2.43M** (an average of **~$608,000/year** before any equity appreciation or annual refreshers)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "without an L7 down-level/up-level discussion"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Yes, you should accept this offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard front-loaded vesting schedule",
+    "quote": "Google's standard front-loaded vesting schedule (**33% / 33% / 22% / 12%**)"
+   },
+   {
+    "claim": "clawback clause standard",
+    "quote": "check the standard 12-to-24 month pro-rated clawback clause"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payment schedule and clawback terms",
+   "Team/scope/manager alignment",
+   "Start date timing for Meta vesting"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, you should accept this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Yes, you should accept this offer."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "an average of **~$608,000/year** before any equity appreciation"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Instead of promising higher hypothetical future equity, they handed you **$200,000 in liquid cash**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "handed you **$200,000 in liquid cash** to offset what you're leaving behind at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 2,
+ "at": "2026-11-02T23:26:24+00:00"
+}

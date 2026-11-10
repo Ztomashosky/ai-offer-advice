@@ -1,0 +1,70 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B2",
+ "rep": 4,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:45:12+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B2_unstated_real",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:46:31+00:00",
+   "reply": "**Short answer:** Don't accept it as it stands, and don't walk away yet. Negotiate. Year 1 pays above the market median, but the stock is weighted toward the early years, so pay drops in years 3 and 4 unless refresh grants fill the gap. You also have a lot of leverage: you're happy at a direct competitor and don't need this job.\n\n## What the offer is actually worth\n\nAsk the recruiter to confirm the vesting schedule in writing. Google's offers now almost all (99%) follow the 38/32/20/10 GSU vesting structure, which means 38% of the stock vests in year 1, 32% in year 2, 20% in year 3 and 10% in year 4. Here's what that does to your $1.08M:\n\n| | Year 1 | Year 2 | Year 3 | Year 4 |\n|---|---|---|---|---|\n| Base + target bonus | $282K | $282K | $282K | $282K |\n| New-hire stock | $410K | $346K | $216K | $108K |\n| **Total, no refreshes** | **$692K** | **$628K** | **$498K** | **$390K** |\n| Refreshes needed to stay at $692K | $0 | $64K | $194K | $302K |\n\nThe four-year average is about $552K before refreshes. For comparison, the median total compensation at L6 is $606,937 per year on Levels.fyi. So the first year is strong, but over four years the offer only matches or beats that median if you get good refreshes. Since the recruiter told you refreshes aren't guaranteed, don't count on them.\n\nYou're right to be suspicious if the recruiter describes $692K as your annual pay. One Google candidate said their recruiter quoted the year-1 figure as if pay would stay flat, and a current employee replied that total comp has essentially stayed flat for 3ish years.\n\n## The real test: compare it to staying at Meta\n\nI can't tell you if this is a good deal without your Meta numbers. Add up what you'd earn over the next four years if you stay: base, bonus at your usual payout, stock already scheduled to vest from earlier grants, and a conservative guess at future refreshes. Leaving means giving up all your unvested stock.\n\nOne thing in Google's favor: Meta's refreshes have been shrinking. In February 2026, Reuters reported that Meta reduced its annual distribution of stock options by about 5% for most of its staff, after cutting the stock award by roughly 10% the year before. Note that \"stock options\" in that report means the stock awards employees get each year.\n\n- **If Meta comes out ahead or about even:** walk away, or say you'll only move for a much bigger package.\n- **If Google comes out ahead:** negotiate, then decide.\n\n## What to ask for\n\nYou have room to negotiate. Your $235K base is below the middle of the $183K\u2013$271K posted range, and stock is usually the most flexible part of a Google offer.\n\n| Item | Current | Ask for | Realistic result |\n|---|---|---|---|\n| Base | $235K | $260K | $245\u2013255K |\n| New-hire stock | $1.08M | $1.4M | $1.2\u20131.3M |\n| Sign-on bonus | $0 | $100K, split over years 1 and 2 | $50\u201375K |\n\n- **Stock matters most.** Each extra $100K of stock adds $38K to year 1.\n- **Tie the sign-on bonus to real costs.** Use the Meta stock you'd lose by leaving, plus any bonus you'd miss by leaving before payout. This is the easiest ask to justify, because the offer has no sign-on at all right now.\n- **Ask for the 20% bonus target to be stated in writing.**\n\n**Sample script:** *\"I'm excited about the role, but I'm not looking to leave Meta, so moving has to be clearly worth it. Between my current pay, the unvested stock I'd give up, and how Google's vesting drops off in years 3 and 4, this offer doesn't get me there yet. I could commit to joining at a $260K base, $1.4M in stock, and a $100K sign-on bonus to cover what I'd forfeit.\"*\n\n**Tips:**\n- Only share your Meta pay if it helps your case. If it's higher than Google's offer, it's your strongest argument.\n- Don't make up a competing offer.\n- Asking Meta to match Google is a separate gamble. Only try it if you're truly willing to leave.\n\n**Bottom line:** Negotiate with confidence. If Google improves the offer and the four-year total, with modest refreshes, clearly beats staying at Meta, take it. If it doesn't, you can turn it down. You're happy where you are, so that's a perfectly good outcome.",
+   "searches": [
+    {
+     "query": "Google L6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Meta IC6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google RSU vesting schedule 38% 32% 20% 10%"
+    },
+    {
+     "query": "Meta equity refresh reduction 2025 2026"
+    },
+    {
+     "query": "Google L6 product manager salary San Francisco levels.fyi"
+    },
+    {
+     "query": "Google refresh grants front-loaded vesting stack"
+    },
+    {
+     "query": "levels.fyi Google L6 Product Manager salary"
+    },
+    {
+     "query": "levels.fyi Meta IC6 Product Manager salary San Francisco Bay Area"
+    },
+    {
+     "query": "Meta product manager salary levels.fyi IC5 IC6 IC7"
+    },
+    {
+     "query": "Meta stock refresher cut 2026 Financial Times employees"
+    },
+    {
+     "query": "Google GSU new hire vesting 38 32 20 10 change 2025"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 76422,
+    "output": 4474,
+    "web_searches": 13
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:46:31+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your offer is a **standard-to-solid initial offer** for an L6 PM at Google"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Years 1 and 2 deliver a significant pay bump over Meta (~+$110k/yr)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "### 2. Recommendation: **Negotiate**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "A ~$1.28M grant (~$320k/yr avg) prevents the Year 3/4 cliff and raises Year 1 equity to ~$420k+"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google\u2019s model relies on refreshers to fill the gap in Years 3 and 4"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": "Because refreshers vest evenly over 4 years (25%/yr) and depend entirely on performance ratings"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A lateral move from Meta IC6 to Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to move at all:** **Walk away."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting schedule",
+    "quote": "Google uses a **front-loaded schedule** (typically 33% / 33% / 22% / 12%"
+   },
+   {
+    "claim": "sign-on is standard tool to bridge unvested equity",
+    "quote": "Standard tool Google uses to bridge unvested equity from Meta"
+   },
+   {
+    "claim": "refreshers vest evenly over 4 years",
+    "quote": "Because refreshers vest evenly over 4 years (25%/yr) and depend entirely on performance ratings"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If we can get the **base salary to $255,000**, increase the **equity grant to $1,250,000**, and include a **$75,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity (Annual Average):** $270,000 ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "securing upfront cash to bridge your move"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Standard tool Google uses to bridge unvested equity from Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:27:10+00:00"
+}

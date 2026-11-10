@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an exceptional, top-of-market offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "represents a major upgrade over your current Meta package"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "depends",
+   "quote": "Accept, or make a very light, polite closing ask."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1450000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "the component recruiters have the most discretion to round up"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "median total compensation typically sits around **$500,000 \u2013 $560,000/year**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refresher grants (which vest over future years) are intended to stack and smooth out that drop"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Walk Away?** **No."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on offsets Meta RSUs dollar-for-dollar",
+    "quote": "Specifically offsets your next 12 months of unvested Meta RSUs dollar-for-dollar"
+   },
+   {
+    "claim": "equity is the component recruiters have most discretion to round up",
+    "quote": "This is the component recruiters have the most discretion to round up."
+   },
+   {
+    "claim": "Google uses 38/32/20/10 front-loaded vesting",
+    "quote": "Google utilizes a front-loaded GSU vesting schedule for new hires"
+   },
+   {
+    "claim": "typical L6 initial grant is $600k-$800k",
+    "quote": "A typical L6 initial grant is ~$600k\u2013$800k"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on clawback terms",
+   "confirm vesting schedule",
+   "refresher cycle timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Ask to round up the equity grant from **$1.34M to $1.4M\u2013$1.45M**"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "if we can round the equity grant to **$1.45M over 4 years**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.34M is an annualized $335,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On** | \u2014 | $200,000 | $50,000 *(amortized)*"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "sign-on bonus that completely bridges your unvested cliff"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A4",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-02T23:31:21+00:00"
+}

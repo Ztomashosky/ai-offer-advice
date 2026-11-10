@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair offer, not a great one, and you should negotiate."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about **$76k more (+16%)** on paper in year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a fair offer, not a great one, and you should negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Usually the easiest piece to move at Google. Every extra $100k adds $25k a year for 4 years."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Don't count the recruiter's refresh example as part of the offer"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The rise from $270k to $458k a year in stock comes entirely from refresh grants that aren't guaranteed."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "IC6 and L6 roughly match, so Google has to make it worth moving sideways."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't budge from $552k."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the easiest piece to move at Google",
+    "quote": "Usually the easiest piece to move at Google."
+   },
+   {
+    "claim": "Google often splits sign-on bonuses over 2 years",
+    "quote": "Google often splits sign-ons over 2 years and requires repayment if you leave early."
+   }
+  ],
+  "missing_info_requested": [
+   "exact Meta stock vesting schedule",
+   "bonus payout date",
+   "Google vesting schedule terms (cliff/frequency)",
+   "first-year bonus proration rules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Focus on a sign-on bonus and more new-hire stock, push the base toward $255\u2013260k"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Every extra $100k adds $25k a year for 4 years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "year 1 comes to about **$672k**, and years 2\u20134 are about **$612k guaranteed**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "even though leaving means giving up Meta stock that's about to vest plus your bonus for this year so far."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-04T17:03:31+00:00"
+}

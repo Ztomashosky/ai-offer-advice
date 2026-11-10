@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "So this is around a market-median L6 offer\u2014not a lowball, but not an exceptional \u201crecruit someone happy at Meta\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only $26,000/year, or about 5%, above your current $526,000."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would not accept it as-is. Negotiate aggressively, and be comfortable staying at Meta if Google won\u2019t materially improve it."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Your current compensation is already $526K."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current compensation data puts Bay Area Google L6 PM median TC around $514K\u2013$551K, depending on methodology and time window, with median base around $240K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "For decision purposes, I would value uncommitted refreshers at zero, and treat them as upside."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google makes only a token improvement and stays near $550K\u2013$575K with no sign-on: Stay at Meta."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting percentages by year",
+   "First vest date and vesting frequency",
+   "Refresher eligibility and proration rules"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for:\n\n- Base: $260,000\n- Initial RSUs: $1,400,000\n- Sign-on bonus: $150,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An extra $200K grant is worth $50K/year annualized over four years."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "- Average recurring TC: $662K\n- Plus $150K sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "replace that specific forfeiture with sign-on cash or additional equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:33:24+00:00"
+}

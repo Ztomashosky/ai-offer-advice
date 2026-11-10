@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Four-year guaranteed value: Good but not exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "The biggest missing number: your forward Meta compensation"
+  },
+  "verdict_vs_current_basis": "inferred_public_data",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate\u2014not accept immediately and not walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an opening request, not necessarily your minimum."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi Bay Area data puts Google L6 PM compensation around $581,000 on average"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "though your actual vesting schedule and refresh history matter far more than that benchmark."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Expected case: A conservative estimated refresher amount, discounted heavily."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You are already at an equivalent senior level at a direct competitor."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "The guaranteed four-year Google value is at least around 110% of your conservative forward Meta value"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact new-hire vesting schedule",
+   "forward Meta compensation and vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Counter at $260K base, $1.3M equity, and $75K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would counter with:\n\n- Base: $260,000\n- New-hire RSUs: $1,300,000\n- Sign-on bonus: $75,000"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity: $1.3 million \u00f7 4 = $325,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring cash: $260,000 + $52,000 = $312,000"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "there is no sign-on to offset compensation I would forfeit at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B2",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T22:12:41+00:00"
+}

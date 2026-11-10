@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "$552K initial annualized compensation: around the reported Bay Area median"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26K/year, or about 5%, above your normalized Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t walk away yet, but don\u2019t accept the first offer either."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an opening position, not necessarily what you expect to receive."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports approximately **$551,500 median total compensation for Google L6 PMs in the Bay Area**."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "The data is self-reported and mixes existing employees with new offers, so it is directional rather than perfectly comparable."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "I would treat refresh grants as **upside, not part of the offer\u2019s guaranteed value**."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After the initial grant ends and four refresh grants have stacked, equity would be approximately $250K/year"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter\u2019s model\u2014one $250K refresh annually, each vesting over four years, with the first refresh beginning to contribute in year two"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "The current offer is not bad, but a roughly 5% normalized premium is not enough compensation by itself to justify leaving a job you like"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vesting schedule / curve details",
+   "Conversion and first vest dates",
+   "Vesting frequency (monthly vs quarterly)",
+   "Eligibility for next annual refresh cycle",
+   "Hire-date cutoff for refreshes",
+   "Bonus timing and proration",
+   "Sign-on repayment terms",
+   "Bonus target and historical payout averages",
+   "Pending Meta bonus or vest dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move compelling, I\u2019d be looking for approximately $260,000 in base, $1.35 million in initial equity, and a $150,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming the $1.08 million grant vests evenly:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on is guaranteed and valuable, but only once."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:39:57+00:00"
+}

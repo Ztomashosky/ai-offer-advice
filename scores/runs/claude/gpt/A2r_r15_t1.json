@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "market-competitive but not compelling enough to pull a happy"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$26,000 more per year"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept this offer as-is"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "broadly around the upper end of reported L6 compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM compensation around **$551,000 annually**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "self-reported and mixes new offers with existing employees, so use it directionally"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not count refreshes in your acceptance calculation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they stay near the present package, I would probably decline"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is most useful lever",
+    "quote": "Equity is probably the most useful lever, followed by a sign-on bonus"
+   }
+  ],
+  "missing_info_requested": [
+   "exact initial equity vesting schedule",
+   "first vest date and frequency",
+   "GSU share count determination",
+   "refresh eligibility by start date",
+   "typical modeled refresh for L6 PM",
+   "bonus proration",
+   "sign-on repayment conditions",
+   "start date accommodation for Meta vest"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "$260,000 base / $1.4 million RSUs / $100,000 sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "you have real, scheduled compensation that you must abandon to move"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs, averaged over four years | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "it is only modestly better on a four-year annualized basis"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google\u2019s first-year vesting is replacing it"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a sign-on bonus to help offset the Meta equity I\u2019m leaving"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 15,
+ "turn": 1,
+ "at": "2026-11-02T23:23:27+00:00"
+}

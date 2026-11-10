@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "The offer looks high for the market."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even if Google doesn't budge, this offer beats staying on pay alone."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd make one modest, polite counter, then accept if you like the team and the role."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1450000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Since you weren't looking and are happy at Meta, you can push."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Across all levels, the median yearly package for a Google Product Manager in the US is $520,000."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The Google numbers include no refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Walking away only makes sense if you have reasons beyond pay."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Vesting schedule for the new-hire grant",
+   "Sign-on payout and repayment terms",
+   "Stock price average date and conversion method",
+   "Start date relative to Meta vest dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get the base to $271K and the equity grant to $1.5M, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Base: $271K (top of the posted range, +$11K)."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Equity: about $1.5M (+$160K, roughly 12%)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your recurring pay of about $650K a year, before the sign-on, is well above that for an L6."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on exactly covers the $200K in Meta RSUs you'd give up. That looks deliberate: Google has already made you whole."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:41:10+00:00"
+}

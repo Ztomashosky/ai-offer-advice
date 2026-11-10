@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "You asked for a market-competitive offer, and this one is well above market."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1 pays about twice what you'd make by staying."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Before you sign, you could make one small, polite ask."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1440000,
+  "equity_ask_high": 1440000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, the median yearly compensation package in San Francisco Bay Area totals $510K for Google PMs across all levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes aren't included, since they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire equity vests on a 33/33/22/12 front-loaded schedule",
+    "quote": "Several sources describe that schedule as 33% in year one, 33% in year two, 22% in year three, and 12% in year four."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule confirmation",
+   "Sign-on payout terms and repayment window",
+   "Stock-price averaging window used for grant",
+   "First-year bonus proration"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "base",
+   "quote": "At most, make one friendly ask for $271K base, then accept whatever they say."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Is there any flexibility to bring the base to the top of the posted range, $271K?"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year average is about $697K a year without any refreshes"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Because vesting is front-loaded, your pay falls each year unless refreshes fill the gap. Plan around the lower years, not year 1."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on fully replaces the Meta stock you'd give up over the next year."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-03T16:48:58+00:00"
+}

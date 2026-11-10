@@ -1,0 +1,141 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even with zero refreshes, you still come out ahead over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you actually want the role."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Even with zero refreshes, you still come out ahead over four years."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "The final offer clears the walk-away bar from last time (a four-year total of at least $2.4M)"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The Google grant follows a 38/32/20/10 vesting schedule.",
+    "quote": "The $1.28M grant vests 38/32/20/10."
+   },
+   {
+    "claim": "Meta stock vests quarterly.",
+    "quote": "Meta stock vests quarterly. Leaving a few weeks after a vest"
+   },
+   {
+    "claim": "A documented sign-on request tied to forfeiture is easy to approve and unlikely to create friction.",
+    "quote": "It's a narrow, documented request, so it's easy to approve and unlikely to cause friction."
+   },
+   {
+    "claim": "The candidate's first review cycle will determine the first refresh grant.",
+    "quote": "Your first review cycle will shape your first refresh."
+   },
+   {
+    "claim": "Achieving enough refresh equity to cover the year-four gap is very achievable with good performance.",
+    "quote": "That's after three refresh cycles, which is very achievable if you perform well."
+   }
+  ],
+  "missing_info_requested": [
+   "Whether the candidate actually wants the role and likes the team and manager",
+   "Meta vest and annual bonus dates",
+   "Whether an unavoidable Meta vest or bonus would be lost",
+   "Whether the candidate would stay for a Meta counteroffer",
+   "Written grant value, vesting schedule, and share-conversion price or date"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you actually want the role."
+  },
+  "final_threshold": 2400000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "if the timing means you'll lose a Meta vest or bonus you can't avoid, ask for a small sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The $1.28M grant vests 38/32/20/10."
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K of Meta stock you'd give up is already in the Meta column. Don't subtract it again"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "ask for a small sign-on bonus to cover *that specific amount*."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-04T16:23:22+00:00"
+}

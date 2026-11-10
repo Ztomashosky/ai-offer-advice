@@ -1,0 +1,118 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but you should negotiate it."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$121,000/year, or 23%, above your stated $526,000 Meta compensation before considering the sign-on."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "This is a strong offer, but you should negotiate it. I would not walk away at this stage."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1600000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Current Levels.fyi data puts median Google L6 PM compensation in the Bay Area at approximately $606,000, so your $647,000 annualized package is above the reported median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current Levels.fyi data puts median Google L6 PM compensation in the Bay Area at approximately $606,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "That is why you should value refreshes at zero for purposes of deciding whether to join."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is the largest flexible pool in Google compensation negotiations",
+    "quote": "Equity is the largest flexible pool."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages for the initial RSU grant",
+   "Grant-date methodology",
+   "Expected first vest date",
+   "Sign-on payment timing and clawback terms",
+   "First-year bonus eligibility and proration",
+   "First refresh eligibility rules and cutoffs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "$271,000 base, $1.6 million in new-hire equity, and a $250,000 sign-on bonus."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Is there flexibility to bring the package to $271,000 base, $1.6 million in new-hire equity, and a $250,000 sign-on bonus?"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$335,000 average annual value of the initial RSUs"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$647,000 annualized recurring compensation before future refreshes"
+  },
+  "forfeiture_handling": {
+   "value": "netted",
+   "quote": "Even more favorable in the next 12 months, because you expect only about $200,000 of Meta equity to vest, making your forward Meta compensation closer to $476,000"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-10-30T09:03:10+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "It is a strong initial offer, but it has clear weaknesses you can exploit."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Years 1 and 2, this is a **~21% increase** over your current Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should not accept this first offer as-is."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1120000,
+  "equity_expected_high": 1150000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_new_hire",
+   "quote": "$1.08M is solid for L6 PM, but pushing to $1.2M (~$300k/yr flat equivalent) brings top-of-band parity with Meta IC6"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "$1.08M is solid for L6 PM"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "$237.6k equity = **~$519,600** (before refreshers)"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Negotiate (Do Not Accept or Walk Away Yet)"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses front-loaded vesting 33/33/22/12",
+    "quote": "Google typically uses a **front-loaded vesting schedule (33% / 33% / 22% / 12%)**"
+   },
+   {
+    "claim": "sign-on bonuses come from separate budget and are easiest lever",
+    "quote": "Sign-on bonuses come out of a separate one-time budget and are the easiest lever for a Google recruiter to pull without hitting band ceilings."
+   },
+   {
+    "claim": "Google frequently uses sign-on bonuses at L6",
+    "quote": "Google frequently uses sign-on bonuses at L6 to close strong candidates."
+   },
+   {
+    "claim": "Meta IC6 bonus is 15%",
+    "quote": "20% target at Google L6 vs. 15% at Meta IC6"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "What to Ask For & Exact Targets"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Base pay deficit:** Google\u2019s initial base is lower than your current salary"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08M is solid for L6 PM, but pushing to $1.2M (~$300k/yr flat equivalent)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonuses come out of a separate one-time budget"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This bridges any lost near-term Meta vesting/bonus cycle."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-02T23:22:45+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "The short answer: it's a strong offer, and you should negotiate."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It already pays well above what you make now"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "The short answer: it's a strong offer, and you should negotiate. Don't walk away, and don't accept the first number."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Negotiation guides say you will typically get most of your increase from GSUs"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Over 4 years, not counting any refreshes, the offer averages about **$697K a year**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Don't walk away, and don't accept the first number."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Negotiation guides indicate that equity is typically the largest lever at Google, followed by sign-on, then base.",
+    "quote": "Negotiation guides say you will typically get most of your increase from GSUs (Google Stock Units), followed by your sign-on bonus, and then your base salary."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule",
+   "whether $1.34M equity is dollar-denominated or fixed shares",
+   "sign-on payment schedule and clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can bring the GSU grant to $1.6M and base to $271K, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "raise it from $1.34M to **$1.6M**, about 19% more."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years, not counting any refreshes, the offer averages about **$697K a year**, versus about $526K at Meta."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "In Year 1 alone you'd come out about $370K ahead."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T16:43:16+00:00"
+}

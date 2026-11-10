@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a fair Google L6 offer, but not a compelling \u201cleave a job I like\u201d offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "About $26,000/year higher than your normalized Meta compensation"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate rather than accept it as-is."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "That is about a 19% premium over your normalized Meta package, before sign-on. That feels much more appropriate for leaving a job you like."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported market data puts Google L6 Senior PM compensation in the Bay Area at approximately $551,000 median, almost exactly matching your $552,000 offer."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "For decision purposes, I might assign the refresh illustration roughly 40%\u201360% of face value, not 100%."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s $250,000 annual-refresh illustration, assuming each grant vests 25% annually, your approximate compensation would become"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Under the recruiter\u2019s $250,000 annual-refresh illustration, assuming each grant vests 25% annually"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Google L6 Senior PM"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "stay at Meta if Google cannot create a meaningful guaranteed premium."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule for new-hire RSUs and refreshers",
+   "Monthly vs quarterly vesting",
+   "Grant pricing date and first vest date",
+   "Timing and cutoff for first refresher cycle"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Prioritize equity and sign-on over base."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "An extra $270,000 in grant value\u2014from $1.08 million to $1.35 million\u2014adds $67,500/year under equal vesting"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That would produce target recurring compensation of:\n\n- $255,000 base\n- $51,000 target bonus\n- $337,500 annualized equity\n- $643,500 target recurring compensation\n- Plus the requested sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Do not frame this as \u201cGoogle must reimburse all $200,000,\u201d because you would receive Google equity during the same period."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame it as a make-whole and risk bridge, particularly for any Meta vesting you would lose before Google\u2019s first meaningful vest."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 9,
+ "turn": 1,
+ "at": "2026-11-02T23:36:12+00:00"
+}

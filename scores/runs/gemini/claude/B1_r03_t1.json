@@ -1,0 +1,120 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On paper the offer is strong."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "I can't tell you whether it's good *for you* without your current Varrowby pay, because staying is your real alternative."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: Negotiate. Don't accept as-is, and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Your reason is the refresh gap: you're leaving stacked grants behind, and Halvern's refreshes aren't guaranteed."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "On Levels.fyi, LinkedIn's Senior PMs in the Bay Area have a median total of about $439K, with base around $232K."
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Is Senior PM a step up from your current PM title? If so, that's career value beyond the money."
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "Since you're happy where you are, I'd want Halvern to beat your current year\u2011one pay by about **20\u201330%** before moving. If it doesn't clear that, negotiate harder or stay."
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Current Varrowby base, bonus, and equity vesting schedule",
+   "Halvern vesting schedule",
+   "Halvern share count calculation method",
+   "Halvern historical bonus payout percentage",
+   "Halvern typical refresh grant sizes"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Asking for all three together is normal. Expect to get part of it."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for about **$1.25M\u2013$1.3M**, which is 15\u201325% more."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs ($1.08M \u00f7 4) | $270,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign\u2011on bonus. This is the easiest yes because it's a one\u2011time cost."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Compare it with Halvern's $552K minus whatever you'd forfeit."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "B1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T17:07:35+00:00"
+}

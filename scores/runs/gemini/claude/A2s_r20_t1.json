@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Levels.fyi reports a median of about $446,727 for some L6 roles at Google, so this offer isn't low by market standards."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "It's better than what you have now, but by less than the headline number makes it look."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My take: **negotiate, and don't accept the offer as it stands.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Brings the 4-year average to about $660K, a real raise over Meta, with some cushion if refreshes are small."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports a median of about $446,727 for some L6 roles at Google"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Annual pay, using base plus target bonus ($282K) and assuming no refresh grants"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "I'd want the 4-year average **at least 15\u201320% above Meta (around $600K or more)**, plus a sign-on that roughly covers what you're forfeiting. If Google won't get there, staying is a good outcome"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google is flexible on equity and sign-on but less on base salary",
+    "quote": "Google often moves on equity and sign-on bonuses but usually less on base."
+   }
+  ],
+  "missing_info_requested": [
+   "Written confirmation of the vesting schedule",
+   "Total unvested Meta equity and next bonus payment amount",
+   "Whether Google's grant is converted using an average stock price"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "To make the move, I'd need base at $260K, equity at $1.4M, and a sign-on of $X to cover what I'm forfeiting."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Brings the 4-year average to about $660K, a real raise over Meta"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on bonus | $0 | **$75\u2013100K** (split over years 1\u20132 if needed) | Covers the Meta bonus and vesting you'd give up."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The offer doesn't cover what you'd lose by leaving Meta. That's the $200K vesting in the next 12 months, plus any unvested shares after that"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-04T16:52:37+00:00"
+}

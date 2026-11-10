@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Your approximately $647,000 annualized recurring package is therefore above the reported Bay Area median and toward the upper end of broader L6 data."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$121,000/year versus your stated $526,000 Meta run-rate, excluding sign-on"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, then probably accept even if Google does not improve it."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1500000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "My highest priority is the equity, given the long-term compensation profile and the uncertainty around future refresh grants."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports approximately $605,720 median compensation for an L6 Google PM in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Another analysis of recent self-reported US data puts L6 PM median TC around $514,000 and the 90th percentile around $671,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although those figures mix new offers and existing employees."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshes are real, but neither their amount nor outcome is guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I would negotiate once, then probably accept even if Google does not improve it. I would not walk away based on compensation alone."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is likely the most productive negotiation lever.",
+    "quote": "while equity is likely the most productive negotiation lever."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity vesting percentages and vesting frequency",
+   "How GSU share count and grant-date price are determined",
+   "Eligibility for 2027 equity-refresh cycle",
+   "Sign-on repayment/clawback terms",
+   "Bonus proration terms for first year"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "If Google will improve only one component, prioritize equity, followed by base, then sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I don\u2019t have another offer in hand. My comparison is with the compensation and vesting I would give up by leaving Meta"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs annualized over four years | $335,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "+$121,000/year versus your stated $526,000 Meta run-rate, excluding sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "For the decision, the forward-looking $476,000 is probably the better baseline unless you expect another Meta refresh, promotion, or compensation increase."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "I\u2019ve reviewed the package carefully against my current compensation and the equity I would be leaving at Meta."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:55:29+00:00"
+}

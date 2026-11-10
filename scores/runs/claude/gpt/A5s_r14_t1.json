@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "The offer is therefore **market-reasonable but not a strong poaching offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only a **$26K annualized increase**, or about **5%**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Do not accept the offer as written, but don\u2019t walk away before negotiating."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1400000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is intentionally an anchor, not necessarily your expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports roughly $606K median total compensation for Google L6 PMs in the Bay Area"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "A separate recent analysis of nationwide Google PM submissions found an L6 median of approximately $514K"
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "though incumbent compensation can be inflated by stock appreciation"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Possibly assign them a 50%\u201370% expected value in your private financial model"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "after the new-hire grant finishes, the steady state would be:"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Using the recruiter\u2019s illustration of a $250K refresh every year, vesting evenly over four years:"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they leave the offer essentially unchanged, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google more flexible on equity and sign-on than base",
+    "quote": "In practice, Google may have more flexibility on equity and sign-on than base"
+   },
+   {
+    "claim": "Google new-hire grants front-loaded 38/32/20/10",
+    "quote": "current public descriptions commonly report Google new-hire grants as front-loaded, often **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages by year",
+   "First vesting date and frequency",
+   "Refresh vesting schedule and eligibility",
+   "Median refresh distribution for L6 PMs"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base: $260,000** - **New-hire equity: $1,400,000** - **Sign-on: $150,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "Your current compensation is already close to the offer"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized initial equity | $250K | $270K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your cash compensation also barely changes"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "it is guaranteed and compensates for leaving scheduled Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:41:47+00:00"
+}

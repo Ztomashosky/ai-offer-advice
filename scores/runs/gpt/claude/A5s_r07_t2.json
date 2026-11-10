@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "On money alone, though, this is a clearly strong offer, and you've already negotiated it well."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you come out well ahead even if Google never gives you a refresh grant."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as the written offer matches what the recruiter told you"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "you come out well ahead even if Google never gives you a refresh grant."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google final offer, with the recruiter's illustrative refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta's next vest occurs in mid-November.",
+    "quote": "Give notice after your mid-November Meta vest lands."
+   }
+  ],
+  "missing_info_requested": [
+   "Written base, RSU amount, vesting schedule, and share-conversion method",
+   "Whether the RSUs vest evenly at about $270K per year",
+   "Sign-on clawback period, proration, and payment timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, take it**, as long as the written offer matches what the recruiter told you"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "More negotiation probably isn't worth it."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "confirm it vests evenly at about $270K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Your lead shrinks after year 1 but stays positive."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K you'd give up is already counted in the \"Meta, staying\" row. Don't also subtract it from Google's side."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on covers your forfeited Meta RSUs"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-03T17:03:16+00:00"
+}

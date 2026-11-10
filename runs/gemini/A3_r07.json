@@ -1,0 +1,39 @@
+{
+ "model_key": "gemini",
+ "model_id": "gemini-3.7-flash",
+ "channel": "API",
+ "cell": "A3",
+ "rep": 7,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:34:41+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "A3_strong",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $260,000\n- Target annual bonus: 20% of base ($52,000)\n- New-hire RSUs: $1,340,000, vesting over 4 years\n- Sign-on bonus: $200,000\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:35:08+00:00",
+   "reply": "### 1. Executive Verdict & Compensation Breakdown\n\nThis is an **exceptionally strong, top-of-band offer** for an L6 Product Manager at Google. \n\nGoogle typically utilizes a **front-loaded vesting schedule** for initial GSUs (historically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%** depending on the grant structure). \n\nHere is how the numbers compare assuming Google's standard 33/33/22/12 schedule vs. your current Meta compensation:\n\n| Year | Meta (Current) | Google Offer | Google Breakdown |\n| :--- | :--- | :--- | :--- |\n| **Year 1** | ~$476,000 | **~$954,200** | $260k Base + $52k Bonus + $442.2k RSU (33%) + $200k Sign-on |\n| **Year 2** | ~$526,000 | **~$754,200** | $260k Base + $52k Bonus + $442.2k RSU (33%) + *Refresher 1* |\n| **Year 3** | ~$526,000 | **~$606,800** | $260k Base + $52k Bonus + $294.8k RSU (22%) + *Refreshers 1 & 2* |\n| **Year 4** | ~$526,000 | **~$472,800** | $260k Base + $52k Bonus + $160.8k RSU (12%) + *Refreshers 1, 2 & 3* |\n| **4-Yr Average** | ~$513,500/yr | **~$697,000/yr** | *(Excluding any stock appreciation or refreshers)* |\n\n*(Even under an even 25%/year vesting model, your Year 1 would be **$847,000**, with an average annual guaranteed package of **$697,000**).*\n\n---\n\n### 2. How the Components Benchmark (L6 PM SF Bay Area)\n\n* **Base Salary ($260,000):** The posted band is $183k\u2013$271k. At $260k, you are already sitting at the **88th percentile** of the internal range.\n* **New-Hire RSUs ($1,340,000 / 4 yrs):** Median L6 PM stock grants are typically between $600,000 and $900,000 over 4 years ($150k\u2013$225k/yr). At **$335,000/yr annualized**, this equity package is in the **top 5% (95th+ percentile)** for Google L6 PMs.\n* **Sign-On Bonus ($200,000):** Standard L6 sign-on bonuses range from $50,000 to $100,000. A $200k upfront bonus is designed to offset your upcoming $200k Meta vest and eliminate any hesitation.\n\n---\n\n### 3. Key Nuance: The Front-Loaded Schedule & Refresher Stacking\n\n* **The Year 3\u20134 Taper:** Because Google front-loads new-hire equity (33% in Year 1 and 2, dropping to 22% in Year 3 and 12% in Year 4), your initial grant cash flow significantly drops in Years 3 and 4.\n* **How Refreshes Fix This:** Google grants equity refreshes annually (typically in Q1 during the performance cycle). Google refreshes generally vest evenly over 4 years (25%/yr) or front-load depending on the policy year. By Year 3 and 4, stacking 2\u20133 annual refresher grants is designed to fill the gap and keep your ongoing total compensation above $600k\u2013$650k/yr.\n\n---\n\n### 4. Recommendation: Negotiate (Lightly)\n\n**Do not walk away**, as this offer represents a **~35% to 80%+ increase in total compensation** over Meta across your first 4 years. \n\nBecause you were passively recruited and are happy at Meta, you have strong leverage. While Google is already near the ceiling of L6 bands, there is minimal downside to making **one clear, high-leverage closing counter-offer**.\n\n#### What to Ask For:\n1. **Base Salary:** Ask for the top of the band: **$271,000** (+$11,000).\n2. **Equity:** Ask to round the 4-year grant to an even **$1,500,000** (+$160,000 total / ~$40k/yr).\n\n#### Negotiation Script / Framing:\n> *\"Thank you again for putting this offer together. I\u2019m really excited about the team, the scope, and what we could build together. \n> \n> Because I wasn't actively looking and have strong momentum and upcoming vests at Meta, I want to make sure I\u2019m completely set up for the long term. If we can get the base salary to the top of the posted range at **$271,000** and adjust the equity to **$1.5M over 4 years**, I am ready to sign the offer immediately.\"*\n\n### Final Takeaway\nIf Google holds firm and refuses to adjust the numbers, **you should still accept**. The package is already top-tier for an L6 PM across the industry.",
+   "searches": [
+    {
+     "query": "levels fyi Google L6 PM compensation"
+    },
+    {
+     "query": "Google L6 PM salary levels fyi"
+    }
+   ],
+   "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxERS2JTtLc6T2qwkD7HnSYC7EeFY8L15EfGT9HZY_DwwQplQ8dyS9EELP0NQcbbHIEABLF22rJhl1DRML1DirL2LrjCJ1pzMk_LSPIWY_ldX9hbE9AF1y9b4lbslEupRDisMwE3uwFMWXPAL3VVGaTsLvX8Du2Ts=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjpSGWm6O8IcPuq5ySAO1m1xV6CvOF_ecAY8Jo9wSIHdpkS7npF3bbjtdMqC1wUxvu3RSCX70i6vW_QNcUuZ4_HIBi8Ip9MI-RWBcHcupIfStu2sXoeC0L6WL_4-Ihm6U-sB1yqd01CeWJQx1ibjDaFUgVdA=="
+   ],
+   "usage": {
+    "input": 371,
+    "output": 3489
+   },
+   "finish": "stop",
+   "served_model": "gemini-3.7-flash"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:35:08+00:00"
+}

@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "A $200k sign-on bonus is near the absolute top of the band for an L6 non-executive role."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "+$232,000 \u2013 $318,000 (+44% to +60%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "near the absolute top of the band for an L6 non-executive role"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Assumes standard target performance equity refreshes stack on top of base/bonus."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Meta IC6** and **Google L6** on your resume"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "this is a clear green light"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard vesting is front-loaded 33/33/22/12",
+    "quote": "Google's standard vesting is often front-loaded (33% Year 1, 33% Year 2, 22% Year 3, 12% Year 4)"
+   },
+   {
+    "claim": "sign-on often paid in first or second paycheck",
+    "quote": "Google often pays it in your first or second paycheck"
+   },
+   {
+    "claim": "standard clawback is prorated within 12 or 24 months",
+    "quote": "Standard is prorated repayment if you leave voluntarily within 12 or 24 months"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout and clawback schedule",
+   "vesting schedule (monthly/quarterly, front-loaded)",
+   "start date timing relative to Meta vest"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, you should strongly consider accepting this offer."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "this is a clear green light"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Years 2\u20134 Avg.** | ~$530,000+ | ~$560,000 \u2013 $620,000+"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 Total** | **~$526,000** | **~$758,000 \u2013 $844,000**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You swapped $200,000 of unvested Meta RSUs (which carry stock price volatility risk) for **$200,000 in guaranteed cash** up front."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-03T00:48:42+00:00"
+}

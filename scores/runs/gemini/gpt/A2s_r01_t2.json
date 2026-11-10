@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The revised offer is fair, competitive, and financially sufficient to justify moving."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is $328,000 more over four years, or a 15.6% premium, before considering refresh grants or stock-price movements."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes\u2014assuming you like the Google role, manager, and team reasonably well, I would take this offer."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Bay Area compensation data puts median Google L6 PM compensation at approximately $606,000, almost exactly matching your $608,000 four-year average"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "You should therefore continue valuing future refreshes at zero for the acceptance decision."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule",
+   "How equity grant is converted into shares",
+   "Sign-on payment timing and repayment terms",
+   "Bonus proration and cycle eligibility",
+   "Equity refresh eligibility",
+   "Team and manager confirmation"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Take it if the Google role is at least roughly as attractive as your Meta role."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would stop negotiating compensation if they have clearly said this is final."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Base: $240,000 \u00d7 4 = $960,000\n- Target bonus: $48,000 \u00d7 4 = $192,000\n- Initial RSUs: $1,080,000\n- Sign-on: $200,000\n- Total: $2,432,000"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1: $758,000 including sign-on\n- Years 2\u20134: $558,000 each"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on fully offsets the nominal $200,000 of near-term Meta equity."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-02T21:36:19+00:00"
+}

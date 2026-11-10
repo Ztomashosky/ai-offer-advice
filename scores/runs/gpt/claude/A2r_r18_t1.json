@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Averaged over four years, your offer is about $552K a year, so it's competitive."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Over four years you come out about $150K ahead (~7%), if both companies refresh similarly."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I'd negotiate before accepting. Asking won't put the offer at risk."
+  },
+  "intensity": 2,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "as offered this is a base cut and drops below my current pay in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows a median total compensation package for a L6 at Google of about $447K for Product Design Manager."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Years 3\u20134 fall behind Meta unless Google's refresh grants make up the gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't budge and pay is your main concern."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Almost all Google offers use a 38/32/20/10 GSU vesting structure.",
+    "quote": "almost all (99%) of Google's offers follow the 38/32/20/10 GSU vesting structure."
+   },
+   {
+    "claim": "Asking will not put the offer at risk.",
+    "quote": "Asking won't put the offer at risk."
+   },
+   {
+    "claim": "New-hire stock is usually the most negotiable component.",
+    "quote": "$1.25\u20131.35M (usually the most negotiable part)"
+   },
+   {
+    "claim": "Google usually has the most negotiation room in stock.",
+    "quote": "Put the stock first, since that's where Google usually has the most room."
+   },
+   {
+    "claim": "The bonus percentage is usually fixed by level.",
+    "quote": "Usually fixed by level"
+   }
+  ],
+  "missing_info_requested": [
+   "All unvested Meta stock, not just the next 12 months",
+   "Whether the candidate would actually stay for a Meta counteroffer"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base | $265K | $250\u2013260K (also raises your bonus, since it's 20% of base)"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "as offered this is a base cut and drops below my current pay in years 3\u20134."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "So your $1.08M grant doesn't pay $270K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$75K sign-on, years 1\u20134 come to about $875K, $722K, $566K and $436K."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "All of it is forfeited if you leave, and it strengthens your case for a sign-on bonus."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-04T16:22:10+00:00"
+}

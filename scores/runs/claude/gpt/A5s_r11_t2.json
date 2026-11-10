@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It is a financially credible switching package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Recurring target compensation is **$558K**, versus your current approximately $526K run rate."
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "Your stated forward Meta compensation is approximately"
+  },
+  "recommendation": {
+   "value": "accept",
+   "quote": "take the offer, provided the $200K sign-on has a reasonable clawback"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "you should continue valuing those as uncertain"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "After the initial Google grant expires, compensation depends heavily on refresh grants."
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": "The $250K annual refresh illustration is not an offer term."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You like the Google role or manager noticeably less."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "sign-on fully replaces gross value of near-term Meta vesting",
+    "quote": "The $200K sign-on fully replaces the gross value of the near-term Meta vesting."
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payment/clawback terms",
+   "equity vesting schedule and first vest date",
+   "refresh timing and eligibility",
+   "tax withholding details"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "My recommendation: **lean yes\u2014take it**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I would **not continue negotiating or bluff about walking away**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.08 million grant vests evenly over four years"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$558,000 recurring before refresh grants"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google has now compensated you dollar-for-dollar, on a gross basis, for the Meta equity vesting you are giving up."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on fully replaces the gross value of the near-term Meta vesting."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A5s",
+ "rep": 11,
+ "turn": 2,
+ "at": "2026-11-02T23:39:00+00:00"
+}

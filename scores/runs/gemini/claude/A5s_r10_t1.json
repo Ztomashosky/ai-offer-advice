@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Self-reported data is noisy, but your offer looks competitive, not exceptional."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "If things go as the recruiter described, Google pays about $530K more over 4 years, and about $76K more in year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Short answer: negotiate. This is a solid offer, so don't walk away. It isn't strong enough to accept as written, though."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "The guaranteed gain over Meta is small, and you'd be giving up a known track record for refreshes at a new company."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi's Google pages show figures like a median yearly total compensation of $477,000 for US Google PMs across all levels. A Google salary summary also lists Product Manager L6 $607K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If things go as the recruiter described, Google pays about $530K more over 4 years, and about $76K more in year 1."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google's steady state (~$532K) is about the same as Meta's (~$526K). Most of the gain is the new-hire grant."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Google + recruiter's refresh example"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't move at all, staying is a reasonable choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google changed to a front-loaded schedule in Summer 2021 with 33/33/22/12 vesting.",
+    "quote": "however in Summer of 2021, they decided on a new, front-loaded, vesting schedule. One version was 33% in year 1, 33% in year 2, 22% in year 3, with the rest in year 4."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly around mid-November.",
+    "quote": "Meta RSUs usually vest quarterly, typically around mid-November."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule for the Google grant",
+   "When Meta bonus pays out",
+   "When next Meta RSU vest date is"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Send one counter covering all three items:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "A counter in the realistic range (about $250K base and $1.25M equity) would make year 1 about $612K guaranteed."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "This covers the Meta bonus and unvested RSUs you'd give up, plus the year-1 risk."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The fair comparison is what you'd earn going forward at each company, not your current $526K average. Meta assumes about $200K vests next year."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This covers the Meta bonus and unvested RSUs you'd give up, plus the year-1 risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-04T17:01:56+00:00"
+}

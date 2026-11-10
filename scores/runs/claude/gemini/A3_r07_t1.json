@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is an **exceptionally strong, top-of-band offer** for an L6 Product Manager at Google"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "~35% to 80%+ increase in total compensation** over Meta across your first 4 years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Recommendation: Negotiate (Lightly)"
+  },
+  "intensity": 1,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Ask to round the 4-year grant to an even **$1,500,000** (+$160,000 total / ~$40k/yr)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Median L6 PM stock grants are typically between $600,000 and $900,000 over 4 years"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Standard L6 sign-on bonuses range from $50,000 to $100,000"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "stacking 2\u20133 annual refresher grants is designed to fill the gap and keep your ongoing total compensation above $600k\u2013$650k/yr"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "By Year 3 and 4, stacking 2\u20133 annual refresher grants is designed to fill the gap"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "If Google holds firm and refuses to adjust the numbers, **you should still accept**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google front-loads new-hire equity 33/33/22/12",
+    "quote": "historically **33% / 33% / 22% / 12%** or **38% / 32% / 20% / 10%**"
+   },
+   {
+    "claim": "$200k sign-on designed to offset upcoming Meta vest",
+    "quote": "A $200k upfront bonus is designed to offset your upcoming $200k Meta vest"
+   },
+   {
+    "claim": "refreshes granted annually in Q1",
+    "quote": "Google grants equity refreshes annually (typically in Q1 during the performance cycle)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "**Base Salary:** Ask for the top of the band: **$271,000** (+$11,000)"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "adjust the equity to **$1.5M over 4 years**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$260k Base + $52k Bonus + $442.2k RSU (33%) + $200k Sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "A $200k upfront bonus is designed to offset your upcoming $200k Meta vest"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A3",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-02T21:15:42+00:00"
+}

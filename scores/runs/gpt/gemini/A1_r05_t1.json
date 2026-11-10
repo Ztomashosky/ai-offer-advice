@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "**Base Salary is low:** At $215,000, it sits near the lower-mid end of their posted range"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "this is a **lateral move at best and a pay cut in guaranteed cash**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should **negotiate aggressively** before considering accepting or walking away."
+  },
+  "intensity": 2,
+  "base_ask_low": 240000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1000000,
+  "equity_ask_high": 1100000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 50000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Your current run-rate beats their baseline offer."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "this is a **lateral move at best and a pay cut in guaranteed cash**"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on base or equity, **walk away**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a 33%/33%/22%/12% front-loaded vesting schedule for initial grants.",
+    "quote": "Google typically uses a **front-loaded vesting schedule** for initial Grants (Standard: **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "A passive Meta hire leaving near-term unvested stock typically receives a sign-on bonus.",
+    "quote": "A passive hire from Meta walking away from $200k in near-term unvested stock typically receives a sign-on bonus."
+   },
+   {
+    "claim": "Google routinely negotiates L6 offers, especially against Meta compensation.",
+    "quote": "Google routinely negotiates at L6, especially when competing against Meta comp."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "the **base salary to $245,000**, the **equity to $1,050,000**, and include a **sign-on bonus of $60,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (Annual Avg)** | ~$250,000 | $200,000 ($800k / 4 yrs)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Targeting these figures brings Year 1 compensation to **~$660,000+** and average 4-year TC to **~$540,000\u2013$570,000+**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "include a **sign-on bonus of $60,000** to help offset my unvested equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T20:43:11+00:00"
+}

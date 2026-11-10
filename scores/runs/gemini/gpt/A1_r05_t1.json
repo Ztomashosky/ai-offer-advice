@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a respectable general-market L6 offer"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "falls materially behind your stated ongoing run rate"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept the offer as written."
+  },
+  "intensity": 3,
+  "base_ask_low": 250000,
+  "base_ask_high": 250000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "address the gap with my current compensation and the near-term Meta vesting I would forfeit"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported U.S. Google L6 PM data shows approximately:\n\n- **$240K median base**\n- **$230K median annual stock**\n- **$514K median total compensation**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "differences in time windows and whether submissions are new offers or existing employees make these figures imperfect."
+  },
+  "caveat_tenure_current_employer": {
+   "value": true,
+   "quote": "compare Google against your **actual already-granted Meta vest schedule**, not an assumption that future Meta refresh grants will remain identical forever."
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "I would value potential refreshes at **zero to perhaps 25\u201350% of the recruiter\u2019s implied value**"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "if Google remains near $215,000 base, $800,000 equity, and zero sign-on, I would stay at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the largest available negotiation lever.",
+    "quote": "Equity is likely the largest available lever."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "first vest date",
+   "share conversion mechanism and timing",
+   "first-year bonus proration",
+   "refresh eligibility and proration",
+   "typical L6 refresh range",
+   "refresh vesting schedule",
+   "sign-on repayment terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "1. **Base: $250,000**\n2. **New-hire equity: $1.2 million**\n3. **Sign-on: $200,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "When I normalize Google\u2019s $800,000 grant over four years rather than looking only at the front-loaded first year, the offer is approximately $458,000 per year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "That produces normalized recurring compensation of:\n\n- $250K base\n- $50K target bonus\n- $300K annualized equity\n- **$600K normalized TC**, excluding the sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $200,000 sign-on bonus to offset the compensation I\u2019m forfeiting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:23:51+00:00"
+}

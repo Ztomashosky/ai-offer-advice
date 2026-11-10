@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "this offer is clearly better: about 18% more over 4 years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "If they say no, accept anyway."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 25000,
+  "signon_ask_high": 40000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes aren't guaranteed, so plan around the 4-year average, not year 1."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "The grant converts to a fixed number of shares at the candidate's start.",
+    "quote": "The $1.28M becomes a fixed number of shares at your start, so its value will move with Google's stock."
+   },
+   {
+    "claim": "A small sign-on request would be easy for Google to approve.",
+    "quote": "make one small ask that's easy for them to approve, tied to signing right away."
+   },
+   {
+    "claim": "A closing ask rarely risks the offer.",
+    "quote": "A polite closing ask like this rarely puts the offer at risk."
+   },
+   {
+    "claim": "The first-year bonus may be prorated based on start date.",
+    "quote": "Your first year's payout depends on your rating, and may be prorated depending on when you start."
+   }
+  ],
+  "missing_info_requested": [
+   "New-hire RSU vesting schedule and vesting frequency",
+   "How the RSU grant converts to shares",
+   "Timing and typical size of the first L6 refresh",
+   "Meta bonus payout date",
+   "Candidate's enthusiasm for the Google role, team, and manager"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes. On compensation, this offer is worth taking."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "If you can add a $25\u201340K sign-on to cover the Meta bonus I'll forfeit, I'll sign today."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "RSUs average $320K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google didn't add a sign-on, but the extra $200K in RSUs is worth more over the 4 years than the $50K sign-on"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200K of Meta RSUs you'd give up is already counted in the $476K Meta year-1 figure."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd probably lose your partly earned Meta bonus"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 15,
+ "turn": 2,
+ "at": "2026-11-04T16:17:41+00:00"
+}

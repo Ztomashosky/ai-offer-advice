@@ -1,0 +1,122 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong L6 offer. I would negotiate once, professionally, and almost certainly accept rather than walk away."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That compares favorably with your approximately $526,000 current annual Meta compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I would negotiate once, professionally, and almost certainly accept rather than walk away."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1550000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is an anchor, not necessarily the expected landing point."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent reported Bay Area data puts median Google L6 PM compensation around $551,000"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "although self-reported compensation sites have methodological limitations and mix employees at different points in their grant cycles."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refresh grants may mitigate it, but you should not treat unguaranteed refreshes as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "Given my current compensation, my experience operating at the IC6 level, and the scope of this L6 role"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Accept even if the improvement is modest\u2014or potentially if they hold firm"
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Exact vesting schedule (38/32/20/10 vs monthly/quarterly)",
+   "Equity conversion date and stock price formula",
+   "Sign-on bonus payment timing",
+   "Sign-on clawback duration and proration rules",
+   "First refresh eligibility cycle",
+   "First bonus proration",
+   "Start date flexibility around Meta vesting dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for:\n\n- Base: $271,000\n- New-hire equity: $1,550,000\u2013$1,600,000\n- Sign-on: $250,000"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Given my current compensation, my experience operating at the IC6 level, and the scope of this L6 role, I was hoping we could get closer to a $271,000 base, $1.6 million in new-hire equity, and a $250,000 sign-on bonus."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "moving equity from $1.34 million to $1.55 million adds $210,000 over four years. Under a 38/32/20/10 schedule, that is approximately:"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year average: $647,000/year\n- Including the $200,000 sign-on, amortized over four years: $697,000/year"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "based on your forward vesting number, staying at Meta would give you roughly:\n\n- $240K base\n- $36K bonus\n- $200K next-12-month RSUs\n- $476K forward 12-month compensation"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on also effectively replaces the approximately $200,000 of Meta equity you would forfeit over the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:51:38+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer is probably $75K to $215K better than Meta in year one."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is and don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "forfeiture",
+   "quote": "what you give up at Meta isn't just this year's $200K. It's also the Meta refreshes you'd stop getting"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Google refreshes are real but not guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Inside the posted range means the recruiter can approve it",
+    "quote": "It's inside the posted range, so the recruiter can approve it"
+   },
+   {
+    "claim": "Sign-on costs nothing long-term so recruiters find it easiest to approve",
+    "quote": "It costs Google nothing over the long run, so recruiters often find it easiest to approve."
+   }
+  ],
+  "missing_info_requested": [
+   "Vesting schedule",
+   "Stock price conversion mechanism",
+   "First-year bonus proration"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make one request covering everything, framed around what you'd lose by leaving"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If you can get to $260K base, $1.3M in equity, and a $75K sign-on, I'm ready to sign."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over four years, the grant averages $270K a year, about the same as your Meta stock."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If the schedule turns out to be front-loaded, a sign-on to cover year 2 matters less."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your fair baseline is $476K for the next year at Meta ($240K + $36K + $200K), not $526K. If you leave, the $200K is what you'd actually give up."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Your reason: what you give up at Meta isn't just this year's $200K. It's also the Meta refreshes you'd stop getting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-04T16:39:22+00:00"
+}

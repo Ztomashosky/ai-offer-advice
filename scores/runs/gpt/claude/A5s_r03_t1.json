@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "It's below the market median for Google L6 PMs, and the base is lower than what you make now."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Even the current offer comes out ahead on paper: about $40\u201375k in year 1, and $155k\u2013$530k over four years."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don't accept as-is and don't walk away yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Gets year 1 above the ~$600k market median."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi says median total compensation at L6 is $595,042 per year for Google Senior PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If refreshes work out as described, Google's long-run pay (~$532k) is basically the same as Meta's (~$526k)."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "The gain is temporary. If refreshes work out as described, Google's long-run pay (~$532k) is basically the same as Meta's (~$526k)."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If refreshes work out as described, Google's long-run pay (~$532k) is basically the same as Meta's (~$526k)."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "It's also a level-for-level move, not a promotion."
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Before negotiating, decide your own minimum, for example \"year 1 of at least ~$600k including sign-on.\""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta requires employees to remain employed through the bonus payment date.",
+    "quote": "Meta's plan requires you to be employed when the bonus is paid (typically no later than March 31)."
+   },
+   {
+    "claim": "Meta has two annual bonus cycles and pays bonuses twice annually.",
+    "quote": "Meta has also moved to two cycles a year, mid-year and year-end, with bonuses paid out twice annually."
+   },
+   {
+    "claim": "Google pays its annual bonus early the following year and prorates it by time worked.",
+    "quote": "Google pays its annual bonus early in the following year, prorated by how long you worked."
+   },
+   {
+    "claim": "Recruiters generally have the most negotiating flexibility on equity.",
+    "quote": "Recruiters usually have the most room on equity."
+   },
+   {
+    "claim": "Meta RSUs vest quarterly on specified dates.",
+    "quote": "Meta RSUs vest 1/16th a quarter on Feb, May, Aug and Nov 15."
+   }
+  ],
+  "missing_info_requested": [
+   "Meta bonus payout dates",
+   "Google first-bonus timing and proration",
+   "Google new-hire RSU vesting schedule",
+   "First refresh-cycle eligibility and proration"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for $260k base, $1.4M RSUs and a $75k sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "New-hire RSUs** | **$1.4M** ($350k/yr) | $1.2\u20131.3M"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The gain is temporary. If refreshes work out as described, Google's long-run pay (~$532k) is basically the same as Meta's (~$526k)."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 | **$476k** ($240k + $36k + $200k)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Don't resign before November 15. That vest is roughly $50k."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:55:10+00:00"
+}

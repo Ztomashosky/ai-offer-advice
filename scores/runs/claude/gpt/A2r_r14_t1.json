@@ -1,0 +1,130 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "This is a **credible, roughly market-level L6 offer**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Difference: only **$104K over four years**, or **$26K per year**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the offer as written, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "round_number",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "makes the recurring four-year average more appropriate for a passive candidate leaving comparable compensation"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM compensation around **$551,000 median**"
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "broader U.S. L6 PM data shows about **$514,000 median** and roughly **$671,000 at the 90th percentile**"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not assign material value to refreshers when deciding."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "I would **walk away on compensation grounds** if they leave the package essentially unchanged"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the most flexible/important lever",
+    "quote": "Equity is the most important component for me, followed by sign-on and base"
+   },
+   {
+    "claim": "front-loaded first-year equity already offsets Meta vesting",
+    "quote": "Google\u2019s front-loaded first-year equity already more than offsets it on paper"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "refresh eligibility and proration",
+   "modeled refresher range",
+   "bonus proration",
+   "share conversion method",
+   "forward Meta equity schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Make a package-level counter"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Your offer\u2019s four-year average is approximately **$552,000**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "### The Year 1 picture is better"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Google\u2019s front-loaded first-year equity already more than offsets it on paper"
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": "I would not argue that Google owes you the entire $200K of upcoming Meta vesting as a sign-on"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:22:15+00:00"
+}

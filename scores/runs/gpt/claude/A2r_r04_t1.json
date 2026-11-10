@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer, but you shouldn't accept it as written."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "you'd make about $552K a year on average versus roughly $526K at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate first. The current offer isn't a clear enough improvement to leave a job you like."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Right now this offer is only slightly better than staying once you account for my refresh stack and the cost of switching."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "plus whatever Google refreshes you earn. Those refreshes vest 25% a year and stack up over time"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if Google won't move on base or the sign-on and the grant turns out to vest evenly."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refresh grants vest 25% per year.",
+    "quote": "Those refreshes vest 25% a year and stack up over time"
+   },
+   {
+    "claim": "Equity and sign-on are usually easier for Google to change than base.",
+    "quote": "Equity and the sign-on bonus are usually easier for them to move than base."
+   },
+   {
+    "claim": "Meta RSUs typically vest quarterly and usually have a mid-November vest date.",
+    "quote": "Meta RSUs typically vest quarterly, and one vest date is usually mid-November"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact Google new-hire grant vesting schedule",
+   "How Google converts the grant to shares and which stock-price date or averaging period applies",
+   "Typical Google L6 refresh for a strong performer",
+   "Actual Meta RSU vest dates",
+   "Whether leaving would forfeit the Meta annual bonus"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a $260K base, $1.35M in RSUs, and a $100K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "the new-hire grant averages $270K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Accept if you end up with roughly $600K+ a year on a four-year average, or a solid Year 1 bump plus a sign-on"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "a $100K sign-on to cover the bonus and equity I'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 4,
+ "turn": 1,
+ "at": "2026-11-03T16:15:21+00:00"
+}

@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "For an equivalent-level move, the offer is fair but not compelling."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The 4-year average is $552k, only about 5% above your current $526k."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "The offer is decent, but I'd negotiate before accepting."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "With most of the front-loaded schedules, years 3\u20134 fall below what you make now unless refreshes fill the gap."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "If they agree to all of it, year 1 is roughly $650k\u2013$900k depending on schedule, and the 4-year average is about $610k without refreshes."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "This is a move between equivalent levels (Meta IC6 to Google L6), not a promotion"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "A reasonable one: if Google won't add a sign-on bonus and meaningfully raise either base or stock, stay."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google refresh grants vest over four years at 25% per year.",
+    "quote": "Refresh grants follow a four-year vesting schedule with 25% vesting each year."
+   },
+   {
+    "claim": "Sign-on bonuses are usually the easiest compensation component for big tech to add.",
+    "quote": "This is usually the easiest thing for big tech to add."
+   },
+   {
+    "claim": "Recruiters often have the most flexibility on stock.",
+    "quote": "Recruiters often have the most room to move on stock."
+   },
+   {
+    "claim": "A commitment to sign at the requested package supplies what the recruiter needs for approval.",
+    "quote": "Telling them you'll sign at that number gives the recruiter what they need to get approval."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "Timing of the candidate's next Meta stock vest",
+   "Timing of the candidate's next Meta bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to a $260k base, $1.35M in RSUs, and a $100k sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The 4-year average is $552k, only about 5% above your current $526k."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "year 1 is roughly $650k\u2013$900k depending on schedule, and the 4-year average is about $610k without refreshes."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your vesting is dropping from $250k to $200k a year, so staying would only grow your pay if Meta gives you new refresh grants."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame it as making up for the Meta stock and bonus you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-04T16:07:27+00:00"
+}

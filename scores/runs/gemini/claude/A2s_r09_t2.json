@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, this is now a good offer. Take it if you actually want the role"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "On pay, Google wins clearly over the next two years and ties or is uncertain after that."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, this is now a good offer. Take it if you actually want the role"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "If the grant is front-loaded, Google could pay less than Meta in years 3\u20134 unless refreshers make up the gap, and those aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "vesting schedule in writing",
+   "sign-on terms (clawback/payout schedule)",
+   "share count average price method and date",
+   "Meta payout/vesting dates relative to start date"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Take it if you actually want the role, after you confirm a few details below."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "pushing back again after \"best offer\" probably won't get you much more and could cost some goodwill."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years: about $330K more than your Meta run rate of roughly $2.1M, or about 16%."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1: Google pays about $280\u2013420K more than staying."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "If you stay, that $200K is part of your $476K. If you leave, the sign-on effectively replaces it. So the sign-on isn't a bonus on top of making you whole. It's what makes the move clearly worth more, and the comparison above already accounts for it."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "If you leave, the sign-on effectively replaces it."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 9,
+ "turn": 2,
+ "at": "2026-11-04T16:35:36+00:00"
+}

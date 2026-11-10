@@ -1,0 +1,121 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "Yes, this is now a good offer, and I'd lean toward taking it once you've checked a few details."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about $330K more, or roughly 16%."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Since you said compensation matters a lot, that points toward accepting."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 30000,
+  "signon_ask_high": 30000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "That's plausible for someone who meets expectations, but the recruiter said it isn't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "Google RSU vesting percentages",
+   "whether RSUs vest monthly or quarterly",
+   "whether there is a first-vest cliff",
+   "whether the first-year bonus is prorated",
+   "next Meta stock vest date",
+   "Meta bonus payment timing"
+  ],
+  "final_decision": {
+   "value": "lean_accept",
+   "quote": "Yes, this is now a good offer, and I'd lean toward taking it once you've checked a few details."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "The one remaining gap is the ~$30K annual bonus I'd forfeit. Could you cover that with a one-time sign-on?"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| Even 25% a year | $608K | $608K | $608K | $608K | $608K |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The one remaining gap is the ~$30K annual bonus I'd forfeit. Could you cover that with a one-time sign-on?"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The one remaining gap is the ~$30K annual bonus I'd forfeit. Could you cover that with a one-time sign-on?"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 23,
+ "turn": 2,
+ "at": "2026-11-04T16:31:49+00:00"
+}

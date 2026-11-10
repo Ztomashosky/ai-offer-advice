@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "For an L6 in SF, this offer looks reasonable but not top of band."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Four-year average: about $552K/year, roughly 5% above your current ~$526K."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "I think it's a good offer and you should negotiate before deciding."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "This is usually where Google has the most room. It also helps offset the drop in years 3\u20134."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "across all levels, the median yearly Product Manager package at Google in the US totals $520K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The recruiter told you refreshes aren't guaranteed, so count them as upside, not as part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "you're an experienced Meta IC6, so asking above the midpoint is easy to justify."
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually uses a front-loaded 33/33/22/12 vesting schedule.",
+    "quote": "Google usually uses a front-loaded schedule. One recent comparison lists it as 33% / 33% / 22% / 12%, monthly, no cliff"
+   },
+   {
+    "claim": "Meta vests quarterly around mid-November, February, May, and August.",
+    "quote": "Meta usually vests quarterly around mid-November, February, May and August."
+   }
+  ],
+  "missing_info_requested": [
+   "exact Google vesting schedule in writing",
+   "upcoming Meta vesting schedule and dates"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Lead with equity and a sign-on bonus. Raise base too, but it's usually the hardest number to move."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Four-year average: about $552K/year, roughly 5% above your current ~$526K."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Accept if they get you to roughly $1.25M+ in equity plus a sign-on that covers your forfeited bonus"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Moving means forfeiting my ~$36K 2026 bonus and upcoming equity, and with the front-loaded vesting, years 3\u20134 fall below what I make today."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-03T16:31:53+00:00"
+}

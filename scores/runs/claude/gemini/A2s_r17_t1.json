@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "this initial offer is in the **65th\u201375th percentile** of standard initial offers"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You would make roughly **+$112,000/yr (+21%)** more at Google for the first two years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Recommendation: Negotiate (Do Not Accept As-Is)"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 60000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "L6 top-of-band equity can stretch to ~$1.25M\u2013$1.3M+ for strong hires"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "For a Google L6 Senior PM in the Bay Area, the median total compensation is around **$510,000\u2013$530,000 annualized**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "annual refreshers (which vest 25%/yr) stack over time to offset this drop, performance refreshers are not guaranteed"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "annual refreshers (which vest 25%/yr) stack over time to offset this drop"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "not compelling enough to leave a role where you are happy and thriving without negotiating"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google standard vesting schedule",
+    "quote": "Google standard new-hire grants vest **33% in Year 1, 33% in Year 2, 22% in Year 3, and 12% in Year 4**"
+   },
+   {
+    "claim": "sign-on is easiest lever for Google",
+    "quote": "This is often the easiest lever for Google to pull when they hit band limits"
+   },
+   {
+    "claim": "Google expects counters",
+    "quote": "Google expects L6 candidates to counter."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Base Salary | $235,000 | **$255,000 \u2013 $260,000**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You currently make $240,000 base"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$356,400** (33%)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "No Sign-on Bonus"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving your current unvested equity and performance cycle at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 17,
+ "turn": 1,
+ "at": "2026-11-03T00:34:49+00:00"
+}

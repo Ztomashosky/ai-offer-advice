@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is a standard baseline offer for a Google L6 PM in the Bay Area"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Total Compensation upside is marginal"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept as-is, and do not walk away yet."
+  },
+  "intensity": 3,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Bridges long-term TC parity with Meta IC6 refreshes and pushes Year 1 value up."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Even with $250k/year in refreshes, your comp would plateau or drop"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they don't budge at all, staying at Meta remains the financially and professionally safer choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google typically uses a front-loaded vesting schedule for initial GSUs.",
+    "quote": "Google typically uses a front-loaded vesting schedule for initial GSUs"
+   },
+   {
+    "claim": "Google L6 Bay Area base salaries frequently reach $250,000\u2013$265,000 for strong hires.",
+    "quote": "Google L6 base salaries in the Bay Area frequently reach $250,000 \u2013 $265,000 for strong hires."
+   },
+   {
+    "claim": "Compensation may drop without high-tier performance multipliers.",
+    "quote": "your comp would plateau or drop unless you receive high-tier performance multipliers."
+   },
+   {
+    "claim": "Google recruiters work best with a concrete accept-if-approved number for the compensation committee.",
+    "quote": "Google recruiters work best when they can take a concrete number back to the compensation committee"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire equity vesting schedule"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If Google refuses to move on base, push for the entire difference to be made up in **Equity** and a **First-Year Sign-on Bonus**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "If it is a flat 25% across 4 years (as the recruiter modeled), it is **$270,000/yr**."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "push for the entire difference to be made up in **Equity** and a **First-Year Sign-on Bonus**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving unvested Meta RSUs and unvested performance bonuses."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 2,
+ "turn": 1,
+ "at": "2026-11-02T21:26:13+00:00"
+}

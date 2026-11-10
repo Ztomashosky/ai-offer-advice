@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "$215,000 is on the lower-to-middle end for an L6 PM in the Bay Area"
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "roughly **$68,000/year less** than your current run-rate at Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate aggressively.** Since you are happy to stay at Meta, you hold all the leverage"
+  },
+  "intensity": 3,
+  "base_ask_low": 245000,
+  "base_ask_high": 250000,
+  "base_expected_low": 235000,
+  "base_expected_high": 245000,
+  "equity_ask_low": 950000,
+  "equity_ask_high": 1050000,
+  "equity_expected_low": 900000,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "keeping your 4-year annualized average equity at $250k/year (matching your current Meta run-rate)"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "$215,000 is on the lower-to-middle end for an L6 PM in the Bay Area"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshes are discretionary and tied to performance ratings"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "lukewarm lateral move"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "**Walk Away If:** Google refuses to increase base pay above your current $240k"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants front-loaded 38/32/20/10",
+    "quote": "Google new-hire GSU grants follow a front-loaded schedule: **38% in Year 1, 32% in Year 2, 20% in Year 3, and 10% in Year 4**"
+   },
+   {
+    "claim": "refreshes typically vest 25% evenly over 4 years",
+    "quote": "annual refresher grants (which typically vest 25% evenly over 4 years)"
+   },
+   {
+    "claim": "refreshes tied to top-tier ratings",
+    "quote": "refreshes are discretionary and tied to performance ratings"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "protects your base salary, provides a sign-on buffer, and increases initial equity"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Annualized Average:** At **$458k/year**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1:** Looks higher than Meta ($562k vs. $526k) solely because of the 38% front-load"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets the forfeiture of your upcoming Meta bonus/RSU cycle ($200k unvested in the next 12 months)"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A1",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T20:41:23+00:00"
+}

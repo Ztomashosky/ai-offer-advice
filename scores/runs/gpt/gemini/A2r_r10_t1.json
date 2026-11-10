@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "this is a solid baseline offer, but not a top-of-band offer for Google L6"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "this offer is too close to a lateral comp move over 4 years to accept as-is"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept, and do not walk away yet\u2014negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Increase the RSU grant to $1,250,000 over 4 years to account for long-term parity."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "they depend entirely on performance ratings and rarely create a massive surplus over your current Meta trajectory"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move on any component, staying at Meta is the lower-risk, higher-certainty choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a specific front-loaded vesting schedule for initial new-hire equity.",
+    "quote": "Google uses a front-loaded schedule (typically 33% in Year 1, 33% in Year 2, 22% in Year 3, and 12% in Year 4)"
+   },
+   {
+    "claim": "Google annual refresh grants vest at 25% per year.",
+    "quote": "annual refreshers (which vest 25%/yr)"
+   },
+   {
+    "claim": "Google refresh grants depend entirely on performance ratings.",
+    "quote": "they depend entirely on performance ratings"
+   },
+   {
+    "claim": "Google refresh grants rarely create a large surplus unless the employee receives top ratings.",
+    "quote": "rarely create a massive surplus over your current Meta trajectory unless you are consistently rated at the top of the curve"
+   },
+   {
+    "claim": "The candidate has an even 25% annual vesting schedule at Meta.",
+    "quote": "an even 25% annual vesting schedule"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "The offer has clear room to move across base, equity, and sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "4-Year Annualized Average: ~$552,000/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-On Bonus ($0): Leaving a company where you have $200k in unvested RSUs over the next 12 months"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Include a sign-on bonus of $80,000 to offset the equity I'm walking away from in the next 12 months."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 10,
+ "turn": 1,
+ "at": "2026-11-02T23:07:59+00:00"
+}

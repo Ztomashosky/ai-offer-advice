@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very strong offer. You shouldn't walk away, and you shouldn't accept it as-is."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "By my numbers it's worth about $680K more than staying over four years, before counting any refresh grants."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate once, politely, for a small amount, then decide based on whether you actually want the job."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 265000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1420000,
+  "equity_expected_high": 1420000,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Equity is usually the most flexible part of Google offers at this level, and it's worth the most to you."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi's median for a related Google L6 role is about $447K a year in total."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Using 38/32/20/10, with no refreshes and a flat stock price:"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "accept if you'd be happy in the role."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the most flexible lever in Google offers at L6",
+    "quote": "Equity is usually the most flexible part of Google offers at this level, and it's worth the most to you."
+   }
+  ],
+  "missing_info_requested": [
+   "Which front-loaded vesting schedule applies (38/32/20/10 vs 33/33/22/12) and whether there is a cliff",
+   "Sign-on payback terms and prorating rules",
+   "Share conversion price calculation method and dates",
+   "Whether Year 1 bonus is prorated by start date"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to $271K base and $1.5M in equity, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "You have real leverage: you weren't looking, you're happy where you are, and Google came to you. But the offer is already generous, so make one clean request"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Even reaching $265K base and $1.42M in equity would add about $25K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "| Base + target bonus | $312K | $312K | $312K | $312K | $1.25M |"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on equals the $200K of Meta RSUs you'd forfeit next year. All the new-hire equity is extra on top."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:39:22+00:00"
+}

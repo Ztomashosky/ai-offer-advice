@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong final offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "The money clearly favors Google."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it."
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "If the recruiter's refresh example holds: about $2.8M total, or roughly $750K more than staying."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "If the recruiter's refresh example holds: about $2.8M total, or roughly $750K more than staying."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "Decline only if something about the role, team or manager gives you real doubt"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta has a November 15 vest worth about $50,000.",
+    "quote": "resign after Meta's November 15 vest. That's 11 days from now and worth about $50K."
+   },
+   {
+    "claim": "The candidate will lose the 2026 Meta bonus regardless.",
+    "quote": "Your 2026 Meta bonus (~$36K) is lost either way"
+   },
+   {
+    "claim": "A late-2026 start likely produces a small or no 2026 Google bonus.",
+    "quote": "Starting in late 2026 likely means a small or no 2026 Google bonus"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on repayment terms and installment schedule",
+   "New-hire RSU vesting schedule",
+   "Whether the first-year bonus is prorated and when it is paid"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "If the work excites you, sign once the items above are confirmed."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "I wouldn't push for more money."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "I wouldn't push for more money."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "| Equity | $200K (next 12 mo) | $270K | $270K |"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Pay falls from about $758K to about $558K when the sign-on is gone."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "they matched your base and added a $200K sign-on, which roughly covers the stock you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 2,
+ "at": "2026-11-04T17:19:29+00:00"
+}

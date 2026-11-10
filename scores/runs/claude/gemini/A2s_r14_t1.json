@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts this offer in the top quartile for the level"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google\u2019s Year 1 and Year 2 compensation represents a clear increase"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You should definitely negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 245000,
+  "base_ask_high": 250000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1250000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 60000,
+  "signon_ask_high": 80000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Pushes your average annual equity to ~$300k/yr and cushions the Year 3/4 drop-off."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "the median Total Compensation (TC) for an L6 Product Manager in the Bay Area typically hovers between **$470,000 and $530,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "refreshers are not guaranteed** and are tied to performance ratings"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "You hold a direct equivalent role (**Meta IC6**)"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Do not walk away"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google always expects a counter",
+    "quote": "Google almost always expects a counter-offer, especially at L6."
+   },
+   {
+    "claim": "sign-on is easiest lever to approve",
+    "quote": "which is the easiest lever for a Google compensation committee to approve"
+   },
+   {
+    "claim": "vesting schedule is 33/33/22/12",
+    "quote": "Google\u2019s standard new-hire equity vesting schedule is front-loaded at **33% / 33% / 22% / 12%**"
+   },
+   {
+    "claim": "refreshers tied to performance ratings",
+    "quote": "are tied to performance ratings (which have tightened across Big Tech)"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "aim for a balanced package that pushes your 4-year grant and adds an upfront cash bridge"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "If we can get the base to **$245,000**, increase the initial equity grant to **$1.2M**"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Pushes your average annual equity to ~$300k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "adds an upfront cash bridge"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "specifically the ~$476,000 you would earn over the next 12 months with $200k in RSUs vesting"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Offsets leaving Meta mid-cycle / unvested equity cadence and bridges any timing risk."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 14,
+ "turn": 1,
+ "at": "2026-11-02T23:25:44+00:00"
+}

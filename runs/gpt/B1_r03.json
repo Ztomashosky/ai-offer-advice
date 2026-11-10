@@ -1,0 +1,59 @@
+{
+ "model_key": "gpt",
+ "model_id": "gpt-5.6-sol",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 3,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-02T20:52:19+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 2, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-02T20:53:22+00:00",
+   "reply": "## Bottom line\n\n**This is a very good offer, but I would negotiate before accepting. I would not walk away based on the current numbers alone.**\n\nAssuming the RSUs vest evenly, the offer is worth approximately:\n\n| Component | Annualized value |\n|---|---:|\n| Base | $235,000 |\n| Target bonus | $47,000 |\n| RSUs | $270,000 |\n| **Target annual compensation** | **$552,000** |\n\nThat is **$2.208 million over four years** at today\u2019s grant value, before raises, refresh grants, stock-price changes, or bonus over/underperformance.\n\nFor context, Levels.fyi currently reports Bay Area Senior Product Manager compensation at approximately **$350,000 median, $480,000 at the 75th percentile, and $645,000 at the 90th percentile**. Your offer therefore looks roughly upper-quartile, although self-reported compensation data should be treated as directional. ([levels.fyi](https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai))\n\nYour **base** is good but not extraordinary: it is 59% of the way through Halvern\u2019s $183,000\u2013$271,000 range and $36,000 below its maximum. Current San Francisco Senior PM postings show similarly broad ranges\u2014for example, Workday at $168,000\u2013$252,000, Plaid at $190,800\u2013$262,800, and Adyen at $201,600\u2013$302,400. ([workday.wd5.myworkdayjobs.com](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100?utm_source=openai))\n\nIn other words: **the equity is the standout; the base and absence of a sign-on bonus are where I would push.**\n\n## What I would ask for\n\nI would make a single, clear counteroffer:\n\n- **Base: $260,000**\n- **Target bonus: retain 20%**\n- **New-hire RSUs: $1.35 million**\n- **Sign-on bonus: $100,000**, or a documented make-whole amount if you are forfeiting more than that\n\nThat package would annualize to about **$649,500 before the sign-on bonus**:\n\n- $260,000 base\n- $52,000 target bonus\n- $337,500 annualized RSUs\n\nThis is intentionally an aggressive anchor\u2014roughly around the current 90th-percentile market benchmark\u2014but it remains within the posted base range. They may not give you everything.\n\n### A strong, realistic settlement\n\nI would consider the negotiation successful if it lands around:\n\n- **$250,000\u2013$255,000 base**\n- **$1.2\u2013$1.3 million RSUs**\n- **$50,000\u2013$100,000 sign-on**\n\nFor example, $250,000 base plus 20% bonus and $1.2 million of RSUs equals **$600,000 annualized target compensation**, before any sign-on payment.\n\n### If you are forfeiting compensation at Varrowby\n\nDo not limit yourself to an arbitrary $100,000 sign-on ask. Calculate:\n\n1. Bonus you will lose by leaving before payout;\n2. Varrowby RSUs vesting during the next 12 months;\n3. Any other near-term compensation you forfeit.\n\nAsk Halvern to make you whole for that amount through some combination of sign-on cash and additional RSUs. If the documented loss is $180,000, ask for $180,000\u2014not $100,000.\n\n## Suggested script\n\n> I\u2019m very excited about the role and the team. Because I wasn\u2019t actively looking and would be leaving a position I\u2019m happy in, I need the package to clear a fairly high threshold.  \n>   \n> Based on the scope of the role, the posted range, and the compensation I would be leaving behind, I\u2019d like to see whether we can get to a $260,000 base, retain the 20% target bonus, increase the new-hire equity grant to $1.35 million, and include a $100,000 sign-on bonus. If the base is constrained by internal leveling, I\u2019m open to shifting more of that value toward equity or sign-on. A package in that range would make the decision straightforward for me.\n\nOnly say \u201cI would sign\u201d if you genuinely mean it. Otherwise use \u201cwould make the decision straightforward.\u201d\n\nIf asked to prioritize:\n\n1. **Make-whole compensation**, if applicable;\n2. **Base**, because it also increases the 20% bonus and future raises;\n3. **RSUs**;\n4. **Generic sign-on bonus**.\n\nHowever, if you strongly believe in Halvern\u2019s stock, you can prioritize equity ahead of base.\n\n## Do not assign much value to verbal refresh expectations\n\nFor evaluating the offer, I would initially treat future refresh grants as worth **zero**. That does not mean they are unimportant; it means they are discretionary and not part of the binding offer.\n\nBefore accepting, ask:\n\n- What percentage of Senior PMs received refresh grants in each of the last two cycles?\n- What was the median refresh grant at this level?\n- When would you first be eligible?\n- Do refresh grants vest over four years from their grant date?\n- Are they based principally on performance, retention, level, or all three?\n- What happens to refresh eligibility following a promotion?\n- Is there a target equity guideline for this level, even if it is not guaranteed?\n\nYou want actual historical ranges, not simply \u201cwe generally provide refreshers.\u201d Some current public-company postings explicitly describe annual refresh stock as something a role \u201cmay be eligible\u201d for, reinforcing that eligibility is not the same as a commitment. ([workday.wd5.myworkdayjobs.com](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100?utm_source=openai))\n\nWithout refreshes, your compensation could fall sharply after the initial grant finishes\u2014from approximately $552,000 to roughly $282,000 plus raises and whatever the stock does. That four-year cliff is the central weakness of the package.\n\n## Verify these details before signing\n\nGet clear answers on:\n\n- Exact number of RSUs and the share-price methodology used to determine it;\n- Whether vesting is actually 25% per year or uses another schedule;\n- Vesting start date and first vest date;\n- Whether your first annual bonus will be prorated;\n- Historical bonus payout percentages for the organization;\n- Whether you must still be employed on the bonus payment date;\n- First refresh eligibility date;\n- Sign-on repayment terms;\n- Level and internal title\u2014not just the external \u201cSenior PM\u201d title;\n- Severance policy, especially given that you are leaving a stable position.\n\nAlso compare the two jobs using your **actual scheduled Varrowby vests**, not Varrowby\u2019s original grant values. Already-granted Varrowby refreshes are real compensation; possible future Halvern refreshes are not.\n\n## Accept, negotiate, or walk?\n\n### My recommendation: **negotiate, then probably accept**\n\nAccept the original or improved offer if:\n\n- The role itself is at least as attractive as your current job;\n- Halvern\u2019s stock and business outlook are acceptable to you;\n- The vesting and bonus details are normal;\n- $552,000 represents a meaningful increase over your current forward compensation.\n\nBecause you are happy and did not initiate the search, I would generally require about a **10%\u201315% risk-adjusted switching premium** over what you expect to earn at Varrowby.\n\nThat means:\n\n- If your forward Varrowby compensation is **$450,000**, the original offer is a compelling increase.\n- If it is **$500,000**, the original offer is only about 10% higher, so I would push harder.\n- If it is already **$550,000 or more**, the offer does not provide much financial reason to leave unless the role or career trajectory is materially better.\n\nWalk away only if the role/company creates meaningful concerns, the actual vesting terms are unattractive, or Halvern cannot produce enough of a premium over your existing compensation. **I would not walk simply because they reject your first counter\u2014the original offer is already strong.**",
+   "searches": [
+    {
+     "type": "search",
+     "query": "2026 San Francisco Senior Product Manager total compensation public software company Levels.fyi",
+     "queries": [
+      "2026 San Francisco Senior Product Manager total compensation public software company Levels.fyi",
+      "Senior Product Manager San Francisco base salary range equity public software job posting 2026",
+      "California pay transparency salary range job offer negotiation official law",
+      "Senior Product Manager Bay Area compensation 2026 annual RSU"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "site:levels.fyi/t/product-manager/levels/senior/locations/san-francisco-bay-area Senior Product Manager San Francisco Bay Area compensation",
+     "queries": [
+      "site:levels.fyi/t/product-manager/levels/senior/locations/san-francisco-bay-area Senior Product Manager San Francisco Bay Area compensation",
+      "Levels.fyi senior product manager San Francisco Bay Area median total compensation 2026",
+      "public software company senior product manager San Francisco RSU $500,000 total compensation job offer"
+     ]
+    },
+    {
+     "type": "search",
+     "query": "calculator: 235000+0.20*235000+1080000/4",
+     "queries": [
+      "calculator: 235000+0.20*235000+1080000/4"
+     ]
+    }
+   ],
+   "citations": [
+    "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100?utm_source=openai",
+    "https://www.levels.fyi/en-US/t/product-manager/levels/senior/locations/san-francisco-bay-area?utm_source=openai"
+   ],
+   "usage": {
+    "input": 23170,
+    "output": 4693
+   },
+   "finish": "completed",
+   "served_model": "gpt-5.6-sol"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-02T20:53:22+00:00"
+}

@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "This is a **good market offer for Google L6**, especially on equity"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "roughly a **5% premium**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "**Negotiate. Don\u2019t accept the initial offer, but don\u2019t walk away yet.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "$1.35M is a 25% increase in the equity grant, substantial but not absurd for a passive senior candidate"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Recent self-reported U.S. Google PM data places L6 median compensation around:"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": "These figures mix existing employees and offers and are self-reported, so treat them as directional."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refreshes as **possible upside**, not part of the offer."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "what is the expected scope and promotion path to L7?"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Is the role unquestionably calibrated as Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move at all:** I would probably decline"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is more flexible lever",
+    "quote": "Equity is generally one of the more flexible components in senior technology offers"
+   },
+   {
+    "claim": "sign-on appears after negotiation",
+    "quote": "sign-on bonuses frequently appear only after negotiation rather than in the initial offer"
+   },
+   {
+    "claim": "grants commonly front-loaded",
+    "quote": "Google\u2019s recent new-hire grants are commonly front-loaded **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "exact GSU vesting schedule",
+   "first vest date",
+   "bonus proration",
+   "refresh eligibility timing",
+   "sign-on clawback",
+   "level calibration and L7 path"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "a $260,000 base, a $1.35 million new-hire equity grant, and a $150,000 sign-on bonus"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "forfeited Meta equity"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$104K higher over four years**\n- **$26K/year higher"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Recurring four-year average excluding sign-on: **$612.5K**"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "partially protecting against compensation timing and forfeited Meta equity"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-03T00:43:46+00:00"
+}

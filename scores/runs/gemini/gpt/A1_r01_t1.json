@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "These data mix new offers and existing employees, so they are directional rather than definitive, but your offer still looks below market."
+  },
+  "verdict_vs_current": {
+   "value": "below",
+   "quote": "On compensation alone, it is a weak offer for someone already happy at Meta:\n\n- It is below your current run-rate compensation."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not accept this offer as written. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 240000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": 1000000,
+  "equity_expected_high": 1100000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Based on my current compensation, the L6 scope and the posted salary range, I\u2019d be prepared to move forward at a package around a $260,000 base, $1.2 million in new-hire equity and a $100,000 sign-on bonus."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently shows roughly $551K median TC for L6 PMs in the Bay Area, while another recent dataset based on the last 24 months of submissions shows approximately $240K median base, $230K annual stock and $514K median total compensation."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "These data mix new offers and existing employees, so they are directional rather than definitive, but your offer still looks below market."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes might fill it, but because they are discretionary, you should not value them at 100 cents on the dollar."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk/stay at Meta: If they remain near $215K / $800K / $0, especially if vesting is flat or refresh eligibility is delayed."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity usually has the greatest room to move in negotiation.",
+    "quote": "Equity usually has the greatest room to move and has the largest effect on total compensation."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact initial-equity vesting percentages by year",
+   "First vest date and vesting frequency",
+   "Bonus proration rules and start date impact",
+   "First refresh eligibility timing and typical ranges"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I would make a clear counterproposal of:\n\n- Base: $260,000\n- New-hire equity: $1.2 million\n- Sign-on bonus: $100,000"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.1M equity, averaging $275K per year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on is useful, but it only fixes Year 1."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": false,
+   "quote": ""
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "A1",
+ "rep": 1,
+ "turn": 1,
+ "at": "2026-11-02T21:20:46+00:00"
+}

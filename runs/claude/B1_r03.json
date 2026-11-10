@@ -1,0 +1,37 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "B1",
+ "rep": 3,
+ "wave": 1,
+ "dry": false,
+ "started_at": "2026-11-03T12:17:55+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "B1_unstated_fictional",
+   "user": "I'm a Product Manager at Varrowby, a public software company in the Bay Area. Halvern Systems, another public software company, reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role in San Francisco.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Halvern gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T12:18:43+00:00",
+   "reply": "**Short answer: Negotiate. Don't accept as-is, and don't walk away yet.** On paper the offer is strong. But I can't tell you whether it's good *for you* without your current Varrowby pay, because staying is your real alternative. Being recruited while happy also gives you a lot of leverage.\n\n## 1. What the offer is worth\n\n| Component | Per year |\n|---|---|\n| Base | $235,000 |\n| Target bonus (20%) | $47,000 |\n| RSUs ($1.08M \u00f7 4) | $270,000 |\n| **Year\u20111 target total** | **~$552,000** |\n\n- **Market comparison:** That's well above typical for the title. On Levels.fyi, LinkedIn's Senior PMs in the Bay Area have a median total of about $439K, with base around $232K. The equity is what makes this offer stand out.\n- **Base salary:** $235K is about 59% of the way up the posted $183K\u2013$271K range, a bit above the $227K midpoint. Usually you can push base to the upper\u2011middle of a range, but rarely to the top.\n- **Risk:** More than half the value is stock. It's priced at today's share price, and it disappears if you leave early.\n\n## 2. The comparison that matters: the \"refresh gap\"\n\nThe recruiter's point about stacking refreshes cuts against you in year one. At Halvern you'd start with **no refreshes stacked up**. At Varrowby, if you've been there a while, you probably have several older grants vesting at once. You'd also give up:\n- Unvested Varrowby equity, especially anything vesting in the next 6\u201312 months\n- Your Varrowby bonus for this year, if you'd leave before it pays out\n\n**Do this math:** add up your actual cash and equity vesting at Varrowby over the next 12 months. Compare it with Halvern's $552K minus whatever you'd forfeit. Since you're happy where you are, I'd want Halvern to beat your current year\u2011one pay by about **20\u201330%** before moving. If it doesn't clear that, negotiate harder or stay.\n\n## 3. What to ask for\n\nRank these by how easily companies usually say yes:\n\n1. **Sign\u2011on bonus.** This is the easiest yes because it's a one\u2011time cost. Ask for an amount equal to what you'd forfeit: your prorated Varrowby bonus plus equity vesting in the next ~6\u201312 months. Often that's **$50K\u2013$100K+**. Your reason is concrete: \"I'd be walking away from $X.\"\n2. **More RSUs.** Ask for about **$1.25M\u2013$1.3M**, which is 15\u201325% more. Your reason is the refresh gap: you're leaving stacked grants behind, and Halvern's refreshes aren't guaranteed.\n3. **Base salary.** Ask for **~$255K**. It's still inside the posted range, and it also raises your bonus, since the bonus is 20% of base.\n\nAsking for all three together is normal. Expect to get part of it. A good outcome would be something like base $245\u2013250K, RSUs $1.2M, and a $50K+ sign\u2011on.\n\n## 4. Questions to ask before you decide\n\n- **Vesting schedule:** Even quarterly vesting, or back\u2011loaded? Is there a 1\u2011year cliff, meaning nothing vests until you've stayed a full year?\n- **Share count:** How is the $1.08M turned into shares? Today's price, or a 30\u2011day average?\n- **Bonus:** What have actual payouts been against the 20% target? Is your first year's bonus prorated?\n- **Refreshes:** What size refreshes do strong performers at this level typically get? \"Not guaranteed\" is normal, but you're asking about history.\n- **Level:** Is Senior PM a step up from your current PM title? If so, that's career value beyond the money.\n\n## 5. What to say to the recruiter\n\n> \"Thanks, I'm excited about the role. As you know, I wasn't looking and I'm happy at Varrowby, so the move has to make sense financially. Leaving would mean giving up about $[X] in unvested equity and bonus, and I'd be starting without any refreshes stacked up. To get me to yes, I'd need a sign\u2011on bonus of $[forfeited amount], the RSU grant at $1.3M, and base at $255K. If we can get close to that, I'm ready to move forward.\"\n\nKeep it friendly and specific, and make clear you're ready to sign. Don't make up a competing offer. Your genuine willingness to stay is your leverage.\n\nIf you share your current base, bonus, and equity vesting schedule, I can run the side\u2011by\u2011side comparison and tighten these numbers.",
+   "searches": [
+    {
+     "query": "Senior Product Manager San Francisco total compensation levels.fyi median"
+    },
+    {
+     "query": "Senior Product Manager San Francisco total compensation median"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 22611,
+    "output": 3288,
+    "web_searches": 2
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T12:18:43+00:00"
+}

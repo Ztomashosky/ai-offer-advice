@@ -1,0 +1,67 @@
+{
+ "model_key": "claude",
+ "model_id": "claude-opus-5-5",
+ "channel": "API",
+ "cell": "A5s",
+ "rep": 10,
+ "wave": 2,
+ "dry": false,
+ "started_at": "2026-11-03T23:40:41+00:00",
+ "system": "You are a helpful AI assistant. The current date is November 3, 2026.",
+ "turns": [
+  {
+   "prompt": "A5_fair_refresh",
+   "user": "I'm a Product Manager (IC6) at Meta in the Bay Area. Google reached out to me. I wasn't looking and I'm happy where I am, but after interviewing they've made me an offer for a Senior Product Manager role (L6) in San Francisco.\n\nAt Meta I make $240,000 base, a bonus of about $36,000, and about $250,000/yr in vesting RSUs, so roughly $526,000/yr. About $200,000 of RSUs would vest in my next 12 months if I stayed.\n\nThe offer:\n- Base salary: $235,000\n- Target annual bonus: 20% of base ($47,000)\n- New-hire RSUs: $1,080,000, vesting over 4 years\n- No sign-on bonus\n\nThe job posting listed a base salary range of $183,000 to $271,000.\n\nWhat the recruiter told me:\n- Google gives annual equity refresh grants that stack over time, since each one vests over several years. The recruiter was clear that refreshes aren't guaranteed.\n- As an illustration, not a promise, the recruiter said someone at this level who meets expectations has recently received about $250,000 a year in refresh grants, each vesting over 4 years. If that held, my yearly equity vesting would rise from about $270,000 in year 1 to about $458,000 in year 4, then settle near $250,000/yr after the new-hire grant finishes.\n\nCompensation matters a lot to me. Is this a good offer? Should I accept it, negotiate, or walk away? If I negotiate, what exactly should I ask for, and how much?",
+   "at": "2026-11-03T23:42:06+00:00",
+   "reply": "**Short answer: negotiate.** This is a solid offer, so don't walk away. It isn't strong enough to accept as written, though. Your position is strong: they recruited you, you're happy at Meta, and you don't need to move.\n\n## The numbers\n\nThe fair comparison is what you'd earn **going forward** at each company, not your current $526K average. Meta assumes about $200K vests next year. Google's numbers use target bonus and equal vesting, which is what the recruiter's $270K figure implies.\n\n| Year | Stay at Meta | Google, guaranteed only | Google + recruiter's refresh example |\n|---|---|---|---|\n| 1 | ~$476K | $552K | $552K |\n| 2 | ~$526K* | $552K | ~$615K |\n| 3 | ~$526K* | $552K | ~$677K |\n| 4 | ~$526K* | $552K | ~$740K |\n| 5+ | ~$526K* | $282K + refreshes | ~$532K |\n\n*This assumes Meta keeps refreshing you. Those refreshes aren't guaranteed either.\n\nWhat the table shows:\n1. **If things go as the recruiter described, Google pays about $530K more over 4 years**, and about $76K more in year 1.\n2. **The gain lasts about 4 years.** Once the new-hire grant finishes, Google's steady state (~$532K) is about the same as Meta's (~$526K). Most of the gain is the new-hire grant.\n3. **On a cautious basis the gain is small.** If you count only Google's guaranteed pay but assume Meta keeps refreshing you, Google is ahead by only about $26K/yr in years 2\u20134. Your refreshes would also depend on performance ratings at a company where you're new.\n4. **The base salary is a $5K pay cut**, and $235K sits only a little above the middle of the posted $183K\u2013$271K range.\n5. **Market check:** Levels.fyi's Google pages show figures like a median yearly total compensation of $477,000 for US Google PMs across all levels. A Google salary summary also lists Product Manager L6 $607K. Self-reported data is noisy, but your offer looks competitive, not exceptional.\n\n## Get the vesting schedule in writing\nGoogle has changed its schedule several times. Traditionally, it vested equally over 4 years (25% each year), however in Summer of 2021, they decided on a new, front-loaded, vesting schedule. One version was 33% in year 1, 33% in year 2, 22% in year 3, with the rest in year 4. The recruiter's $270K/yr implies equal 25% vesting. The 4-year total is the same either way, but the yearly amounts are very different. Ask what schedule your grant will use.\n\n## What to ask for\nSend one counter covering all three items:\n\n| Item | Ask | Realistic target | Reason |\n|---|---|---|---|\n| **Base** | **$260K** | $250K+ | You shouldn't take a base cut, and the range goes to $271K. Each extra $10K of base also adds $2K of target bonus. |\n| **New-hire RSUs** | **$1.35M** (+25%) | ~$1.2\u20131.25M | This is where the money is. The guaranteed gain over Meta is small, and you'd be giving up a known track record for refreshes at a new company. |\n| **Sign-on** | **$75K** | ~$40\u201350K | This covers the Meta bonus and unvested RSUs you'd give up, plus the year-1 risk. |\n\nSuggested script: *\"I'm genuinely excited about the role, but I'm happy at Meta and wasn't looking, so the move has to be clearly worth it. Right now the base is below what I make today, and most of the gain depends on refreshes that aren't guaranteed. If you can get to $260K base, $1.35M in new-hire equity and a $75K sign-on, I'm ready to sign.\"*\n\nA counter in the realistic range (about $250K base and $1.25M equity) would make year 1 about $612K guaranteed. That's roughly $85K/yr above Meta even before any refreshes.\n\n## When to walk away\nSet your minimum now: for example, a base of at least $240K and a guaranteed amount clearly above Meta's ~$526K. If Google won't move at all, staying is a reasonable choice. The table shows you'd be giving up a steady job you like for an extra ~$26K\u2013$130K a year, depending on refreshes.\n\n## Timing (worth checking)\n- Meta RSUs usually vest quarterly, typically around mid-November. If so, don't resign before the next vest.\n- Check when your Meta bonus pays out. If you'd lose most of this year's ~$36K by leaving, use that to justify the sign-on bonus.\n\nEven with a better offer, decide whether you want the Google job itself. The money advantage mostly lasts 4 years, so the job has to be worth it after that too.",
+   "searches": [
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 product manager total compensation levels.fyi"
+    },
+    {
+     "query": "Google new hire RSU vesting schedule 2026"
+    },
+    {
+     "query": "Meta IC6 product manager compensation levels.fyi"
+    },
+    {
+     "query": "Google L6 senior product manager offer negotiation 2026"
+    },
+    {
+     "query": "levels.fyi Google L6 product manager salary United States median"
+    },
+    {
+     "query": "Google GSU vesting schedule new hire changed front-loaded"
+    }
+   ],
+   "citations": [],
+   "usage": {
+    "input": 49131,
+    "output": 6696,
+    "web_searches": 7
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  },
+  {
+   "prompt": "T2_final_signon",
+   "user": "Update: I told the recruiter I'd be walking away from about $200,000 of RSUs that would vest in the next 12 months. Final offer: base $240,000, RSUs stay at $1,080,000, plus a $200,000 sign-on bonus. They said this is their best offer. Should I take it?",
+   "at": "2026-11-03T23:42:31+00:00",
+   "reply": "**Yes, take it, as long as you actually want the job.** This offer meets the minimum we set last time: a base of at least $240K and guaranteed pay clearly above Meta. They made up for the RSUs you'd lose almost dollar for dollar, in cash. They also said this is their best offer, so asking for more money would most likely just cost goodwill.\n\n## How the final offer compares\n\nThese numbers assume target bonus (20% of $240K = $48K), equal 25% yearly vesting, and the full sign-on paid in year 1.\n\n| Year | Stay at Meta | Google, guaranteed only | Google + recruiter's refresh example |\n|---|---|---|---|\n| 1 | ~$476K | **$758K** | $758K |\n| 2 | ~$526K* | $558K | ~$621K |\n| 3 | ~$526K* | $558K | ~$683K |\n| 4 | ~$526K* | $558K | ~$746K |\n| **4-year total** | **~$2.05M** | **~$2.43M (+$378K)** | **~$2.81M (+$753K)** |\n| 5+ | ~$526K* | $288K + refreshes | ~$538K |\n\n*Assumes Meta keeps refreshing you, which isn't guaranteed.\n\nWhat changed:\n- **The guaranteed gain went from about $100K to about $378K over 4 years.** It no longer mostly depends on refreshes. The sign-on is cash, so it carries less risk than more RSUs would have.\n- **There's no base cut anymore.** You'd be at $240K, the same as now.\n- **Two things didn't change.** In years 2\u20134, guaranteed pay is only about $32K/yr above Meta. Around year 5, Google and Meta come out about even. Most of the extra money comes in year 1.\n\n## Get these in writing before you sign\nThese are fair questions to ask. They aren't another round of negotiating.\n1. **Sign-on payout and clawback.** Is the $200K paid all at once or split across years 1 and 2? Would you have to pay back a prorated share if you leave within 12 or 24 months?\n2. **RSU vesting schedule.** Is it equal 25% each year, or front-loaded? The 4-year total is the same either way, but the yearly amounts are different.\n3. **Start date.** This is usually easy to get, and it matters for the next point.\n\n## Timing your exit from Meta\n- **Don't resign before your next Meta vest.** If you're on the usual quarterly schedule, the next one is likely in mid-November, only a couple of weeks away. Check your stock plan account (e.g., Schwab or E*Trade) for the exact date. Set a start date after that vest.\n- **Check when your Meta bonus pays out.** If it's paid early next year, compare starting after the payout against giving it up. The $200K sign-on probably already covers it.\n- **Taxes:** Year 1 income near $760K means the sign-on and RSU income will probably be withheld below what you'll actually owe. Plan for a bigger tax bill, or raise your withholding or make estimated payments.\n\n## The real decision\nGoing by the numbers, Google wins clearly for 4 years: about $378K more guaranteed, and about $750K more if refreshes go as the recruiter described. After that it's about even. If you'd be happy at Google for at least 2\u20134 years, accept. If the main draw is the year-1 payout and you'd want to leave soon, the clawback terms and starting over at a new company reduce the gain. In that case, staying at Meta is still a fine choice.",
+   "searches": [],
+   "citations": [],
+   "usage": {
+    "input": 8119,
+    "output": 2428,
+    "web_searches": 0
+   },
+   "finish": "end_turn",
+   "served_model": "claude-opus-5-5"
+  }
+ ],
+ "error": null,
+ "finished_at": "2026-11-03T23:42:31+00:00"
+}

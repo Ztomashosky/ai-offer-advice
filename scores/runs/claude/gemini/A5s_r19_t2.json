@@ -1,0 +1,131 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "puts you comfortably in the **90th+ percentile** for Google L6 PM offers"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "massive ~44%+ increase** over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should take it.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "puts you comfortably in the **90th+ percentile** for Google L6 PM offers"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "**4-Year Average (with standard ~$250k/yr refreshers):** **~$700,000+/year.**"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "**4-Year Average (with standard ~$250k/yr refreshers):** **~$700,000+/year.**"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "with standard ~$250k/yr refreshers):** **~$700,000+/year.**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Pushing further would offer diminishing returns and risk souring the relationship."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "upper boundary of what Google will authorize without competing offer",
+    "quote": "you have reached the upper boundary of what Google will authorize for an external L6 PM without a competing offer letter"
+   },
+   {
+    "claim": "90th+ percentile for L6 PM offers",
+    "quote": "puts you comfortably in the **90th+ percentile** for Google L6 PM offers"
+   },
+   {
+    "claim": "standard clawback terms",
+    "quote": "Check the clawback period (standard is a 1-year pro-rated repayment if you leave voluntarily)"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout schedule and clawback terms",
+   "equity vesting cadence",
+   "start date flexibility"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should take it.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**No further leverage required:**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**4-Year Baseline Average (without refreshers):** ~$608,000/year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$200,000 in liquid, guaranteed cash upfront"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google gave you **$200,000 in liquid, guaranteed cash upfront**"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-03T00:50:20+00:00"
+}

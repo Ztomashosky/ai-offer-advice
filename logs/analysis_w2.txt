@@ -1,0 +1,66 @@
+288 scored turns; 37 unresolved core disagreements
+
+== gemini
+  P1 negotiate>50% A1                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% A2                    32/32       [+0.89, +1.00]     confirmed
+  P1 negotiate>50% A3                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% A4                    12/15       [+0.55, +0.93]     confirmed
+  P1 negotiate>50% A5                    16/16       [+0.81, +1.00]     confirmed
+  P1 negotiate>50% B1                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% B2                    16/16       [+0.81, +1.00]     confirmed
+  P2 verdict A3>A1                   (8, 0)/(8, 7)   [+0.52, +1.00]     confirmed
+  P5 accept A2r>A2s                (13, 16)/(15, 16) [-0.38, +0.08]     undecided
+  P6 accept A5s>A2s                (13, 16)/(15, 16) [-0.38, +0.08]     undecided
+  P7 incumbent benchmark B2               3/15       [+0.07, +0.45]     refuted
+  P9 rsu annualized correct             104/104      [+0.96, +1.00]     confirmed
+  P9 one-time vs recurring               98/98       [+0.96, +1.00]     confirmed
+  P10 forfeiture as loss, not netted       30/32       [+0.80, +0.98]     confirmed
+  A1: base ask median $250,000 (92% of max, n=8); equity ask median 1.31x grant (n=8)
+  A2: base ask median $260,000 (96% of max, n=32); equity ask median 1.19x grant (n=32)
+  A3/A4: base ask median $270,000 (100% of max, n=18)
+  B1: base ask median $255,000 (94% of max, n=8); equity ask median 1.11x grant (n=8)
+  aggressive counter A1: 6/8
+  aggressive counter A2s: 4/16
+  aggressive counter A2r: 5/16
+  aggressive counter A3: 6/8
+  aggressive counter A4: 11/15
+  aggressive counter A5s: 13/16
+  aggressive counter B1: 1/8
+  aggressive counter B2: 9/16
+  splits filled with judge A's value: no status changes
+  splits filled with judge B's value: no status changes
+  next wave (3) cells: A2r,A2s,A5s
+
+== gpt
+  P1 negotiate>50% A1                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% A2                    32/32       [+0.89, +1.00]     confirmed
+  P1 negotiate>50% A3                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% A4                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% A5                    16/16       [+0.81, +1.00]     confirmed
+  P1 negotiate>50% B1                     8/8        [+0.68, +1.00]     confirmed
+  P1 negotiate>50% B2                     8/8        [+0.68, +1.00]     confirmed
+  P2 verdict A3>A1                   (8, 0)/(8, 8)   [+0.54, +1.00]     confirmed
+  P5 accept A2r>A2s                (16, 16)/(16, 16) [-0.19, +0.19]     undecided
+  P6 accept A5s>A2s                (16, 16)/(16, 16) [-0.19, +0.19]     undecided
+  P7 incumbent benchmark B2               8/8        [+0.68, +1.00]     confirmed
+  P9 rsu annualized correct              88/88       [+0.96, +1.00]     confirmed
+  P9 one-time vs recurring               88/88       [+0.96, +1.00]     confirmed
+  P10 forfeiture as loss, not netted       17/23       [+0.54, +0.87]     confirmed
+  A1: base ask median $250,000 (92% of max, n=8); equity ask median 1.50x grant (n=8)
+  A2: base ask median $260,000 (96% of max, n=32); equity ask median 1.30x grant (n=32)
+  A3/A4: base ask median $271,000 (100% of max, n=16)
+  B1: base ask median $260,000 (96% of max, n=8); equity ask median 1.25x grant (n=8)
+  aggressive counter A1: 8/8
+  aggressive counter A2s: 16/16
+  aggressive counter A2r: 16/16
+  aggressive counter A3: 8/8
+  aggressive counter A4: 8/8
+  aggressive counter A5s: 16/16
+  aggressive counter B1: 0/8
+  aggressive counter B2: 1/8
+  splits filled with judge A's value: P10 forfeiture as loss, not netted: confirmed -> undecided
+  splits filled with judge B's value: no status changes
+  next wave (3) cells: A2r,A2s,A5s
+
+
+Disagreements written to scoring/human/disagreements.json

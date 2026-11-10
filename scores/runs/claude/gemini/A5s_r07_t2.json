@@ -1,0 +1,134 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "this offer is financially superior and well worth taking"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "In Year 1, you make roughly **$230k to $318k more** than staying at Meta"
+  },
+  "verdict_vs_current_basis": {
+   "value": "given",
+   "quote": "compared to remaining flat at Meta at ~$2.1M"
+  },
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "Estimated Refreshes\\* | *(Included in Meta)* | $0 | ~$60,000 | ~$125,000 | ~$190,000"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "the combination of refreshes and your base/bonus will keep you well above your current Meta run-rate"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Even if your equity vests evenly at 25%/year ($270k/yr), Year 1 is **~$758,000**"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": "without an L7 downleveling fight"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Unless you are on an immediate promotion track to Director/IC7 at Meta"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses standard front-loaded vesting 33/33/22/12",
+    "quote": "Assuming standard Google front-loaded equity vesting (33% / 33% / 22% / 12% per year)"
+   },
+   {
+    "claim": "sign-on has standard 12-month prorated clawback at Google",
+    "quote": "confirm it has a standard 12-month prorated clawback (standard at Google)"
+   },
+   {
+    "claim": "Google offers more sustainable WLB at L6",
+    "quote": "Google generally offers a more sustainable work-life balance at the L6 level than Meta IC6"
+   }
+  ],
+  "missing_info_requested": [
+   "sign-on payout schedule and clawback terms",
+   "equity vesting schedule",
+   "team scope / org health"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Accept the offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**Accept the offer.**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270k/yr"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "The $200k sign-on bonus bridges the gap while your annual refreshes start stacking"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Even after factoring out the $200k of Meta equity you forfeit, you are immediately ahead financially"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k sign-on bonus bridges the gap"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 7,
+ "turn": 2,
+ "at": "2026-11-02T21:34:22+00:00"
+}

@@ -1,0 +1,117 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, and you should accept it after one polite, specific round of negotiation."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "it beats your Meta pay by a wide margin and sits above market for the level."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should accept it after one polite, specific round of negotiation."
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "refresh_info",
+   "quote": "Your argument is that front-loaded vesting and non-guaranteed refreshes make the later years thin."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi shows Google Product Manager L6 at $607K."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure probably includes refresh grants and stock price gains for people who've been there a while."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Under that schedule, year 4 pay without refreshes would be below your current Meta pay."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "vesting schedule",
+   "sign-on clawback terms"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Equity: from $1.34M to about $1.5M (+$160K). This is your main ask."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "With no competing offer, keep the ask modest and well-supported."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Google (even vesting) | **$847** | $647 | **$2,788**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Year 1 | Years 2\u20134 (per year, before refreshes) | 4-year total"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200K sign-on bonus replaces the $200K of Meta stock you'd give up in your first year, so you aren't losing anything in year 1."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A4",
+ "rep": 7,
+ "turn": 1,
+ "at": "2026-11-03T16:50:21+00:00"
+}

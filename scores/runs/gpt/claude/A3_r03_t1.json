@@ -1,0 +1,137 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very strong offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "By my numbers it's worth about $680K more than staying over four years"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You shouldn't walk away, and you shouldn't accept it as-is. Negotiate once, politely, for a small amount"
+  },
+  "intensity": 3,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 265000,
+  "equity_ask_low": 1500000,
+  "equity_ask_high": 1500000,
+  "equity_expected_low": 1420000,
+  "equity_expected_high": 1420000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "gap",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "Equity is usually the most flexible part of Google offers at this level, and it's worth the most to you."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi's median for a related Google L6 role is about $447K a year in total."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "even assuming no Google refreshes and flat Meta pay."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta refresh grants are not guaranteed.",
+    "quote": "Your Meta refreshes aren't guaranteed either, so neither side is certain."
+   },
+   {
+    "claim": "Equity is usually Google's most flexible offer component at this level.",
+    "quote": "Equity is usually the most flexible part of Google offers at this level"
+   },
+   {
+    "claim": "The sign-on bonus almost certainly has an early-departure repayment obligation.",
+    "quote": "the sign-on almost certainly has to be paid back if you leave early."
+   },
+   {
+    "claim": "A Meta counter matching nearly $1 million in first-year compensation would be unusually large.",
+    "quote": "matching a Year 1 near $1M would be an unusually large counter for them."
+   }
+  ],
+  "missing_info_requested": [
+   "Which equity vesting schedule applies",
+   "Whether there is a vesting cliff",
+   "Sign-on repayment period and proration",
+   "How the grant value converts into shares",
+   "Whether the first-year bonus is prorated"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If you can get to $271K base and $1.5M in equity, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Even reaching $265K base and $1.42M in equity would add about $25K a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Sign-on | $200K | \u2014 | \u2014 | \u2014 | $200K"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 at Meta is $240K + $36K + the $200K of RSUs vesting in the next 12 months."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on covers what you'd give up."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A3",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:38:44+00:00"
+}

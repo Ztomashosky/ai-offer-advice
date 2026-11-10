@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "below_market",
+   "quote": "It's a solid offer, but it's below the typical pay for this level"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Year 1: Google is about $75K ahead on the parts you can count on."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Don't accept it as is. Negotiate, mainly for more equity and a sign-on bonus, and only walk away if Google won't move."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 255000,
+  "base_expected_low": 245000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi lists median total compensation at L6 as $605,720 per year for Google PMs in the Bay Area. That figure probably includes stacked refreshes from people who've been there a while, but your year-1 total of $552K is still below it."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi lists median total compensation at L6 as $605,720 per year for Google PMs in the Bay Area."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That figure probably includes stacked refreshes from people who've been there a while"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Leave the recruiter's refresh example out of your comparison. Meta's refreshes stack over time too."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Year 5 and later: Google looks like roughly $235K + $47K + ~$250K in refreshes, about $530K. That's about what you make now."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "Comparing Google's projected $458K in year 4 against your Meta pay today makes Google look better than it is."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "If they won't move at all, the offer is still better than staying for pay, just not by much. In that case, comp alone isn't a strong reason to leave a job you like."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants often vest front-loaded at 33/33/22/12 or 38/32",
+    "quote": "One reported schedule is 33% / 33% / 22% / 12%, vesting monthly with no cliff, and others report 38% in the first year and 32% in the second."
+   },
+   {
+    "claim": "Google offers most increase from GSUs, then sign-on, then base",
+    "quote": "According to negotiation guides, at Google you will typically get most of your increase from GSUs (Google Stock Units), followed by your sign-on bonus, and then your base salary."
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "exact timing of next Meta vest and bonus payout"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Negotiate, mainly for more equity and a sign-on bonus, and only walk away if Google won't move."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The recruiter's $270K in year 1 assumes the grant vests evenly, 25% a year."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A realistic result is roughly $630K\u2013$660K in year 1, about $150K+ more than staying at Meta."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You described your Meta pay as $526K/yr, but what you'd actually get in the next 12 months is lower"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You'd give up about $200K of Meta stock vesting in the next year, plus whatever vests after that. Some sources say a sign-on bonus at Google often fills the gap in year one compensation when your previous employer's unvested equity is being left behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 12,
+ "turn": 1,
+ "at": "2026-11-04T17:05:10+00:00"
+}

@@ -1,0 +1,128 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "a large first-year gain, and after that a modest raise for the same level of job"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you want the job."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refresh grants are left out on both sides."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "your totals would be about $844K in year 1, $526K in year 2, $558K in year 3 and $504K in year 4"
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "after that a modest raise for the same level of job"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google will usually agree to a requested start-date delay.",
+    "quote": "It's a small request they'll usually agree to"
+   },
+   {
+    "claim": "The RSU dollar amount is converted into shares at the time of grant.",
+    "quote": "The $1.08M is a dollar amount turned into shares at the time of the grant."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact RSU vesting schedule in writing",
+   "Sign-on repayment period and whether repayment is full or prorated",
+   "Whether the sign-on is paid at once or split over two years",
+   "Next Meta stock vest and bonus payout dates"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you want the job."
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Going back for more now would likely cost you goodwill and gain you little."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "This assumes the $1.08M stock grant vests evenly at $270K a year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Most of that comes in year 1. In years 2\u20134 the gain is about $32K a year"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Year 1 | ~$476K | **~$758K** (including the $200K sign-on)"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Google gave you a sign-on bonus that fully covers the $200K you'd give up"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 18,
+ "turn": 2,
+ "at": "2026-11-04T16:50:01+00:00"
+}

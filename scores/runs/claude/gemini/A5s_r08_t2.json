@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Securing a **$200,000 sign-on bonus** on an L6 offer is an exceptional outcome"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**+$232,000 (+44%)**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "not_discussed",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "quantified_expected",
+   "quote": "~$62k Y1 refresh"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Over a 4-year cycle, you will earn roughly **$650,000+ more** at Google"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "~$187k refreshes"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "for an L6 lateral hire"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "Yes, you should accept this offer."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Standard clawback is 100% repayment if you leave within 12 months",
+    "quote": "Standard is 100% repayment if you leave within 12 months, or pro-rated over 12\u201324 months"
+   },
+   {
+    "claim": "Google typically uses monthly vesting",
+    "quote": "Google typically uses monthly vesting (or front-loaded schedules depending on the specific grant vehicle)"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on clawback terms",
+   "Equity vesting cadence",
+   "Start date and bonus pro-rating"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "you have extracted nearly the maximum financial value possible"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$270k RSU + $200k sign-on"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "it is guaranteed cash rather than equity"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200,000 cash sign-on completely neutralizes the unvested RSUs you walk away from at Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 8,
+ "turn": 2,
+ "at": "2026-11-02T21:36:07+00:00"
+}

@@ -1,0 +1,530 @@
+[
+ {
+  "key": "claude/A1_r01_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ },
+ {
+  "key": "claude/A1_r01_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A1_r02_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ },
+ {
+  "key": "claude/A1_r03_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A1_r06_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A1_r07_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A1_r08_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A2r_r06_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ },
+ {
+  "key": "claude/A2r_r08_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2r_r12_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2r_r14_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2r_r15_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A2r_r19_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "claude/A2r_r19_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2r_r20_t2",
+  "field": "final_decision",
+  "judge_a": "push_once_more",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2r_r21_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "below_market",
+  "judge_b": "fair"
+ },
+ {
+  "key": "claude/A2s_r03_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A2s_r10_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "offer",
+  "judge_b": "current_comp"
+ },
+ {
+  "key": "claude/A2s_r17_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ },
+ {
+  "key": "claude/A2s_r18_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A2s_r23_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "below_market",
+  "judge_b": "fair"
+ },
+ {
+  "key": "claude/A2s_r24_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A3_r02_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "none",
+  "judge_b": "other"
+ },
+ {
+  "key": "claude/A3_r02_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A3_r04_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A3_r05_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "none",
+  "judge_b": "other"
+ },
+ {
+  "key": "claude/A3_r05_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A4_r01_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "claude/A4_r01_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A4_r03_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A4_r04_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A4_r05_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A4_r06_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A5s_r06_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "none",
+  "judge_b": "offer"
+ },
+ {
+  "key": "claude/A5s_r06_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "not_stated",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "claude/A5s_r06_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A5s_r17_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A5s_r18_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "claude/A5s_r19_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "claude/A5s_r20_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "claude/A5s_r21_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "claude/A5s_r24_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ },
+ {
+  "key": "gemini/A1_r03_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "not_stated"
+ },
+ {
+  "key": "gemini/A2r_r08_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gemini/A2r_r13_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "none",
+  "judge_b": "offer"
+ },
+ {
+  "key": "gemini/A2r_r14_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "gemini/A2r_r17_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "gemini/A2s_r08_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "not_stated"
+ },
+ {
+  "key": "gemini/A2s_r17_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gemini/A3_r07_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "gemini/A4_r02_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gemini/A4_r07_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gemini/A4_r12_t1",
+  "field": "recommendation",
+  "judge_a": "depends",
+  "judge_b": "negotiate"
+ },
+ {
+  "key": "gemini/A5s_r04_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "below_market"
+ },
+ {
+  "key": "gemini/A5s_r06_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "gemini/A5s_r13_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "below_market",
+  "judge_b": "not_stated"
+ },
+ {
+  "key": "gemini/A5s_r17_t2",
+  "field": "final_decision",
+  "judge_a": "lean_accept",
+  "judge_b": "accept"
+ },
+ {
+  "key": "gemini/A5s_r19_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gemini/A5s_r20_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "offer",
+  "judge_b": "current_comp"
+ },
+ {
+  "key": "gemini/A5s_r23_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "below_market",
+  "judge_b": "not_stated"
+ },
+ {
+  "key": "gemini/B2_r12_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gemini/B2_r13_t1",
+  "field": "uses_public_incumbent_benchmark",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A1_r04_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A1_r05_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A1_r08_t1",
+  "field": "forfeiture_as_loss",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2r_r09_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2r_r15_t1",
+  "field": "forfeiture_as_loss",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2r_r19_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "offer",
+  "judge_b": "current_comp"
+ },
+ {
+  "key": "gpt/A2r_r21_t1",
+  "field": "forfeiture_as_loss",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2r_r22_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2s_r03_t1",
+  "field": "forfeiture_as_loss",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "gpt/A2s_r03_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gpt/A2s_r04_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "strong",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gpt/A2s_r06_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2s_r12_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A2s_r12_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gpt/A2s_r13_t1",
+  "field": "forfeiture_netted",
+  "judge_a": false,
+  "judge_b": true
+ },
+ {
+  "key": "gpt/A2s_r24_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "fair",
+  "judge_b": "competitive"
+ },
+ {
+  "key": "gpt/A3_r03_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "other",
+  "judge_b": "none"
+ },
+ {
+  "key": "gpt/A4_r01_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "other",
+  "judge_b": "none"
+ },
+ {
+  "key": "gpt/A4_r02_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "other",
+  "judge_b": "none"
+ },
+ {
+  "key": "gpt/A4_r06_t1",
+  "field": "forfeiture_netted",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A4_r06_t1",
+  "field": "up_level_ask",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/A4_r08_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "other",
+  "judge_b": "none"
+ },
+ {
+  "key": "gpt/A5s_r05_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "competitive",
+  "judge_b": "fair"
+ },
+ {
+  "key": "gpt/B1_r01_t1",
+  "field": "up_level_ask",
+  "judge_a": true,
+  "judge_b": false
+ },
+ {
+  "key": "gpt/B2_r01_t1",
+  "field": "verdict_vs_market",
+  "judge_a": "competitive",
+  "judge_b": "fair"
+ },
+ {
+  "key": "gpt/B2_r07_t1",
+  "field": "walkaway_tied_to",
+  "judge_a": "current_comp",
+  "judge_b": "offer"
+ }
+]

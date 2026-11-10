@@ -1,0 +1,135 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your offer is a **standard-to-solid initial offer** for an L6 PM at Google"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "**~$552,000** (vs. your current Meta run-rate of **$526,000**)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Do not walk away, and do not accept yet."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1250000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "the total compensation delta isn't quite large enough to justify leaving my current trajectory and unvested equity"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "your compensation will drop in Years 3 and 4 unless you negotiate a larger initial grant"
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "A lateral move from Meta IC6 to Google L6"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google refuses to move at all: **Walk away.**"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a front-loaded new-hire equity vesting schedule.",
+    "quote": "Google uses a **front-loaded schedule** (typically 33% / 33% / 22% / 12% or 38% / 32% / 20% / 10% vesting monthly)"
+   },
+   {
+    "claim": "Google refresh grants vest evenly over four years.",
+    "quote": "refreshers vest evenly over 4 years (25%/yr)"
+   },
+   {
+    "claim": "Google refresh grants depend entirely on performance ratings.",
+    "quote": "depend entirely on performance ratings"
+   },
+   {
+    "claim": "Sign-on bonuses are a standard Google tool for bridging unvested equity.",
+    "quote": "Standard tool Google uses to bridge unvested equity from Meta and incentivize passive talent to move."
+   },
+   {
+    "claim": "The candidate passed through an L6 hiring committee.",
+    "quote": "passed you through an L6 hiring committee"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "base salary to $255,000, increase the **equity grant to $1,250,000**, and include a **$75,000 sign-on bonus**"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**Equity (Annual Average):** $270,000 ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "securing upfront cash to bridge your move"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "bridge unvested equity from Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2r",
+ "rep": 20,
+ "turn": 1,
+ "at": "2026-11-03T00:27:28+00:00"
+}

@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "Getting Google to add a $200,000 sign-on bonus and bump base to match Meta on an L6 offer is an exceptional negotiation outcome."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "You will make **~$844,000**\u2014an increase of over **$318,000 (+60%)** compared to staying at Meta."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "not_discussed",
+   "quote": ""
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A $200,000 Google L6 sign-on is at the top of committee-approved amounts without a competing written offer.",
+    "quote": "a $200k cash sign-on is at the very top of what the compensation committee approves without a competing written offer"
+   },
+   {
+    "claim": "Google's standard GSU vesting schedule is 33%/33%/22%/12%.",
+    "quote": "Assuming Google's standard front-loaded GSU vesting (33% / 33% / 22% / 12%):"
+   },
+   {
+    "claim": "The hiring manager or VP expended political capital to obtain compensation committee approval.",
+    "quote": "the hiring manager/VP who had to expend political capital to get Comp Committee sign-off for that sign-on bonus."
+   },
+   {
+    "claim": "Google normally pays sign-on bonuses within the first 30 days.",
+    "quote": "Verify whether the $200,000 is paid in full on your first or second paycheck (standard is first 30 days)."
+   },
+   {
+    "claim": "The standard sign-on clawback period is 12 months and prorated.",
+    "quote": "Check the clawback period (typically 12 months prorated; make sure it isn't a 24-month lock)."
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on payout timing",
+   "Sign-on clawback terms",
+   "Equity vesting schedule",
+   "Start date and imminent Meta bonus timing"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "**Yes, you should accept this offer.**"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "**No.** When a Google recruiter returns with a six-figure cash concession and explicitly states it is their **\"best offer,\"** pushing again"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming Google's standard front-loaded GSU vesting (33% / 33% / 22% / 12%):"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Sign-On Bonus** | \u2014 | **$200,000** | \u2014"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The $200k sign-on fully liquidates and de-risks the $200k unvested Meta RSUs you were worried about leaving behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 21,
+ "turn": 2,
+ "at": "2026-11-03T00:41:15+00:00"
+}

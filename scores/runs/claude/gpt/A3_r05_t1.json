@@ -1,0 +1,124 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is already a strong L6 PM offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Google premium = approximately **$684,000 over four years**"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, then probably accept"
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 265000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 250000,
+  "signon_ask_high": 250000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "That is an anchor, not necessarily your expected outcome."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Bay Area Google L6 PM median total compensation at approximately **$606,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "such data mixes new hires and existing employees and should be treated as directional"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Make the decision primarily on the floor case."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": true,
+   "quote": "whether the team\u2019s scope gives you a credible L7 path"
+  },
+  "level_claim": {
+   "value": "question_only",
+   "quote": "Whether the position is definitively **L6**, and whether the team\u2019s scope gives you a credible L7 path"
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": "I would **not walk merely because Google refuses the counter**."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google new-hire grants are front-loaded 38/32/20/10",
+    "quote": "often approximately **38% / 32% / 20% / 10%**"
+   }
+  ],
+  "missing_info_requested": [
+   "Exact new-hire RSU vesting percentages",
+   "sign-on clawback terms",
+   "level confirmation and L7 path",
+   "refresh eligibility timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "prioritize **equity**, then base, then sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "I would ask for:"
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "should not be mentally treated as $335,000 every year unless the grant actually vests 25% annually"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Without the one-time sign-on, the recurring four-year average is **$647,000**."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The $200,000 sign-on also exactly replaces the approximately $200,000 of Meta equity you say you would forfeit"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "already makes you whole for the stated next-12-month Meta vesting"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A3",
+ "rep": 5,
+ "turn": 1,
+ "at": "2026-11-02T21:48:40+00:00"
+}

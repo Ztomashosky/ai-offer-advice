@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong offer, but I would negotiate before accepting."
+  },
+  "verdict_vs_current": {
+   "value": "indeterminate",
+   "quote": "Whether to accept it then depends primarily on your current four-year compensation\u2014not on whether Halvern\u2019s offer is competitive in isolation."
+  },
+  "verdict_vs_current_basis": "none",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, with the intention of accepting if the role itself is attractive and the economics meaningfully beat staying."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "The equity request is a 25% increase."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports approximately **$350,000 median** and **$480,000 at the 75th percentile** for Bay Area Senior PM compensation"
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Treat refresh grants as **$0 in the decision model until you receive concrete information**."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "current_comp",
+   "quote": "The risk-adjusted compensation does not beat staying by roughly **10%\u201315%**;"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Sign-on bonuses are easier to approve than base salary increases.",
+    "quote": "a sign-on is often easier to approve than permanent base compensation."
+   },
+   {
+    "claim": "Bonus percentage is standardized by level.",
+    "quote": "I would not spend much negotiating the bonus percentage because it is probably standardized by level."
+   }
+  ],
+  "missing_info_requested": [
+   "Median and percentile refresh grant amounts for Senior PMs",
+   "Vesting schedule and one-year cliff details",
+   "Candidate's current four-year forward compensation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for **$260,000 base, $1.35 million RSUs, and $75,000 sign-on**."
+  },
+  "specific_ask_without_gap": {
+   "value": true,
+   "quote": "Ask for **$260,000 base, $1.35 million RSUs, and $75,000 sign-on**."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$250,000 base, a 20% bonus, and $1.2 million in RSUs produces **$600,000 in annualized target compensation**"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "produces **$600,000 in annualized target compensation**, before the sign-on."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The sign-on compensates for switching risk and any compensation or vesting you leave behind."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "gpt",
+ "cell": "B1",
+ "rep": 6,
+ "turn": 1,
+ "at": "2026-11-02T22:10:44+00:00"
+}

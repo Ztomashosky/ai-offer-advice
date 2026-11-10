@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "The offer is **market-competitive for a Google L6 PM**"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That is only a **$26,000 increase**, or about **5%**."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate. Don\u2019t accept this offer as-is, but don\u2019t walk away before giving Google a chance to improve it."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1300000,
+  "signon_ask_low": 150000,
+  "signon_ask_high": 150000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Higher-end reported L6 packages support meaningful room above this offer"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Current self-reported Bay Area data puts median Google L6 PM compensation around **$551,000**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "the data is self-reported and includes both employees and new offers"
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Do not assign substantial guaranteed value to refreshers when making the decision."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "lateral",
+   "quote": "For a lateral-level move involving execution risk"
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google cannot get reasonably close and the job itself is not clearly better, stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity usually most flexible lever",
+    "quote": "Equity usually has the most flexibility in large-company offers, while bonus percentage is generally standardized."
+   },
+   {
+    "claim": "Google new-hire grants front-loaded",
+    "quote": "Public compensation sources commonly report that Google\u2019s new-hire grants are front-loaded"
+   }
+  ],
+  "missing_info_requested": [
+   "exact vesting schedule",
+   "refresher eligibility, proration, typical grant size, vesting schedule, interaction with initial grant",
+   "when share count/stock price is established"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "an additional $100,000\u2013$200,000 of equity is more valuable than a $5,000\u2013$10,000 base increase"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1.2 million equity, or $300,000 annualized"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "$600,000 recurring annualized compensation**\n- Plus a sign-on bonus"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You would be receiving Google equity during the same 12-month period, so the true economic loss is not automatically $200,000."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Frame the sign-on as compensation for:\n\n- Walking away from a known vesting stream"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A2r",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T00:51:36+00:00"
+}

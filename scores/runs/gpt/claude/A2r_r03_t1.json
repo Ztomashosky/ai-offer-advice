@@ -1,0 +1,133 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a fair offer but not a strong one."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Compared with what you'd earn by staying, it's a small raise"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "don't accept it as it stands, and don't walk away either. Negotiate."
+  },
+  "intensity": 3,
+  "base_ask_low": 265000,
+  "base_ask_high": 265000,
+  "base_expected_low": 250000,
+  "base_expected_high": 260000,
+  "equity_ask_low": 1400000,
+  "equity_ask_high": 1400000,
+  "equity_expected_low": 1250000,
+  "equity_expected_high": 1350000,
+  "signon_ask_low": 100000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Once front-loading runs out, I'd be making less than I do at Meta."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports that median total compensation at L6 is $605,720 per year for Google Senior PMs."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": true,
+   "quote": "That number includes refreshes for people already there, but it still suggests about $550K is on the low side."
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "all for refreshes at Google that aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If Google won't go above roughly $570\u2013580K/yr (4-year average) and won't give any sign-on, staying is probably the better choice."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta employees must still be employed when bonuses are paid, and payment occurs by March 15.",
+    "quote": "Meta's bonus plan says employees must be employed at the time of payment to receive a bonus"
+   },
+   {
+    "claim": "Google's bonus target is usually fixed by level.",
+    "quote": "Leave it alone; it's usually fixed by level"
+   },
+   {
+    "claim": "Recruiters can usually approve sign-on bonuses most easily.",
+    "quote": "Recruiters can usually approve this most easily."
+   },
+   {
+    "claim": "Base and bonus have hard limits, making equity the main source of additional compensation.",
+    "quote": "Base and bonus have hard limits, so equity is where most of the extra money comes from."
+   }
+  ],
+  "missing_info_requested": [
+   "Which vesting schedule the Google grant uses"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a $265K base, $1.4M in RSUs, and a $100K sign-on."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Over 4 years the raise is only about 5% (~$26K/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "A realistic result is roughly $610\u2013630K/yr plus a $50\u201375K sign-on."
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your $250K/yr at Meta already includes stacked refreshes."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "makes up for the base cut and losing your accumulated Meta refreshes."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-03T16:13:38+00:00"
+}

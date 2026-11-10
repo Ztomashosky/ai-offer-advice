@@ -1,0 +1,119 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a strong final offer, and pushing much further risks goodwill for little gain."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Bottom line: on money alone, this beats staying in every scenario over 4 years, and by a lot in years 1\u20132."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it. This is a strong final offer"
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 36000,
+  "signon_ask_high": 36000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "years 3\u20134 drop on the front-loaded schedule unless refreshes fill the gap."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [],
+  "missing_info_requested": [
+   "exact vesting schedule in writing",
+   "vesting frequency",
+   "start date",
+   "written level confirmation (L6)"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it. This is a strong final offer"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "signon",
+   "quote": "Would a sign-on bonus to cover it be possible? Either way, I'm excited to join."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "The two Google columns are the same offer under two possible vesting schedules."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Would a sign-on bonus to cover it be possible? Either way, I'm excited to join."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The one remaining gap is my 2026 Meta bonus of about $36K, which I'd forfeit by leaving before it pays out."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 22,
+ "turn": 2,
+ "at": "2026-11-04T16:30:45+00:00"
+}

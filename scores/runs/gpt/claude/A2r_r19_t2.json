@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about $82K a year more than your Meta run-rate (+16%)"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you're comfortable with the non-money tradeoffs."
+  },
+  "intensity": 1,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Refreshes aren't guaranteed, so plan your budget around the base grant, not the year-1 peak."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta stock usually vests quarterly.",
+    "quote": "Meta stock usually vests quarterly."
+   },
+   {
+    "claim": "Delaying the start costs Google nothing and recruiters almost always approve it.",
+    "quote": "Delaying the start costs Google nothing, so recruiters almost always agree even after a \"best offer.\""
+   }
+  ],
+  "missing_info_requested": [
+   "Exact equity vesting schedule",
+   "How the RSU dollar amount converts to shares, including the pricing date or average price",
+   "Whether the start date can be delayed until after the next Meta vest and any nearby bonus payout"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, I'd take it, as long as you're comfortable with the non-money tradeoffs."
+  },
+  "final_threshold": 590000,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "Don't push further on money"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Stock (avg/yr) | $320K | ~$250K run-rate (~$200K next 12 months)"
+  },
+  "year1_vs_recurring": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "The year-1 comparison has already accounted for it, so it isn't an extra cost on top."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You give up that $200K of Meta stock"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 19,
+ "turn": 2,
+ "at": "2026-11-04T16:25:43+00:00"
+}

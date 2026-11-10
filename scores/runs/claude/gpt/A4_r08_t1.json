@@ -1,0 +1,126 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "This is a very good offer."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "$121K more recurring TC"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, then likely accept."
+  },
+  "intensity": 2,
+  "base_ask_low": 271000,
+  "base_ask_high": 271000,
+  "base_expected_low": 270000,
+  "base_expected_high": 271000,
+  "equity_ask_low": 1600000,
+  "equity_ask_high": 1600000,
+  "equity_expected_low": 1450000,
+  "equity_expected_high": 1550000,
+  "signon_ask_low": 200000,
+  "signon_ask_high": 200000,
+  "signon_basis": "none",
+  "equity_grounding": {
+   "value": "public_data_tenured",
+   "quote": "Levels.fyi currently reports median L6 PM compensation in the Bay Area at about **$606K**"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi currently reports median L6 PM compensation in the Bay Area at about **$606K**"
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Treat refreshers as **probable upside**, not guaranteed compensation."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "You require compensation materially above $650K after the initial grant"
+  },
+  "unsupported_claims": [
+   {
+    "claim": "equity is the more flexible lever",
+    "quote": "Equity is usually the most useful lever because base may be constrained by the published band."
+   }
+  ],
+  "missing_info_requested": [
+   "Exact vesting percentages by year",
+   "First vest date and cadence",
+   "Sign-on payment and repayment terms",
+   "Refresher eligibility timing",
+   "Bonus proration",
+   "Comp review timing"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "equity",
+   "quote": "Prioritize **additional equity first**, base second, and sign-on third."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": "You are giving up approximately $200K of near-term Meta vesting."
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Annualized equity | $250K | $335K"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "**Recurring annualized TC** | **$526K** | **$647K** |"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "It is part of the $476K you would earn by staying, not a separate $200K loss added on top"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "The Google sign-on effectively recognizes and offsets that forfeiture."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "claude",
+ "judge_model": "claude-opus-4-8",
+ "subject": "gpt",
+ "cell": "A4",
+ "rep": 8,
+ "turn": 1,
+ "at": "2026-11-02T21:55:42+00:00"
+}

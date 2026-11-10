@@ -1,0 +1,140 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "competitive",
+   "quote": "It's a solid offer, a bit above the typical pay for this level"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "the offer is still better on paper over four years, but only modestly"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "Negotiate, don't accept as-is, and don't walk away."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 245000,
+  "base_expected_high": 255000,
+  "equity_ask_low": 1350000,
+  "equity_ask_high": 1350000,
+  "equity_expected_low": 1150000,
+  "equity_expected_high": 1250000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "Without them, you'd earn less in years 3\u20134 than you do at Meta now."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Another source reports L6 (Senior PM) level earning average salary of $455k."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "Refreshes would add to years 2\u20134, but they aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google usually has the most negotiating flexibility in stock.",
+    "quote": "This is usually where Google has the most room to move."
+   },
+   {
+    "claim": "Meta usually pays its annual bonus in early spring and the candidate would likely lose it by leaving.",
+    "quote": "Meta usually pays in early spring, and you'd likely lose it by leaving now"
+   },
+   {
+    "claim": "A sign-on bonus is the normal mechanism for covering compensation left behind.",
+    "quote": "A sign-on is the normal way to cover this"
+   },
+   {
+    "claim": "Meta stock usually vests quarterly on specified dates.",
+    "quote": "Meta stock usually vests quarterly around the 15th of February, May, August, and November."
+   },
+   {
+    "claim": "Google often sets the share conversion price using an average over a period.",
+    "quote": "Ask what share price they'll use (often an average over a period) and when it's set."
+   }
+  ],
+  "missing_info_requested": [
+   "Google RSU vesting schedule in writing",
+   "candidate's exact Meta vesting dates",
+   "share conversion price methodology and setting date",
+   "typical L6 refresh grants for meets and exceeds ratings"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "I'd need a $260K base, $1.35M in stock, and a $75K sign-on"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "Assuming 38/32/20/10, with $282K cash ($235K base + $47K target bonus) each year"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "a reasonable bar might be a 4-year average of $600K or more, or a meaningful sign-on bonus"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "Your real income for the next 12 months at Meta is about $476K"
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Ask for this to cover what you lose by leaving Meta"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2r",
+ "rep": 11,
+ "turn": 1,
+ "at": "2026-11-04T16:09:12+00:00"
+}

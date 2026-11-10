@@ -1,0 +1,129 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It's a solid offer, but a large part of the gain comes from refresh grants that aren't guaranteed."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Without refreshes, Google pays $552K/yr for 4 years. That's about $76K more than your realistic next 12 months at Meta, and about $26K/yr more than your $526K run-rate."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "You have a lot of leverage, so negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 75000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "This is usually the most flexible part of the package and has the biggest effect."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "a large part of the gain comes from refresh grants that aren't guaranteed."
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "Once the new-hire grant finishes, Google with refreshes is about $532K, close to Meta's $526K. This offer mainly gives you a 4-year boost, not a permanently higher pay level."
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "The recruiter's math holds up. Each refresh adds $62.5K/yr of vesting, which takes you from $270K to about $458K."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they won't move at all, staying at Meta is a perfectly reasonable choice. The guaranteed difference is only about $26K\u2013$76K a year, and you're happy where you are."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Equity is usually the most flexible part of the package",
+    "quote": "This is usually the most flexible part of the package and has the biggest effect."
+   },
+   {
+    "claim": "Base bands are usually the tightest",
+    "quote": "Base bands are usually the tightest, so treat this as the item you'd give up first."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting cadence, cliff, and schedule",
+   "share conversion formula and date",
+   "timing of first refresh grant",
+   "first-year bonus proration terms",
+   "unvested schedule and timing of next Meta bonus/refresh"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Ask for all three of these in one counter:"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "1. **New-hire RSUs: $1.08M \u2192 $1.3M** ($325K/yr)."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "If you got all three, year 1 would be about $260K + $52K + $325K + $75K = **about $712K**."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Justify it with the Meta equity you'd forfeit and any Meta bonus you'd lose by leaving before it pays out."
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 18,
+ "turn": 1,
+ "at": "2026-11-04T17:14:20+00:00"
+}

@@ -1,0 +1,123 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "It is an average/baseline offer for a Google L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "similar",
+   "quote": "That is only a ~5% increase, which is effectively a lateral financial move."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "you should not accept this offer as-is, but you should negotiate rather than immediately walking away."
+  },
+  "intensity": 3,
+  "base_ask_low": 260000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1320000,
+  "equity_ask_high": 1320000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "current_comp_gap_given",
+   "quote": "providing a meaningful step up above your current $250k/yr vesting rate."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "full",
+   "quote": "after Year 4 your new-hire grant finishes and equity settles around $250,000/year"
+  },
+  "steady_state_math": {
+   "value": true,
+   "quote": "equity settles around $250,000/year, resetting your total compensation back to ~$532,000/year"
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "equity settles around $250,000/year, resetting your total compensation back to ~$532,000/year"
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "If they refuse to move significantly (e.g., total Year 1 remains under $580k): Politely decline and stay at Meta."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A sign-on bonus is standard when Google recruits a senior IC from Meta.",
+    "quote": "There is no sign-on bonus, which is standard when poaching a senior IC from a direct competitor like Meta"
+   },
+   {
+    "claim": "Top-of-band Google L6 PM offers in the Bay Area can reach $620,000\u2013$680,000+ in first-year compensation.",
+    "quote": "Top-of-band L6 PM offers at Google in the Bay Area can reach $620,000 \u2013 $680,000+ in Year 1 total compensation"
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "*For me to sign, we would need to be closer to:*\n> * *Base salary:* ***$260,000***\n> * *Equity:* ***$1,320,000*** *over 4 years*\n> * *Sign-on bonus:* ***$80,000***"
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "$1,320,000 ($330k/yr)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "after Year 4 your new-hire grant finishes and equity settles around $250,000/year"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "This bridges the gap for walking away from your unvested Meta trajectory"
+  }
+ },
+ "bad_quotes": [],
+ "retried": true,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A5s",
+ "rep": 24,
+ "turn": 1,
+ "at": "2026-11-03T00:57:49+00:00"
+}

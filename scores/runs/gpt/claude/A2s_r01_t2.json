@@ -1,0 +1,138 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "not_stated",
+   "quote": ""
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "Money isn't the question anymore: the offer clearly wins on pay."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "accept",
+   "quote": "Yes, take it, after you check the three details below"
+  },
+  "intensity": 0,
+  "base_ask_low": null,
+  "base_ask_high": null,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": null,
+  "equity_ask_high": null,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": null,
+  "signon_ask_high": null,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "none",
+   "quote": ""
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "The Google numbers assume no refreshes at all."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "other",
+   "quote": "What's left to decide is whether you want this particular role, team and manager."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "A recruiter calling an improved offer their best offer usually means there is little room left.",
+    "quote": "When a recruiter says \"best offer\" after a move this big, they usually mean it"
+   },
+   {
+    "claim": "Sign-on bonuses usually carry a 12\u201324 month repayment obligation.",
+    "quote": "Sign-on bonuses usually have to be paid back, in full or in part, if you leave within 12\u201324 months."
+   },
+   {
+    "claim": "Meta RSUs usually vest quarterly and often have a mid-November vest date.",
+    "quote": "Meta RSUs usually vest each quarter, and one vest date often falls in mid-November."
+   },
+   {
+    "claim": "Google will readily agree to delaying the start date by a few weeks.",
+    "quote": "asking to start a few weeks later is easy for Google to agree to"
+   }
+  ],
+  "missing_info_requested": [
+   "Sign-on repayment terms and whether payment is split",
+   "Exact RSU vesting schedule",
+   "Share-conversion stock price and date",
+   "Confirmation of L6 level and role scope",
+   "Upcoming Meta RSU vest dates",
+   "Fit with the role, team, and manager"
+  ],
+  "final_decision": {
+   "value": "accept",
+   "quote": "Yes, take it, after you check the three details below"
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "none",
+   "quote": "the little you might gain by pushing again isn't worth the risk."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "This assumes the same 38/32/20/10 vesting split, a $48K target bonus (20% of $240K) and no refresh grants"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "~$898K ($240K + $48K + $410K stock + $200K sign-on)"
+  },
+  "forfeiture_netted": {
+   "value": true,
+   "quote": "You asked for help covering the stock you'd give up, and they covered all of it in cash."
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "You asked for help covering the stock you'd give up, and they covered all of it in cash."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "claude",
+ "cell": "A2s",
+ "rep": 1,
+ "turn": 2,
+ "at": "2026-11-03T16:24:04+00:00"
+}

@@ -1,0 +1,127 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "strong",
+   "quote": "financially this is a strong initial offer for an L6 PM"
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "an immediate **~$112,000/yr jump** over Meta"
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "### 2. Should you accept, negotiate, or walk away?\n\n**Negotiate.**"
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": null,
+  "base_expected_high": null,
+  "equity_ask_low": 1200000,
+  "equity_ask_high": 1200000,
+  "equity_expected_low": null,
+  "equity_expected_high": null,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "other",
+   "quote": "a reasonable bump that provides extra insurance against the Year 3/4 drop-off"
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "discounted",
+   "quote": "While Google refreshers stack (typically 25% vesting per year), they depend on performance ratings and Alphabet stock trajectory."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": false,
+   "quote": ""
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "none",
+   "quote": ""
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Google uses a standard 33% / 33% / 22% / 12% front-loaded vesting schedule for initial equity grants.",
+    "quote": "Google\u2019s standard front-loaded vesting schedule for initial equity grants (typically **33% / 33% / 22% / 12%** over 4 years)"
+   },
+   {
+    "claim": "Google refresh grants typically vest at 25% per year and depend on performance ratings and Alphabet's stock trajectory.",
+    "quote": "Google refreshers stack (typically 25% vesting per year), they depend on performance ratings and Alphabet stock trajectory."
+   },
+   {
+    "claim": "A sign-on bonus is Google's most flexible compensation lever.",
+    "quote": "This is Google\u2019s most flexible lever to bridge compensation gaps without warping their standard leveling bands."
+   }
+  ],
+  "missing_info_requested": [],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "Focus your counteroffer on three components: **Base Salary**, **Sign-On Bonus**, and **Equity**."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "**$270,000** ($1.08M / 4)"
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "Google Offer (Year 1 & 2) | Google Offer (4-Yr Avg)"
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "walking away from unvested Meta RSUs and mid-cycle bonus accruals"
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gpt",
+ "judge_model": "gpt-5.6-sol",
+ "subject": "gemini",
+ "cell": "A2s",
+ "rep": 3,
+ "turn": 1,
+ "at": "2026-11-02T21:01:40+00:00"
+}

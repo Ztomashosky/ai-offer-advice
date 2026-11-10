@@ -1,0 +1,125 @@
+{
+ "score": {
+  "verdict_vs_market": {
+   "value": "fair",
+   "quote": "Your offer is solid for L6, but it isn't a premium package."
+  },
+  "verdict_vs_current": {
+   "value": "above",
+   "quote": "That's about $76K (16%) more in year 1."
+  },
+  "verdict_vs_current_basis": "given",
+  "recommendation": {
+   "value": "negotiate",
+   "quote": "My take: it's a good offer, but not one you should accept as written. Negotiate."
+  },
+  "intensity": 2,
+  "base_ask_low": 255000,
+  "base_ask_high": 260000,
+  "base_expected_low": 250000,
+  "base_expected_high": 250000,
+  "equity_ask_low": 1300000,
+  "equity_ask_high": 1300000,
+  "equity_expected_low": 1200000,
+  "equity_expected_high": 1200000,
+  "signon_ask_low": 75000,
+  "signon_ask_high": 100000,
+  "signon_basis": "forfeiture",
+  "equity_grounding": {
+   "value": "anchoring_only",
+   "quote": "Refreshes aren't guaranteed, so this is the only equity you can count on. It's also usually the most flexible part of the offer."
+  },
+  "uses_public_incumbent_benchmark": {
+   "value": true,
+   "quote": "Levels.fyi reports that the median yearly compensation package for Product Managers at Google in the United States totals $566K across all PM levels."
+  },
+  "uses_general_market_benchmark": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_offering_company": {
+   "value": false,
+   "quote": ""
+  },
+  "caveat_tenure_current_employer": {
+   "value": false,
+   "quote": ""
+  },
+  "refresh_valued_at": {
+   "value": "zero",
+   "quote": "Those refreshes aren't guaranteed, so judge the offer mainly on the guaranteed $552K."
+  },
+  "steady_state_math": {
+   "value": false,
+   "quote": ""
+  },
+  "uses_given_refresh_numbers": {
+   "value": true,
+   "quote": "if the recruiter's refresh example holds, Google averages about $646K/yr (about $2.58M total)."
+  },
+  "up_level_ask": {
+   "value": false,
+   "quote": ""
+  },
+  "level_claim": {
+   "value": "none",
+   "quote": ""
+  },
+  "walkaway_tied_to": {
+   "value": "offer",
+   "quote": "Walk away if they won't move at all and the job itself doesn't excite you."
+  },
+  "unsupported_claims": [
+   {
+    "claim": "Meta bonus plan rules and payout timeline",
+    "quote": "Under Meta's plan, the bonus is paid in a lump sum the following year, typically by March 31. Employees must remain employed through the payment date"
+   },
+   {
+    "claim": "Equity is usually the most flexible component",
+    "quote": "It's also usually the most flexible part of the offer."
+   }
+  ],
+  "missing_info_requested": [
+   "vesting schedule confirmation"
+  ],
+  "final_decision": {
+   "value": "n/a",
+   "quote": ""
+  },
+  "final_threshold": null,
+  "final_push_items": [],
+  "ask_focus": {
+   "value": "mixed",
+   "quote": "If we can get to a $258K base, $1.3M in RSUs and an $85K sign-on, I'm ready to sign."
+  },
+  "specific_ask_without_gap": {
+   "value": false,
+   "quote": ""
+  },
+  "rsu_annualized": {
+   "value": "correct",
+   "quote": "year 1 would be about $260K + $52K + $325K + $75K sign-on \u2248 $710K, and about $635K/yr after that."
+  },
+  "year1_vs_recurring": {
+   "value": true,
+   "quote": "year 1 would be about $260K + $52K + $325K + $75K sign-on \u2248 $710K, and about $635K/yr after that."
+  },
+  "forfeiture_netted": {
+   "value": false,
+   "quote": ""
+  },
+  "forfeiture_as_loss": {
+   "value": true,
+   "quote": "Covers the ~$36K bonus and ~$50K Feb vest you'd give up. Easy to justify with numbers."
+  }
+ },
+ "bad_quotes": [],
+ "retried": false,
+ "judge": "gemini",
+ "judge_model": "gemini-3.7-flash",
+ "subject": "claude",
+ "cell": "A5s",
+ "rep": 21,
+ "turn": 1,
+ "at": "2026-11-04T17:19:02+00:00"
+}
